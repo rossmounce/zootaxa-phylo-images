@@ -1,0 +1,382 @@
+Zootaxa 3173: 37–53 (2012)
+www.mapress.com / zootaxa/
+Copyright © 2012 · Magnolia Press
+
+ISSN 1175-5326 (print edition)
+
+Article
+
+ZOOTAXA
+ISSN 1175-5334 (online edition)
+
+A new interstitial species of the Hydroporus ferrugineus group from
+north-western Turkey, with a molecular phylogeny of the H. memnonius
+and related groups (Coleoptera: Dytiscidae: Hydroporinae)
+CARLES HERNANDO1, PEDRO AGUILERA†2, AGUSTÍN CASTRO3 & IGNACIO RIBERA4, 5
+1
+
+Apartado de Correos 118, E-08911 Badalona, Barcelona, Spain. E-mail: leptotyphlus@gmail.com
+Deceased 15.2.2009
+3
+IES Clara Campoamor, E-14900 Lucena, Córdoba, Spain. E-mail: hydraena@telefonica.net
+4
+Institut de Biologia Evolutiva (IBE, CSIC-UPF), Passeig Maritim de la Barceloneta 37, E-08003 Barcelona, Spain.
+E-mail: ignacio.ribera@ibe.upf-csic.es
+5
+Museo Nacional de Ciencias Naturales (CSIC), José Gutiérrez Abascal 2, E-28006 Madrid, Spain
+2
+
+Abstract
+We describe Hydroporus bithynicus sp. n. (Coleoptera, Dytiscidae, Hydroporinae) from the Bolu province in north-western Turkey. The species belongs to the newly defined H. ferrugineus group, and can be separated from the other two members (H. ferrugineus Stephens, 1829 and H. sanfilippoi Ghidini, 1958) by its more flattened shape, less developed eyes
+and shape of male genitalia. Its external morphology and the habitat in which all specimens were found (a small pool with
+upwelling spring water next to a stream) suggest an interstitial habitat, similar to that reported for other species of the
+group. We present a molecular phylogeny of the species of the H. memnonius and H. longulus groups, including some
+representatives of the main lineages within the genus, based on ca. 2 kb of four mitochondrial genes. We redefine the H.
+memnonius group and recognise the H. ferrugineus, H. obsoletus and H. morio groups of species as separate entities. Hydroporus neglectus Schaum, 1845 was found to be related to the species of the H. angustatus, but not the H. memnonius
+group.
+Key words: Coleoptera. Dytiscidae, Hydroporinae, phylogeny, taxonomy, new species, interstitial, Turkey
+
+Introduction
+The genus Hydroporus Clairville, 1806, with 181 described species including the one described here (35 of them
+known from Turkey) (Nilsson 2001; Fery & Hendrich 2011), is one of the largest among diving beetles (Dytiscidae). The traditional subgenera are no longer considered valid (Nilsson 2001), and it is currently divided in “species groups” based on characters of external morphology. Recent molecular phylogenies of the genus have shown
+that some of these groups largely correspond with monophyletic lineages (Ribera et al. 2003), although the incomplete sampling of this study did not allow to obtain general conclusions.
+The finding of a new species of Hydroporus apparently related to H. ferrugineus Stephens, 1829 in north-western Turkey in 2006 prompted us to re-evaluate the composition and the phylogenetic relationships of the species of
+the H. memnonius group, to which H. ferrugineus was assumed to belong (Fery 1999; Nilsson 2001), as well as that
+of closer species groups, such as the H. longulus group (former Sternoporus Falkenström, 1930), found to be sister
+to H. memnonius Nicolai, 1822 plus H. melanarius Sturm, 1835 in Ribera et al. (2003).
+
+Material and methods
+Taxon sampling. We use a wide representation of species of Hydroporus, including Suphrodytes dorsalis (Fabricius, 1787), shown to be nested within Hydroporus in Ribera et al. (2003) (Table 1). As outgroup we use three spe-
+
+Accepted by H. Fery: 31 Oct. 2011; published: 25 Jan. 2012
+
+37
+
+cies of Hydrocolus Roughley & Larson, 2000 confirmed to be sister to Hydroporus in Ribera et al. (2008), as
+hypothesised by Larson et al. (2000).
+Specimens were preserved in absolute ethanol in the field. Extractions of single specimens were non-destructive, using a standard phenol-chloroform method or the DNeasy Tissue Kit (Qiagen GmbH, Hilden, Germany).
+Vouchers and DNA samples are kept in the collections of the MNCN and IBE (see abbreviations below).
+We amplified fragments of four mitochondrial genes: 3’ end of cox1; 3’ end of rrnL; full trnL; 5’ end of nad1
+(see Ribera et al. 2002 and 2010 for primers and general PCR conditions). Sequences were assembled and edited
+using Sequencher TM 4.1.4 (Gene Codes, Inc., Ann Arbor, MI). New sequences have been deposited in GenBank
+(EMBL) (see Table 1 for the Accession Numbers).
+Abbreviation of collections
+The specimens included in this study are deposited in the following institutional and private collections:
+BMNH
+CAC
+CCH
+CHF
+IBE
+MNCN
+NMW
+
+Natural History Museum, London, UK
+Collection of Agustin Castro, Córdoba, Spain
+Collection of Carles Hernando, Barcelona, Spain
+Collection of Hans Fery, Berlin Germany (property of NMW)
+Institut de Biologia Evolutiva (CSIC-UPF), Barcelona, Spain
+Museo Nacional de Ciencias Naturales (CSIC), Madrid, Spain
+Naturhistorisches Museum, Wien, Austria
+
+Phylogenetic analyses. We aligned the sequences using MAFFT online v.6 and the Q-INS-i algorithm (Katoh
+& Toh 2008), a progressive pair-wise method with secondary refinement. Bayesian analyses were conducted on a
+combined data matrix with MrBayes 3.1.2 (Huelsenbeck & Ronquist 2001), which runs two independent, simultaneous analyses, using four partitions corresponding to the four genes and with a GTR+I+ evolutionary model, the
+most complex evolutionary model available. MrBayes ran using default values, saving trees at each 500th generation. Convergence and “burn-in” values were established after visual examination of a plot of the standard deviation of the split frequencies between two simultaneous runs.
+We also conducted maximum likelihood searches in Garli v.0.951 (www.bio.utexas.edu/faculty/garli/
+Garli.html), which uses genetic algorithms (Zwickl 2006), with an estimated GTR+I+ model for the combined
+sequence and the default settings. Support was measured with 1,000 bootstrap replicates, reducing the number of
+generations without improving the topology necessary to complete each replicate to 5,000.
+Estimation of the ages of diversification. To calibrate the tree we use molecular clock-methods, with a combined rate for the mitochondrial genes of 2.3% per MY (i.e. the standard arthropod clock, Brower 1994), shown to
+be accurate for a mixture of protein coding and ribosomal mitochondrial genes in Coleoptera (Papadopoulou et al.
+2010; Ribera et al. 2010). To obtain an ultrametric tree we used Bayesian estimations as implemented in Beast
+1.4.7 (Drummond & Rambaut 2007). Well supported nodes according to the results were constrained to be monophyletic, and a GTR+I+ model was enforced with an uncorrelated lognormal relaxed clock and a Yule process
+speciation model. Priors and other parameters were left with default values, with the exception of the prior of the
+evolutionary rate, which was set to a normal distribution with mean of 0.0115 substitutions/site/MY and a standard
+deviation of 0.001. The results of two independent runs were merged with Tracer v1.4 and TreeAnnotator v1.4.7
+(Drummond & Rambaut 2007).
+
+Γ
+
+Γ
+
+Γ
+
+Taxonomy
+Hydroporus bithynicus sp. n.
+(Figs 1–6)
+Type locality. Turkey, Bolu province, stream between Yeniçaga and Mengen.
+
+38 · Zootaxa 3173 © 2012 Magnolia Press
+
+HERNANDO ET AL.
+
+FIGURE 1. Habitus of Hydroporus bithynicus sp. n. (paratype male, NMW, photo: M. Brojer).
+
+INTERSTITIAL SPECIES OF THE HYDROPORUS FERRUGINEUS GROUP
+
+Zootaxa 3173 © 2012 Magnolia Press ·
+
+39
+
+FIGURES 2–3. Hydroporus bithynicus sp. n. (paratype male, DNA voucher specimen MNCN-AI782); 2) head and pronotum;
+3) detail of the metacoxa (photos: A. Castro).
+
+Type material. HOLOTYPE (MNCN): male, labelled “TURKEY 05 BOLU 24.4.2006 / Rd. 750 btw Yeniçaga & Mengen / fast stream in mixed forest / 844 m N40º50'49'' E32º03'47.5'' / Hernando,Aguilera,Castro&Ribera
+leg.”, plus printed red Holotype label. Aedeagus extracted and mounted in DMHF on a transparent label pinned
+with the specimen. PARATYPES (IBE, MNCN, NMW, BMNH, CAC, CCH, CHF): 5 males, 3 females, same data
+as holotype with paratype labels. One male paratype was used for DNA extraction, voucher No. MNCN-AI782 (ref
+MNCN-ADN collection 24128).
+
+40 · Zootaxa 3173 © 2012 Magnolia Press
+
+HERNANDO ET AL.
+
+FIGURES 4–6. Hydroporus bithynicus sp. n. (paratype male, DNA voucher specimen MNCN-AI782); 4) median lobe of the
+aedeagus, lateral view; 5) median lobe of the aedeagus, ventral view; 6) right paramere, lateral view. Scale bar: 1 mm (photos:
+A. Castro).
+
+Diagnosis. Hydroporus bithynicus sp. n. has to be included among the species of the H. ferrugineus subgroup
+sensu Fery (1999) as it has uniform pale colour, lateral depressions at the base of the pronotum with a deeper punctation, a dorsally symmetric male aedeagus and the female gonocoxa do not have an angularity on the inner side
+
+INTERSTITIAL SPECIES OF THE HYDROPORUS FERRUGINEUS GROUP
+
+Zootaxa 3173 © 2012 Magnolia Press ·
+
+41
+
+(Fery 1999). Of the known species of the H. ferrugineus subgroup, H. bithynicus sp. n. is the flattest, narrowest and
+more parallel sided. The eyes are also smaller than in the other two species, which is particularly evident in ventral
+view. The aedeagus has also a characteristic shape, unlike H. ferrugineus and H. sanfilippoi Ghidini, 1958 (see
+Fery 1999: figs 68, 70).
+Description. Total length 3.7–4.0 mm, maximum width 1.7–1.8 mm. Body elongate, narrow, sides parallel;
+lateral outline almost continuous; pronotum slightly wider than base of elytra, as wide as maximum width of elytra
+(Fig. 1). Colour uniformly testaceous, ventral side darker.
+
+FIGURES 7–9. Habitat of Hydroporus bithynicus sp. n.; 7) detail of the spring in which all specimens were found; 8) general
+view of the stream between Yeniçaga and Mengen; 9) two of the authors (P. Aguilera and C. Hernando) next to the spring (photos: I. Ribera).
+
+42 · Zootaxa 3173 © 2012 Magnolia Press
+
+HERNANDO ET AL.
+
+Head (Figs 1, 2): wide; surface finely microreticulated, with polygonal, isodiametric cells; covered with very
+fine, dense punctation; space between punctures 2–3 times wider than their diameter. Two small clypeal fossae;
+periocular area slightly depressed. Eyes small, not prominent. Maximum diameter of eye (seen from above) ca. 11–
+12 ommatidia (15–16 in H. sanfilippoi); surface of ommatidia transparent, pigmented area below cuticle smaller
+than area covered by ommatidia (Fig. 2).
+Pronotum (Figs 1, 2): transverse; sides strongly bordered, slightly arched. Surface microreticulate, stronger
+and with larger cells than on head; punctation on disk sparser and stronger than on head; near posterior angles
+punctation denser, with a more rugose appearance. Anterior margin with irregular row of coarse punctures. Anterior angles with a group of very long setae. Hind wings apparently well developed.
+Elytra (Fig. 1): parallel sided, maximum width behind middle; surface covered with dense and strong punctation; microreticulation strong, cells wider than on pronotum and head, isodiametric. Without regular rows of punctures; with some isolated coarser punctures with setae less erect that those of regular punctures, forming loose
+series on the elytra. Margins with a series of very long setae, from shoulder to apex.
+Ventral darker than dorsal side; metaventrum and first two or three abdominal ventrites dark brown; surface of
+metaventrite covered with regular, coarse and sparse punctation, space between punctures ca. 3 times wider than
+their diameter; covered by strong reticulation, cells slightly transverse (Fig. 3). Abdominal ventrites with weaker
+punctation, more disperse; surface microreticulated, with smaller cells than on metaventrite (Fig. 3). Posterior margin of metacoxal process slightly sinuate, medially protruded backwards (Fig. 3).
+Male: pro- and mesotarsi slightly dilated; claws unmodified. Aedeagus as in Figs 4-6.
+Etymology. Named after Bithynia, ancient kingdom of the NW coast of Anatolia and Roman province. The
+specific epithet is an adjective in the nominative singular.
+Distribution and habitat. So far only known from the type locality, a fast-flowing stream in a well preserved
+mixed forest in north-west Turkey (Figs 7–9). All specimens were found in a small pool with upwelling spring
+water (ca. 1 m diameter, few centimetres deep) on the side of the river. The pool had a stony substratum without
+vegetation, with some algal and bacterial grow, and was fed by underground water upwelling through the bottom
+(Figs 7, 9).
+The habitat and the external morphology, in particular the reduced eye size and pigmentation and the presence
+of long sensory setae on pronotum and elytra, suggest that the species is an inhabitant of the interstitial water, only
+accessible in particular circumstances – in this case, an upwelling spring. The other two species of the group,
+although with an apparently less modified morphology (they are less flat, with larger eyes) have been reported from
+similar habitats, or, in the case of H. ferrugineus, from deep inside caves (Franciscolo 1979; Foster & Friday 2011).
+The specimen of H. sanfilippoi sequenced here (Table 1) was collected in the small pools of a minuscule stream
+formed by upwelling water while there was heavy rain: short after the specimen was collected the rain stopped and
+the stream dried out completely. Only after some additional rain during the next days it was flowing again, and
+more specimens could be found. The preference for very small running water bodies or interstitial habitats seems to
+be shared between the species of the H. ferrugineus, memnonius and longulus groups (see below), and has been
+suggested as a possible reason for the abundance of the local endemics in the group (Fery 2009; Hájek & Fiká ek
+2010).
+
+č
+
+Phylogeny of the Hydroporus memnonius and related groups
+The concatenated sequence had a final length of 1615 nucleotides, 826 corresponding to the cox1 gen (without any
+indel) and 729 to the rrnL+trnL+nad1 fragment (with 4–5 indels as aligned with MAFFT). MrBayes run for 5·106
+generations, after which the standard deviation of the split frequencies between the two simultaneous runs reached
+values of ca. 0.01, indicating a good convergence. The two methods used for the phylogenetic reconstruction
+(Bayesian probabilities and Maximum Likelihood with a heuristic genetic algorithm) resulted in very similar topologies, with only the position of some species differing between them (H. submuticus Thomson, 1874, H. tessellatus
+(Drapiez, 1819), Fig. 10). The alternative topologies for these nodes did not change the composition of the species
+groups, and their support was, in any case, always low, with all well supported nodes (Bayesian posterior probability, Bpp > 0.9, ML bootstrap, MLb > 70%) congruent between methods.
+The monophyly of Hydroporus plus Suphrodytes was well supported (Bpp = 1, MLb = 100%; Fig. 10), but the
+
+INTERSTITIAL SPECIES OF THE HYDROPORUS FERRUGINEUS GROUP
+
+Zootaxa 3173 © 2012 Magnolia Press ·
+
+43
+
+phylogenetic position of Suphrodytes not: it appears nested within Hydroporus with low support in the Bayesian
+analysis, but unresolved at the base of Hydroporus with ML (Fig. 10). With our data we, thus, cannot exclude the
+status of Suphrodytes and Hydroporus as separate genera (Angus 1985).
+
+FIGURE 10. Phylogram obtained with MrBayes. Above nodes, Bayesian posterior probabilities (when > 0.5) / bootstrap support values in Garli (when > 50%). “-”, node not resolved; “x”, node not present. See Table 1 for the localities and voucher reference of the specimens.
+
+44 · Zootaxa 3173 © 2012 Magnolia Press
+
+HERNANDO ET AL.
+
+INTERSTITIAL SPECIES OF THE HYDROPORUS FERRUGINEUS GROUP
+
+Zootaxa 3173 © 2012 Magnolia Press ·
+
+45
+
+46 · Zootaxa 3173 © 2012 Magnolia Press
+
+HERNANDO ET AL.
+
+INTERSTITIAL SPECIES OF THE HYDROPORUS FERRUGINEUS GROUP
+
+Zootaxa 3173 © 2012 Magnolia Press ·
+
+47
+
+48 · Zootaxa 3173 © 2012 Magnolia Press
+
+HERNANDO ET AL.
+
+INTERSTITIAL SPECIES OF THE HYDROPORUS FERRUGINEUS GROUP
+
+Zootaxa 3173 © 2012 Magnolia Press ·
+
+49
+
+Within the wider Hydroporus+Suphrodytes clade the species groups defined by Nilsson & Holmen (1995) and
+Nilsson (2001) are in general recovered as monophyletic, and with good support. This agreement between morphological and genetic discontinuities among the species, allowing the recognition of phenotypic species groups and
+providing good support for the same clades based on genetic data, is most remarkable giving the independence of
+both sets of characters. Thus, when plotting the average support of the nodes according to their topological level in
+the tree in Fig. 10, the level at which the support is maximum (nodes at the fifth level, average support Bpp = 0.91,
+Fig. 11) is also the one at which there is the highest number of nodes defining species groups (seven). One possible
+cause of this agreement is that both set of characters are neutral and evolve at a rate proportional to time (Ahrens &
+Ribera 2009).
+In some cases our results do not agree with the established species groups. Hydroporus morio Aubé, 1838 was
+included in the H. nigellus group in Nilsson & Holmen (1995), but listed under the H. puberulus group in Nilsson
+(2001). We found it in a rather isolated position, although more related to the H. nigellus than to the H. puberulus
+group (Fig. 10). We found H. neglectus Schaum, 1845 closer to H. angustatus Sturm, 1835 than to H. scalesianus
+Stephens, 1828, suggesting the need to merge both species groups, but in any case not related to the species of the
+H. memnonius or H. longulus groups, as traditionally suggested (see Fery 2009 for an overview). Similarly, H. pervicinus Fall, 1923, placed in the H. nigellus group in Nilsson (2001), was found to be more closely related to the
+species of the H. longiusculus group (Fig. 10). Hydroporus subpubescens LeConte, 1852 appears nested within the
+species of the H. nigellus group, suggesting that it should be included here rather than in a separate species group as
+previously considered (Nilsson, 2001).
+Hydroporus obsoletus Aubé, 1838 has been traditionally included in the H. memnonius group, close to the species of the H. ferrugineus subgroup (Fery 1999, 2009). We found it in an isolated position as sister to a large part of
+the Palaearctic species, although with low support, which in any case warrants its consideration as a separate species group. Hydroporus obsoletus is widely distributed through Europe and north Africa, and despite the homogeneity of the male genitalia through his range (Fery 1999) there are deep genetic divergences among the specimens
+from Algeria and Tunisia and those of the western Mediterranean (SW Morocco and Portugal) (Fig. 10, Table 1).
+We found strong support for an extended Hydroporus planus group, including the H. marginatus, H. tessellatus
+and H. nigrita groups, in agreement with Ribera et al. (2003) (their “H. fuscipennis sensu lato”). The internal phylogeny of this extended group was not well resolved, but it seems that the elytral reticulation (traditionally used to
+separate these species groups) is a very labile character with very weak phylogenetic information. The extended H.
+planus group is sister to a large clade including the species of the H. memnonius and H. longulus groups sensu Fery
+(1999). Within this large clade the species phylogenetically close to H. ferrugineus, including H. bithynicus sp. n.,
+are sister to the rest, thus rendering the H. memnonius group as traditionally defined paraphyletic. Hydroporus
+bithynicus sp. n. is sister to the central and north European H. ferrugineus, and both sister to H. sanfilippoi from
+Italy. These three species should be considered a group within the genus Hydroporus, the H. ferrugineus group.
+Within the H. memnonius group (in its restricted sense defined here, i.e. excluding the species of the H. ferrugineus and H. obsoletus groups), the species with the angularity in the female gonocoxa form a well supported clade,
+corresponding to the H. memnonius subgroup sensu Fery (1999). However, Hydroporus longicornis Sharp, 1871
+was found to be sister to the rest of the species of the group, and not included in the H. melanarius complex, as suggested by Fery (1999).
+The Hydroporus longulus group (the former subgenus Sternoporus, see Fery 2009 for a review) was found
+monophyletic with strong support, but highly derived within the genus Hydroporus, so that its reinstatement as
+valid subgenus would render Hydroporus s. str. highly paraphyletic. Among the sampled species of the H. longulus
+group we found three linages: the eastern Mediterranean H. bodemeyeri bodemeyeri Ganglbauer, 1900 plus H.
+cuprescens K.W. Miller & Fery, 1995 from Cyprus (as hypothesised in Hájek & Fiká ek 2010); the H. kraatzii
+complex, including H. sardomontanus Pederzani, Rocchi & Schizzerotto, 2004 from Sardinia; and the H. longulus
+complex plus the Corsican H. regularis Sharp, 1882. It is interesting to note that each of these lineages has an
+inland endemic, and that the species from Corsica and Sardinia (H. regularis and H. sardomontanus) are not sister
+species.
+Within the H. longulus complex, and despite the clear morphological differences, the mitochondrial markers
+used here do not recover the species as monophyletic, probably as a result of their recent divergence (see below).
+The same happens with the H. melanarius complex.
+
+č
+
+50 · Zootaxa 3173 © 2012 Magnolia Press
+
+HERNANDO ET AL.
+
+FIGURE 11. Average node support (Bayesian posterior probability) (blue line) and number of species groups defined (red line)
+in each node level, counting from the root of the genus Hydroporus in the tree of Fig. 10.
+
+Estimation of divergence times
+We restricted our analyses of divergence times to the clade of the H. memnonius, H. longulus and H. ferrugineus
+groups, for which the sampling was most complete. Using an evolutionary rate of 0.0115 substitutions/site/MY, the
+origin of the whole clade was estimated to be at late Miocene (Fig. 12), and that of the three species groups at Pliocene. As usual when using a single constraint for the estimation (in this case, the average evolutionary rate), the
+intervals of 95% confidence for the estimated ages are very large, so they have to be taken with caution. Even considering that our sampling is incomplete, with some species missing from the tree, all the speciation events were
+estimated to have occurred during the Pleistocene with the only possible exception of H. longicornis, which origin
+was estimated to be at early Pliocene (Fig. 12). The separation between H. ferrugineus and H. bithynicus sp. n. was
+estimated to be at middle Pleistocene.
+
+Acknowledgements
+We thank all the people listed in Table 1 for allowing us to study their material. Ana Izquierdo, David Molina and
+Rocío Alonso are thanked for their lab work. We also thank the comments of Hans Fery and Garth Foster on the
+taxonomy of Hydroporus, Michaela Brojer (NMW) for Fig. 1, and the comments of Ji i Hájek and two anonymous
+referees. Funding was through projects CGL2007-61665 and CGL2010-15755 to IR.
+
+ř
+
+INTERSTITIAL SPECIES OF THE HYDROPORUS FERRUGINEUS GROUP
+
+Zootaxa 3173 © 2012 Magnolia Press ·
+
+51
+
+FIGURE 12. Ultrametric tree obtained with Beast and an evolutionary rate of 0.0115 substitutions/site/MY for the H. memnonius, H. longulus and H. ferrugineus groups. Numbers in nodes, estimated ages; blue bars, 95% confidence intervals.
+
+References
+Ahrens, D. & Ribera, I. (2009) Inferring speciation modes in a clade of Iberian chafers from rates of morphological evolution in
+different character systems. BMC Evolutionary Biology, 9, 234.
+Angus, R.B. (1985) Suphrodytes des Gozis a valid genus, not a subgenus of Hydroporus Clairville (Coleoptera: Dytiscidae).
+Entomologica Scandinavica, 16, 269–275.
+Brower, A.V.Z. (1994) Rapid morphological radiation and convergence among races of the butterfly Heliconius erato inferred
+from patterns of mitochondrial-DNA evolution. Proceedings of the National Academy of Sciences of the United States of
+America, 91, 6491–6495.
+Drummond, A. & Rambaut, A. (2007) BEAST: Bayesian evolutionary analysis by sampling trees. BMC Evolutionary Biology,
+7, 214.
+Fery, H. & Hendrich, L. (2011) Hydroporus esseri sp. n., a new diving beetle from southern Turkey (Coleoptera, Dytiscidae,
+Hydroporinae). Zootaxa, 2909, 38–46.
+Fery, H. (1999) Revision of a part of the memnonius-group of Hydroporus Clairville, 1806 (Insecta: Coleoptera: Dytiscidae)
+with the description of nine new taxa, and notes on other species of the genus. Annalen des Naturhistorischen Museums in
+Wien Serie B Botanik und Zoologie, 101B, 217–269.
+Fery, H. (2009) New species of the Hydroporus longulus-group from Iran, Armenia and Turkey with a synopsis of the group
+
+52 · Zootaxa 3173 © 2012 Magnolia Press
+
+HERNANDO ET AL.
+
+(Coleoptera: Dytiscidae). Acta Entomologica Musei Nationalis Pragae, 49, 529–558.
+Foster, G.N. & Friday, L. (2011) Keys to adults of the water beetles of Britain and Ireland (Part 1). Handbooks for the identification of British insects, Vol. 4 Part 5, 2nd ed. Shrewsbury, UK, 144 pp.
+Franciscolo, M.E. (1979) Coleoptera. Haliplidae, Hygrobiidae, Gyrinidae, Dytiscidae. Fauna d’Italia, 14. Edicioni Calderini,
+Bologna, 804 pp.
+Hájek, J. & Fiká ek, M. (2010) Taxonomic revision of the Hydroporus bodemeyeri species complex (Coleoptera: Dytiscidae)
+with a geometric morphometric analysis of body shape within the group. Journal of Natural History, 44, 1631–1657.
+Huelsenbeck, J.P. & Ronquist, F. (2001) MrBayes: Bayesian inference of phylogenetic trees. Bioinformatics, 17, 754–755.
+Katoh, K. & Toh, H. (2008) Recent developments in the MAFFT multiple sequence alignment program. Briefings in Bioinformatics, 9, 286–298.
+Larson, D.J., Alarie, Y. & Roughley, R.E. (2000) Predaceous diving beetles (Coleoptera: Dytiscidae) of the Nearctic Region,
+with emphasis on the fauna of Canada and Alaska. NRC Research Press, Ottawa, 982 pp.
+Nilsson, A.N. & Holmen, M. (1995) Fauna Entomologica Scandinavica, vol. 32. The aquatic Adephaga (Coleoptera) of
+Fennoscandia and Denmark. II. Dytiscidae. E. J. Brill, Leiden, 192 pp.
+Nilsson, A.N. (2001) World catalogue of insects, Vol. 3. Dytiscidae. Apollo Books, Stenstrup, 395 pp.
+Papadopoulou, A., Anastasiou, I. & Vogler, A.P. (2010) Revisiting the insect mitochondrial molecular clock: the mid-Aegean
+trench calibration. Molecular Biology and Evolution, 27, 1659–1672.
+Ribera, I., Vogler, A.P. & Balke, M. (2008) Molecular phylogeny and diversification of diving beetles (Coleoptera, Dytiscidae).
+Cladistics, 24, 563–590.
+Ribera, I., Beutel, R.G., Balke, M. & Vogler, A.P. (2002) Discovery of Aspidytidae, a new family of aquatic Coleoptera. Proceedings of the Royal Society of London, Series B, 269, 2351–2356.
+Ribera, I., Bilton, D.T., Balke, M. & Hendrich, L. (2003) Evolution, mitochondrial DNA phylogeny and systematic position of
+the Macaronesian endemic Hydrotarsus Falkenström (Coleoptera: Dytiscidae). Systematic Entomology, 28, 493–508.
+Ribera, I., Fresneda, J., Bucur, R., Izquierdo, A., Vogler, A.P., Salgado, J.M. & Cieslak, A. (2010) Ancient origin of a Western
+Mediterranean radiation of subterranean beetles. BMC Evolutionary Biology, 10, 29.
+Zwickl, D. (2006) Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the
+maximum likelihood criterion. Ph.D. thesis, The University of Texas at Austin, USA.
+č
+
+INTERSTITIAL SPECIES OF THE HYDROPORUS FERRUGINEUS GROUP
+
+Zootaxa 3173 © 2012 Magnolia Press ·
+
+53
+
+

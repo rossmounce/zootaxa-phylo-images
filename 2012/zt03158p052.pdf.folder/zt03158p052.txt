@@ -1,0 +1,630 @@
+Zootaxa 3158: 37–52 (2012)
+www.mapress.com / zootaxa/
+Copyright © 2012 · Magnolia Press
+
+ISSN 1175-5326 (print edition)
+
+Article
+
+ZOOTAXA
+ISSN 1175-5334 (online edition)
+
+A relict new species of Oreobates (Anura, Strabomantidae) from the Seasonally
+Dry Tropical Forests of Minas Gerais, Brazil, and its implication to the
+biogeography of the genus and that of South American Dry Forests
+MAURO TEIXEIRA JR.1, RENATA CECÍLIA AMARO, RENATO SOUSA RECODER,
+MARCO AURÉLIO DE SENA & MIGUEL TREFAUT RODRIGUES
+Departamento de Zoologia, Instituto de Biociências, Universidade de São Paulo, São Paulo, SP, Caixa Postal 11.461, CEP 05508090, Brazil. E-mail: 1tropidurus@gmail.com.
+
+Abstract
+A new species of Oreobates is described from Cavernas do Peruaçu National Park, Januária, Minas Gerais state, in the
+Atlantic Dry Forests of Brazil. The new species is distinguished from all other Oreobates by having the following combination of characters: large tympanum, discs broadly enlarged and truncate on Fingers III and IV, smooth dorsal skin, nuptial pads absent, snout subacuminate, and a very short pulsatile (2–3 pulses) single-noted advertisement call with dominant
+frequency of about 3150 Hz, and no harmonic structure. Molecular phylogenetic analyses using partial sequences of the
+mitochondrial genes cytochrome b (cyt b) and 16S using multiple outgroups recovered the new species within Oreobates
+and sister to O. heterodactylus. The latter species inhabits the Dry Forests of Mato Grosso (Cerrado) and Bolivia (Chiquitano forests), and is strictly associated to these habitats, which suggests a preterit connection between Chiquitano and
+Atlantic Dry Forests. The discovery of a new Oreobates in the Atlantic Dry Forest is of great importance for the conservation of these dry forests, as it is known only from this type of habitat.
+Key words: Peruaçu valley, Pandeiros River, Terrarana
+
+Introduction
+The distribution patterns of species with physiological restrictiveness to certain kinds of habitats are always of
+great importance to understanding the biogeographic history of those habitats because of the common history they
+share (Croizat 1964). Habitat range and connectivity are affected by environmental changes, such as those promoted by climatic fluctuations, resulting generally in species dispersal or isolation, leading ultimately to speciation
+(Lomolino et al. 2006). Therefore phylogenetic relationships among species occurring in different and/or same
+habitats can inform us about the history of habitats (Crisci et al. 2003; Morrone 2009).
+Frogs of genus Oreobates seem to be habitat-specialists. Most of its 16 species are restricted to Yungas montane forests from the eastern versant of the Cordillera Oriental of the Andes, from northern Argentina to Ecuador.
+However one species, O. quixensis, is an eminently Amazonian lowland dweller that occurs throughout the Upper
+Amazon Basin, from Colombia to Bolivia. All but one species of Oreobates occur in the Andes or close to them in
+the adjacent Amazonian lowlands. The exception is O. heterodactylus, an inhabitant of Cerrado and Chiquitano
+forests in eastern Bolvia and western Brazil (see Padial & De la Riva 2005; Padial et al. 2008a; Duellman & Lehr
+2009).
+The taxonomy of Oreobates has been in constant change since its description, and only recently has a molecular phylogenetic approach been used to infer relationships among its species closely related genera (Hedges et al.
+2008; Padial et al. 2008a; Padial et al. 2009; Pyron & Wiens 2011). The genus Oreobates, and its type species, Oreobayes quixensis, were originally described by Jiménez de la Espada (1872) and placed in the family Cystignathidae. A few years later, Boulenger (1882) recognized Oreobates as a junior synonym of Borborocoetes Cope, 1865.
+At the end of the 19th Century, Cystignathus was recognized as a junior synonym of Leptodactylus, and O. quixen-
+
+Accepted by J. Padial: 1 Nov. 2011; published: 12 Jan. 2012
+
+37
+
+sis was then placed in Leptodactylidae (Werner 1896). Peters (1955) placed it into the synonymy of Eusophus Fitzinger, 1843, where it remained until Lynch and Schwartz (1971) relocated O. quixensis to Ischnocnema Reinhardt
+and Lütken, 1862, rendering Oreobates a junior synonym of Ischnocnema. About 35 years latter Caramaschi and
+Canedo (2006), in their morphological taxonomic reassessment of the genera Ischnocnema and Oreobates, resurrected Oreobates and relocated I. saxatilis, I. sanctaecrucis, I. sanderi, I. simmonsi and I. choristolemma (by implication) to Oreobates. One year later, a molecular phylogenetic study on the once eleutherodactyline frogs, found
+large, deeply rooted radiations of geographically isolated groups within New World direct-developing frogs (Heinicke et al. 2007), which led to a preliminary reorganization of the taxonomy of eleutherodactyline frogs. However,
+Oreobates was not affected by any taxonomic change. On the following year, a morphological and molecular study
+on Oreobates revealed that Eleutherodactylus cruralis, E. discoidalis, E. granulosus, E. heterodactylus, E. ibischi,
+E. lehri, E. madidi, and E. zongonensis, clustered together in a clade also containing O. quixensis, I. choristolemma
+I. sanctaecrucis, I. sanderi, I. saxatilis, and I. simmonsi (Padial et al. 2008a). The genus Oreobates was therefore
+redefined accordingly to include the aforementioned species. That same year a large molecular phylogenetic
+assessment on eleutherodactyline frogs proposed the name Terrarana for a Neotropical group harboring terrestrial
+breeding frogs with direct development (equivalent to Frost’s et al. [2006] Brachycephalidae) (Hedges et al. 2008).
+Hedges et al. (2008) supported Padial et al. (2008a) hypothesis and kept Oreobates as it was but added E. pereger.
+Finally, that same year a new species, O. barituensis, was described from Baritú, Santa Victoria Department, Salta
+province, Argentina (Vaira & Ferrari 2008), and Oreobates achieved the taxonomic content recognized today.
+Following Padial et al. (2008a) phylogenetic hypothesis for Oreobates intrageneric relationships, O. heterodactylus originated from Andean ancestor that dispersed throughout the adjacent lowlands, reaching the current
+Bolivian-Brazilian border (Miranda Ribeiro 1937; Padial & De la Riva 2005), an area now covered by Seasonally
+Dry Tropical Forest (SDTF) or Chiquitano forests.
+These SDTFs ecorregion lies within the Tropical Dry Forest biome (sensu Olson et al. 2001), within which the
+Brazilian Atlantic Dry Forest (ADF) ecoregion also occurs, forming a N-S oriented stripe between Brazilian Cerrado and Caatinga. Those dry forests are composed of deciduous and semideciduous arborescent vegetation, that
+are lower, more open, and poorer in woody species when compared to Rain Forests (Murphy & Lugo 1986;
+Oliveira-Filho & Ratter 2002). They are found on rich soil, where annual rainfall is less than 1600 mm, and there
+are at least 5–6 dry months per year (i.e. months with rainfall less than 100 mm) (Pennington et al. 2000).
+SDTFs are among the most endangered tropical environments (Janzen 1988). About 97% of its coverage is in
+danger and more than a half of these kind of environments are located in South America (Miles et al. 2006). In the
+Neotropics the Rain Forest are the environments that have historically been main targets of biological studies and
+conservations efforts, leaving less studied environments, such as the dryer ones, with their biotic content virtually
+unknown and unprotected (Janzen 1988; Redford et al. 1990; Sánchez-Azofeifa et al. 2005). Within the Brazilian
+territory only a large patch of SDTFs at Goias state has been herpetologically surveyed, however it was focused
+only in lizards (Werneck & Colli 2006).
+In Brazil one of the few protected remnant areas covered predominantly with SDTFs is the Peruaçu river valley
+region (Silva 2001), which harbors a National and a State Park. Although this region is considered a priority for
+conservation (MMA 2000; Tabarelli & Silva 2003), and is especially important for conservation of the herpetofauna (MMA 2000), the only reptiles and amphibians records from this area are those resulting from surveys for the
+National Park management plan (Feio 2003).
+Feio (2003) in his herpetological survey at Cavernas do Peruaçu National Park recorded a species which he
+attributed at that time to Eleutherodactylus, and which he considered as “certainly new species”. However under
+the current Terrarana taxonomy, and in the light of molecular data we recognize this as a Oreobates species. Herein,
+on the basis of a series of specimens obtained during an extensive herpetofaunal survey at this area, we describe
+this new species, its advertisement call, and some aspects of its natural history. On the basis of a molecular analysis
+of mitochondrial genes we also investigate its phylogenetic placement within Oreobates and discuss the biogeography of the genus and its implication to SDTFs biogeography.
+
+Material and methods
+Morphological assessment and distribution. Morphometric terminology follows a combination of Duellman and
+Lehr (2009) and Padial et al. (2008a) measurments (only adults and sub-adults were measured), and morphological
+
+38 · Zootaxa 3158 © 2012 Magnolia Press
+
+TEIXEIRA JR. ET AL.
+
+descriptions follow Padial et al. (2008a). Measurements were taken with an electronic caliper after fixation to the
+nearest 0.1 mm. Observations of morphological characters were performed with a stereomicroscope Zeiss STEMI
+SV6. Measurements taken were: snout-vent length (SVL); tibia length, from knee to heel (TL); thighs length, measured from mid-cloaca to knee (THL); foot length, measured from proximal end of inner metatarsal tubercle to tip
+of fourth toe (FL); head length, from tip of snout to posterior end of jaw (HL); head width, the distance between
+posterior ends of jaw (HW); internarinal distance (IND); eye-eye distance, the distance between anterior corner of
+eyes (EE); eye-nostril distance, from anterior corner of eye to nostril (EN); eye diameter, horizontal distance
+between anterior and posterior corners of eyes (ED); tympanum diameter, measured from the edges of tympanic
+annulus (TD).
+Comparisons with other species were based on the original and/or secondary descriptions of those species
+(Lynch 1975; Padial & De la Riva 2005; Padial et al. 2008a; Padial et al. 2008b; Duellman & Lehr 2009), holotype
+pictures from original publications, and comparison of the following voucher specimens housed in Museu de Zoologia da Universidade de São Paulo: Oreobates discoidalis, Horco Molle, Tucumán province, Argentina (MZUSP
+85542); Oreobates cruralis, Sara, Santa Cruz province, Bolivia (MZUSP 119467); Oreobates heterodactylus,
+Fazenda Santa Edwiges, Mato Grosso state, Brazil (MZUSP 71103, 71104).
+Records on maps were compiled from the literature (Jiménez de la Espada 1872; Lynch 1975; Duellman 1990;
+Heyer & Gascon 1995; Alonso & Dallmeier 1998; Doan & Arriaga 2002; Cisneros-Heredia 2003; Pérez et al.
+2004; Harvey & Sheehy 2005; Padial & De la Riva 2005; Vaira & Ferrari 2008; Ferrari & Vaira 2008; Padial et al.
+2008a; Padial et al. 2008b; Akmentins & Vaira 2009; Duellman & Lehr 2009; UHESA 2011), online databases
+(GBIF 2011), and vouchers from Museu de Zoologia da Universidade de São Paulo (MZUSP). Redundant records
+were removed.
+Bioacoustics. Calls were recorded with sampling rate of 44.1 kHz and 16 bit of resolution, with a Panasonic
+portable digital audio recorder model RR-US450, using its built-in microphone with recording frequency up to 7
+kHz in a mono channel. Audio analysis and generation of audiospectrogram and oscillograms were performed with
+Sound Ruler v. 0.9.6 software (Gridi-Papp 2007). Air temperatures were taken with quick-reading Miller and
+Weber Inc. thermometer, model T-6000.
+Field sampling methods. Specimen collection was made primarily through pitfall traps with drift fences
+installed throughout the main habits at Cavernas do Peruaçu National Park: 15 on dry forest habitats; 15 on
+savanna; 17 on the “carrascos” and two on riparian evergreen forest, which remained opened along across January
+2008 and 2009 (rainy seasons), and July 2008 and 2009 (dry seasons). Unquantified active search was also performed at areas unsuitable to pitfall installation. Collected individuals were sacrificed with lethal doses of anesthetics, fixed in 10% formalin, preserved in 70% ethanol, and housed at Museu de Zoologia da Universidade de São
+Paulo, São Paulo, Brazil.
+Phylogenetic analysis. Partial sequences of the mitochondrial cytochrome b (cyt b) and 16S genes of the holotype and two paratypes of the new species were obtained. Protocols for DNA extraction, amplification, sequencing,
+and sequence editing followed Amaro et al. (2009). The mitochondrial genic fragments were amplified with primers CB1-L and CB3-H for cyt b and 16SAR and 16SBR for 16S (Palumbi 1996). (GenBank accession numbers:
+JN688273-JN688278).
+Sequences were edited in CodonCode Aligner (CodonCode Corporation) and aligned with MEGA 5 (Tamura
+et al. 2011). The matrix of 328 bp of aligned sequences of cyt b showed no indels. The alignment of 16S was made
+based on secondary structure and resulted in a matrix of 529 bp. Both data set were combined in a matrix of 857 bp
+and 20 terminals, including own sequences and sequences from Padial et al. (2008a) that includes species of Strabomantinae genera (Oreobates, Pristimantis, Strabomantis, Hypodactylus and Phrynopus); Leptodactylus species
+were used as outgroup. We performed a Bayesian phylogenetic analysis in MrBayes 3.0b4 (Ronquist & Huelsenbeck 2003): two independent Bayesian analyses were performed with a random starting tree, four incrementally
+heated Markov chains, and 10,000,000 generations, with trees sampled every 100 generations to estimate likelihood and sequence evolution parameters. The best–fit model of nucleotide substitution selected using the Akaike
+information criterion (AIC) in MrModeltest v.2.2 (Nylander 2004) was HKY+I+G for both partitions. Stationarity
+for each run was detected by plotting the likelihood scores of the trees against generation time, and the topology,
+posterior probability values, and branch lengths inferences were estimated after discarding 25% of the initial trees
+of each run as burn-in samples. Nodes with posterior probability 0.9 on a 50% majority rule consensus tree from
+
+≥
+
+NEW SPECIES OF OREOBATES
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+39
+
+both runs were considered significant support for a given clade. The majority 50% consensus tree saved with posterior probabilities on the nodes was visualized using FigTree 1.3.1 (http://tree.bio.ed.ac.uk/). Uncorrected genetic
+distances (p distances) were also calculated using PAUP.
+
+Results
+Taxon description
+Oreobates remotus sp. nov.
+(Figs. 1–3)
+Holotype. MZUSP 141708 (Figs. 1, 2), an adult male from “Rochedo” (15°8'43.80"S, 44°14'29.04"W, WGS84,
+624 m elevation), a large limestone outcrop crossed by a road, close to Fabião I village, at Cavernas do Peruaçu
+National Park, Januária municipality, Minas Gerais state, Brazil, collected on January 9th, 2009 by M. Teixeira Jr.,
+M. A. de Sena, R. S. Recoder and M. T. Rodrigues; field number MTJ 0430.
+Paratopotypes. (Fig. 3) MZUSP 141710, an adult female, collected with the holotype; field number MTJ
+0426. MZUSP 141711–13, adult males, collected with the holotype; field numbers MTJ 0427–29. MZUSP
+141715, a juvenile, collected with the holotype; field numbers MTJ 0431.
+Paratypes. MZUSP 141709, a juvenile, from the trail between Janelão Cave and Terra Brava farm old headquarters, at Cavernas do Peruaçu National Park, Januária municipality, Minas Gerais, Brazil, collected on January
+24th, 2008 by M. Teixeira Jr. and R. S. Recoder; field number MTJ 0209. MZUSP 141715–24, juveniles, from an
+unpaved road that connects Terra Brava farm to Liasa farm, at Cavernas do Peruaçu National Park, Januária municipality, Minas Gerais state, Brazil, collected between January 10th and January 23th 2009 by M. Teixeira Jr., M. A.
+de Sena, R. S. Recoder; field numbers MTJ 0432–34, 448, 493, 550–53, 567, 568. MZUSP 23306, an adult, from
+Pandeiros River, Minas Gerais state, Brazil, collected on 1935 by J. Blaser. MZUFV 5005–10, subadults, from
+Cavernas do Peruaçu National Park, Januária municipality, Minas Gerais, Brazil, collected between March 12th and
+19th 2003 by R. Feio.
+
+FIGURE 1. Holotype of Oreobates remotus sp. nov. (MZUSP 141708): Dorsal (A) and ventral (B) views.
+
+40 · Zootaxa 3158 © 2012 Magnolia Press
+
+TEIXEIRA JR. ET AL.
+
+FIGURE 2. Holotype (MZUSP 141708) of Oreobates remotus sp. nov.: Lateral (A), dorsal (B) views of the head; Foot (C) and
+hand (D). Scale bar = 5 mm.
+
+Etymology. The specific epithet is a noun in apposition meaning “remote, distant, far off”, in Latin, in reference to the geographical gap of more than 1.000 km between the area of occurrence of the new species and that of
+all other Oreobates.
+Diagnosis. A medium-sized Oreobates with moderately robust body (SVL of adult males, 29.6–33.1 mm and
+female, 37.7 mm) characterized as follows: (1) skin on dorsum smooth; venter smooth; posterior surfaces of limbs
+smooth; discoidal fold slightly visible, thoracic fold absent; postrictal tubercle absent; (2) tympanic membrane and
+annulus distinct, about 3/5 of eye diameter; supratympanic fold weak; (3) head large, slightly longer than wide;
+snout subacuminate in dorsal view, slightly protruding in lateral view; canthal ridge straight in dorsal view, slightly
+concave in profile; (4) cranial crests absent; upper eyelid smooth; (5) dentigerous process of vomers distinct, situated posteromedial to choannae; (6) males with vocal slit and no nuptial pads; (7) hands with long and slender fingers, first finger longer than second; subarticular tubercles large, prominent, conical; supernumerary tubercles
+large, conical, smaller than subarticular tubercles; disks on Fingers III and IV large, broadly expanded, truncated,
+with circumferential groove and pad; lateral fringes weak; (8) ulnar tubercles absent; (9) no tubercles on heel and
+tarsus; (10) inner metatarsal tubercle sub-elliptical, prominent; outer metatarsal tubercle round, prominent; supernumerary tubercles small, weakly distinct; (11) toes long and slender, lateral fringes slightly visible distally, web-
+
+NEW SPECIES OF OREOBATES
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+41
+
+bing absent; fifth and third toes reaching second subarticular tubercle of Toe IV; discs relatively small, slightly
+expanded, truncated in Toe IV, truncate to rounded in Toes V, III and II, and rounded in Toe I, circumferential
+grooves and pads present in Toes III, IV and V; (12) axillary gland absent; (13) dorsal coloration olive brown to
+reddish brown, with W-shaped occipital dark markings poorly evident, dorsolateral dark brown mark may form a
+longitudinal dark strip; throat and chest grey; belly cream with grey mottling or reticulations on anterior margin.
+
+FIGURE 3. Adult paratopotypes of Oreobates remotus sp. nov. in life: (A) Male (MZUSP 141711) and (B) female (MZUSP
+141710).
+
+42 · Zootaxa 3158 © 2012 Magnolia Press
+
+TEIXEIRA JR. ET AL.
+
+Description of the holotype. An adult male, SVL 32.18 mm, with vocal slits and no nuptial pads; head slightly
+longer than wide, and slightly wider than body; snout moderate in length, subacuminate in dorsal view, slightly
+protruding in profile; nostril opening laterally, placed on an elevation on the side of snout; eye large, protruding,
+placed and directed laterally; canthal ridge straight in dorsal view and slightly concave in profile; loreal region
+slightly concave; no cranial crests; upper eyelid without tubercles; supratympanic fold present, but not well developed; tympanic membrane and annulus distinct, except on supratympanic region; tympanic membrane vertically
+elliptical, large, diameter about 3/5 of eye diameter; no postrictal tubercles; choanae small, slightly rounded, not
+concealed, and placed anterolaterally on roof of mouth, separate by a distance of about four times their diameter;
+dentigerous process of vomers present, elliptical, forming two small barely separated oblique clumps between, and
+slightly posterior, to choanae; vocal sac simple, subgular, scarcely developed; vocal slit present, slit-like, laterally
+to tongue, posteriorly on floor of mouth; tongue lanceolate, not notched posteriorly; Eustachian tube opening posteriorly on eye bulge; dorsal surfaces of head, back and limbs smooth; ventral surfaces of limbs, belly, chest and
+throat smooth; cloacal region slightly shagreen; no cloacal flap present; no scapular-occipital fold nor middorsal
+and dorsolateral tubercle or fold; discoidal fold slightly visible, no thoracic fold; arm and forearm slender; ulnar
+tubercles absent; palmar tubercle elliptical, large, prominent; thenar tubercle ovate, large, prominent; supernumerary tubercles present, large, conical with rounded bases; subarticular tubercles large, larger than supernumerary
+tubercles, conical and projecting, rounded in the base, distal ones are smaller than proximal ones; disks on Fingers
+III and IV large, broadly expanded, truncated; small, rounded slightly larger than finger width in Fingers I and II;
+circumferential groove and pad presents in Fingers III and IV; fingers slender and long, not webbed; fingers weakly
+fringed laterally; relative finger length II<I<IV<III; legs slender and moderately long; toes slender and long (foot
+length 49% of SVL), not webbed; heel and tarsal tubercles absent, no tarsal fold; inner metatarsal tubercle slightly
+developed, longer than wide, sub-elliptical; outer metatarsal tubercle rounded, smaller than inner one; a few supernumerary plantar tubercles present, small, weakly distinct; subarticular tubercles conical, projecting, with rounded
+bases, subarticular tubercles from outer toes smaller than those from inner toes; discs relatively small, slightly
+expanded, truncated in Toe IV, truncate to rounded in Toes V, III and II, and rounded in Toe I, disk of Toe I as wide
+as digit width; circumferential grooves and pads present in Toes III, IV and V; toes slightly laterally fringed distally; relative toes length I<II<V<III<IV.
+Color in life. Interorbital bar dark brown, concave anteriorly, with an irregular posterior medial projection
+expanded across midline of head, and with irregular lateral borders; canthal stripe dark brown, extending longitudinally from tip of snout to anterior margin of eye, ventrally irregularly edged and dorsally sharply edged along canthal ridge. Supratympanic area blackish, extending along supratympanic fold, dark coloration extends ventrally
+approximately to the level of mid-tympanum length. Two diagonal labial bars dark brown, slightly faded, irregularly edged and discontinuous, one below eye and one crossing loreal region and connecting to canthal stripe,
+infralabial region with scattered irregular marks. Dorsal background coloration olive brown, with a large dark
+brown X-shaped mark over scapulae, connecting with the interorbital bar. Dorsal coloration also includes small
+scattered black dots. Arm light brown with irregular dark brown transversal marks; forearm light brown with transverse dark brown irregular bars and some flecks. Dorsal surfaces of legs light brown with transverse dark brown
+bars; hidden surfaces of thighs and shanks slightly translucid producing fleshy brown tonalities. Belly cream centrally, ventrolaterally and anteriorly with faint and fine dark brown flecks extending from dorsolateral coloration.
+Chest lighter than belly, and throat grey with inconspicuous faint vermiculations posteriorly.
+Color in preservative. Background color light grey, pattern of dark coloration as described above, but turned
+in to dark grey, and light ventral coloration whitish.
+Measurements of the holotype (mm). SVL = 32.18; HL = 11.76; HW = 10.93; EN = 4.14; EE = 5.8; ED =
+4.5; TD = 2.54; THL = 16.5; TL = 17.03; FL = 15.94; IND = 2.44.
+Variation. We found little variation on morphological characters among the specimens, varying mainly in
+body size. Measurements are presented on Table 1. The only adult female has a larger SVL than adult males. The
+dorsum shows some variation in coloration and patterns, varying from yellowish brown background color with
+scattered dark marks to reddish brown with dorsolateral dark marks aligned marks, forming an irregular longitudinal stripe (Fig. 3). Some individuals also show a slightly visible middorsal fold.
+Advertisement call. Calls were recorded on 9th January 2009 at 21:16h; air temperature was 21ºC. Sixteen
+calls from four specimens were analyzed. The advertisement call consist on a series of single short pulsed notes
+averaging 104 ms in length (range = 89–142 ms) having 2–3 pulses each, however the poor quality of the record-
+
+NEW SPECIES OF OREOBATES
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+43
+
+ings do not allow an accurate count of pulses. The calls show no harmonic structure, has no amplitude modulation
+and pulses are amplitude modulated. The average call repetition rate is 31.6 call/min (18–45 call/min). The average
+dominant frequency is 3150.7 Hz (2866.5–3395.7 Hz) (Fig. 4).
+
+FIGURE 4. Advertisement call of Oreobates remotus sp. nov.: (from up to down) Oscillogram of a whole track and; oscillogram of a section comprising one note; Spectrogram of the same note; Amplitude spectrum of the note on the left. The call was
+recorded about 21:16 h on 9th January 2009, air temperature was 21ºC.
+
+Comparison with other species (data for species other than Oreobates remotus in parenthesis). Oreobates
+remotus can be distinguished from O. barituensis, O. choristolemma, O. cruralis, O. granulosus, O. lehri, O.
+madidi, O. pereger, O. quixensis, O. sanctacrucis, O. sanderi, O. saxatilis, O. simmonsi, and O. zongonensis by
+having dorsal skin smooth and broadly enlarged truncate discs on Fingers III and IV (dorsal skin shagreened to
+granular and discs on Finger III and IV not enlarged). From O. ibischi by having dorsal skin smooth, broadly
+enlarged truncated discs on Fingers III and IV, nuptial pads absent and advertisement call notes having 2–3 pulses
+each (dorsal skin granular, discs on Finger III and IV only slightly enlarged, nuptial pads present and advertisement
+call notes having 6–8). From O. discoidalis by the absence of toe webbing, larger discs on Fingers III and IV, and
+advertisement call consisting of a single short pulsed note with 104 ms in length, dominant frequency of about
+
+44 · Zootaxa 3158 © 2012 Magnolia Press
+
+TEIXEIRA JR. ET AL.
+
+3150 Hz and 2–3 pulses per note (toes basally webbing, proportionally smaller discs on Fingers III and IV, and call
+composed of a single longer pulsed note with 582 ms in length, dominant frequency of about 2200 hz and 8–11
+pulses per note). Oreobates remotus is more similar to O. heterodactylus, from which it can be distinguished by
+absence of nuptial pads, subacuminated snout in dorsal view, and shorter advertisement call with dominant frequency of about 3150 Hz, no harmonic structure and 2–3 pulses per note (nuptial pads present, slightly truncated
+snout in dorsal view and call is a single pulsed note with dominant frequency of about 3950 hz, having 3 to 5 harmonics and 5–9 pulses per note). Additionally O. remotus has, proportionally to body size, a larger hand than any
+other species of Oreobates.
+TABLE 1. Measurements (mm) of Oreobates remotus sp. nov.: n = number of individuals; mean ± standard deviation; range in
+parentheses.
+Adult males (n=4)
+
+Adult female (n=1)
+
+Subadults (n=6)
+
+SVL
+
+31.6 ± 1.5 (29.6–33.1)
+
+37.7
+
+25.3 ± 2 (23.4–28.0)
+
+HL
+
+12 ± 0.7 (11.4–13.0)
+
+14.0
+
+9.9 ± 0.8 (9.0–11.0)
+
+HW
+
+11 ± 0.7 (10.2–12.0)
+
+12.9
+
+9.2 ± 0.8 (8.3–10.1)
+
+EN
+
+3.9 ± 0.3 (3.6–4.1.0)
+
+4.6
+
+3.2 ± 0.2 (2.8–3.5)
+
+EE
+
+5.8 ± 0.2 (5.6–6.1.0)
+
+7.2
+
+5.4 ± 0.5 (4.9–6.1)
+
+ED
+
+4.2 ± 0.2 (3.9–4.5.0)
+
+4.6
+
+3.4 ± 0.2 (3.0–3.7)
+
+TD
+
+2.5 ± 0.1 (2.4–2.5)
+
+3.1
+
+2.0 ± 0.3 (1.6–2.8)
+
+IND
+
+2.5 ± 0.1 (2.4–2.7)
+
+3.3
+
+2.2 ± 0.2 (1.9–2.5)
+
+THL
+
+16.2 ± 0.8 (15.3–17.1)
+
+18.8
+
+13.4 ± 1 (12.4–15.1)
+
+TL
+
+16.9 ± 0.6 (16.2–17.7)
+
+19.2
+
+14.1 ± 1.1 (13–15.6)
+
+FL
+
+15.5 ± 0.4 (15.1–15.9)
+
+17.6
+
+12.9 ± 1.4 (10.7–14.4)
+
+Natural history and distribution. All individuals of Oreobates remotus sp. nov. were found only during the
+rainy seasons. During our first expedition to Peruaçu valley, only one juvenile was found at a semideciduous forest.
+However that rainy season was atypical as the precipitation was very low (about 500 mm3). The second sampled
+rainy season was a typical one (about 1000 mm3) and individuals became very abundant. Many juveniles were
+found in pitfall traps and along the dry forest floor jumping over the leaf-litter. No individual was found in non-forest environments (e.g. savanna and carrasco). All adults were found in wet limestone outcrops covered with
+mosses on the roadside within the dry forest (Fig. 5). Males where heard calling at night from the wet walls and
+crevices of the outcrops, especially during rainy days.
+The new species is currently known only from the vicinities of the type locality, Peruaçu river valley, and from
+Pandeiros River, both at northern Minas Gerais state, Brazil (Figs. 6 and 7). Although geographical information for
+this latter record is imprecise, Pandeiros River is also located at the left margin of São Francisco River, about 70
+km SW from Peruaçu region. Both areas lie at the southernmost end of the Atlantic Dry Forest.
+Phylogenetic relationships. Both individual and combined analyses of mitochondrial genes cytochrome b (cyt
+b) and 16S recovered Oreobates remotus sp. nov. deeply embedded within Oreobates and sister to O. heterodactylus (Fig. 8), with 10% of interspecific divergence for 16S and 16–17% for cyt b between them. The clade comprising O. cruralis, O. discoidalis and O. madidi is recovered as sister to that containing O. remotus sp. nov. and O.
+heterodactylus, while O. quixensis and O. sanderi are recovered in a basal position. The remaining relationships
+within Strabomantinae were poorly supported, similar to results of Padial et al. (2008b, 2009).
+
+Discussion
+Although our molecular phylogenetic hypothesis do not includes all Oreobates species, they recovered O. heterodactylus as a sister taxon of O. remotus sp. nov. with support. The placement of this species in Oreobates and its
+affinities to O. heterodactylus are also supported by morphological, ecological and distributional evidence. Both
+
+NEW SPECIES OF OREOBATES
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+45
+
+species are morphologically similar, occur in the same microhabitats, and are biogeographically associated to dry
+forests. The broadly enlarged and truncated discs in Finger III and IV are the most conspicuous traits shared by
+both species.
+
+FIGURE 5. Habitats: General view of the dry forest during rainy season (A), and during the dry season (B); Limestone outcrops (“Rochedo”) within the dry forest where adult males of Oreobates remotus sp. nov. were found calling, and where the
+holotype was collected (C).
+
+Padial et al. (2008a) provided a phylogenetic hypothesis for intrageneric relationships in Oreobates in which
+the most parsimonious biogeographical scenario was an origin of Oreobates from an ancestor at the upper Amazon
+basin and Andes foothills. Their hypothesis also implied a subsequent colonization of higher altitudes, in the
+Andean Cordillera Oriental, and two subsequent radiations, one of robust species and one of smaller species mainly
+occurring in from Central Bolivia to Argentina across the Andean hills. They also suggested that O. heterodactylus,
+a member of the clade with small species, would have originated from an ancestor that dispersed through the lowlands and reached the Brazilian Precambrian Shield. However their phylogenetic hypothesis used to construct this
+biogeographical scenario missed Oreobates closest related genera, Lynchius and Phrynopus (Hedges et al. 2008,
+Padial et al. 2009, Pyron & Wiens 2011).
+However, given the recently published phylogenetic hypotheses (Hedges et al. 2008; Padial et al. 2009; Pyron
+& Wiens 2011) new and more complete view of Oreobates biogeography can be drawn. Species within the genus
+Phrynopus occurs at the humid montane forests and supra-tree line grasslands between 2200–4400 m a.s.l. and
+Lynchius in similar habitats between 2200–3100 m a.s.l., both at Andean Cordillera Oriental (Hedges et al. 2008).
+
+46 · Zootaxa 3158 © 2012 Magnolia Press
+
+TEIXEIRA JR. ET AL.
+
+Therefore the association with Andean habitats seems to be a simplesiomorphic feature for Oreobates, Lynchius
+and Phrynopus, indicating that their common ancestor was of Andean origin. Therefore, the present association of
+Oreobates to Andean habitats should be considered plesiomorphic, and the occupancy of the lowlands apomorphic.
+The colonization of the lowland by O. quixensis may well be considered an early event. Subsequently, a second,
+independent colonization of the lowlands, when lowland Chiquitano and Atlantic Dry Forests were colonized,
+would have taken place from the ancestor of clade of small Oreobates (O. barituensis, O. cruralis, O. discoidalis,
+O. heterodactylus, O. madidi, and O. heterodactylus). Probably the only lowland diversification event within Oreobates was the origin of O. heterodactylus and O. remotus from a common ancestor.
+
+FIGURE 6. Map of South America, showing distributional records of Oreobates.
+
+NEW SPECIES OF OREOBATES
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+47
+
+FIGURE 7. Map of the current known distribution of Oreobates remotus sp.nov.
+
+Currently, Atlantic and Chiquitano Dry Forests are separated from each other by a distance of more than 1,000
+km. However, the occurrence of tree species in both areas indicates an ancient connection between those two forests as suggested by the Pleistocene Arc hypothesis (Prado & Gibbs 1993; Pennington et al. 2000; Prado 2000).
+This hypothesis states that during the Last Glacial Maximum, when a cold and dry climate took place over South
+America, humid habitats, such as those of the Amazon and Atlantic Rain Forests, retracted and fragmented. Plant
+species adapted to cold/dry climatic conditions spread then over central South America producing a large and continuous cover of dry forests that connected thus the Atlantic Dry Forest and the Chiquitano Forests (Prado & Gibbs
+1993; Pennington et al. 2000; Prado 2000). Although the current distributional records of plant species associated
+with dry forests indicates a preterit connection between these forests (Prado & Gibbs 1993; Pennington et al. 2000;
+Prado 2000), recent molecular data on endemic plant species of the SDTFs showed no evidence of vicariance and
+that their diversification was older than the Pleistocene as originally suggested (Pennington et al. 2004). Palynological data of plant species from Chiquitano Dry Forest is absent from Pleistocene pollen records (Mayle 2006), and
+paleodistribution modeling also indicates an older event of dry forest expansion, as the LGM was too cold and dry
+
+48 · Zootaxa 3158 © 2012 Magnolia Press
+
+TEIXEIRA JR. ET AL.
+
+to allow it (Werneck et al. 2010). Moreover, the large genetic divergences between O. heterodactylus and O. remotus also suggest that the splitting was older than the Pleistocene. Faunistic evidence is nonetheless weak to support
+this Pleistocene Arc hypothesis, and is currently based on shared species between SDTFs of Paranã valley at Goiás
+state with the Caatingas (Moojen et al. 1997; Werneck & Colli 2006), suggesting a larger extension of dry habitats
+in northeastern Brazil and their connection to eastern Cerrado SDTFs, and not a continuous dry habitat across Central Brazil.
+
+FIGURE 8. Bayesian consensus tree topology obtained from the combined molecular data set (cyt b and 16S) showing the
+placement of Oreobates remotus sp. nov. within Oreobates, and as sister taxon of O. heterodactylus. Numbers above nodes are
+posterior probabilities.
+
+The new species was recorded only at the southernmost end of the ADF, which was the only area properly sampled along this ecoregion. Oreobates remotus may have a wider distribution, which can be only confirmed by additional sampling along the remaining fragments of SDTFs northern from Peruaçu region. The present status of the
+original vegetation cover of ADF was never properly addressed, but it seems to be highly fragmented with only
+few areas protected in conservation unities (Silva 2001; Silva & Casteleti 2005). Although an apparently stable
+population of Oreobates remotus occurs within a national park, undetected populations may be undergoing severe
+anthropic pressure, as this forests are the main target areas for agriculture along central Brazil (Oliveira-Filho &
+Ratter 2002). Conservation efforts along the remaining fragments of SDTFs are urgently necessary in order to
+ensure the detection, investigation and continuity of the evolutionary processes of this biotic domain, which is only
+beginning to be known.
+
+NEW SPECIES OF OREOBATES
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+49
+
+Acknowledgments
+We are grateful to IBAMA officers at Parque Nacional Cavernas do Peruaçu, Evandro Silva, Flávio Túlio Gomes,
+Lilian Bonjorne de Almeida and Maria Carolina A. Camargos; and FIAT employees, Mr. Norinho, Ms. Nita and
+their family for help and support during field work; ICMBio for the authorization to work at the National Park (permit number 10129-2); FAPESP and CNPq for financial support; Hussam Zaher, Carolina Castro-Mello and Renato
+Feio for access to specimens; Sabrina Baroni for technical assistance; Jose M. Padial for allowing the use of a picture, and suggestions, comments and corrections on early versions of this manuscript, that have improve it considerably. The senior author is especially grateful to Renato Kipnis for presenting Peruaçu valley region to him,
+rendering all this possible.
+
+References
+Amaro, R.C., Pavan, D. & Rodrigues, M.T. (2009) On the generic identity of Odontophrynus moratoi Jim & Caramaschi, 1980
+(Anura, Cycloramphidae). Zootaxa, 2071, 61–68.
+Akmentins, M.S. & Vaira, M. (2009) Amphibia, Anura, Strabomantidae, Oreobates barituensis: distribution extension, new
+provincial record and geographic distribution map. Check List, 5, 216–217.
+Alonso, A. & Dallmeier, F. (1998) Biodiversity Assessment of the Lower Urubamba Region, Perú: Cashiriari 3 - Well Site and
+the Camisea and Urubamba Rivers. Smithsonian Institution/ MAB Biodiversity Program: Washington, DC, USA, 298 pp.
+Boulenger, G. (1882) Catalogue of the Batrachia Salientia s. Ecaudata in the Collection of the British Museum. Taylor and
+Francis: London, 256 pp.
+Caramaschi, U. & Canedo, C. (2006) Reassessment of the taxonomic status of the genera Ischnocnema Reinhardt and Lutken,
+1862 and Oreobates Jimenez-de-la-Espada, 1872, with notes on the synonymy of Leiuperus verrucosus Reinhardt and
+Lutken, 1862 (Anura : Leptodactylidae). Zootaxa, 1116, 43–54.
+Cisneros-Heredia, D.F. (2003) Herpetofauna de la Estación de Biodiversidad Tiputini, Amazonía Ecuatoriana: Ecología de una
+comunidad taxonómicamente diversa con comentarios sobre metodologías de inventario. In: De la Torre, S. & Reck, G.
+(Eds), Ecología y Ambiente en el Ecuador: Memorias del I Congreso de Ecología y Ambiente, Ecuador país megadiverso.
+Universidad San Francisco de Quito: Quito, pp. 1–21.
+Crisci, J.V., Katinas, L. & Posadas, P. (2003) Historical Biogeography: an introduction. Harvard University Press: Cambridge/
+London, 250 pp.
+Croizat, L. (1964) Space, Time, Form: The Biological Synthesis. Published by the author: Caracas, Venezuela, 676 pp.
+Doan, T. & Arriaga, W.A. (2002) Microgeographic Variation in Species Composition of the Herpetofaunal Communities of
+Tambopata Region, Peru. Biotropica, 34, 101–117.
+Duellman, W.E. (1990) A new species of leptodactylid frog, genus Ischnocnema, from Peru. Occasional Papers of the Museum
+of Natural History University of Kansas, 138, 1–7.
+Duellman, W.E. & Lehr, E. (2009) Terrestrial-Breeding Frogs (Strabomantidae) in Peru. Nature und Tier Verlag: Münster,
+Germany, 382 pp.
+Feio, R.N. (2003) Herpetofauna. Plano de Manejo do Parque Nacional Caverna do Peruaçu - MG. IBAMA, FIAT, CSDGeoKlock Geologia e Engenharia Ambiental LTDA: São Paulo, pp. 590–646.
+Ferrari, L. & Vaira, M. (2008) Descripción del Canto de Anuncio de una Población Argentina de Oreobates discoidalis (Anura:
+Strabomantidae). Cuadernos de Herpetologia, 22, 81–85.
+Frost, D.R., Grant, T., Faivovich, J., Bain, R.H., Haas, A., Haddad, C.F.B., de Sá, R.O., Channing, A., Wilkinson, M., Donnellan, S.C., Raxworthy, C.J., Campbell, J.A., Blotto, B.L., Moler, P.E., Drewes, R.C., Nussbaum, R.A., Lynch, J.D. &
+Green, D.M. (2006) The amphibian tree of life. Bulletin of the American Museum of Natural History, 297, 1-370.
+GBIF. (2011) Global Biodiversity Information Facility - Data Portal, Global Biodiversity Information Facility. Available from:
+http://data.gbif.org/welcome.htm.
+Gridi-Papp, M. (2007) Sound Ruler acoustic analysis. v. 0.9.6.0. Available from: http://soundruler.sourceforge.net, (March 7,
+2011).
+Harvey, M.B. & Sheehy, C.M. (2005) A new species of Ischnocnema (Anura: Leptodactylidae) from La Paz, Bolivia. Herpetologica, 61, 268–275.
+Hedges, S.B., Duellman, W.E. & Heinicke, M.P. (2008) New World direct-developing frogs (Anura: Terrarana): molecular phylogeny, classification, biogeography, and conservation. Zootaxa, 1737, 1–182.
+Heinicke, M.P., Duellman, W.E. & Hedges, S.B. (2007) Major Caribbean and Central American frog faunas originated by
+ancient oceanic dispersal. Proceedings of the National Academy of Sciences of the United States of America, 104, 10092–
+10097.
+Heyer, W.R. & Gascon, C. (1995) Collection notes and call characteristics for Ischnocnema quixensis and Phyzelaphryne miriamae. Journal of Herpetology, 28, 304–307.
+Janzen, D.H. (1988) Tropical Dry Forest - The Most Endangered Major Tropical Ecosystem. In: Wilson, E.O. & Peter, F.M.
+
+50 · Zootaxa 3158 © 2012 Magnolia Press
+
+TEIXEIRA JR. ET AL.
+
+(Eds), Biodiversity. National Academy Press: Washington, D.C., pp. 130–137.
+Jiménez de la Espada, M. (1872) Nuevos batrácios americanos. Anales de la Sociedad Española de Historia Natural, 1, 85–88.
+Lomolino, M.V., Riddle, B.R. & Brown, J.H. (2006) Biogeography. Sinauer Associates, Inc.: Sunderland, MA, 845 pp.
+Lynch, J.D. (1975) A review of the Andean leptodactylid frog genus Phrynopus. Occasional Papers Mus Nat Hist Univ Kans,
+35, 1–51.
+Lynch, J.D. & Schwartz, A. (1971) Taxonomic disposition of some 19th Century leptodactylid frog names. Journal of Herpetology, 5, 103–114.
+Mayle, F.E. (2006) The Late Quaternary Biogeographical History of South American Seasonally Dry Tropical Forest: INsights
+from Palaeo-Ecological Data. In: Pennington, R.T., Lewis, G.P. & Ratter, J.A. (Eds), Neotropical Savannas and Seasonally
+Dry Forests: Plant Diversity, Biogeography, and Conservation. Taylor & Francis: London; New York, pp. 395–416.
+Miles, L., Newton, A.C., DeFries, R.S., Ravilious, C., May, I., Blyth, S., Kapos, V. & Gordon, J.E. (2006) A global overview of
+the conservation status of tropical dry forests. Journal of Biogeography, 33, 491–505.
+Miranda-Ribeiro, A. (1937) Alguns batrachios novos das colleçcões do Museo Nacional. O Campo, 8, 66–69.
+MMA. (2000) Avaliação e ações prioritárias para a conservação da biodiversidade da Mata Atlântica e Campos Sulinos.
+Ministério do Meio Ambiente, dos Recursos Renovaveis e Hidricos e da Amazônia Legal, Conservation International do
+Brasil, Fundação SOS Mata Atlântica, Fundação Biodiversitas: Brasilia, 40 pp.
+Moojen, J., Locks, M. & Langguth, A. (1997) A new species of Kerodon Cuvier, 1825 from the state of Goiás, Brazil (Mammalian, Rodentia, Caviidae). Boletim do Museu nacional, Zoologia, Nova Série, 377, 1–10.
+Morrone, J.J. (2009) Evolutionary Biogeography: an integrative approach with case studies. Columbia University Press:
+Chichester, NY, 301 pp.
+Murphy, P.G. & Lugo, A.E. (1986) Ecology of tropical dry forest. Annual Review of Ecology and Sistematcs, 17, 67–88.
+Nylander, J.A.A. (2004) MrModeltest v2. Program distributed by the author. Evolutionary Biology Centre: Uppsala University.
+Oliveira-Filho, A.T. & Ratter, J.A. (2002) Vegetation Physiognomies and Woody Flora of the Cerrado Biome. In: Oliveira, P.S.
+& Marquis, R.J. (Eds), The Cerrados of Brazil - Ecology and Natural Hystory of a Neotropical Savanna. Columbia University Press: New York, pp. 91–120.
+Olson, D.M., Dinerstein, E., Wikramanayake, E.D., Burguess, N.D., Powell, G.V.N., Underwood, E.C., D'amico, J.A., Strand,
+J.C., Loucks, C.J., Allnutt, T.F., Ricketts, T.H., Kura, Y., Lamoreux, J.F., Wettengel, W.W., Hedao, P. & Kassem, K.R.
+(2001) Terrestrial Ecorregions of the World: A New Map of Life on Earth. Bioscience, 51, 933–938.
+Padial, J.M. & De la Riva, I. (2005) Rediscovery, redescription, and advertisement call of Eleutherodactylus heterodactylus
+(Miranda Ribeiro, 1937) (Anura : Leptodactylidae), and notes on other Eleutherodactylus. Journal of Herpetology, 39,
+372–379.
+Padial, J.M., Chaparro, J.C. & De la Riva, I. (2008a) Systematics of Oreobates and the Eleutherodactylus discoidalis species
+group (Amphibia, Anura), based on two mitochondrial DNA genes and external morphology. Zoological Journal of the
+Linnean Society, 152, 737–773.
+Padial, J.M., Koehler, J., Munoz, A. & De la Riva, I. (2008b) Assessing the taxonomic status of tropical frogs through bioacoustics: geographical variation in the advertisement calls in the Eleutherodactylus discoidalis species group (Anura).
+Zoological Journal of the Linnean Society, 152, 353–365.
+Padial, J.M., Castroviejo-Fisher, S. & De la Riva, I. (2009) The phylogenetic relationships of Yunganastes revisited (Anura:
+Terrarana). Molecular Phylogenetics and Evolution, 52, 911–915.
+Palumbi, S.R. (1996) Nucleic acids II: The Polymerase Chain Reaction. In: Hillis, D.M., Moritz, C. & Mable, B.K., Molecular
+Systematics. Sinauer: Sunderland, MA, 205–247.
+Pennington, R.T., Lavin, M., Prado, D.E., Pendry, C.A., Pell, S.K. & Butterworth, C.A. (2004) Historical climate change and
+speciation: neotropical seasonally dry forest plants show patterns of both Tertiary and Quaternary diversification. Philosophical Transactions of the Royal Society of London Series B-Biological Sciences, 359, 515–537.
+Pennington, R.T., Prado, D.E. & Pendry, C.A. (2000) Neotropical seasonally dry forest and Quaternary vegetation changes.
+Journal of Biogeography, 27, 261–273.
+Pérez, P., Bodmer, R. & Puertas, P. (2004) Anuros y Saurios del Interfluvio Yavarí - Tahuayo y su comparación con las Áreas
+Naturales Protegidas en la Región Loreto, Perú. VI Congresso Internacional sobre Manejo de Fauna Silvestre en la Amazonia y Latinoamérica 5 - 10 Septiembre 2004: Iquitos - Perú.
+Peters, J.A. (1955) Herpetological type localities in Ecuador. Revista Ecuatoriana de Entomologiay Parasitologia, 2, 335–352.
+Prado, D.E. (2000) Seasonally Dry Forest of Topical South America: from forgotten Ecosystem to a new Phytogeographic
+Unit. Edinburgh Journal of Botany, 57, 437–461.
+Prado, D.E. & Gibbs, P.E. (1993) Patterns of Species Distributions in the Dry Seasonal Forests of South-America. Annals of the
+Missouri Botanical Garden, 80, 902–927.
+Pyron, R.A. & Wiens, J.J. (2011) A large-scale phylogeny of Amphibia including over 2800 species, and a revised classification of extant frogs, salamanders, and caecilians. Molecular Phylogenetics and Evolution, doi:10.1016/
+j.ympev.2011.06.012.
+Redford, K.H., Taber, A. & Simonetti, J.A. (1990) There is more to biodiversity than tropical rainforests. Conservation Biology,
+4, 328–330.
+Ronquist, F. & Huelsenbeck, J.P. (2003) MrBayes 3: Bayesian phylogenetic inference under mixed models. Bioinformatics, 19,
+1572–1574.
+
+NEW SPECIES OF OREOBATES
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+51
+
+Sánchez-Azofeifa, G.A., Kalacska, M., Quesada, M., Calvo-Alvarado, J.C., Nassar, J.M. & Rodríguez, J.P. (2005) Need for
+Integrated Research for Sustainable Future in Tropical Dry Forest. Conservation Biology, 19, 285–286.
+Silva, J.M.C. (2001) Atlantic Dry Forests - Terrestrial Ecoregions, World Wildlife Fund (WWF). Available from: http://
+www.worldwildlife.org/wildworld/profiles/terrestrial/nt/nt0202_full.html, (March 7, 2011).
+Silva, J.M.C. & Casteleti, C.H.M. (2005) Estado da biodiversidade da Mata Atlântica brasileira. In: Galindo-Leal, C. &
+Câmara, I.G. (Eds), Mata Atlãntica: Biodiversidade, Ameaças e Perspectivas. Fundação SOS Mata Atlântica, Conservation International: São Paulo, Belo Horizonte, pp. 43–59.
+Tabarelli, M. & Silva, J.M.C. (2003) Áreas e ações prioritária para a Conservação da Biodiversidade da Caatinga. In: Leal, I.R.,
+Tabarelli, M. & Silva, J.M.C. (Eds), Ecologia e Conservação da Caatinga. Editora Universitária a UFPE: Recife, pp. 777–
+796.
+Tamura, K., Peterson, D., Peterson, N., Stecher, G., Nei, M., & Kumar, S. (2011) MEGA5: Molecular Evolutionary Genetics
+Analysis using Maximum Likelihood, Evolutionary Distance, and Maximum Parsimony Methods. Molecular Biology and
+Evolution 28, 2731–2739.
+UHESA (2011) UHE Santo Antônio – Sumário dos Estudos de Impacto Ambiental - EIA – Tomo B – Volume 4/8, Santo Antônio Consórcio
+Construtor. Avaliable from: http://www.uhesantoantonio.com/usina2011/arquivos/paginas/27e9936740e47a1830f670724781a647.pdf,
+(September 13, 2011).
+Vaira, M. & Ferrari, L. (2008) A new species of Oreobates (Anura: Strabomantidae) from the Andes of northern Argentina.
+Zootaxa, 1909, 27–36.
+Werneck, F.P. & Colli, G.R. (2006) The lizard assemblage from seasonally dry tropical forest enclaves in the Cerrado biome,
+Brazil, and its association with the Pleistocenic Arc. Journal of Biogeography, 33, 1983–1992.
+Werneck, F.P., Costa, G.C., Colli, G.R., Prado, D.E. & Sites, J.W. (2010) Revisiting the historical distribution of Seasonally Dry
+Tropical Forests: new insights based on palaeodistribution modelling and palynological evidence. Global Ecology and
+Biogeography, 20, 272–288.
+Werner, F. (1896) Beiträge zur Kenntniss der Reptilien und Batrachier von Centralamerika und Chile, sowie einiger seltenerer
+Schlangenarten. Verhandlungen des Zoologisch-Botanischen Vereins in Wien, 46, 344–365.
+
+52 · Zootaxa 3158 © 2012 Magnolia Press
+
+TEIXEIRA JR. ET AL.
+
+

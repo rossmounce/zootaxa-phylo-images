@@ -1,0 +1,295 @@
+Zootaxa 3164: 41–48 (2012)
+www.mapress.com / zootaxa/
+
+ISSN 1175-5326 (print edition)
+
+Article
+
+Copyright © 2012 · Magnolia Press
+
+ZOOTAXA
+ISSN 1175-5334 (online edition)
+
+Contribution to the knowledge of Siphonoperla in Europe
+(Plecoptera: Chloroperlidae): Siphonoperla korab sp. n.
+WOLFRAM GRAF1, ALEKSANDAR POPIJA 2, ANA PREVIŠI 3,
+MARIBET GAMBOA4 & MLADEN KU INI 3
+
+Ć
+
+Ć
+Č
+
+Č
+
+1
+
+Institute of Hydrobiology and Aquatic Ecology Management, University of Natural Resources and Life Sciences, Max Emanuelstraße
+17, 1180 Vienna, Austria. E-mail: wolfram.graf@boku.ac.at
+2
+Oikon Ltd. - Institute for applied ecology, Trg senjskih uskoka 1-2, 10020 Zagreb, Croatia
+3
+Department of Biology, Faculty of Science, University of Zagreb, Rooseveltov trg 6, 10000 Zagreb, Croatia
+4
+Institute of Freshwater Ecology and Inland Fisheries (IGB), Department of Shallow lakes and Lowland rivers s, Müggelseedamm
+301, 12587 Berlin, Germany
+
+Abstract
+A new species of stonefly of the genus Siphonoperla from the Dinaric Mountains of Macedonia is described. The description of S. korab sp. n. is based on morphological and genetic characters. We also provide notes on habitat and distribution
+of this new taxon. Further notes on the biogeography of the genus are added.
+Key words: Plecoptera, Siphonoperla, new species, penial structures, mtDNA, Macedonia
+
+Introduction
+Species of the genus Siphonoperla Zwick, 1967 are relatively small chloroperline stoneflies usually associated with
+cold spring habitats, but some species have been reported from lowlands. The systematics of the genus is much disputed (Weiss et al. 2011), and species are distinguished on morphological criteria. The genus Siphonoperla is distributed throughout Europe and occurs both in North Africa and in Central Asia. The genus currently includes
+thirteen described species (DeWalt et al. 2011): S. hajastanica (Zhiltzova), S. libanica Alouf, S. lepineyi (Navás),
+S. baetica (Aubert), S. burmeisteri (Pictet), S. montana (Pictet), S. neglecta (Rostock), S. graeca (Aubert), S. taurica (Pictet), S. ottomoogi Graf, S. torrentium (Pictet), S. transsylvanica (Kis) and S. italica (Aubert). In this study,
+we focus on a morphologically similar species group comprising S. neglecta, S. graeca and the new species S.
+korab sp. n.
+
+Material and methods
+Two specimens were collected using an aerial insect net and all material was stored originally in 70% ethanol but
+transferred to 95% ethanol for genetic analysis. The holotype and paratype are deposited in the collection of the
+Biologiezentrum Linz (LI-PLEC-2011/01), Austria. General distributions were compiled from data extracted from
+the following publications: Aubert (1953, 1956), Alouf (1992), Braasch & Joost (1976), Despax (1951),
+Fiałkowski & Kittel (2002), Fochetti (1995), Graf et al. (2008), Kimmins (1935), Kis (1963, 1974), Lillehammer
+(1988), Loskutova (2003), Murányi (2007), Sivec (1980), Soldán et al. (1998), Weiss et al. (2011), and Zwick
+(1971, 1981).
+DNA extraction and Data analysis. Genomic DNA was extracted from three Siphonoperla species (S.
+neglecta, S. graeca and S. korab sp. n.) using DNeasy blood and tissue kits (Qiagen GmbH, Hilden, Germany). A
+PCR reaction was carried out to amplify a 650 bp region of the mitochondrial cytochrome oxidase I (cox1) gene
+
+Accepted by B. Kondratieff: 21 Nov. 2011; published: 18 Jan. 2012
+
+41
+
+using primers LCO-1490 and HCO-2198 (Folmer et al. 1994) in a 25 l reaction. PCR products were purified using
+the QIAquick PCR Purification Kit (Qiagen GmbH, Hilden, Germany) and sequenced in both directions using the
+PCR primers. Samples were analyzed on a 3500xL (Applied Biosystems) automated sequencer.
+Forwards and reverse reads were assembled and edited using CodonCode Aligner v 3.5 (Codon Code Corporation, Dedham, USA) and contigs were compared to the NCBI nucleotide database using blastn queries (http://
+blast.ncbi.nlm.nih.gov). Phylogenetic analysis was conducted on three Siphonoperla species. We also included two
+other published Siphonoperla sp. cox1 sequences (i.e. of S. montana and S. ottomoogi, GenBank Accession Nos.
+EU441195 and EU441202; Graf et al. 2008) as these showed >90% identity to our sequences in the blastn query
+and additionally Perla sp. as an outgroup (obtained from /ibol.org/). All sequences were aligned using ClustalW
+(Thompson et al. 1994) and a phylogenetic search was conducted using a maximum likelihood approach in PhyML
+v 3.0 (Guindon & Gascuel 2003) under a GTR model of evolution (as determined by Modeltest v 3.7, Posada &
+Crandall 1998) and bootstrapping of 1000 replications. Uncorrected pairwise p–distances among individuals were
+generated with Mega 4.0 (Tamura et al. 2007). All newly generated DNA sequences have been deposited in GenBank (Accessions JN084076-JN084078).
+
+μ
+
+Siphonoperla korab Graf, sp. n.
+(Figs. 3a–b, 4c, 5)
+Diagnosis. This species is defined in the male by the presence of a broad U-shaped, penial spine area, and in both
+sexes by a small rectangular and one spindle shaped sclerotisation of the pro- and mesosternite, respectively.
+Description. General appearance genotypic, small, slender and yellowish; body length: male: 6.2 mm, with
+wings 8.0 mm; female: 8.0 mm, with wings 10.0 mm.
+Head: pale, no dark markings between ocelli; maxillary and labial palps brownish; antennae pale proximally,
+from the 6th segment continuously brownish until the tip.
+Pronotum: Completely pale with the exception of narrow brown marks medially, and on anterior and posterior
+margins. Additionally one delicate brownish median line is present.
+Thorax: Meso- and metaterga with brownish W-shaped markings. Legs pale, tarsi and tarsal claw brownish.
+Pro- and mesosternite with a small rectangular and one spindle shaped sclerotisation (Fig. 4c).
+Abdomen: Terga 2–7 with rectangular to triangular brownish patches. Tergum 1 with a broad brown stripe at
+the anterior margin covering nearly the entire segment. Sternites and cerci pale.
+Male genitalia. Male epiproct slender (Fig. 5), inner margin smoothly convex not curved.
+Basal area of everted penial sac lacking spinules. Penial spine area broad, U-shaped and prominent (length =
+421.3 µm, width = 320.8 µm) (Fig. 3a). Marginal spines distinctly broader and longer than others. Two small additional spine areas ventrolaterally (in respect to the everted penis) of the base of the titillators. Titillators long
+(length = 1430.6 µm, Fig. 3b).
+Female genitalia. Subgenital plate broad, covering half of the 8th segment. Slightly biconvex.
+Eggs and larva. Unknown.
+Material examined. Holotype male: Macedonia, Korab Mts., tributary of Žaba river, 41° 47’ 45.3’’N, 20° 36’
+18.3’’E, 1830m asl., 3.7.2010, leg. A. Previši ; Paratype: 1 female, same data.
+Remarks. In the genus Siphonoperla, arrangements of spines of the penial armature are diagnostic (Weiss et
+al. 2011). Among those species with one median group of spines are S. taurica, S. burmeisteri, S. graeca, S.
+neglecta and S. korab. These species have additionally ventrolateral narrow fields of spines (Zwick 1971, Fig. 11f;
+Figs. 1c, 2b, 3b). Males of S. neglecta, S. graeca and S. burmeisteri are characterized by one median sclerotized
+isosceles triangle shaped armature (Fig. 2a), whereas S. taurica has one narrow sclerotised patch of spines (Kis
+1974, Fig. 155e). In S. burmeisteri there is a prominent median stiffening of the apical portion of the penis sac
+(Zwick 1991, Kis 1974, fig. 154c). Siphonoperla graeca (Figs. 1a, c) has well sclerotized areas laterally at the base
+of the titillators. Within this morphologically similar group including S. graeca, S. burmeisteri, and S. taurica, the
+titillators are relatively short as compared to other members of the genus. Siphonoperla korab is apparently most
+similar to both S. neglecta and S. graeca but differs by the broad, larger U-shaped penial spine-field (Fig. 3a). In S.
+neglecta, the proportion between length and maximum width of the main spine-field is 1.496, in S. graeca it is
+1.94, whereas in S. korab it is 1.31. Additionally, the relative dimensions of the spine field are diagnostic (maxi-
+
+ć
+
+42 · Zootaxa 3164 © 2012 Magnolia Press
+
+GRAF ET AL.
+
+mum width: 239 µm; maximum length: 159 µm in S. neglecta; 209 µm and 107 µm in S. graeca and 421 µm and
+320 µm respectively in S. korab). Titillator length of S. korab (1430.7 µm, Fig. 3b) is also similar to S. neglecta
+(1214.6 µm, Fig. 2b).
+
+FIGURE 1. Siphonoperla graeca: penial armatures a), dorsal view; b) dorsal view; close up; c) right lateral view.
+
+FIGURE 2. Siphonoperla neglecta: penial armatures a), dorsal view; b) right lateral view.
+
+NEW SIPHONOPERLA FROM MACEDONIA
+
+Zootaxa 3164 © 2012 Magnolia Press ·
+
+43
+
+FIGURE 3. Siphonoperla korab sp. n.: penial armatures a), dorsal view; b) right lateral view.
+
+Siphonoperla graeca resembles S. burmeisteri in its penial spine area (Murányi 2007, fig. 86), and has very
+short titillators (Figs. 1a, c). The length from the base to the tip is 588 µm, and overlaps the penis by 272.8 µm only.
+In S. korab, the excess length is 991.9 µm, and in S. neglecta 775.2 µm, respectively.
+In contrast to S. neglecta and S. korab the median spine area of S. burmeisteri (Kis 1974, fig. 154c) and S.
+graeca bears spines in size and degree of sclerotisation similar to those at the margins (Fig. 1b), whereas both S.
+neglecta and S. korab have much larger and darker marginal spines (Figs. 2a, 3a). Both S. neglecta and S. graeca
+have prominent dark sclerotisations on thoracic sternites (Figs. 4a, b), but S. korab exhibits notable modifications
+(Fig. 4c). In dorsal view, the epiproct of S. korab (Fig. 5) is similar to that of S. neglecta and not that broad at the
+base as in S. graeca and S. burmeisteri. Its inner margin lacks a sharp curve as in S. montana.
+Intraspecific variation of penial armatures seems to be low in the genus and apparent hybrids are unknown.
+Although we analysed only one male and one female of S. korab the genetic and morphological differences to other
+compared species are distinct.
+Genetics. PCR amplification and sequencing of coxI was successful for the three Siphonoperla species. Overall species sequences were clearly similar to previously published data (Graf et al. 2008) based on a blastn search.
+Combining our sequences with blastn query results produced an aligned matrix of 5 taxa and 442 characters. In the
+maximum likelihood coxI gene tree (ln L = -1685.47326; Fig. 7) S. korab sp. n. sequence was phylogenetically
+more similar to other Siphonoperla species of the neglecta-group (S. graeca, S. neglecta) with divergence ranging
+from 3.8–5.0%, and genetically more distant to S. ottomoogi and S. montana, with 10.2% and 9.7% of divergence
+between sequences.
+Zoogeographical notes. The genus Siphonoperla exhibits as most Plecoptera, a general increase in
+diversification from northern to southern latitudes of Europe. Only a few species (S. torrentium and S. burmeisteri)
+are distributed in Northern Europe, with S. burmeisteri extending far to the east (St. Petersburg and the Pechora
+Basin), and southwards to the Czech Republic (Bojková 2009) and Bulgaria (one disputable single record only) but
+did not disperse into Western Europe. In contrast the Mediterranean peninsulas are inhabited by several species
+such as S. baetica (Spain), S. graeca (Bosnia-Herzegovina, Montenegro, Macedonia, Greece, Albania), S. libanica
+(Anatolia, Lebanon), S. transsylvanica (Romania, Bulgaria), and S. italica (Italy). The generally eastern-distributed
+S. neglecta is widespread (from the Balkans westwards to the margins of the Austrian Alps to the mountainous
+ranges of Slovakia, the Czech Republic, but also western Germany). A similar distribution is apparent for S.
+taurica with an eastward extension into the Crimean Peninsula. Siphonoperla montana has a more restricted
+distribution occurring in the Beskids Mountains, the Šumava Mountains in the Czech Republic, the Alps, and the
+Apennine and the Dinaric Mountains. A smaller area is inhabited by the microendemic S. ottomoogi (few records
+in the Eastern Alps, Austria) and the subspecies S. torrentium manevali (Massiv Central, France). S. hajastanica
+(Armenia), S. libanica (Anatolia, Lebanon) and S. lepineyi (Northern Africa) do not occur in Europe. Although the
+status of several taxa (especially of the S. torrentium group) is much-disputed (Weiss et al. 2011), the high degree
+
+44 · Zootaxa 3164 © 2012 Magnolia Press
+
+GRAF ET AL.
+
+of diversification and speciation at the Southern Peninsulas like the Balkans remains obvious. S. korab is a cold
+spring-species of higher elevations (Fig. 6) probably restricted to the Korab Mountain Range.
+
+FIGURE 4. Thoracal sternites, a): S. graeca; b): S. neglecta, c): S. korab sp. n.
+
+Similar scattered distributions of microendemic species of the genus Drusus (Trichoptera) among other aquatic
+organisms of Dinaric Mountains have been documented and recently discussed as allopatric speciation events due
+to Pleistocene fragmentations (e.g. Previši et al. 2009, Oláh 2010, Ku ini et al. 2011).
+
+ć č
+
+ć
+
+Acknowledgements
+We thank the Mavrovo National Park authorities and Dr. Vladimir T. Krpach (from National Institution Macedonian Museum of Natural History, Skopje) for their permission and help in field sampling. This research was supported by the Croatian Ministry of Science, Education and Sports (Projects No. 119-1193080-1206 and 1191193080-3076).
+NEW SIPHONOPERLA FROM MACEDONIA
+
+Zootaxa 3164 © 2012 Magnolia Press ·
+
+45
+
+Valuable comments of three reviewers, especially those of Drs. Peter Zwick and David Murányi improved the
+manuscript and were gratefully incorporated.
+
+FIGURE 5. Siphonoperla korab sp. n.: epiproct.
+
+FIGURE 6. Habitat of Siphonoperla korab sp. n. (Photo by I. Stankovi )
+ć
+
+46 · Zootaxa 3164 © 2012 Magnolia Press
+
+GRAF ET AL.
+
+FIGURE 7. Maximum likelihood phylogenetic tree of coxI using a GTR model of evolution, including newly sequenced S.
+korab sp. n., S. neglecta and S. graeca, and highly ranked sequences according to blastn queries (with GenBank alphanumeric
+accession codes). Numbers on the branches are values of bootstrap support from maximum likelihood analysis.
+
+References
+Alouf, N.J. (1992) Description de deux Plécoptères du Liban: Capnia bicornata n. sp. et Siphonoperla libanica n. sp. (Insecta:
+Plecoptera). Senckenbergiana biologica, 72, 173–177.
+Aubert, J. (1953) Contribution à l’étude des Plécoptères et des Ephémeroptères de Calabre (Italie méridionale). Annuariodell`Istituto e Museo di Zoologia dell`Università di Napoli, 5(2), 1–36.
+Aubert, J. (1956) Contribution à l’étude des Plécoptères de Grèce. Mitteilungen der Schweizerischen entomologischen Gesellschaft, 29, 187–213.
+Bojková, J. (2009) Revision of the stonefly collections (Plecoptera) by E. K elinová and J. Raušer from the Czech Republic.
+Aquatic Insects, 31, 245–251.
+Braasch, D. & Joost, W. (1976) 11. Beitrag zur Plecopteren fauna Bulgariens. Entomologische Nachrichten, 20, 25–28.
+Despax, R. (1951) Plécoptères. Faune de France. Federation Française des Sociétés de Sciences Naturelles, Paul Lechevalier
+ed. Paris, 55, 1–280.
+DeWalt, R. E., U. Neu-Becker & G. Stueber (2011) Plecoptera Species File Online. Version 1.1/4.0. [14.11.2011]. <http://Plecoptera.SpeciesFile.org>.
+Fiałkowski, W. & Kittel, W. (2002) Widelnice (Plecoptera). Katalog Fauny Polski. Catalogus faunae Poloniae. Museum I Institut Zoologii Pan, Warszawa, 16(3), 1–72.
+Fochetti, R. (1995) Plecoptera. In: Minelli, A., S. Ruffo & S. La Posta: Checklist delle specie della fauna italiana. Edizioni
+Calderini, Bologna, 37, 1–6.
+Folmer, O., Black, M., Hoeh, W., Lutz, R. & Vrijenhoek, R. (1994) DNA primers for amplification of mitochondrial cytochrome c oxidase subunit I from diverse metazoan invertebrates. Molecular Marine Biology and Biotechnology, 3, 294–
+299.
+Graf, W., Stradner D. & Weiss, S. (2008) A new Siphonoperla species from the Eastern Alps (Plecoptera: Chloroperlidae), with
+comments on the genus. Zootaxa, 1891, 31–38.
+Guindon, S. & Gascuel, O. (2003) A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood. Systematic Biology, 52(5), 696–704.
+Kimmins, D.E. (1935) A new brachypterous Isopteryx from France. Annals and Magazine of Natural History, 10, 645–650.
+ř
+
+NEW SIPHONOPERLA FROM MACEDONIA
+
+Zootaxa 3164 © 2012 Magnolia Press ·
+
+47
+
+Kis, B. (1963) Zwei neue Plecopteren-Arten aus Rumänien. Reichenbachia, Dresden, 1(34), 299–302.
+Kis, B. (1974) Plecoptera. Fauna Republicii Socialiste România, 8(7), 1–271.
+Ku ini , M., Previši , A., Graf, W., Šeri Jelaska, L., Stani -Koštroman, S. & Waringer, J. (2011) Larval description, genetic
+and ecological features of Drusus radovanovici radovanovici Marinkovi -Gospodneti , 1971 (Trichoptera: Limnephilidae) with some phylogenetic and taxonomic data on the bosnicus group in the Balkan Peninsula. Deutsche Entomologische Zeitschrift, 58(1), 135–153.
+Lillehammer, A. (1988) Stoneflies (Plecoptera) of Fennoscandia and Denmark. Fauna Entomologica Scandinavica (E.J. Brill/
+Scandnavian Science Press Ltd., Leiden, New York, Kobenhavn, Köln), 21, 1–165.
+Loskutova O. (2003) Fauna of stoneflies (Plecoptera) of the European North-East Russia and its change under the influence of
+anthropogenic factors. In: Gaino E. (ed.): Research Update on Ephemeroptera & Plecoptera. Università di Perugia, Perugia, Italy, 357–362.
+Murányi, D. (2007) New and little–known stoneflies (Plecoptera) from Albania and the neighbouring countries. Zootaxa, 1533,
+1–40.
+Oláh, J. (2010) New species and new records of Palaearctic Trichoptera in the material of the Hungarian Natural History
+Museum. Annales Historico-Naturales Musei Nationalis Hungarici, 102, 65–117.
+Posada, D. & Crandall, K.A. (1998) Modeltest: testing the model of DNA substitution. Bioinformatics, 14, 817–818.
+Previši , A., Walton, C., Ku ini , M., Mitrikeski, P.T. & Kerovec, M. (2009) Pleistocene divergence of Dinaric Drusus endemics
+(Trichoptera, Limnephilidae) in multiple microrefugia within the Balkan Peninsula. Molecular Ecology, 18(4), 634–647.
+Sivec, I. (1980) Plecoptera. In: Catalogus Faunae Jugoslaviae, 1–29.
+Soldán, T., Zahrádková, S., Helešic, J., Dusek, L. & Landa, V. (1998) Distribution and quantitative patterns of Ephemeroptera
+and Plecoptera in the Czech Republik: A possibility of detection of long–term enviromental changes of aquatic biotopes.
+Folia, Facultatis Scientiarium Naturalium Universitatis Masarykianae Brunensis, Biologia, 98, 1–305.
+Tamura, K., Dudley, J., Nei, M. & Kumar, S. (2007) MEGA4: Molecular Evolutionary Genetics Analysis (MEGA) software
+version 4.0. Molecular Biology and Evolution, 24, 1596–1599.
+Thompson, J.D., Higgins, D.G., Gibson, T.J. (1994) Clustal w: improving the sensitivity of progressive multiple sequence
+alignment through sequence weighting, position-specific gap penalties and weight matrix choice. Nucleic Acids Research,
+22, 4673–4680.
+Weiss, S., Stradner, D. & Graf, W. (2011) Molecular systematics, evolution and zoogeography of the stonefly genus Siphonoperla (Insecta: Plecoptera, Chloroperlidae). Journal of Zoological Systematics and Evolutionary Research. doi: 10.1111/
+j.1439-0469.2011.00639.x
+Zwick, P. (1967) Revision der Gattung Chloroperla Newman (Plecoptera). Mitteilungen der Schweizerischen entomologischen
+Gesellschaft, 40(1–2), 1–26.
+Zwick, P. (1971) Die Plecopteren Pictets und Burmeisters, mit Angaben über weitere Arten (Insecta). Revue Suisse de Zoologie, T. 78, 4(58), 1123–1194.
+Zwick, P. (1981) Das Mittelmeergebiet als glaziales Refugium für Plecopteren. Acta entomologica Jugoslavica, 17, 107–111.
+ć
+
+ć
+
+ć
+
+ć
+
+ć
+
+č
+
+ć
+
+ć
+
+č
+
+ć
+
+48 · Zootaxa 3164 © 2012 Magnolia Press
+
+GRAF ET AL.
+
+

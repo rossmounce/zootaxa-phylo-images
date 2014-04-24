@@ -1,0 +1,1151 @@
+Zootaxa 3158: 1–19 (2012)
+www.mapress.com / zootaxa/
+Copyright © 2012 · Magnolia Press
+
+ISSN 1175-5326 (print edition)
+
+Article
+
+ZOOTAXA
+ISSN 1175-5334 (online edition)
+
+A new rhamphorhynchid (Pterosauria: Rhamphorhynchidae) from the Middle/
+Upper Jurassic of Qinglong, Hebei Province, China
+JUNCHANG LÜ1, DAVID M. UNWIN2, BO ZHAO 3, CHUNLING GAO3 & CAIZHI SHEN3
+1
+
+Institute of Geology, Chinese Academy of Geological Sciences, Beijing 100037, China. E-mail: Lujc2008@126.com
+School of Museum Studies, University of Leicester, 19 University Road, Leicester LE1 7LF, UK
+3
+Dalian Natural History Museum, Dalian 116023, China
+2
+
+Abstract
+A heavily compressed, but nearly complete fossil skeleton recovered from the Middle/Upper Jurassic Tiaojishan Formation of Mutoudeng, Qinglong County, Hebei Province, China, represents a new genus and species of long-tailed pterosaur,
+Qinglongopterus guoi gen. et sp. nov. The holotype and only known specimen has an estimated forelimb length of 0.18
+m. The new taxon is distinguished by a relatively short skull, a remarkably short pteroid with a distinctive knob-like distal
+expansion, and a prepubis with a relatively slender distal process. Phylogenetic analysis demonstrates that Qinglongopterus is a member of Rhamphorhynchidae, exhibiting many of the unique character states found in members of this clade.
+Qinglongopterus is strikingly similar to Rhamphorhynchus and more closely related to this taxon than to any other rhamphorhynchine, this pairing is supported by morphometric data and several synapomorphies (short, broad nasal process of
+the maxilla; forelimb length more than four times that of the hind limb; wing-phalanx one more than twice the length of
+the tibia). Qinglongopterus demonstrates that the highly derived skeletal morphology of Rhamphorhynchus, known only
+from the latest Jurassic (Tithonian) of Europe, had already appeared by the start of the Late Jurassic. This hints at evolutionary stasis in Rhamphorhynchinae, a phenomenon seemingly also present in two other clades of basal pterosaurs,
+Anurognathidae and Scaphognathinae, and contrasting sharply with basal monofenestratans which appear to have undergone extensive evolutionary change during the same interval.
+Key words: Middle/Upper Jurassic, Tiaojishan Formation, Pterosaur, Qinglongopterus guoi gen. et sp. nov.
+
+Introduction
+Pterosaurs have a patchy fossil record and much of what has been recovered comes from a relatively small number
+of key sites (Wellnhofer 1991; Unwin 2005; Barrett et al. 2008). Thanks to the large number of specimens collected
+from some of these locations, and their occasional exceptional preservation, this patchiness has had less impact on
+our understanding of pterosaur palaeobiology than might have been expected. However, the incompleteness of the
+record has had a greater impact on our knowledge of diversity, phylogeny and evolutionary history (Butler et al.
+2009, 2011). Many recent finds have been made in Cretaceous rocks, as a consequence of which understanding of
+pterosaur evolution in the Cretaceous has seen some dramatic improvements (e.g. Lü et al. 2008; Ibrahim et al.
+2010). By contrast, Jurassic rocks have yielded relatively few new pterosaur fossils during the last decade and
+those specimens that have been found generally come from intervals that are already relatively well represented:
+the upper part of the Lower Jurassic (e.g. Buffetaut et al. 2010) and the upper half of the Upper Jurassic (e.g. Billon-Bruyat 2005; Codorniú et al. 2006; Andres et al. 2010). There have been a few finds in rocks of intervening
+age (e.g. Unwin, 1996; Dal Sasso & Pasini 2003; Averianov et al. 2005; Codorniú & Gasparini 2007) but, until
+recently, the record from this interval was poor (Barrett et al. 2008).
+During the last three years, deposits belonging to the Tiaojishan Formation, located in the provinces of Liaoning, Hebei and Inner Mongolia in northeast China and dated as latest Middle or earliest Upper Jurassic in age
+(Zhang et al. 2008; Liu et al. 2010), have begun to produce significant numbers of pterosaur remains (Lü 2009; Lü
+et al. 2010a; Wang et al. 2010). The most important among these to be described so far is Darwinopterus, a highly
+
+Accepted by R. Benson: 10 Oct. 2011; published: 12 Jan. 2012
+
+1
+
+unusual form with a cranium and cervical series that is typically pterodactyloid, while the remainder of the postcranial skeleton is, in almost all respects, almost identical to that of typical long-tailed non-pterodactyloid pterosaurs
+(Lü et al. 2010a). This surprising combination provides key insights into the evolution of pterodactyloid pterosaurs
+from more basal forms. Darwinopterus is represented by numerous finds, several of which have been used as a
+basis for establishing new taxa (‘Wukongopterus’ Wang et al. 2009 and ‘Kunpengopterus ’ Wang et al. 2010) that,
+from our preliminary systematic review, would appear to be synonymous with Darwinopterus. The discovery of a
+female example of Darwinopterus preserved with an egg has thrown much light on sexual dimorphism and reproduction in pterosaurs (Lü et al. 2011a).
+The Tiaojishan Formation has also yielded a scaphognathine, Fenghuangopterus lii Lü et al. 2010b, while
+roughly contemporaneous deposits at Daohugou in Inner Mongolia (Liu et al. 2006) have produced a rhamphorhynchid, Pterorhynchus wellnhoferi (Czerkas and Ji 2002), and an anurognathid, Jeholopterus ningchengensis
+(Wang et al. 2002).
+Here we describe a new long-tailed pterosaur from the Tiaojishan Formation of Mutoudeng, located in Qinglong County, Hebei Province, China. We demonstrate, through phylogenetic analysis, that this new species is
+closely related to Rhamphorhynchus (e.g. Wellnhofer 1975a, b) and show how this find impacts on our understanding of the evolutionary history of the Rhamphorhynchidae and pterosaur evolution in the Jurassic.
+Institutional abbreviations. BSP, Bayerische Staatssammlung für Paläontologie und Geologie, München,
+Germany; D, Dalian Natural History Museum.
+
+Systematic Paleontology
+Pterosauria Kaup, 1834
+Breviquartossa Unwin, 2003
+Rhamphorhynchidae Seeley, 1870 (sensu Unwin, 2003)
+Rhamphorhynchinae Nopcsa, 1928 (sensu Unwin, 2003)
+Qinglongopterus guoi gen. et sp. nov.
+Etymology. The generic name is derived from ‘Qinglong’, the name of the Chinese administrative unit in which
+the holotype locality is to be found, and ‘pterus’ a declension of pteron, the Greek word for wing. The specific
+name is in honor of Chen Guo, who offered the specimen for scientific research.
+Holotype. D3080, D3081 (Figs 1, 2), an almost complete skull and postcranial skeleton preserved on a slab
+and counter-slab and housed in the Dalian Natural History Museum, Dalian, China.
+Locality and horizon. Mutoudeng, Qinglong County, Hebei Province, China. Beds exposed at Mutoudeng
+have been assigned to the Tiaojishan Formation (Bureau of Geology and Mineral Resources of Hebei Province,
+1989) currently dated as latest Middle to earliest Upper Jurassic (Zhang et al. 2008; Liu et al. 2010).
+Diagnosis of genus and species by monotypy. Rhamphorhynchine distinguished by three autapomorphies:
+relatively short skull that forms only 28% of body length (skull+(cervical+dorsal+sacral vertebrae)); short, slender
+pteroid with a knob-like distal expansion; prepubis with relatively slender distal process.
+Description. Preservation. The specimen is largely preserved in articulation and was likely complete when
+found, but appears to have lost the distal portion of the tail during collection (Fig. 1, Table 1). The skeleton is preserved, for the most part, in dorsal view on D3080, and in ventral view on D3081. Unfortunately, the plane of separation between the two slabs was rather uneven, passing through the bones, rather than leaving the skeleton on one
+slab and impressions on the other. Consequently, fragments of each bone are preserved on both slabs. This, and in
+some cases, the poor preservation of bone, frequently hinder the identification of details, but by combining evidence from both slabs it is possible to determine the location, general shape and size of most skeletal elements.
+The split through the skull appears to have been somewhat below half-height, leaving rather fragmented
+remains of the rostrum and cheek bones on D3080, overlying the mandibles (Fig. 2). The position and shape of the
+main openings in the skull can be roughly determined and some of the individual cranial elements such as the quadrate can be observed. An almost complete sclerotic ring from the left orbit now lies just to the left of the cranium. In
+
+2 · Zootaxa 3158 © 2012 Magnolia Press
+
+LÜ ET AL.
+
+addition, the cranium appears to have become slightly disarticulated from the spinal column – possibly a preservational feature related to postburial compression of this markedly three-dimensional structure. Except for the tip of
+the tail, the spinal column is complete and fully articulated. Generally, the location and size of individual vertebrae
+can be determined, but cervicals #4 and #5 are poorly preserved and the sacrals are difficult to distinguish. The rib
+cage, consisting of ribs and gastralia, is remarkably well preserved and although dorsoventrally compressed, many
+of the ribs appear to retain their original location and orientation with regard to the spinal column and one another.
+TABLE 1. Measurements (mm) of Qinglongopterus guoi gen. et sp. nov.
+Elements
+
+Length
+
+Width
+
+Skull
+
+25.0
+
+-
+
+Cervical vertebrae (2–6)
+
+24.3
+
+4.0
+
+Dorsal+sacral vertebrae
+
+39.0
+
+2.2
+
+Caudal vertebrae
+
+79.9 (pres.)
+
+1.7
+
+Scapula
+
+14.7
+
+1.6
+
+Coracoid
+
+15.7
+
+1.3
+
+Humerus
+
+17.8
+
+2.2
+
+Deltopectoral crest
+
+3.4
+
+3.0
+
+Ulna/radius
+
+28.3
+
+1.7/1.6
+
+Pteroid
+
+4.0
+
+0.4
+
+Metacarpals I–IV
+
+9.1
+
+----
+
+Wph1–4
+
+31.7/32.0/29.7/18.5
+
+1.9/1.7/1.2/0.7
+
+Femur
+
+12.2
+
+1.4
+
+Tibia
+
+15.3
+
+1.4
+
+Fibula
+
+10.0
+
+0.5
+
+Metatarsals I–V
+
+6.1/7.1/7.1/6.0/3.1
+
+0.4/0.4/0.4/0.4/0.4
+
+Digit I
+
+1.0,0.5
+
+0.3/0.3
+
+Digit II
+
+1.2/3.1/-
+
+0.2/0.3
+
+Digit III
+
+1.9/0.9/2.9/-
+
+0.2/0.2/0.2/-
+
+Digit IV
+
+2.5/1.0/0.6/0.6/-
+
+0.2/0.2/0.2/0.2/-
+
+Digit V
+
+3.0/4.1
+
+0.3/0.2
+
+Manus
+
+10
+
+-
+
+Pes
+
+15
+
+11
+
+Notes: -, inapplicable. Abbreviations: Wph, wing-phalanx.
+
+Despite the considerable compression they must have experienced during burial, the scapula and coracoid of
+each shoulder girdle, while slightly displaced from each other, do not appear to have moved far from their original
+position in life, at least in dorsal view. The sternal ends of the coracoids are hidden beneath the spinal column. A
+broad, rather indistinct structure preserved beneath the spinal column level with the distal termination of the scapulae probably represents the sternum.
+The forelimbs are both tightly folded at the elbow and at the wing-metacarpal–wing-finger joint. Indeed, in the
+latter case each wing-finger has rotated through a half circle and is now folded back against the wing-metacarpal,
+although on the right side wing-phalanx 1 has become slightly displaced from the roller joint on the distal end of
+the wing-metacarpal. Digits I–III of the left hand are largely obscured by the overlying skull, while the wing-finger,
+which curves medially beneath the trunk and the right hind limb, is almost complete, lacking only the distal portion
+of wing-phalanx 4, preserved as an impression. Phalanx 2 of the right wing-finger is broken, the distal fragment
+oriented at an obtuse angle to the larger portion and displaced somewhat toward the proximal end of the latter. The
+right wing-finger phalanx 3 is slightly displaced from, but continues the natural line of the distal fragment of wingphalanx 2, but wing-phalanx 4 is missing.
+
+NEW RHAMPHORHYNCHID FROM CHINA
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+3
+
+The hind limbs are folded beneath the tail. In both cases the femur projects laterally from the pelvis region
+while the crus is folded back sharply at the knee, almost perpendicular to the femur, and no longer in natural articulation. Both the left and right metatarsus and pes were originally complete and except for some displacement of
+the fourth and fifth digits of the right pes, are preserved in articulation.
+
+FIGURE 1. Holotype of Qinglongopterus guoi gen. et sp. nov. (D3080/1). (a), slab showing holotype in ventral view. (b)
+counterslab showing holotype in dorsal view. Scale bar = 50 mm.
+
+Skeletal anatomy. Seen from above the skull has a subtriangular profile reaching its greatest transverse width at
+the level of the mandibular articulation. The skull is relatively broad, its maximum width attaining almost 50%
+skull length. By contrast in other rhamphorhynchids where this value can be measured, for example ‘Parapsicephalus’ purdoni and Rhamphorhynchus muensteri, it is 35% or less, although in juveniles of the latter, which have relatively broader skulls, it may reach 40% (Wellnhofer 1975b; Bennett 1995). The skull is relatively short and forms
+only 28% of body length (skull + vertebral column excluding the tail) compared to a minimum value of 34% for
+juveniles of Rhamphorhynchus muensteri (Wellnhofer 1975b) and similar or higher values for other rhamphorhynchines. The same relationship is to be found with regard to limb elements: for example, the skull of Qinglongopterus guoi is only 1.28 times the length of the humerus, whereas in other rhamphorhynchines including
+Dorygnathus banthensis and juveniles of Ramphorhynchus the minimum value for this relationship is 1.70 (Wellnhofer 1975b; Padian 2008a). Anurognathids also have relatively short skulls, but their morphology is markedly different from that of Qinglongopterus guoi and other basal pterosaurs (Wellnhofer 1975b; Bennett 2007).
+
+4 · Zootaxa 3158 © 2012 Magnolia Press
+
+LÜ ET AL.
+
+FIGURE 2. Holotype of Qinglongopterus guoi gen. et sp. nov. with labelled main elements (a), showing the shape of pteroid
+(b) and the structure of prepubis (figure inverted with respect to 2a) (c). Abbreviations: bt, basipterygoid; c, coracoid; cv, cervical vertebrae; cau, caudal vertebrae; dp, distal process; dr, dorsal ribs; f, femur; h, humerus; lp, lateral process; lrm, left ramus
+of mandible; ltf, lower temporal fenestra; mtc, metacarpals; mtt, metatarsals; pp, proximal process; pr, prow; prp, prepubis; pt,
+pteroid; q, quadrate; rrm, right ramus of mandible; sl, sclerotic ring; t, teeth; tif, tibia and fibia; u/r, ulna/radius; wph2, wing
+phalanx 2. Scale bar = 50 mm in (a) and 10mm in (b) and (c).
+
+The tip of the rostrum is drawn out into a slender, prow-like process. The prenarial portion of the rostrum occupies approximately one third of total skull length, while the orbits are relatively large, their anterior-posterior diameter exceeding one third the entire length of the skull. The nares appear to be elongate, slit-like, and lie close to the
+midline of the skull. The antorbital opening is seemingly more oval in shape and lies posteroventral to the narial
+opening. The narial and antorbital openings are of similar length to each other, but, as in Rhamphorhynchus (Wellnhofer 1975a), much smaller than the orbit.
+The jugal is of slender construction, with lacrimal and postorbital processes at an obtuse angle, leaving the ventral region of the orbit open. The quadrate appears to have been inclined somewhat posteriorly with regard to the
+horizontal axis of the skull. The lower temporal fenestra is relatively large with a subtriangular profile, and thus
+more similar to the condition in Scaphognathus (Wellnhofer 1975b) and Dorygnathus (Wild 1971; Padian 2008a),
+rather than Rhamphorhynchus (Wellnhofer 1975a). The mandibles appear to have united in a symphysis anteriorly,
+the tip of which tapers to form an elongate, pointed and slightly upcurved prow, one of the defining characteristics
+of Rhamphorhynchinae. The mandibular rami are narrow and lath-like, lacking the distinct coronoid eminence
+present in basal pterosaurs such as dimorphodontids and campylognathoidids (Unwin 2003).
+
+NEW RHAMPHORHYNCHID FROM CHINA
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+5
+
+The dentition consists of at least eight dental alveoli on each side of the rostrum, the posteriormost preserved
+tooth alveolus located below the anterior end of the orbit. There are at least six alveoli in each mandible. The spikelike teeth are long, slender, gently curved and oval in cross-section with sharp tips. Tooth diameter increased
+toward the mid part of the tooth row and teeth were relatively well spaced, the gaps between them far exceeding the
+base diameter of teeth bounding each gap, as is typical for rhamphorhynchids, and unlike the more crowded dentitions of basal pterosaurs such as Eudimorphodon (Wild 1978). The first few pairs of teeth were both procumbent
+and divergent, projecting forward and outward from the dental margins as in the rhamphorhynchines Dorygnathus
+(Wellnhofer 1991; Padian 2008a), Rhamphorhynchus (Wellnhofer 1975a, 1991; Bennett 1995), Angustinaripterus
+(He et al.1983) and Sericipterus (Andres et al. 2010). Toward the posterior end of the tooth row, the teeth become
+more vertical.
+
+Figure 3. Close-up of the skull: Qinglongopterus guoi gen. et sp. nov. with some of the main elements labelled.
+
+Abbreviations: bt, basipterygoid; lrm, left ramus of mandible; ltf, lower temporal fenestra; pr, prow; q, quadrate;
+rrm, right ramus of mandible; sl, sclerotic ring; t, teeth. Scale bar = 1cm.
+The neck is approximately 60% the length of the dorsal+sacral series (DSV), which falls within the range
+known for many basal pterosaurs. Assuming that the atlas is buried beneath the skull, there appear to have been
+nine cervicals, the standard count for basal pterosaurs (Bennett 2004). The third to seventh vertebrae are relatively
+short and blocky, the midline length only slightly exceeding the minimum width. Slender ribs project posteriorly
+from beneath the postzygapophyses. Cervicals eight and nine are somewhat shorter, attaining only two thirds the
+length of the mid-series of the cervicals. The ninth cervical supported well developed ‘free’ ribs.
+There are at least 15 dorsal vertebrae, the first twelve bearing ribs, but not the last three. The first rib, articulating with the first true dorsal (at position ten in the vertebral column) is the most robust. The following ribs show a
+small, but steady, decline in thickness posteriorly, the last dorsal rib (articulating with dorsal 12) reaching only half
+the width of the first dorsal rib. Typically, the proximal half of each dorsal rib shows only a very gentle degree of
+curvature, while the distal half is much more markedly curved. There is an increase in rib length from the first to
+the sixth, followed by a steady decrease in length, the last rib reaching less than 60% the length of the longest rib.
+
+6 · Zootaxa 3158 © 2012 Magnolia Press
+
+LÜ ET AL.
+
+The sacrum is estimated to have contained four sacrals and was followed by a further four ‘free’ caudals, subsequent to which the caudals became increasingly elongate and were sheathed in long, stiff, thread-like extensions
+of the prezygapophyses, postzygapophyses and chevrons as in many other basal pterosaurs including Campylognathoides liasicus (Wellnhofer 1974), Rhamphorhynchus muensteri (Wellnhofer 1975a), Darwinopterus modularis
+(Lü et al. 2010a) and Fenghuangopterus lii (Lü et al. 2010b).
+The element identified as the sternum has a broad sternal plate with bevelled posterolateral margins. Insofar as
+comparisons can be made it is similar in shape and relative size to the sternum of juvenile individuals of Rhamphorhynchus muensteri (Wellnhofer 1975a: fig. 8f). The scapula and coracoid are not coossified, indicating that this
+individual was not osteologically mature. The length of the coracoid is slightly longer than that of the scapula. The
+proximal end of the coracoid supports a short, rounded process that was interpreted by Padian (1983) as the acrocoracoid process. There is no evidence of a brachial tubercle. The proximal end also bears a large subtriangular buttress of bone that projects at right angles to the shaft, supported part of the glenoid and articulated with the scapula.
+The scapula is dorsoventrally compressed and exhibits a gentle medial curvature. It tapers along the entire length of
+the shaft, except at the distal end which is rounded, a little asymmetric and slightly expanded. It might not be coincidental that the distal end of each scapula lies close to the fourth dorsal (= 13th vertebra), the neural spine of which
+bears a facet that articulated with the distal end of the scapula in those pterodactyloids that had a notarium.
+Forelimb length (sum of principal elements) is approximately 167.1 mm, leading to an estimated maximal
+wingspan of 344.2 mm. The humerus is relatively robustly constructed, as in many other basal pterosaurs. The
+proximal articular surface is delimited laterally by a low eminence and continues medially where it is supported by
+the flange-like medial crest. The deltopectoral crest is located at the proximal end of the humerus, as in other basal
+pterosaurs, but unlike pterodactyloids where it is displaced distally to varying degrees (Wellnhofer 1978; Unwin
+2003). The deltopectoral crest, which is more or less perpendicular to the long axis of the humerus, is subrectangular in outline with proximal and distal margins that curve into the shaft of the humerus and a gently convex anterior
+margin. The shaft of the humerus is slightly waisted, reaching its narrowest at about mid-length. The distal termination is strongly expanded and markedly asymmetric, the buttress supporting the radial condyle projecting well
+above the level of the shaft.
+The ulna is slightly more robust than the radius, and in their general morphology these elements correspond
+quite closely to those of Rhamphorhynchus. Notably, the ulna and radius are relatively elongate, reaching 159% the
+length of the humerus, as in other rhamphorhynchids (Unwin 2003), distinguishing them from more basal clades
+such as Dimorphodontidae and Campylognathoididae where the forearm is relatively short (111–144%). The distal
+termination of the radius is markedly convex, rounding into the ventral margin of the shaft ventrally, but meeting
+the dorsal margin of the shaft at a sharp angle dorsally. The distal termination of the ulna has a well developed dorsal condyle.
+The carpus consists of multiple unfused elements in both the proximal and distal row, further illustrating the
+osteological immaturity of this individual. The proximal row contains two narrow tablet-like bones, the more
+medial of which is likely the radiale, while the lateral is probably the ulnare. The distal row contains a large lateral
+element that contacts the wing-metacarpal, and several medial elements. The pteroid (Fig. 2b) is relatively short,
+only 22.5% the length of the humerus. It has a strongly expanded proximal articulation and a convex, knob-like
+distal expansion that appears to have been an articular condyle. Consequently, the pteroid looks remarkably similar
+to intermediate phalanges of the manual claw digits, but based on their location, orientation and the completeness
+of the manus in this individual, it is certainly not a displaced digital phalanx. As interpreted here, the pteroid morphology implies the presence of a second pteroid element that was more distal to the first. There is no direct evidence for such an element, although it is possible that this was unossified, or lost during collection.
+Rhamphorhynchus is the only other pterosaur known, at present, in which the pteroid consists of two elements
+although in this case the basal element is relatively shorter (Wellnhofer 1975a: fig 12a, b).
+Metacarpals I–III contact the distal carpal row, as in all other non-pterodactyloids, extend to the distal end of
+the metacarpus, and are all the same length, as in other breviquartossans (Unwin 2003). The fourth (wing) metacarpal is a stout bone, with a proximal articulation that is strongly expanded, especially ventrally and with a well
+developed bicondylar articulation distally. At just over half the length of the humerus, the relative size of the wingmetacarpal is typical for rhamphorhynchids, but somewhat shorter than in Rhamphorhynchus where in individuals
+of comparable dimensions it averages a little over 60% the length of the humerus (Wellnhofer 1975b, Table 2).
+
+NEW RHAMPHORHYNCHID FROM CHINA
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+7
+
+TABLE 2. Morphometric comparison of Qinglongopterus guoi with Rhamphorhynchus muensteri. Data for R. muensteri from
+Wellnhofer 1975b. Abbreviations: Ce, cervical series; DSV, dorsals+sacral vertebrae; Fe, femur; Hu, humerus; Mc IV, wingmetacarpal; Mt III, third metatarsal; Sk, skull; Ti, tibia/fibula; Ul, ulna; Wph, wing-phalanx.
+Q. guoi
+D3080/1
+
+R. muensteri Welln- W17/D3080/1
+hofer 1975 Example 17
+
+R. muensteri
+BSP 1938 I503
+
+BSP1938I503/
+D3080/1
+
+Sk
+
+25
+
+39
+
+1.56
+
+41
+
+1.64
+
+Ce
+
+24.3
+
+23
+
+0.95
+
+25
+
+1.03
+
+DSV
+
+39
+
+43
+
+1.10
+
+46
+
+1.18
+
+Hu
+
+17.8
+
+18
+
+1.01
+
+17
+
+0.96
+
+Ul
+
+28.3
+
+28
+
+0.99
+
+30
+
+1.06
+
+Mc IV
+
+9.1
+
+11.2
+
+1.23
+
+12
+
+1.32
+
+Wph 1
+
+31.7
+
+39.5
+
+1.25
+
+41
+
+1.29
+
+Wph 2
+
+32.0
+
+36
+
+1.13
+
+38
+
+1.19
+
+Wph 3
+
+29.7
+
+34.2
+
+1.15
+
+34
+
+1.14
+
+Wph 4
+
+18.5
+
+38
+
+2.05
+
+40
+
+2.16
+
+Fe
+
+12.2
+
+13.5
+
+1.11
+
+12.5
+
+1.02
+
+Ti
+
+15.3
+
+18.5
+
+1.21
+
+17
+
+1.11
+
+Mt III
+
+7.1
+
+–
+
+–
+
+9.8
+
+1.38
+
+The manus exhibits the standard phalangeal formula of 2.3.4.4. As in other pterosaurs the penultimate phalanges in digits I–III are highly elongate while other intermediate elements (II1, III2) are short and nubbin-like. The
+claws are relatively large, at least twice the size of those in the pes. The proximal half of each ungual is relatively
+deep with a larger flexor tubercle, while the distal half is strongly recurved and sharply tipped.
+The wing-finger forms a relatively large proportion of forelimb length (67%), an autapomorphy of Rhamphorhynchinae (Unwin 2003). Wing-phalanges 1 and 2 are of similar length, while phalanx 3 is somewhat shorter and
+phalanx 4 is even shorter but lacks its distal tip and may originally have been longer. These proportions are unusual
+within non-pterodactyloids, occurring in Nesodactylus hesperius (Colbert 1969), but not Dorygnathus banthensis
+(Padian 2008a) and some, but not all, examples of Rhamphorhynchus muensteri (Wellnhofer 1975b: Übersichtstabelle). These unusual proportions are also observed in Darwinopterus modularis (Lü et al. 2010a) and some basal
+pterodactyloids such as Pterodactylus kochi (Wellnhofer, 1970). Wing-phalanges are straight or slightly curved and
+seem to be rounded in cross-section, lacking a deep groove in the posterior margin, as described in Rhamphorhynchus (Wellnhofer 1975a) and Nesodactylus (Colbert 1969), although this feature may be obscured by burial or
+compression. A large rounded epiphysis that forms part of the extensor tendon process on the proximal termination
+of wing-phalanx 1 is not fused to the phalanx.
+The preacetabular process of the ilium was elongate. The anterior third has a gentle medial curvature. The
+pubis has a straight, vertical anterior profile, while the ventral half of the posterior margin is deeply excavated
+showing that there was only a relatively short contact between the pubis and ischium immediately ventral to the
+acetabulum. The ischium has a quadratic outline with a slightly concave dorsal margin, while the remaining margins are gently convex. The prepubis (Fig. 2c) consists of a gently curved spar of bone. The proximal half is relatively broad, narrowing at about the mid point into a more slender distal process. At this same point the main spar
+gives rise to a small, short, lateral process.
+The hind limb (femur+tibia+metatarsal III) is relatively short, reaching less than 90% the length of the DSV.
+This is typical for rhamphorhynchines such as Rhamphorhynchus and Dorygnathus which also have relatively
+short legs, but unlike other non-pterodactyloids where the hind limb exceeds the length of the DSV.
+The femur is lightly constructed and relatively short, only 68.5% the length of the humerus, a proportion that is
+almost the lowest for non-pterodactyloid pterosaurs (Unwin 2003: table 2). The slightly waisted neck between the
+femoral head and the shaft is directed at about 145° to the shaft. The articular condyle is gently convex with
+strongly convex margins, and the greater trochanter is relatively small and poorly developed. The shaft is slightly
+constricted, reaching a minimum width at about midlength. The distal end is bicondylar, but the condyles are only
+weakly developed.
+
+8 · Zootaxa 3158 © 2012 Magnolia Press
+
+LÜ ET AL.
+
+The tibia is straight and tapers evenly from the proximal to the distal end. In anterior aspect, the proximal termination has a gently convex profile. The elongate splint-like fibula is closely appressed, but seemingly not fused,
+to the tibia. The fibula tapers distally, terminating at approximately 65% the length of the tibia. The astragalus and
+calcaneum, which do not appear to be fused to the distal end of the tibia, are rather indistinct and seemingly not
+fully ossified.
+Metatarsals I–IV are long, slender, straight, tightly bundled proximally, and show only a low degree of divergence from one another distally. At 46% the length of the tibia, metatarsal III is relatively elongate, as in other
+rhamphorhynchines, whereas this value is somewhat less in many other non-pterodactyloids. Metatarsal I is
+slightly shorter than metatarsals II and III, which are the same length, while metatarsal IV is markedly shorter than
+these (<85% length of mt III). Metatarsal V is short and stubby with a hemispherical proximal end and a blunt distal end.
+The pedal phalangeal formula is 2-3-4-5-2. The second and third digits are of similar length and slightly longer
+than the first and fourth, which are also of a similar length to one another. The relative lengths of the phalanges correspond almost exactly to those of Rhamphorhynchus (Wellnhofer 1975a, fig 17). Penultimate phalanges are highly
+elongate in digits I to III, but shorter than the basal phalanx in digit IV. Phalanx two of digit V is gently curved and
+slightly longer than the first phalanx which is straight and tapers, being significantly broader proximally, than distally. Pedal unguals are small, slender and only very slightly recurved.
+Ontogenetic status. D3080/1 exhibits several features which suggest that this individual was a juvenile rather
+than a subadult, or an adult: relatively large orbit; separate scapula and coracoid; poorly ossified sternum; lack of
+fusion between carpals; absence of fusion between the extensor tendon epiphysis and wing-phalanx I; pubis and
+ischium not fused to each other, or to the sacral ribs; astragalus and calcaneum not fused to each other, or to the
+tibia. Comparison with a closely related form, Rhamphorhynchus muensteri (see below), which is represented by a
+nearly complete postnatal ontogenetic series (see Wellnhofer 1975b; Bennett 1995), and details of ontogeny in
+other pterosaurs (Wellnhofer 1970; Bennett 1993, 1996) further suggest that D3080/1 was a juvenile. While composite elements such as the syncarpals and tibiotarsus are not fused, most individual elements, including carpals
+and tarsals, are well ossified and have clear distinct outlines. This differs, for example, from the smallest (and presumably youngest) individuals of R. muensteri in which the tip of the dentary is unossifed and other bones are
+incompletely ossified and have simple shapes (Bennett 1995). In addition, external bone surfaces appear to be
+fairly well ossified and do not exhibit the coarse, fibrous texture evident in the rostrum and limb bones of embryos
+(Chiappe et al. 2004; Ji et al. 2004; Wang and Zhou 2004) or hatchlings (Unwin unpub data). These features suggest that D3080/1 was a mid-term or possibly even late stage juvenile, rather than a hatchling or very young juvenile.
+That D3080/1 was not a subadult is shown by the complete lack of fusion between individual bones, and the
+similarity in some key proportions (orbit length/skull length = 0.36; wing-finger length/forelimb length = 0.67;
+wingfinger less than seven times humerus length) to juvenile individuals of Rhamphorhynchus muensteri (Bennett
+1995). The morphology of the sternum, humerus and pelvis of D3080/1 also compares more closely to juvenile
+examples of R. muensteri, rather than larger, adult individuals.
+
+Phylogenetic relationships and comparison
+Phylogenetic analysis. To establish the phylogenetic relationships of Qinglongopterus guoi and conduct relevant
+comparisons of this taxon with its closest relatives, we constructed a new character dataset (Appendices 1–2) for
+non-pterodactyloid pterosaurs. This was principally based on the analysis of Lü et al. (2010a), but also included
+characters from Andres et al. (2010) and Dalla Vecchia (2009). In addition to the basal pterosaurs listed by Lü et al.
+(2010a), we added Angustinaripterus and Sericipterus, both from the Jurassic of China. Parsimony analysis of the
+resulting dataset (consisting of 82 characters and 23 ingroup taxa) (Appendices 1–2) via a branch and bound search
+was carried out using PAUP* software (version 4.0b1) (Swofford 2002) under the following settings: all characters
+were treated as unordered and of equal weight; multiple states for a single taxon were interpreted as a polymorphism; addition sequence was set as furthest; default character state optimisation was set as DELTRAN. Support
+for individual nodes was estimated through a bootstrap analysis (1000 replicates) using parsimony, a heuristic
+search and the settings listed above.
+
+NEW RHAMPHORHYNCHID FROM CHINA
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+9
+
+A preliminary analysis included pterodactyloids (37 taxa), but as their inclusion had no impact on the relationships of non-pterodactyloids, all but Pterodactylus were subsequently excluded from further consideration. In the
+analysis upon which our study is founded Lü et al. (2010a) used the archosaurs Euparkeria, Ornithosuchus and
+Herrerasaurus as outgroups. Recently, however, an extensive study by Nesbitt (2011) indicates that Ornithosuchus
+and Herrerasaurus are not appropriate as outgroups for phylogenetic analyses of pterosaur ingroup relationships.
+Therefore, in this study, we restricted the outgroup to Euparkeria.
+The juvenile status of the holotype and only known specimen of Qinglongopterus guoi could potentially confound our phylogenetic analysis. We investigated this possibility by comparing known ontogenetic variation in the
+rhamphorhynchids Rhamphorhynchus muensteri (Wellnhofer 1975c; Bennett 1995) and Dorygnathus banthensis
+(Padian 2008a), with character states for Q. guoi. Rhamphorhynchus muensteri was particularly appropriate since,
+as noted previously, individuals of a similar size, and seemingly at the same growth stage as D3080/1, are known
+for this species. The aim was to identify any characters for which the character state in adult individuals of Q. guoi
+is likely to have differed from the state observed in the juvenile to hand. Several potential candidate characters
+were identified, but due to the preservation of the skeleton, in particular the orientation of the skull and its extreme
+compression, there was only a single case in which the character state could be determined for Q. guoi: #58; shape
+of the deltopectoral crest. Analyses in which this character was excluded, or the predicted state for an adult individual of Q. guoi was substituted for the observed state did not differ to any material degree from analyses that incorporated the observed state for D3080/1. In this particular case, therefore, it appears that the dataset is not
+compromised by the ontogenetic status of the single known specimen of Q. guoi.
+Analysis of the dataset resulted in 550 equally parsimonious trees each 198 steps in length. The 50% majority
+rule concensus tree, bootstrap values and additional descriptive data are shown in Figure 4. This tree topology is
+identical to that of the strict consensus tree, except that relationships within Anurognathidae and Rhamphorhynchinae show greater resolution and is consistent with that recovered by Lü et al. 2010a for basal pterosaurs, Darwinopterus and Pterodactylus. Principal clades supported in this analysis including Dimorphodontidae,
+Anurognathidae, Campylognathoididae, Scaphognathinae, Rhamphorhynchinae and Monofenestrata have been
+variously found in a number of previous studies (e.g. Unwin 2003, 2004; Lü & Ji, 2006; Bennett 2007; Andres et
+al. 2010; Lü et al. 2010a).
+Where preservation allows Qinglongopterus to be scored, it exhibits the derived condition for apomorphies of
+Breviquartossa (7 characters), Rhamphorhynchidae (6 characters) and Rhamphorhynchinae and several of its subclades (8 characters) (full listing in caption to Figure 4). In many cases character states show unambiguous distributions: Breviquartossa (Unwin 2003): bony mandibular symphysis; absence of a coronoid eminence on the
+mandible; isodont mandibular dentition; Rhamphorhynchidae: antorbital fenestra located below the level of the
+naris; less than 12 pairs of teeth in the rostrum; ulna more than 1.5 times the length of the humerus and 1.4 times
+the length of the tibiotarsus; Rhamphorhynchinae and subclades: tapering, spike-like tips to the rostrum and mandible; elongate, slit-like narial and antorbital openings; long, slender, curved, procumbent, spike-like teeth.
+One character supports a clade uniting Qinglongopterus, Nesodactylus and Rhamphorhynchus. That is the
+wing-finger forms more than 67% of the length of the forelimb, which is also found in Campylognathoides, but has
+an unambiguous distribution within Rhamphorhynchidae. Several characters support the pairing of Qinglongopterus and Rhamphorhynchus. Two of these, very short, broad nasal process of maxilla and wing-finger phalanx
+1 more than twice the length of the tibiotarsus are unique to this clade, but might also be present in Nesodactylus as
+they can not be scored for the latter due to incompleteness of the single known specimen of this taxon (Colbert
+1969). Two further characters, forelimb at least four times length of hind limb, and prepubis slender with a lateral
+processs, occur in other basal pterosaurs, but among rhamphorhynchines are unique to Qinglongopterus and Rhamphorhynchus.
+In summary, there is a substantial quantity of cladistic data that supports the inclusion of Qinglongopterus
+within Breviquartossa, Rhamphorhynchidae and Rhamphorhynchinae, and clear support for a small clade of highly
+derived rhamphorhynchines consisting of Nesodactylus, Qinglongopterus and Rhamphorhynchus. There is some
+support for the pairing of the latter two taxa, although more complete fossils of Nesodactylus and Qinglongopterus
+are needed in order to further test this hypothesis. It is also worth noting that the location of Qinglongopterus
+within Rhamphorhynchinae does not involve any character conflicts. In addition to the cladistic data, morphometric comparisons also provide strong support for a close relationship between Qinglongopterus and Rhamphorhynchus (Figure 5; discussed further below).
+
+10 · Zootaxa 3158 © 2012 Magnolia Press
+
+LÜ ET AL.
+
+FIGURE 4. Relationship of Qinglongopterus to other basal pterosaurs (50% majority tree). Bootstrap values below and to the
+left of relevant nodes. Character and state distributions at key nodes are as follows (character for which Qinglongopterus can be
+scored shown in bold, unambiguous state distribution shown by asterisk): Breviquartossa, 7(1), 29(1)*, 32(1)*, 38(1), 44(1)*,
+52(1), 53(1), 62(2), 77(1); Rhamphorhynchidae, 11(3), 16(1)*, 36(1), 41(1)*, 60(2)*, 61(2)*; Rhamphorhynchinae and more
+inclusive clades 2(1)*, 14(1)*, 17(1)* 19(1), 30(1)*, 33(1)*, 34(1)*, 45(1)*; Qinglongopterus + Rhamphorhynchus +
+Nesodactylus, 65(2), 69(0); Qinglongopterus + Rhamphorhynchus, 10(3)*, 55(3), 66(3)* 75(2). Abbreviations: B,
+Breviquartossa; CI consistency index, HI, homoplasy index; N, Rhamphorhynchinae; P, Pterosauria; R, Rhamphorhynchidae;
+RC, rescaled consistency index; RI, retention index.
+
+Comparisons. Since there is strong support for the placement of Qinglongopterus within Rhamphorhynchinae,
+there is no necessity to compare this taxon with other less closely related taxa: Preondactylus, dimorphodontids,
+anurognathids, Austriadactylus, campylognathoidids and scaphognathines including Fenghuangopterus (Lü et al.
+2010b). Consequently, comparisons are restricted to rhamphorhynchines which, in this study, include Dorygnathus
+from the Lower Jurassic of Europe (Padian 2008a), Angustinaripterus from the Middle Jurassic of China (He et al.
+1983), Pterorhynchus from the Middle/Upper Jurassic of China (Czerkas & Ji 2002), Sericipterus from the Upper
+Jurassic of China (Andres et al. 2010), Rhamphorhynchus from the Upper Jurassic of Europe (Wellnhofer 1975a,
+b) and Nesodactylus (Colbert 1969) and Cacibupteryx (Gasparini et al. 2004) from the Upper Jurassic of North
+America.
+Qinglongopterus is distinguished from other rhamphorhynchines by its relatively short skull which forms only
+a little more than one quarter of total body length. In those taxa where this value can be calculated (Rhamphorhynchus, Pterorhynchus, Dorygnathus) the skull forms at least one third body length. This is also the case for
+
+NEW RHAMPHORHYNCHID FROM CHINA
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+11
+
+other basal pterosaurs, the only exception being anurognathids, although in this case skull morphology is highly
+derived (e.g. Wellnhofer 1975b; Bennett 2007) and not likely to be confused with that of Qinglongopterus. It is
+possible that due to growth allometry, the skull length/body length value for Qinglongopterus, based on a juvenile
+specimen, may not be representative of the condition in adults. However, in Dorygnathus and Rhamphorhynchus,
+taxa that effectively bracket Qinglongopterus (Fig. 4) and represented in the latter case by a juvenile-adult growth
+series that spans a fourfold increase in body length (Wellnhofer 1975b; Bennett 1995), this relationship is effectively isometric. Therefore, we predict that for Q. guoi this value remained below 33% even in adult individuals.
+
+FIGURE 5. Morphometric comparison of Qinglongopterus to other basal pterosaurs. (a), proportion of ulna length to tibia
+length plotted against proportion of ulna length to humerus length. (b), proportion of combined length of femur plus tibia to
+combined length of dorsal plus sacral vertebrae plotted against proportion of forelimb length to hind limb length.
+Abbreviations: dsv, dorsal + sacral vertebrae; f, femur; Q, Qinglongopterus; R, Rhamphorhynchus; t, tibia. Symbols: diamond,
+basal pterosaurs (Preondactylus, dimorphodontids); circle, anurognathids; cross, campylognathoidids; star, scaphognathines;
+triangle, rhamphorhynchines. Data from Bennett (2007), Padian (2008a,b); Unwin (1988); Wang et al. (2002); Wellnhofer
+(1975b), Wild (1978, 1984) and Unwin (unpublished data).
+
+The marked difference in the size of the narial and antorbital openings and their relatively elongate shape distinguish Angustinaripterus and Pterorhynchus from Qinglongopterus. In the latter, these openings are proportionately shorter and sub-equal in size. Assuming that growth allometry in the skull of Q. guoi was similar to that
+observed in Rhamphorhynchus muensteri (Bennett 1995), it seems likely that the narial and antorbital openings of
+adult individuals of Q. guoi would not have achieved the size disparity and elongation observed in Angustinaripterus or Pterorhynchus. The length of the antorbital opening of Cacibupteryx, Angustinaripterus and Pterorhynchus is at least as great as, or considerably exceeds, the length of the orbit. By contrast, the length of the
+antorbital opening in Q. guoi is much shorter than that for the orbit. Moreover, assuming allometric shape changes
+comparable to those reported for Rhamphorhychus (Bennett 1995), even in mature individuals this opening is
+unlikely to have attained much more than two thirds the length of the orbit.
+The simple subrectangular shape of the deltopectoral crest of the humerus also distinguishes Q. guoi from other
+rhamphorhynchines in which this structure is preserved. In all these taxa: Dorygnathus, Sericipterus, Nesodactylus
+and Rhamphorhynchus, the latter including juveniles of comparable size to D3080/1 (Wellnhofer 1975a: figs 11a,
+b), the deltopectoral crest is tongue-shaped with a necked base (Appendices 1–2).
+The remarkably short pteroid with a well developed knob-like distal expansion (Fig. 2b) distinguishes Q. guoi
+from almost all other pterosaurs where it is more elongate. The one exception to this rule, anurognathids, also have
+a short pteroid, but in those specimens where it is preserved (Wellnhofer 1975b; Wang et al. 2002; Bennett 2007),
+it lacks any distal expansion.
+
+12 · Zootaxa 3158 © 2012 Magnolia Press
+
+LÜ ET AL.
+
+Relative lengths of postcranial elements further distinguish Pterorhynchus from Qinglongopterus: the ulna is
+1.75 times the length of the humerus, compared to a value of 1.59 in the latter, the wing-finger forms less than 60%
+of forelimb length, compared to 67%, and wing-phalanx one is much shorter than wing-phalanx two rather than of
+similar length.
+A slender, curved prepubis with a short lateral process and a distal process that is distinctly narrower than the
+proximal process (Fig. 2c) is unique to Q. guoi. A similar morphology is observed in Rhamphorhynchus (Wellnhofer 1975a: fig 10b, e, h) and scaphognathines (Wellnhofer 1991), but in these taxa the distal and proximal processes are of similar thickness. In other rhamphorhynchines where the prepubis is preserved, Nesodactylus (Colbert
+1969: fig 12) and Dorygnathus (Padian 2008a), the distal process is relatively broad and spade-shaped.
+
+Discussion
+The most significant aspect of Qinglongopterus guoi is its remarkable similarity to Rhamphorhynchus muensteri,
+even though these taxa are separated by large temporal and geographic gaps. This observation is highlighted by
+comparison of the data gathered for the phylogenetic analysis (Appendices 1–2). Out of a total of 81, there are 63
+characters for which both species can be scored, but they differ in only a single case: the shape of the deltopectoral
+crest of the humerus (character #58, discussed below). Among the 62 characters for which they exhibit the same
+state, 68% (43) of these present the apomorphic condition. This has greater significance than if the majority of
+these 62 characters exhibited the plesiomorphic condition.
+Morphometric comparisons further illustrate the similarity of these taxa. Plots of data for seven genera representing all the principal clades of basal pterosaurs (Fig. 5) shows that Qinglongopterus and Rhamphorhynchus
+cluster more closely to each other than either does to any other basal pterosaur. This applies even to Dorygnathus
+which traditionally has been considered to be closely related to Rhamphorhynchus (Wellnhofer 1975a,b, 1978,
+1991)
+Irrespective of the exact relationship of Qinglongopterus guoi to Rhamphorhynchus muensteri (the possibility
+that the latter might be a direct descendant of the former cannot be excluded), the number and extent of changes
+required to ‘evolve’ the latter from the former (based on current knowledge of their skeletal anatomies) is small.
+Compared to R. muensteri, Q. guoi has a relatively short skull, the base of the deltopectoral crest is not constricted,
+the pteroid and wing-phalanx 4 are relatively short, and the distal process of the prepubis is relatively slender.
+Transforming these states to those observed in R. muensteri could easily be effected through minor adjustments to
+the relative timing, or rates of growth.
+Q. guoi was recovered from the Tiaojishan Formation, now reliably dated as latest Middle (Callovian) to earliest Upper Jurassic (Oxfordian) in age (160 Ma), while R. muensteri is from the Solnhofen Limestones (Tithonian;
+150.8 Ma) indicating a temporal gap between the two of 9–10 million years (Fig. 6). The differences between these
+taxa are so minor that the lineage to which they belonged (Rhamphorhynchinae) appears to have experienced near
+evolutionary stasis in the Upper Jurassic. The same condition also seems to have pertained in other basal pterosaurs. The scaphognathine Fenghuangopterus Lü et al. 2010b and the anurognathid Jeholopterus Wang et al. 2002
+from the Tiaojishan Formation, or its lateral equivalent, are closely comparable to their stratigraphically younger
+relatives, Scaphognathus (Wellnhofer 1975b) and Anurognathus (Wellnhofer 1975b; Bennett 2007), from the Solnhofen Limestones.
+By contrast, monofenestratans appear to have been undergoing an intensive period of evolutionary transformation during the same interval (Fig. 6). Basal monofenestratans which include Darwinopterus, now reported in some
+numbers from the Tiaojishan Formation (Lü et al. 2010a), and a related form from the Stonesfield Slate of England
+(Steel 2010), have a cranium, mandible and cervicals that are similar to those of some pterodactyloids such as Germanodactylus rhamphastinus, while the rest of the postcranial skeleton compares closely to that of basal pterosaurs
+(Lü et al. 2010a, 2011b). Genera such as Pterodactylus, Germanodactylus and Ctenochasma from the Solnhofen
+Limestones (Wellnhofer 1970) demonstrate that the full array of typical pterodactyloid characters (e.g. short tail,
+elongate metacarpus, reduced fifth toe) had appeared by the late Late Jurassic. That these contrasting patterns of
+stasis and rapid transformation took place on the same land mass during the same time interval hints at a greater
+role for intrinsic (morphological integration, ontogeny, physiology) rather than extrinsic (competition, predation,
+climate) evolutionary drivers.
+
+NEW RHAMPHORHYNCHID FROM CHINA
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+13
+
+FIGURE 6. Pterosaur evolution in the Middle and Late Jurassic. Stratigraphy and dates (in millions of years) based on Walker
+and Geissman (2009). Phylogenetic relationships based on this study and Lü et al. (2010a). Stratigraphic range of each clade
+indicated by solid bar. Range extension based on unverified finds indicated by dashed lines. Range extension inferred from
+phylogeny denoted by thick line. Abbreviations: A, Anurognathus; C, Scaphognathus; D, Darwinopterus; F,
+Fenghuangopterus; J, Jeholopterus; m, Monofenestrata; pt, pterodactyloid; Q, Qinglongopterus; R, Rhamphorhynchus; S,
+basal monofenestratan from the Stonesfield Slate.
+
+Acknowledgements
+We thank Drs Brian Andres, David Martill and Mark Witton for discussion of pterosaur phylogeny. We are very
+grateful to two anonymous referees whose comments and suggestions helped us to make substantial improvements
+to the original MS. This research was supported by grants from the Natural Science Foundation of China
+(90914003; 40872017) and the Basic Outlay of Scientific Research Work from the Ministry of Science and
+Technology (2011-SYS-02) to LJ, the University of Leicester to DMU, and a Royal Society International Network
+Grant (RA17G0099) to DMU and LJ.
+
+References
+Andres, B., Clark, J. M. & Xu, X. (2010) A new rhamphorhynchid pterosaur from the Upper Jurassic of Xinjiang, China, and
+the phylogenetic relationships of basal pterosaurs. Journal of Vertebrate Paleontology, 30, 163–187.
+Averianov, A.O., Martin, T. & Bakirov, A.A. (2005) Pterosaur and dinosaur remains from the Middle Jurassic Balabansai Svita
+in the Fergana Depression, Kyrgyzstan (Central Asia). Palaeontology, 48, 135–155.
+Barrett, P.M., Butler, R.J., Edwards, N.P. & Milner, A.R. (2008) Pterosaur distribution in time and space: an atlas. Zitteliana B,
+28, 61–107.
+Bennett, S.C. (1993) The ontogeny of Pteranodon and other pterosaurs. Paleobiology, 19, 92–106.
+Bennett, S.C. (1995) A statistical study of Rhamphorhynchus from the Solnhofen Limestone of Germany: year classes of a single large species. Journal of Paleontology, 69, 569–580.
+Bennett, S.C. (1996) Year classes of pterosaurs from the Solnhofen Limestone of Germany: taxonomic and systematic implica-
+
+14 · Zootaxa 3158 © 2012 Magnolia Press
+
+LÜ ET AL.
+
+tions. Journal of Vertebrate Paleontology, 16, 432–444.
+Bennett, S.C. (2004) New information on the pterosaur Scaphognathus crassirostris and the pterosaurian cervical series. Journal of Vertebrate Paleontology, 24, 38A.
+Bennett, S.C. (2007) A second specimen of the pterosaur Anurognathus ammoni. Paläontologische Zeitschrift, 81, 376–398.
+Billon-Bruyat, J.-P. (2005) First record of a non-pterodactyloid pterosaur (Reptilia: Archosauria) from Switzerland. Eclogae
+geologicae Helvetiae, 98, 313–317.
+Buffetaut, E., Gibout, B. & Drouin, D. (2010) A pterosaur from the Toarcian (Early Jurassic) of the Ardennes (northeastern
+France). Carnets de Géologie / Notebooks on Geology - Letter 2010/01 (CG2010_L01).
+Bureau of Geology and Mineral Resources of Hebei Province (1989) Regional Geology of Hebei Province. Series 1, No.5, Beijing: Geological Publishing House, 741pp.
+Butler, R.J., Barrett, P.M., Nowbath, S. & Upchurch, P. (2009) Estimating the effects of the rock record on pterosaur diversity
+patterns: implications for hypotheses of bird/pterosaur competitive replacement. Paleobiology, 35, 432–446.
+Butler, R.J., Brusatte, S.L., Andres, B. & Benson, R.B.J. (2011) How do geological sampling biases affect studies of morphological evolution in deep time? A case study of pterosaur (Reptilia: Archosauria) disparity. Evolution (doi:10.1111/j.1558–
+5646.2011.01415.x).
+Chiappe, L.M., Codorniu, L., Grellet-Tinner, G. & Rivarola, D. (2004) Argentinian unhatched pterosaur fossil. Nature, 432,
+571–572.
+Codorniú, L., Gasparini, Z. & Paulina-Carabajal, A. (2006) A Late Jurassic pterosaur (Reptilia, Pterodactyloidea) from northwestern Patagonia, Argentina. Journal of South American Earth Sciences, 20, 383–389.
+Codorniú, L. & Gasparini, Z. (2007) Pterosauria. Pp. 143–166 in Gasparini, Z., Coria, R. A. and Salgado, L. Patagonian Mesozoic Reptiles. Indiana University Press, Bloomington, Indiana, USA.
+Colbert, E.H. (1969) A Jurassic pterosaur from Cuba. American Museum Novitates, 2370, 1–26.
+Czerkas, S.A. & Ji, Q. (2002) A new Rhamphorhynchoid with a headcrest and complex integumentary structures. In S. J. Czerkas (ed.), Feathered Dinosaurs and the origin of flight. The Dinosaur Museum Journal, 1, The Dinosaur Museum of Blanding, Utah.
+Dal Sasso, C. & Pasini, G. (2003) First record of pterosaurs (Pterosauria, Diapsida, Archosauromorpha) in the Middle Jurassic
+of Madagascar. Atti della Società italiana di scienze naturali e del museo civico di storia naturale di Milano, 144
+(2), 281–296.
+Dalla Vecchia, F.M. (2009) Anatomy and systematics of the pterosaur Carniadactylus gen. n. rosenfeldi (Dalla Vecchia, 1995).
+Rivista Italiana di Paleontologia e Stratigrafia, 115(2), 159–186.
+Gasparini, Z., Fernandez, M. & de la Fuente, M. (2004) A new Pterosaur from the Jurassic of Cuba: Palaeontology, 47(4), 919–
+927.
+He, X.-L., Li, K. & Cai, K.J. (1983) A new pterosaur from the middle Jurassic of Dashanpu, Zigong, Sichuan. Journal of
+Chengdu College, Geology Supplement, 1, 27–33.
+Ibrahim, N., Unwin, D.M., Martill, D.M., Baidder, L. & Zouhri, S. (2010) A new pterosaur (Pterodactyloidea: Azhdarchidae)
+from the Upper Cretaceous of Morocco. PLoS ONE, 5(5), e10875 (doi:10.1371/journal.pone.0010875).
+Ji, Q., Ji, S.-A., Cheng, Y.-N., You, H.-L., Lü, J.-C., Liu, Y.-Q. & Yuan, C.-X. (2004) Pterosaur egg with a leathery shell.
+Nature, 432, 572.
+Kaup, J.J. (1834) Versuch einer Eintheilung der Säugethiere in 6 Stämme und der Amphibien in 6 Ordnungen. Isis, 3, 311–315.
+Liu, Y.Q., Ji, Q., Ji, S.A., You, H.L., Lü, J.C., Kuang, H.W., Jiang, X.J., Peng, N., Xu, H., Yuan, C. X. & Wang, X. R. (2010)
+Late Mesozoic terrestrial stratigraphy, biotas and geochronology in North-east China. Acta Geoscientica Sinica,
+31(supplement1), 59–61.
+Liu, Y.Q., Liu, Y.X., Ji, S.A. & Yang, Z.Q. (2006) U-Pb zircon age for the Daohugou Biota at Ningcheng of Inner Mongolia and
+comments on related issues. Chinese Science Bulletin, 51, 2634–2644.
+Lü, J. C. (2009) A new non-pterodactyloid pterosaur from Qinglong County, Hebei Province of China. Acta Geologica Sinica,
+83, 189–199.
+Lü, J. C. & Ji, Q. (2006) Preliminary results of a phylogenetic analysis of the pterosaurs from western Liaoning and surrounding areas. Journal of the Paleontological Society of Korea, 22, 239–261.
+Lü, J.C. Unwin, D.M., Xu, L. & Zhang, X. (2008) A new azhdarchoid pterosaur from the Lower Cretaceous of China and its
+implications for pterosaur phylogeny and evolution. Naturwissenschaften, 95, 891–897.
+Lü, J.C., Unwin, D.M., Jin, X.S., Liu, Y.Q. & Ji, Q. (2010a). Evidence for modular evolution in a long-tailed pterosaur with a
+pterodactyloid skull. Proceedings of the Royal Society B, 227, 383–389.
+Lü, J.C., Fucha, X.H. & Chen, J.M. (2010b) A new scaphognathine pterosaur from the Middle Jurassic of Western Liaoning,
+China. Acta Geoscientica Sinica, 31(2), 263–266.
+Lü, J.C., Unwin, D.M., Deeming, D.C., Jin, X.S., Liu, Y.Q. & Ji, Q. (2011a) An egg-adult association, gender, and reproduction
+in pterosaurs. Science, 331, 321–324.
+Lü, J.C., Xu, L., Chang, H.L. & Zhang, X. L. (2011b) A new darwinopterid pterosaur from the Middle Jurassic of western Liaoning, northeastern China and its ecological implications. Acta Geologica Sinica, 85, 507–514.
+Nesbitt, S.J. (2011) The early evolution of archosaurs: relationships and the origin of major clades. Bulletin of the American
+Museum of Natural History, 352, 1–292.
+Nopcsa, F.V. (1928) The genera of reptiles. Palaeobiologica, 1, 163–188.
+
+NEW RHAMPHORHYNCHID FROM CHINA
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+15
+
+Padian, K. (1983) Osteology and functional morphology of Dimorphodon macronyx (Buckland) (Pterosauria: Rhamphorhynchoidea) based on new material in the Yale Peabody Museum. Postilla, 189, 1–44.
+Padian, K. (2008a) The Early Jurassic pterosaur Dorygnathus banthensis (Theodori, 1830). Special papers in Palaeontology,
+80 , 1–64.
+Padian, K. (2008b) The Early Jurassic pterosaur Campylognathoides Strand, 1928. Special papers in Palaeontology, 80, 65–
+107.
+Seeley, H.G. (1870) The Ornithosauria: an elementary study of the bones of Pterodactyles. Cambridge, 135 pp.
+Steel, L. (2010) The pterosaur collection at the Natural History Museum, London, UK: History, overview, recent curatorial
+developments and exciting new finds. Acta Geoscientica Sinica, 31 (supplement 1),59–61.
+Swofford, D.L. (2002) Paup*. Phylogenetic Analysis Using Parsimony (*and other methods). Sinauer Associates, Sunderland,
+Massachusetts.
+Unwin, D.M. (1988) A new specimen of Dimorphodon and the terrestrial ability of early pterosaurs. Modern Geology, 13, 57–
+68.
+Unwin, D.M. (1996) The fossil record of Middle Jurassic pterosaurs. Museum of Northern Arizona Bulletin, 60, 291–304.
+Unwin, D.M. (2003) On the phylogeny and evolutionary history of pterosaurs: In: Evolution and Palaeobiology of Pterosaurs,
+edited by Buffetaut, E., and Mazin, J.-M., Geological Society Special Publication, 217, 139–190.
+Unwin, D.M. (2004) Eudimorphodon and the early history of pterosaurs: In: Atti del Workshop Eudimorphodon: 30th from
+Discovery, Museo Civico di Scienze Naturali "e. Caffi" Di Bergamo, edited by Renesto, S., Rivista del Museo Civico di
+Scienze Naturali "Enrico Caffi", 22, 39–46.
+Unwin, D.M. (2005) The pterosaurs from deep time. Pi Press, New York.
+Walker, J.D. & Geissman, J.W., compilers (2009) Geologic Time Scale: Geological Society of America, doi:10.1130/
+2009.CTS004R2C. ©2009 The Geological Society of America.
+Wang, X. & Zhou, Z. (2004) Pterosaur embryo from the Early Cretaceous. Nature, 429:621.
+Wang, X., Zhou, Z., Zhang, F. & Xu, X. (2002) A nearly completely articulated rhamphorhynchoid pterosaur with exceptionally well-preserved wing membranes and 'hairs' from Inner Mongolia, northeast China. Chinese Science Bulletin, 47, 226–
+232.
+Wang, X.L., Kellner, A.W.A., Jiang, S.X. & Meng, X. (2009) An unusual long-tailed pterosaur with elongated neck from western Liaoning of China. Anais da Academia Brasileira de Ciências, 81, 793–812.
+Wang, X.L., Kellner, A.W.A., Jiang, S.X., Cheng, X., Meng, X. & Rodrigues, T. (2010) New long-tailed pterosaurs (Wukongopteridae) from western Liaoning, China. Anais da Academia Brasileira de Ciências, 82, 1045–1062.
+Wellnhofer, P. (1970) Die Pterodactyloidea (Pterosauria) der Oberjura-Plattenkalke Süddeutschlands. Abhandlung der Bayerischen Akademie der Wissenschaften, Neue Folge, 141, 133pp.
+Wellnhofer, P. (1974) Campylognathoides liassicus (Quenstedt), an Upper Liassic pterosaur from Holzmaden - The Pittsburgh
+specimen. Annals of Carnegie Museum, 45(2), 5–34.
+Wellnhofer, P. (1975a) Die Rhamphorhynchoidea (Pterosauria) der Oberjura-Plattenkalke Süddeutschlands. Teil I. Allgemeine
+Skelletmorphologie. Paläontographica A, 148, 1–33.
+Wellnhofer, P. (1975b) Die Rhamphorhynchoidea (Pterosauria) der Oberjura-Plattenkalke Süddeutschlands. Teil II. Systematische beschreibung. Paläontographica A, 148, 132–186.
+Wellnhofer, P. (1975c) Die Rhamphorhynchoidea (Pterosauria) der Oberjura-Plattenkalke Süddeutschlands. Teil III. Palökologie und Stammesgeschichte. Paläontographica A, 149, 1–30.
+Wellnhofer, P. (1978) Handbuch der Paläoherpetologie. Teil 19. Pterosauria. Stuttgart: Verlag Gustav Fischer.
+Wellnhofer, P. (1991) The Illustrated Encyclopedia of Pterosaurs. Salamander Books, London. 192pp.
+Wild, R. (1971) Dorygnathus mistelgauensis n. sp., ein neuer Flugsaurier aus dem Lias Epsilon von Mistelgau (Frankischer
+Jura). Geologische Blatter für Nordost-Bayern und angrezende Gebiete, 21(4), 178–195.
+Wild, R. (1978) Die Flugsaurier (Reptilia, Pterosauria) aus der Oberen Trias von Cene bei Bergamo, Italien. Bolletino Societe
+Paleontologica Italiana, 17, 176–257.
+Wild, R. (1984) A new Pterosaur (Reptilia: Pterosauria) from the Upper Triassic (Norian) of Friuli, Italy. Gortania, Atti Museo
+Friuliano di storia Naturale, 5, 45–62.
+Zhang, H., Wang, M.X. & Liu, X.W. (2008) Constraint on the upper boundary age of the Tiaojishan Formation volcanic rocks
+in western Liaoning- northern Hebei by LA-ICP-MS. Chinese Science Bulletin, 53, 3574–3584.
+
+APPENDIX 1. Character definitions and character states
+1.
+2.
+3.
+4.
+5.
+6.
+
+Tip of rostrum: laterally compressed (0); dorsoventrally compressed (1).
+Tapering, spike-like rostral process: absent (0); present (1).
+Caudoventral (maxillary) process of premaxilla beneath the naris: extends for half naris length, or more (0); less than half
+naris length (1); no ventral contact with naris (2).
+Rostrum: high with convex outline (0); low with straight or concave dorsal outline (1).
+Rostral index: 1.5 or less (0); 1.5–3.0 (1), >3.0 (2).
+Skull broad with very short preorbital region: absent (0); present (1).
+
+16 · Zootaxa 3158 © 2012 Magnolia Press
+
+LÜ ET AL.
+
+7.
+8.
+9.
+10.
+11.
+12
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+
+59.
+60.
+
+Ventral margin of skull: straight (0); downcurved caudally (1).
+Posterior extent of premaxilla: terminates level with frontals (0); overlaps frontals (1).
+Nasal process of maxilla: vertical-subvertical (0); inclined backwards (1); absent (2).
+Nasal process of maxilla: short, robust, with distal portion reflected posteriorly (0); long and slender (1); broad base, but
+tapers distally (2); very short and broad (3).
+Anterior process of maxilla: absent (0); present, same depth as posterior process (1); deeper than posterior process, but
+short (2); deeper than posterior process and elongate (3).
+Nasal opening: terminal (0); subterminal (1).
+External nasal opening: height similar to or greater than anteroposterior length (0); elongate (1).
+External naris orientation of dorsal and ventral margins: acute angle (0); subparallel (1).
+Nares: smaller than the orbit or nasoantorbital opening (0); form the largest skull opening (1).
+Antorbital fenestra lies below the naris: absent (0); present (1).
+Antorbital fenestra: less than twice as long as it is deep (0); at least as twice as long as it is deep (1).
+Naris and antorbital opening: separate (0); confluent (1).
+Posterior margin of nasoantorbital fenestra: straight (0); concave (1).
+Orbit shape: pear-shaped (0); round (1).
+Orbit: smaller than antorbital opening (0); larger (1).
+Supratemporal fenestra largest skull opening after the orbit: absent (0); present (1).
+Quadrate: vertical (0); inclined backward (1); subhorizontal (2).
+Mandibular articular condyles orientation: parasagittal (0); oblique (1).
+Palatal elements reduced to thin bars of bone: absent (0); present (1).
+Position of the jaw joint: under the posterior third of the orbit (0); under the middle third of the orbit (1).
+Dentary: <50% length of lower jaw (0); >50% (1).
+Anterior tip of the mandible: horizontal (0); downturned (1).
+Bony mandibular symphysis: absent (0); present (1).
+Mandible tips fused into a short symphysis bearing a forward projecting 'tooth-like' prow and a number of large, fang-like,
+procumbent teeth forming a fish grab: absent (0) present (1).
+Anterior end of dentary: level (0); dorsally expanded forming low rounded eminence (1); high rounded eminence (2).
+Caudal end of mandible with distinct dorsal 'coronoid' eminence: present (0); absent (1).
+Teeth maximum curvature: horizontal displacement of curvature less than tooth diameter (0); at least tooth diameter (1).
+Teeth maximum crown height: less than four times tooth diameter (0); at least four times (1).
+Maxillary and dentary teeth: present, mandibular tooth size similar or slightly smaller to maxillary teeth (0); mandibular
+teeth much smaller (1).
+Relatively large teeth below nasal process of maxilla: present (0); absent (1).
+Teeth are small, peg-like and widely spaced: absent (0); present (1).
+Distal dentary teeth cutting margin: with cusps, cuspules or serrations (0); without (smooth) (1).
+Tri- to quinticuspid teeth: absent (0); present (1).
+Teeth in maxilla distal to dorsal process, large, triangular, serrated and decreasing in size distally: absent (0); present (1).
+Rostral dentition: more than 11 pairs of teeth (0); less (1).
+Rostral dentition: more than nine (0); nine or less relatively straight or slightly recurved teeth (1).
+Mandibular dentition: more than six pairs of teeth (0); six or less (1).
+Heterodonty in the mandibular dentition: present (0); absent (1).
+Dentition: extends to jaw tips (0); jaw tips toothless, but followed by tooth row (1).
+Lateral pneumatic foramen on centrum of the cervicals: absent (0); present (1).
+Mid-series cervicals: short (0); elongate (1).
+Cervical ribs, or rib facets: present (0); highly reduced or absent (1).
+Neural arch of cervicals: high (0); depressed down onto, or even confluent with, the centrum (1).
+Neural spines of mid-series cervicals: tall, blade-like (0); low or absent (1).
+Combined length of caudal vertebrae: longer than the dorsal series (0); shorter (1).
+Filiform extensions of zygapophyses and hypapophyses: absent (0); present (1); lost through tail reduction (2).
+Sternum: narrow (0); triangular (1); rectangular (2); semicircular (3), square with posterolateral projections (4).
+Coracoid: less than two thirds length of scapula (0); from at least two thirds up to similar length to scapula (1).
+Forelimb: up to 2.5 times length of hind limb (f+t+mt) (0); 2.5–3 times length of hind limb (1); 3–4 times length of hind
+limb (2); at least 4 times length hind limb (3).
+Humerus shorter or same length as femur: (0); longer (1).
+Coracoid shaft: relatively broad and flat (0); strut-like, narrow and with slender mid-portion (1).
+Deltopectoral crest of humerus: small (0); large and subtriangular with apex directed proximally (1); proximo-distally
+elongate, rectangular (2); hatchet-shaped (3); tongue-shaped with necked base (4); antero-posteriorly elongate with rectangular shape (5).
+Ulna: considerably shorter than dorsals+sacrals (0); similar in length to dorsals+sacrals (1).
+Ulna: less than 133% humerus (0); 133–150% (1); >150% (2).
+
+NEW RHAMPHORHYNCHID FROM CHINA
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+17
+
+61. Ulna/tibia ratio: 0.9–1.2 (0), 1.2–1.4 (1); >1.4 (2); <0.9 (3).
+62. Pteroid: less than 30% length humerus: (0); 30–60% (1); >60% (2).
+63. Metacarpals i–iii: metacarpal i < metacarpal ii < metacarpal iii (0); metacarpal i < metacarpal ii = metacarpal iii (1); all the
+same length (2).
+64. Wing-metacarpal/humerus ratio: less than 0.35 (0) 0.35–0.8 (1); more than 0.8 (2).
+65. Unguals of manus and pes: similar in size (0); manual unguals twice the size, or more, of pedal unguals (1).
+66. Manus digit iv (wing-finger): 57.5%, or less, of total forelimb length (0): >57.5% (1); >65% (2).
+67. Manus digit iv (wing-finger) phalanx 1 compared to length of tibiotarsus: shorter (0); 1–1.5 times longer (1); 1.5–2.0 times
+longer (2); more than twice the length (3).
+68. Wing-finger phalanges with deep posterior groove: absent (0); present (1).
+69. Contribution of wing-finger phalanx 1 to wing-finger length: less than 30% (0); 30–40% (1); more than 40% (2).
+70. Manus digit iv (wing-finger) phalanges: decline in length distally (0); phalanges 2 and/or 3 longer than phalanx 1 (1).
+71. Manus digit iv (wing-finger) phalanx 3 shorter or equal in length to phalanx 2 (0); longer (1).
+72. Manus digit iv (wing-finger) phalanx 4: short and stout (0); elongate and slender (1); very short or absent (2).
+73. Preacetabular process of ilium: similar length to postacetabular process (0); longer (1).
+74. Anterior profile, in lateral view, of pubis: convex or straight (0); slightly concave (1); deeply concave (2).
+75. Pubis and ischium: unfused (0); fused to form a plate with a straight ventral margin that meets the posterodorsal margin at
+an acute angle (1); with convex ventral border, ischium that projects below level of the pubis and obtuse posterior apex (2).
+76. Prepubis: distal expansion longer than broad or similar width to length (0); transversely expanded (1); slender with lateral
+processes (2).
+77. Femur caput: directed inward at about 135° (0); directed steeply almost parallel to long axis of femur shaft (1).
+78. Fibula: subequal in length to tibia (0); shorter (1).
+79. Fibula distal end: expanded with free distal articulation (0); slightly expanded and fused above the lateral tibiotarsal condyle (1); tapering to a point or very thin with no distal expansion (2).
+80. Length of metatarsal iii compared to tibia: <30% (0); >30% (1).
+81. Length of metatarsal iv: similar in length to metatarsals i–iii (0); shorter than metatarsals i–iii (1).
+82. Phalanx two of pedal digit v with distinctive angular flexure at mid-length, such that the distal half of the phalanx lies at
+40–45° to the proximal half: absent (0); present (1).
+
+APPENDIX 2. Data matrix
+Outgroup
+000(01)000000 0000000000 0000000000 0000000000 0000000000 0000000000 0000000000 00000?(01)000 00
+Preondactylus
+001000?001 11001000?0 0?0??00000 0000100?01 00000?0000 00?0000100 0011010001 01001?0??1 0?
+Dimorphodon
+0000000001 1100100000 000?001000 0000100100 000001000? 01?110110(01) 0001110001 1100100020 00
+Peteinosaurus
+?????00??? 1????????? ??????1000 00001?000? 00000?0?0? 01?110?100 0001110001 110?100011 00
+Austriadactylus
+000110?011 1110000000 1?0?001??? ?001100001 00000?0000 00???????1 ?0??1??0?1 11???????? ??
+Anurognathus
+?000010001 20000000?1 ?0?0101000 0100011100 10000?010? 12?1111211 1020111010 0210??01?1 00
+Batrachognathus
+?000010001 20000000?1 ????101000 0100011100 00000?01?? 1221?1?2?? 1?2?1????? ??1????121 00
+Dendrorhynchoides
+?0?001??0? ?000??0??? ????1????0 0?00??110? ????0?0100 12?1211210 1020112010 0?1???1121 00
+Jeholopterus
+?00001???1 20000??0?1 ????10??00 0100011?00 00??0?01?2 12?1211211 2020112010 021??00121 00
+Campylognathoides
+0011100112 1110000001 1110001100 1000000100 0000010000 0141311300 1(01)01122001 0111210001 10
+
+18 · Zootaxa 3158 © 2012 Magnolia Press
+
+LÜ ET AL.
+
+Eudimorphodon
+0011100112 1110000001 111?001100 1000000010 0000000000 004121130(01) (01)1011(12)(12)001 011121(01)??1 10
+Raeticodactylus
+0021001?12 3110010001 101?0011?0 2000000010 0000010?00 ?????1?3?0 1?0?0?10?1 11????0??? ??
+Scaphognathus
+1021101112 3110010001 1010001010 0101010100 1111000000 0111201402 2121111001 0110220121 11
+Sordes
+1011101112 3110010001 1010001010 0101010100 1111010000 0111201402 1121111001 011022012(01) 11
+Pterorhynchus
+0021101112 3111011001 101??010?0 0100010100 11010?0?00 01??211?02 21?1?11001 01???????? ??
+Cacibupteryx
+0?21001112 3111011011 101100???? ??????0??? 1?0??????? ?????????? ?????????? ?????????? ??
+Dorygnathus
+0011101112 3111011011 1011001011 0111010100 1001010000 0111211402 2101111001 0110210(01)(12)1 10
+Angustinaripterus
+0?21201?12 3111011011 0?1??01011 0111010100 10010????? ?????????? ?????????? ?????????? ??
+Sericipterus
+012110?112 3111?1?0?? ??11??1??? ?111?10100 ????11000? ???1??14?? ??????1001 11?????1?? ??
+Nesodactylus
+?????????? ???????0?? ?????????? ?????????? ??????0000 ?111??14?2 ??21?2?100 01102?0??? ??
+Rhamphorhynchus
+0121201113 3111011011 1011001011 0111010100 1001110000 01(12)1311402 2121123100 0110220121 10
+Qinglongopterus
+012??0??13 3111011011 1?1?001011 ?111010100 1??11?00?? 01?1311502 2021123?00 011??20121 10
+Darwinopterus
+002120112? 1110?00111 001?011010 01000?0100 00010?1012 01312(01)110(12) 0121010001 (01)11?211121 11
+Pterodactylus
+002120112? 1110?00101 1020011010 01000?0100 0001001112 12112(01)150(01) 022211(01)0(01)0 0111210121 1?
+
+NEW RHAMPHORHYNCHID FROM CHINA
+
+Zootaxa 3158 © 2012 Magnolia Press ·
+
+19
+
+

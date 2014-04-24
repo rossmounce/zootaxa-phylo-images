@@ -1,0 +1,275 @@
+Zootaxa 3161: 48–52 (2012)
+www.mapress.com / zootaxa/
+
+ISSN 1175-5326 (print edition)
+
+Correspondence
+
+Copyright © 2012 · Magnolia Press
+
+ZOOTAXA
+ISSN 1175-5334 (online edition)
+
+Vertigo shimochii Kuroda & Amano 1960 synonymized with Gastrocopta servilis
+(Gould, 1843) based on conchological and DNA sequence data
+JEFFREY C. NEKOLA1,5, ALEX JONES2, GABE MARTINEZ2, SARAH MARTINEZ2, KHAYMAN MONDRAGON2,
+TERRENCE LEBECK2, JOHN SLAPCINSKY3 & SATOSHI CHIBA4
+1
+
+Biology Department, University of New Mexico, Albuquerque, New Mexico 87131 USA
+AIMS@UNM, 933 Bradbury SE, Albuquerque, New Mexico 87106 USA
+3
+Invertebrates Division, Florida Museum of Natural History, PO Box 112710, Gainesville, Florida 32611 USA
+4
+Graduate School of Life Sciences, Tohoku University, Aramaki–Aza–Aoba, Sendai, 980–8578, Japan
+5
+Corresponding author. E-mail: jnekola@unm.edu
+2
+
+Kuroda (1960) noted that his new species, Vertigo shimochii Kuroda & Amano, 1960, was distinct from other members
+of the genus in Japan by possessing a “relatively large and long shell with deep suture and much inflated whorls” (p. 77).
+While shell shape was noted to be similar to a Gastrocopta, they assigned the species to Vertigo based on its “shell color
+and lamella characteristics” (p. 77). Vertigo shimochii has since been considered endemic to the southern parts of Japan
+(The Environment Agency 1988; Minato 1988; Azuma 1995; Biodiversity Center of Japan 2002), and of near threatened
+status in the Kagoshima Prefecture Red Data Book (Kagoshima Prefectural Government 2003).
+However, careful examination of V. shimochii shell features suggests that this taxon may have been misclassified.
+The most striking evidence of this is the presence of a bifid parietal lamella, which is never present in Vertigo (Figure 1;
+Nekola & Coles 2010). Additionally, brown shells are not limited to Vertigo; species in Gastrocopta subgenus
+Gastrocopta also possess this trait. In fact, V. shimochii shells appear essentially identical to Caribbean material of
+Gastrocopta servilis (Gould, 1843), a well–known waif that has been commonly transported with horticultural plants
+across many Pacific archipelagos (Cowie 1998).
+To resolve the taxonomic status of V. shimochii, we compared DNA sequences from the mitochondrial cytochrome
+oxidase subunit 1 (CO1) and 16S ribosomal RNA (16S) and internal transcribed spacer–2 (ITS–2) of the nuclear
+ribosomal RNA gene complex from topotype material collected on Okinawa to other Gastrocopta and Vertigo species
+from across the northern hemisphere.
+
+Methods
+Twenty–one specimens, representing two V. shimochii, fourteen Gastrocopta and five Vertigo were chosen for analysis.
+Vertigo japonica and G. armigerella represent comparative material from the Japanese fauna. The remainder were
+sourced either from North America or Europe (Table 1). All specimens were either live, live–collected and preserved in
+ethanol, or mummified. Genomic DNA was extracted using the OmegaBioTek Mollusk DNA Extraction Kit. PCR
+amplification and sequencing of CO1, 16S, and ITS–2 was accomplished using standard methods (Nekola et al. 2009). In
+addition, previously analyzed sequence data (CO1, 16S, ITS–2) from an extra twelve Gastrocopta, Pupilla, Vallonia and
+Vertigo specimens were retrieved from GeneBank (Table 1).
+Primer ends were removed and all amplicons were aligned by eye. Mega 5.0 was used to construct both nearest–
+neighbor joining (NNJ) and maximum likelihood (ML) analyses for each gene. NNJ was based on Maximum Composite
+Distance (MCL) including transitions and transversions with pairwise gap deletion. ML used all sites and was based on
+the Tamura–Nei substitution model, a five–category Gamma Distribution for substitution rates, and the Nearest Neighbor
+Interchange ML heuristic method. In both cases support values were estimated from 1000 bootstrap replicates.
+
+Results
+All 32 CO1 sequences were 655 bp long. The 31 16S sequences ranged from 447–456 bp in Gastrocopta, 443–446 in
+Vertigo, 450–453 in Pupilla, and was 443 for Vallonia. The ITS–2 sequences ranged from 825–865 bp in Gastrocopta,
+618–763 in Vertigo, and was 907 for Pupilla.
+
+48 Accepted by D. Geiger: 14 Nov. 2011; published: 16 Jan. 2012
+
+FIGURE 1. Representative examples of white–shelled Gastrocopta (top row), brown–shelled Gastrocopta (middle row;
+all species members of the subgenus Gastrocopta), and Vertigo (bottom row), with location information for each.
+Accession numbers for lots from the Nekola collection are preceded by JCN . A. Gastrocopta holzingeri, Allison, Stone
+Co., Arkansas, 35o56 32 N., 92o6 54 W., JCN 14368. B. Gastrocopta tappaniana, Faith Fen, Norman Co., Minnesota,
+47o15 42 N., 96o5 11 W., JCN 6624. C. Gastrocopta armigerella, Ohama Beach, Iki Island, Japan, 33o44 51 N.,
+129o47 15 E. D. Gastrocopta corticaria, Canton Glade, Jones Co., Iowa, 42o10 46 N., 90o59 52 W., JCN 3743. E.
+Gastrocopta servilis, Bartram–Carr Woods, Gainesville, Alachua Co., Florida, 29o38 37 N., 82o20 44 W. F. Vertigo
+schimochii , Kunigami, Okinawa Island, Japan, 26o51 43 N., 128o15 20 E. G. Gastrocopta pellucida, Charlotte Harbor,
+Charlotte Co., Florida, 26o57 13 N., 82o3 42 W., JCN 17447. H. Gastrocopta rogersensis, Beams Cabin, Jones Co.,
+Iowa, 42o8 32 N., 91o20 44 W., JCN 11465. I. Vertigo ventricosa, Portage Lake, Aroostook Co., Maine, 46o47 6 N.,
+68o32 27 W., JCN 15915. J. Vertigo japonica, Sarusawa, Ichinoseki–city, Iwate, Japan, 38o59 13 N., 141o15 18 E. K.
+Vertigo gouldii, Deer Creek, Fillmore Co., Minnesota, 43o43 56 N., 92o20 39 W., JCN 14646. L. Vertigo concinnula,
+Neutrioso South, Apache Co., Arizona, 33o54 14 N., 109o9 43 W., JCN 14007.
+′
+
+′
+
+″
+
+″
+
+″
+
+′
+
+″
+
+′
+
+″
+
+′
+
+″
+
+′
+
+′
+
+′
+
+′
+
+″
+
+′
+
+′
+
+′
+
+′
+
+″
+
+′
+
+″
+
+″
+
+″
+
+″
+
+″
+
+′
+
+′
+
+′
+
+″
+
+″
+
+′
+
+″
+
+″
+
+″
+
+′
+
+′
+
+′
+
+′
+
+″
+
+′
+
+″
+
+′
+
+″
+
+′
+
+′
+
+″
+
+′
+
+″
+
+′
+
+VERTIGO SHIMOCHII = GASTROCOPTA SERVILIS
+
+Zootaxa 3161 © 2012 Magnolia Press ·
+
+49
+
+FIGURE 2. Phylogram showing the distribution of analyzed Gastrocopta, Vertigo, Vallonia and Pupilla species based
+on A. CO1; B. 16S; and C. ITS-2. Nodes with support values of approximately 70 or more across both NNJ and ML have
+been labeled by two numbers to the left of each node. The upper (normal font) represents the NNJ support values while
+the lower (bold italic font) represents ML values. Bottom scale bar is presented in Maximum Composite Distance.
+All NNJ and ML results for a given gene generated outputs with identical topologies for all highly supported nodes.
+As a result, only a single diagram is presented for each gene. The CO1 (Figure 2A) and 16S (Figure 3B) diagrams both
+demonstrate that ‘V. shimochii’ is very similar to G. servilis. In CO1 these two taxa possessed an MCL distance of only
+0.009; in 16S this distance was only 0.004. In CO1, the ‘V. shimochii’/G. servilis group was found to have a MCL
+distance of approximately 0.06 from its closest neighbor – G. pellucida – and 0.15 from V. japonica. In 16S the ‘V.
+shimochii’/G. servilis group was found to have a MCL distance of approximately 0.05 from its closest neighbor – G.
+pellucida – and 3.8 from V. japonica.
+Because the 16S region evolves more slowly than CO1 it should also provide better resolution for older evolutionary
+relationships. ‘Vertigo shimochii’ not only resides within the highly supported group containing the genus Gastrocopta,
+but also within a highly supported subgroup that includes ‘V. shimochii’ / G. servilis and G. pellucida (Pfeiffer, 1841), G.
+dalliana (Sterki, 1898), G. rogersensis Nekola & Coles, 2001, G, procera (Gould, 1840), and G. cristata (Pilsbry &
+Vanatta, 1900). This group in essence corresponds with tropical and warm–temperate Gastrocopta (Gastrocopta).
+However, G. dalliana has previously been placed into subgenus Immersidens on the basis of angulo–parietal lamella
+architecture (Pilsbry 1948). Yet, it differs from most other subgenus Immersidens members by its cylindrical shell, a
+characteristic it shares with other subgenus Gastrocopta members. It should be noted that like G. rogersensis, G. dalliana
+has a channeled angulo–parietal lamella (Nekola & Coles 2001), implying that this character may not be useful in
+demarcating Gastrocopta subgenera.
+The ITS–2 sequence for ‘V. shimochii’ could be aligned neither with Vertigo nor Pupilla, although it could be aligned
+with Gastrocopta. The ITS–2 Gastrocopta diagram (Figure 2C) demonstrates that ‘V. shimochii’ and G. pellucida are
+both members of the same highly supported group. The MCL distance between these two taxa is 0.014.
+
+Discussion.
+These analyses demonstrate that ‘V. shimochii’ represents a junior synonym of G. servilis, with both taxa possessing
+similar shells and an MCL distance of <0.01 in their DNA sequences. Both of these taxa also reside in a highly supported
+group that contains other members of Gastrocopta (Gastrocopta).
+Gastrocopta servilis is a well–known exotic throughout the Pacific. In hindsight it is therefore not surprising that
+fossil or subfossil records for ‘V. shimochii’ do not exist. While no populations were known until its initial discovery, 50
+years later this species represents one of the most abundant microsnails on the Okinawa coast, with its range having
+expanded north into the Amami, Ogawawara, and Yaeyama Islands (Biodiversity Center of Japan 2002). Rather than
+representing a rare southern Japan endemic species of potential conservation importance, these populations simply
+represent a recent and continuing range expansion of a Caribbean exotic.
+
+50
+
+· Zootaxa 3161 © 2012 Magnolia Press
+
+NEKOLA ET AL.
+
+VERTIGO SHIMOCHII = GASTROCOPTA SERVILIS
+
+Zootaxa 3161 © 2012 Magnolia Press ·
+
+51
+
+Acknowledgements
+Specimens for Vertigo alpestris, V. genesii and V. substriata and financial assistance for reagents and lab supplies were
+provided by Michal Horsak, Masaryk University, Brno, Czech Republic. Lab equipment and space were provided by
+Ulfar Bergthorsson of the University of New Mexico. Helpful comments on earlier drafts were made by Jochem Gerber.
+
+References
+Azuma, M. (1995) Colored Illustrations of the Land Snails of Japan. Hoikusha, Osaka. 333 pp.
+Biodiversity Center of Japan. (2002) The National Survey on the Natural Environment Report of the Distributional
+Survey of Japanese Animals (Land and Freshwater Mollusks). Biodiversity Center of Japan, Ministry of the
+Environment, Tokyo. 1317 pp.
+Cowie, R.H. (1998) Patterns of introduction of non–indigenous non–marine snails and slugs. Biodiversity and
+Conservation, 7, 349–368.
+Kagoshima Prefectural Government. (2003) Kagoshima Red Data Book. Kagoshima Prefectural Government,
+Kagoshima. 642 pp.
+Kuroda, T. (1960) A Catalogue of Molluscan Fauna of the Okinawa Islands (exclusive of Cephalopoda). Ryukyu
+University Publications, 104 pp.
+Gittenberger, E., Piel, W.H. & Groenenberg, D.S.J. (2004) The Pleistocene glaciations and the evolutionary history of the
+polytypic land snail species Arianta arbustorum (Gastropoda, Pulmonata, Helicidae). Molecular Phylogenetics and
+Evolution, 30, 64–74.
+Nekola, J.C. & Coles, B.F. (2010) Pupillid land snails of eastern North America. American Malacological Bulletin, 28,
+29–57.
+Nekola, J.C., Coles, B.F. & Bergthorsson, U. (2009) Evolutionary pattern and process in the Vertigo gouldii (Mollusca:
+Pulmonata, Pupillidae) group of minute North American land snails. Molecular Phylogenetics and Evolution, 53,
+1010–1024.
+Pilsbry, H.A. (1948) Land Mollusca of North America (North of Mexico). Academy of Natural Sciences of Philadelphia,
+Monograph #3, 1113 pp.
+Tongkerd, P., Lee, T., Panha, S., Burch, J.B & O Foighil, D. (2004) Molecular phylogeny of certain Thai Gastrocoptinae
+micro land snails (Stylommatophora: Pupillidae) inferred from mitochondrial and nuclear ribosomal DNA
+sequences. Journal of Molluscan Studies, 70, 139–147.
+Wade, C.M. & Mordan, P.B. (2000) Evolution within the gastropod molluscs; using the ribosomal RNA gene–cluster as
+an indicator of phylogenetic relationships. Journal of Molluscan Studies, 66, 565–570.
+′
+
+52
+
+· Zootaxa 3161 © 2012 Magnolia Press
+
+NEKOLA ET AL.
+
+

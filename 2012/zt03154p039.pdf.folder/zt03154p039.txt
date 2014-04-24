@@ -1,0 +1,579 @@
+Zootaxa 3154: 21–39 (2012)
+www.mapress.com / zootaxa/
+Copyright © 2012 · Magnolia Press
+
+ISSN 1175-5326 (print edition)
+
+Article
+
+ZOOTAXA
+ISSN 1175-5334 (online edition)
+
+A new genus and species of the family Isididae (Coelenterata: Octocorallia)
+from a CMAR Biodiversity study, and a discussion on the subfamilial
+placement of some nominal isidid genera
+PHILIP ALDERSLADE 1 & CATHERINE S. MCFADDEN2
+1
+Commonwealth Marine & Atmospheric Research, PO Box 1538, Hobart, Tasmania 7001, Australia.
+E-mail: phil.alderslade@csiro.au
+2
+Department of Biology, Harvey Mudd College, Claremont, California 91711, USA. E-mail: mcfadden@hmc.edu
+
+Abstract
+We describe a new abyssal genus and species of bamboo coral (family Isididae) with some markedly unusual characteristics, collected from a depth of just over 2000 m off southern Tasmania. Jasonisis thresheri n. gen., n. sp. possesses a fleshy
+tegument that contains nematocysts, tubular axial internodes that are internally partitioned, scale-shaped sclerites that
+have a morphology not recorded before for octocorals, and polyps that lack thorny rods or double stars in the pharynx.
+Molecular data place Jasonisis n. gen. in the subfamily Keratoisidinae whose definition is altered to incorporate the unusual characters. We also report some comparative observations on the internal structure of the axial internodes of the
+isidid genera Keratoisis Wright, 1869, Lepidisis Verrill, 1883 and Isidella Gray, 1857, and we alter the definition of the
+subfamily Mopseinae to allow the inclusion of the genera Tenuisis, Echinisis sensu Bayer & Stefani 1987 and Sclerisis
+sensu Bayer & Stefani 1987.
+Key words: Keratoisidinae, Jasonisis thresheri, bamboo coral, Cnidaria, Alcyonaria, Australia, Mopseinae, Tenuisis,
+Echinisis, Sclerisis
+
+Introduction
+Between 1997 and 2008, CMAR (the Commonwealth Scientific and Industrial Research Organisation division of
+Marine and Atmospheric Research) carried out a comprehensive regional scale biodiversity program in the Australian region. Six deepwater (~80–4000 m) surveys were conducted that included the north-western, south-western
+and south-eastern coasts of Australia and a number of sites in the northern Tasman Sea. The surveys targeted seamounts, ridges and canyons, and the outer continental shelf and slope. The study comprised taking both still and
+video images of the fauna and sampling by the use of sleds, beam trawls, demersal fish trawls and remotely operated underwater vehicles. Octocorals were a major component of the 307 catches resulting in 451 species from 132
+genera in 29 families.
+This paper is the first of several that are planned to describe the numerous new species and genera resulting
+from the surveys. It deals with a new genus of bamboo coral (F. Isididae) that has a form of scale-like sclerites not
+previously reported in octocorals, hollow axial internodes where the tubular cavity is partitioned, a lack of thorny
+rods or double stars in the polyp pharynx and a thick tegument that covers the colony and contains myriads of nematocysts.
+Abbreviations:
+TMAG
+AM
+
+Tasmanian Museum and Art Gallery specimen store, Winkleigh Place, Rosny, Hobart, Tasmania, Australia 7018.
+Australian Museum, 6 College St. Sydney, NSW, Australia 2101.
+
+Accepted by A. Collins: 2 Nov. 2011; published: 9 Jan. 2012
+
+21
+
+NTM
+SEM
+
+Museum and Art Gallery of the Northern Territory, Bullocky Point, Fannie Bay, Darwin, Northern Territory, Australia 0820.
+scanning electron microscopy (or microscope).
+
+Material and methods
+The holotype of the new species is deposited in the TMAG. The sclerites were prepared for light microscopy and
+SEM using the methodology described in Alderslade 1998: 18, with the exception that the axis fragments were
+attached to SEM stubs with double-sided tape.
+Light microscope images were obtained using the Leica Application Suite multifocus software package (LAS
+version 3.6.0, build 488). In this software the module for processing the z-stack image sets has been supplied by
+Syncroscopy who publish Auto-Montage, the software used by Alderslade 2006: 20. Some z-stack image sets were
+also processed using CombineZP, a free software package written by Alan Hadley and available for download on
+the Internet (2011).
+
+FIGURE 1. Maximum likelihood tree constructed from an 861-bp alignment of the mitochondrial gene msh1. Numbers above
+branches are bootstrap values. Labels indicate genus, species or specimen ID, and GenBank accession number. Representative
+species of family Primnoidae were used to root the tree. Mitochondrial gene order of Keratoisidinae differs from that of other
+octocoral taxa.
+
+Molecular analysis. DNA was extracted from EtOH-preserved specimens using Qiagen’s DNEasy Blood and
+Tissue Kit, and the mitochondrial genes msh1 and COI were PCR-amplified and sequenced using previously published primers and protocols (McFadden et al. 2011). Phylogenetic analysis (Fig. 1) was conducted using msh1
+
+22 · Zootaxa 3154 © 2012 Magnolia Press
+
+ALDERSLADE & MCFADDEN
+
+alone; this gene has been used much more widely for species comparisons in Octocorallia than COI, and consequently the number of taxa for which reference sequences are available in GenBank is much larger (McFadden et
+al. 2010). MUSCLE v. 3.6 (Edgar 2004) was used to align an approximately 809-bp fragment of the 5’ end of msh1
+with published sequences from assorted taxa of Isididae, Chrysogorgiidae and Primnoidae. PhyML (Guindon &
+Gascuel 2003) was used to construct maximum likelihood trees using a GTR + I + G model of substitution with
+100 bootstrap replicates.
+
+Isididae Lamouroux, 1812
+Keratoisidinae Gray, 1870
+Jasonisis n. gen.
+Diagnosis. (For branching and axial terminology see Alderslade 1998: 13–14) Colonial branching generally
+pseudo-dichotomous, repeating laterally in a single plane and tending to form sections with a lyrate pattern.
+Branching occurs at the nodes, which are relatively short. Internodes: slightly sinuous or curved in an irregular
+manner and occasionally twisted; surface with multiple, low, narrow, primary ridges; hollow in upper parts of the
+colony and filled with a gelatinous material; and internal tube walls lined with circumferential, hard, thin, membranous flanges or partitions. Whole colony completely covered with a thick tegument that has a mesh-like microstructure and contains large numbers of nematocysts. Polyps tall, narrow, distributed irregularly all around and
+essentially non-retractile, although the tentacles can be withdrawn below the tegument rim.
+Coenenchymal sclerites and most polyp sclerites are colourless and glassy, predominantly flattened and scalelike, elongate to oval, commonly with more-or-less rounded ends and a pronounced lobed margin. Scale faces can
+be smooth, but many have numerous mound-like, elongate protuberances, aligned with the long axis, generally
+arranged in rows and clustered more toward the centre. Scales and flattened rodlets of the tentacle rachis are mostly
+smooth; those of the pinnules have a very irregular outline; sclerites of the pharynx are irregularly shaped rodlets.
+On polyps that contain large ova or are brooding, many or all of the body sclerites are modified as thick scales or
+flattened spindles.
+Type species. Jasonisis thresheri n. sp., by original designation and monotypy.
+Etymology. The genus name incorporates the name of the ROV Jason that was operated from the U.S. RV
+Thomas T. Thompson and used to collect the holotype. As is customary for genera in this family, the root of the
+name is combined with isis.
+Remarks. The placement of Jasonisis n. gen. in sub-family Keratoisidinae is well supported by phylogenetic
+analysis (Fig. 1) and by the successful amplification of the msh1 gene from the holotype using the PCR primer
+CO3bam5657F (Brugler & France 2008) paired with mut3458R (Sánchez et al. 2003). Members of Keratoisidinae
+have a unique mitochondrial gene order that differs from all other octocorals including the other sub-families of
+Isididae (Brugler & France 2008). Because the CO3bam5657F-mut3458R primer pair amplifies across a gene junction (cox3-msh1) that is only present in the Keratoisidinae, we can conclude that Jasonisis n. gen. shares that same
+gene order. This inference is also supported by our failure to amplify msh1 from Jasonisis n. gen. using
+ND4L2475F-mut3270R, a primer pair that spans the nad4L-msh1 junction found in the standard (i.e. non-Keratoisidinae) octocoral mt genome. Analysis of COI also placed Jasonisis n. gen. in a clade with the keratoisinid genera
+Acanella and Orstomisis (data not shown), but no reference sequences for this gene were available for other genera
+or sub-families of Isididae. Both msh1 and COI sequences for Jasonisis n. gen. have been deposited in GenBank
+(accession nos. JN620806, JN620807).
+Within Keratoisidinae, Jasonisis n. gen. groups with high bootstrap support with two specimens (PN101-1,
+KEL604-2) provisionally assigned by France (2007) as undescribed species of Isidella (Fig. 1). Together these
+three specimens form a clade that is distinct from other members of that genus, as well as from any other genera of
+Keratoisidinae. Close examination of PN101-1 (USNM 94449) and KEL604-2 (YPM 44543) indicates that they
+share the thick tegument and unique sclerite form of Jasonisis n. gen., although slight molecular and morphological differences suggest that they represent different species than the one described here (S.C. France and L.
+Watling, pers. comm.). Several additional novel species belonging to this same clade have also been discovered
+recently (S.C. France and L. Watling, pers. comm.).
+A NEW ISIDID GENUS & SUBFAMILIAL IDEAS
+
+Zootaxa 3154 © 2012 Magnolia Press ·
+
+23
+
+The only other occurrence of a gorgonian having a similar colony-covering tegument is Orstomisis crosnieri
+Bayer, 1990. Figure 8B shows a tangential section from the surface of a colony of this species (NTM C014584),
+which revealed the same mesh-like structure to the tegument, and clusters of minute, near-circular bodies about 5.3
+µ diameter. Squashing the sample and dislodging some of these bodies revealed that they are oval and about 7.8 µ
+long, but they have an uneven outline and no detectable internal structure (Fig. 8C). However, the size of the
+objects and fact that the surface of the tegument is slightly bulged where large groups occur indicates they could be
+nematocysts (coelenterates commonly aggregate nematocysts into batteries; Fautin 2009).
+
+Jasonisis thresheri n. gen. n. sp.
+Figs. 2–9.
+Material examined. Holotype: TMAG K3879, Tasman fracture Zone, SW Tasman Sea, Tasmania, stn. J2-391020, sample 001, 45.37ºE, 144.61ºS, depth 2063 m, ROV Jason deployed from the U.S. RV Thomas T. Thompson,
+team led by Dr Jess Adkins & Dr Ron Thresher, 9 January 2009.
+Other material. NTM C014584, Orstomisis crosnieri, West Norfolk Ridge, Tasman Sea, 34.62ºS, 168.95ºE,
+depth 521–539 m, RV Tangaroa, 3 June 2003; TMAG K3853, Lepidisis spp., SW Tasman Sea, Tasmania, stn. J2393-002, sample 001, 44.3º S, 147.45ºE, 1813 m, ROV Jason deployed from the U.S. RV Thomas T. Thompson,
+team led by Dr Jess Adkins & Dr Ron Thresher, 12 January 2009; AM G16999, Lepidisis spp., Norfolk Ridge,
+Coral Sea, stn. TAN 0308, sample 041, 26.38ºS, 167.03ºE, depth 1028 m, RV Tangaroa, 18 May 2003.
+Description. Colony form: The large, planar holotype is shown in Fig. 2 just prior to collection; the estimated
+colony height is 1.5 m. In Fig. 3A, a photograph of a portion of the fresh material is shown (with an inset close-up),
+and some of the more than 80 fragments of the preserved colony are shown in Fig. 3B.
+Figure 3A (insert) illustrates the thick, opaque, tegument that covered the polyps and the branches, obscuring
+all sclerites. Figure 3B shows much of this layer has become detached leaving the colony fragments with variations
+of colour intensity; where relatively intact the material is still opaque.
+Enough of the preserved colony is intact to show that branching is not dense, and is generally pseudo-dichotomous. Branches arise at less than 90º and trace a distinct upward curve to eventually follow (more-or-less) the
+direction of the parent branch. Where major branches give off other major branches, this plan is repeated several
+times on the same side (Fig. 3Bab) tending to form sections with a lyrate pattern. Some thinner branches give rise
+to branchlets by following the same pattern, while others branch bilaterally. All branches are slightly sinuous.
+The distance between points of branching is about 25–85 mm, with distances in the vicinity of 35–50 mm
+being quite common. However, the underwater photograph of the colony shows that some terminal branches were
+probably in excess of 200 mm. The thickest fragment of the holotype is a swollen nodal region of the axis, which is
+oval in cross section with diameters of 14 x 10 mm. The thinnest terminal twigs are slightly less than 1 mm in
+diameter before the tip. There is usually a small cluster of polyps on the end of the twigs, which inflates the diameter. It often appears as though there is a terminal polyp but the minute growing tip of the twig can be seen protruding past the polyp base.
+Tegument: The layer that originally completely covered the scleritic coenenchyme and polyps of the fresh colony has a mesh-like microstructure. The pre-preservation treatment was too poor to show much histological detail,
+but large numbers of nematocysts occurring as individuals, small groups and large clusters can be seen in many
+samples. A typical surface peel (that avoids the dense tegument matrix below) from a region with numerous nematocysts is shown in Fig. 8D. The size of the nematocysts varies from 8.3–11.3 x 3.4–4.2 m, with most about 9.7–
+11.3 x 3.8 m. The interior structure of the majority is unclear, but a spiral thread can be detected in the proximal
+half of some (Fig. 8Da)
+Polyps: These are relatively tall and narrow with the mid-section thinner than both the base and head region,
+and are distributed all around in the fresh material (Fig. 3A). The tallest polyps are up to about 10 mm, with a head
+diameter of 3 mm and a mid-region diameter of 2 mm; most, however, are about 7 mm tall. In the preserved fragments the distribution varies from all around to almost biserial, but the latter is clearly a result of post mortem treatment, the colony having been frozen in a plastic bag and stacked with many other samples. Polyps are not evenly
+spaced; the distance between any two that are more-or-less lined up along the branch varies from about 1–5 mm,
+but the base of neighbouring polyps not in line will commonly be close if not touching. All still have various
+amounts of the deeply pigmented tegument adhering.
+
+μ
+
+μ
+
+24 · Zootaxa 3154 © 2012 Magnolia Press
+
+ALDERSLADE & MCFADDEN
+
+With respect to the manner of polyp retraction seen in such taxa as Astrogorgia Verrill, 1868 or Rumphella
+Bayer, 1955, where the neck region of the anthocodia can, by invagination, cause the upper part of the polyp to
+withdraw within a calyx or the general coenenchyme, the polyps of this new species are considered non-retractile,
+however the tentacles can be folded and concealed within a distal, short, tube-like extension of the polyp body tegument.
+Many polyps contain products of reproduction, and reproduction appears to involve brooding (see Polyp sclerites below). Tentacles bear a single row of 13–17 pinnules along each side.
+Colony colour: The live colony was various shades of orange and pink, with the deepest colour occurring on
+the heads of the polyps (Fig. 3A). In its post-thaw and ethanol preserved state, the fragments are various shades of
+brown. Where the thick epidermal layer is still intact it is very dark brown, and the colour becomes paler as the
+thickness of the layer becomes thinner. Where the layer appears to be missing entirely, and the sclerites are visible,
+the colour is greyish yellow. Most often, however, an extremely thin, transparent layer remains over the coenenchyme leaving the sclerites visible but colouring the surface pale brown.
+Axis form: All internodes are slightly sinuous or curved in an irregular manner and occasionally twisted. All
+have variable thickness and cross section, and have multiple, low, narrow, primary ridges (Fig. 4G). On thin twig
+internodes the ridges are faint, but can be observed with SEM (Fig. 4B). With a light microscope it is more difficult, but they can be detected if the internode is dry and illuminated at right angles to the line of vision. On all internodes, open and in-filled desmocytes cavities can be seen in the valleys separating the ridges. The surface of
+thinner internodes is very rough and granular (Fig. 4B), while in thicker internodes the surface is finely rippled
+(Fig. 4GH). An internode 0.76 mm in diameter has 12 ridges; one 2.25 mm in diameter has 18 ridges; one 3.5 mm
+in diameter has 32 ridges; and one 10 x 7.6 mm in diameter has 74 ridges.
+All but the thickest internodes are hollow, having a central tube whose diameter is variable and, in all except
+the thinnest twigs, is narrow relative to the internode diameter. In the thickest internode, with diameters of 10 x 7.6
+mm, the tube has become in-filled with calcareous material; in a major branch, with diameters of 9.5 x 8.5 mm, the
+central tube is 0.52 mm across (occupying approximately 6% of the internode diameter); in a branch of diameter
+3.5 mm, the tube is 0.66 mm across (approx. 19%); in one of diameter 2.25 mm the tube is 0.6 mm across (approx.
+27%); in a twig of diameter 0.95 mm, the central tube is 0.59 mm across (approx. 62 %); and in one of diameter
+0.76 mm, the tube is 0.59mm across (approx. 78% of the internode diameter).
+Extremely fine, circumferential, mineral membranes arise from the walls of the central tube in the thin twigs.
+In very narrow twigs the internode walls are thin and the membranes are flange-like (Fig. 4A), but proximal to
+these the internodes have thicker walls and the membranes completely partition the interior space (Fig. 4F). Notably, the interior of the tubes is filled with a colourless, totally transparent gelatinous material. This jelly was
+detected when calcareous fragments, generated during the process of fracturing an internode, were observed to
+float within fragment cavities. Use of a biological stain should make detection simpler.
+The internode cross section illustrated in Fig 4E shows a pattern caused by the controlled variation of both the
+angle of the fibre crystal bundles and their associated organic content, and is consistent with that of the axis of Keratoisis sp. described in fine detail by Noé & Dullo (2006).
+Internode lengths measured for terminal twig fragments are very variable. Starting at the twig tip, examples of
+series are: A) 8.2 mm, 14.4 mm, 9.6 mm, 16 mm, 25.1 mm, 11.7 mm; B) 15 mm, 19.2 mm, 20.48 mm; C) 21.6 mm,
+16.8 mm, 18.1 mm; D) 2.4 mm, 8 mm, 10.9 mm. Those in lower order branches are more consistent, varying from
+21.6–44.3 mm with an average length of about 32 mm.
+Nodes are notably short and their length varies little regardless of internodal diameter. In fine twigs the lengths
+are commonly about 0.75–1.25 mm, yet in the thickest internodes nodal lengths are mostly only 0.60–1.25 mm
+long. Nodes are not visible where the tegument is thick, but are visible to various degrees through the scleritic
+coenenchyme where the tegument has been partly or completely eroded.
+The internodes of thin twigs are thicker than the associated nodes: e.g. 0.95 mm versus 0.70 mm. More-or-less
+the opposite occurs in thicker twigs and branches: e.g. an internode 2.1 mm thick in the middle may be 3.6 mm
+wide at the ends where it adjoins a node of the same thickness.
+Branching is from the nodes, but because the nodes are so thin, extra-nodal material is involved (Fig. 4CD).
+Sclerites: The dominant sclerite form has not been reported before in octocorals, but some of those from the
+tentacle rachis would appear to be the same as some recorded from the pinnules of Lepidisis olapa Muzik, 1978
+(738: Fig. 5E) and the pinnules and pharynx of Lepidisis evelinae Bayer, 1989 (205: pl. 2d in the original publication and added later in a clearer version to the separates distributed by the author).
+
+A NEW ISIDID GENUS & SUBFAMILIAL IDEAS
+
+Zootaxa 3154 © 2012 Magnolia Press ·
+
+25
+
+FIGURE 2. Jasonisis thresheri n. gen., n. sp., holotype; A, in-situ (image by the Advanced Imaging and Visualisation Laboratory, Woods Hole Oceanographic Institution); B, polyp interior with developing larva (a = medial furrow).
+
+26 · Zootaxa 3154 © 2012 Magnolia Press
+
+ALDERSLADE & MCFADDEN
+
+FIGURE 3. Jasonisis thresheri n. gen., n. sp., holotype: A, a live colony fragment and associated close-up (image by Karen
+Gowlett-Holmes, CMAR); B, some preserved colony fragments.
+
+A NEW ISIDID GENUS & SUBFAMILIAL IDEAS
+
+Zootaxa 3154 © 2012 Magnolia Press ·
+
+27
+
+FIGURE 4. Jasonisis thresheri n. gen., n. sp., holotype, axis: A, interior of a twig internode showing partitions (light microscope image); B, exterior of a twig internode (SEM image); C–D, examples of nodal branching (light microscope images); E,
+branch internode cross-section (light microscope image by Ron Thresher); F, interior of branch internode showing partitions
+(SEM image); G–H, twig internode surface (SEM images).
+
+28 · Zootaxa 3154 © 2012 Magnolia Press
+
+ALDERSLADE & MCFADDEN
+
+FIGURE 5. Jasonisis thresheri n. gen., n. sp., holotype: A, a polyp with small ova; B, polyp head close-up (a = aggregations
+of sclerites below base of tentacles; b = naked polyp surface) ; C, a polyp containing large ova; D–E, polyp body wall closeups. (All light microscope images).
+
+The novel form is elongate to oval, usually with more-or-less rounded ends, with a pronounced lobed margin (Figs.
+6C, 7Ab–d, 9B), and is colourless and glassy. The faces of many of the sclerites have numerous mound-like protu-
+
+A NEW ISIDID GENUS & SUBFAMILIAL IDEAS
+
+Zootaxa 3154 © 2012 Magnolia Press ·
+
+29
+
+berances that are elongate, aligned with the long axis, and generally arranged in rows, but many sclerites occur that
+have none. There is a tendency for the mounds on the scales to be clustered more toward the centre (Fig. 6Dab,
+7Ac) and for the number of mounds to decrease along with a corresponding decrease in sclerite size. The thin sclerites are scale-like and glassy but the thicker ones are quite white and almost opaque, and have the form of a flattened spindle (Fig. 7Aa). Many sclerites have intermediate thickness, most being modified scales where the surface
+mounds increase the thickness in the centre or down the centre-line. The ultrastructure of the sclerite surface is
+comprised of trigonal calcite prisms (Fig. 7D), which gives the scales a longitudinally striated appearance when
+viewed under a compound microscope. Due also to their thickness, flattened spindles appear very dark.
+Polyp sclerites: Nearly all polyp bodies are covered in closely packed scales, often overlapping, and tending to
+be aligned longitudinally (Fig. 5A,D). Just below the origin of the tentacles, the scales become arranged in 8 lobes
+(Fig. 5Ba) separated by 8 naked patches (Fig. 5Bb). The scales vary from elongate to oval (Fig. 6D, 7Ab–e); the
+smaller ones without surface mounds. The length varies from 0.13–0.57 mm, but most are within 0.17–0.48mm.
+The larger polyps commonly contain many small ova attached to the more proximal parts of the mesenteries.
+Occasionally, one or more flattened spindles are found amongst the scales, commonly near the top of the polyp
+body. A small number of polyps have large groups of these sclerites in the upper part. Several (very scarce) polyps
+are more-or-less completely covered with flattened spindles and thick scales (Fig. 5E). Some of these (Fig 5C) are
+shaped the same as the majority of polyps and contain large ova about 0.52–0.59 mm in diameter (distorted by post
+mortem effects). Others are swollen and contain a single large object (probably a developing larva) about 3.3 x 1.8
+mm in size (Fig. 2B), which has a furrow down the side facing inward from the polyp wall, giving a shape similar
+to a partly opened bivalve (Fig. 2Ba).
+The oral aspect of the tentacle rachis is naked, but the aboral aspect is covered with scales whose arrangement
+varies from transverse (Fig. 5B) to longitudinal (Fig. 8Aa) depending on the amount of tentacle extension. The
+scales decrease in size and become narrower toward the end of the tentacle, losing their lobed margin and becoming more like flattened rodlets, and are about 0.1–0.24 mm long (Fig. 6CD, 7B,C). Only a few scales have surface
+mounds, and these are from where the tentacles diverge from the polyp body.
+The last few pinnules near the tentacle tip do not have sclerites, but the proximal part of each of the remainder
+contains a group of irregularly shaped scales (Fig. 5B, 8Ab), 0.07–0.11 mm long (Fig. 6B). The pharynx contains
+irregular shaped rodlets 0.06–0.13 mm long (Fig. 6A). The tentacles of the brooding polyps with the large body
+sclerites contain scales the same as those described above.
+Coenenchymal sclerites: The coenenchyme is extremely thin, holding just a single layer of thin scales. Those
+of the thinner branchlets (Fig. 9B) are densely arranged. They are 0.07–0.35 mm long, although most are about
+0.08–0.23 mm, and only the largest have a few surface mounds. The surface of both the thicker and the major
+branches have slightly different scale forms (Fig. 9C). The length varies from 0.07–0.25 mm, but most are
+between 0.09–0.18 mm. Surface mounds are absent and in general only the larger scales have pronounced, regularly lobed margins as seen in the twig coenenchyme. Most have only a few irregularly arranged marginal lobes,
+and scales with nearly lobe-less margins are common. On the thick branches, sclerites are not densely arranged,
+and on the major branches the arrangement varies from close packed to well spaced.
+Etymology. The species is named for Dr Ron Thresher, an expert in the utilisation of modern and fossil isidid
+skeletons for oceanographic and climate reconstruction, and one of the expedition leaders aboard the U.S. RV
+Thomas T. Thompson.
+Remarks. Axis: The presence of hard membranous structures within hollow axial internodes has not been
+reported in an isidid before and prompted a comparison with the internodes of several species of the related genera
+Keratoisis Wright, 1869, Lepidisis Verrill, 1883 and Isidella Gray, 1857. Bayer (1990: 205–206) and France (2007:
+323–325) have discussed the problems of diagnosing genera within this group, so for the exercise unbranched colonies were diagnosed as Lepidisis, colonies branching from the internodes were diagnosed as Keratoisis and colonies with long internodes branching from the nodes were diagnosed as Isidella (Bayer 1990: 207 key). A Keratoisis
+internode 3 mm thick with a jelly-filled tube of diameter 0.75–1.25 mm was found to be lined with very low, circumferential ridges which every now and then were raised as a flange about 0.9 mm tall; these flanges were 0.68–
+2.25 mm apart. Thinner Keratoisis internodes also had low circumferential ridges, but among them were occasionally irregular, oblique, spider-web-like structures spanning the tube. Some of the 3–5 web meshes in such a structure were filled in with a transparent, mineral membrane having the iridescent appearance of a soap bubble/film. A
+thin, jelly-filled Lepidisis internode also had fine ridges circling the tube wall with occasional hard partitions looking like soap bubbles, but these were entire and not web-like. In the internodes from Isidella twigs the
+
+30 · Zootaxa 3154 © 2012 Magnolia Press
+
+ALDERSLADE & MCFADDEN
+
+FIGURE 6. Jasonisis thresheri n. gen., n.sp., holotype, polyp sclerites: A-D from a polyp with small ova; A, from the
+pharynx; B, from the pinnules; C, from the tentacle rachis; D, from the body wall; E, spindle from the body wall of a polyp with
+large ova. (All light microscope images).
+
+A NEW ISIDID GENUS & SUBFAMILIAL IDEAS
+
+Zootaxa 3154 © 2012 Magnolia Press ·
+
+31
+
+FIGURE 7. Jasonisis thresheri n. gen., n. sp., holotype, SEM images of polyp sclerites: A, polyp body; B–C, tentacle; D,
+ultrastructure of a body scale.
+
+32 · Zootaxa 3154 © 2012 Magnolia Press
+
+ALDERSLADE & MCFADDEN
+
+FIGURE 8. A, Jasonisis thresheri n. gen., n. sp., holotype, tentacles (a = aboral aspect; b= lateral aspect); B, Orstomisis crosnieri, NTM C014584, tangential tegument section; C, Orstomisis crosnieri, NTM C014584, close-up of surface peel of tegument; D, Jasonisis thresheri n. gen., n. sp., close-up of surface peel of tegument with inset of a single nematocyst; E, Lepidisis
+sp., TMAG K3853, polyp body scale. (All light microscope images).
+
+A NEW ISIDID GENUS & SUBFAMILIAL IDEAS
+
+Zootaxa 3154 © 2012 Magnolia Press ·
+
+33
+
+FIGURE 9. Jasonisis thresheri n. gen., n. sp., holotype, sclerites: A, from the body wall of a polyp with large ova; B, from the
+surface of a thin branch; C, from the surface of a thick branch. (All light microscope images).
+
+34 · Zootaxa 3154 © 2012 Magnolia Press
+
+ALDERSLADE & MCFADDEN
+
+structure was slightly different. In two jelly-filled internodes of diameter 1.3 and 1.7 mm respectively, the tube,
+0.75 mm across, was circled with closely packed, sinuous ridges, that were very difficult to see because of their
+extremely fine and low structure.
+In the Keratoisis and Lepidisis samples, the tube diameter decreases in the proximal internodes until the internodes become entirely solid. In the Isidella colonies the tube diameter remained similar in size, or even increased
+in the more proximal internodes. For example, a main branch internode 5 mm thick had a tube diameter of 2.1 mm,
+three times that in the twig internodes. It also had the same internal ridge structure as the twig samples, but was not
+filled with jelly.
+The limited comparison indicated a comprehensive study of the internodal space might provide information to
+assist with the morphologically based taxonomy of these genera.
+Systematics. The discovery of Jasonisis thresheri n. gen., n. sp. necessitates additions to the definition of the
+subfamily Keratoisidinae because the new genus possesses a number of characters that have not been recorded
+before. The particular architecture of the scale-like sclerites is a new record for all Octocorallia, and the lack of
+thorny rods or double stars in the polyp pharynx, the partitioning of the tubular cavity within the axial internodes,
+and the nematocysts in the tegument are new records for the subfamily. The actual occurrence of a tegument has
+previously been recorded for Orstomisis, but like the previously recorded presence of scales (see below) it has
+never been mentioned in the context of the subfamily’s characteristics.
+The most recent deliberation on the subfamily was that of Bayer (1990: 205–207) when discussing his reasoning for the inclusion of the new genus Orstomisis. Bayer gave no formal diagnosis of the subfamily, but one could
+be deduced from his key in which there was no mention of the tegument. In the same paper, Bayer also discussed
+the controversial subject of whether sclerites in the form of true scales occurred in taxa within the subfamily—specifically referring to Keratoisis and Lepidisis. In the previous year Bayer referred to these sclerites as “scale-like”,
+stating, “Scale-like sclerites occur to greater or lesser extent in almost all species” of Keratoisidinae (Bayer, 1989:
+201), and in the discussion in the afore mentioned 1990 paper he concluded that scales, as described by Verrill for
+Lepidisis, were actually just “small, flat rods”. This opinion was a revision of his earlier definition of Lepidisis
+(1956: F222) where he said the polyps had elongate scales, and was not in accord with Grant (1976: 30–31). The
+latter gave an extensive treatment of the subject and proposed a new species, Lepidisis solitaria (from the Norfolk
+Ridge, NE Tasman Sea), described as having both coenenchymal and polyp scales. In Bayer’s defence, however,
+Grant did not give a single sclerite illustration in his description (or for any of the taxa in his paper) from which to
+ascertain the exact sclerite form. We have been able to examine two unbranched species referrable to the genus
+Lepidisis as defined by Grant (one from the Norfolk Ridge, one from the SE Tasman Sea, Tasmania) that have
+sclerites in the form of true scales. One scale from the Tasmanian colony (TMAG K3853), whose polyps have a
+similar appearance to that depicted by Grant for L. solitaria, is illustrated in Fig. 8E. Additionally, amongst Verrill’s
+unpublished plates for the octocorals collected by the Blake expeditions (Bayer & Cairns 2004) are a number of
+illustrations related to species of Lepidisis with scales. The most informative are those of a proposed new species,
+L. cornucopia; Plates 90, fig. 6; 94, fig 3. Subsequent to the above considerations we propose a revised definition
+as follows:
+Subfamily Keratoisidinae: Isididae in which colonies are unbranched or branched in a dichotomous, trichotomous, pseudodichotomous or lyrate manner, and are planar or bushy. Branching occurs from the nodes or the internodes and the latter may be solid throughout a colony or hollow in the younger parts. The tubular internodal cavity
+may be continuous or partitioned to varying degrees and may contain a gelatinous material. Polyps are non-retractile and protected by sclerites in the form of needles, spindles, rods or scales that are arranged longitudinally or
+obliquely. Smaller sclerites of a similar form may occur in the coenenchyme. Pharyngeal sclerites, if present,
+include tuberculate or spiny rodlets, and double stars. Colonies may be covered in a fleshy tegument that can contain nematocysts.
+Included genera: Keratoisis, Lepidisis, Isidella, Acanella, Orstomisis, Jasonisis.
+We have excluded the genus Tenuisis Bayer & Stefani, 1987(b) from the subfamily despite the fact that it was
+subsequently included in Keratoisidinae by Bayer (1990: 205) and then France (2007: 323). The genus was
+described for the type species Ceratoisis microspiculata Molander, 1929 (= Tenuisis microspiculata), and originally Bayer & Stefani specifically excluded it from this subfamily by stating, “In Tenuisis exilis (sic) described
+below, the sclerites of the polyp body are elongated and tapered, but are flat and scale-like even though they seem
+not to be limited by space. They are, in fact, scales, not spindles, thus excluding Tenuisis from Keratoisidinae”. But
+
+A NEW ISIDID GENUS & SUBFAMILIAL IDEAS
+
+Zootaxa 3154 © 2012 Magnolia Press ·
+
+35
+
+it was subsequently included in the subfamily by Bayer in his 1990 paper, without comment. Our exclusion is
+based on the surface ornamentation of the sclerites and the particular nature of the tentacle sclerites (see Bayer &
+Stefani 1987(b): figs. 25, 26). That there are proportionally large, rough tubercles on the surface of all the sclerites
+differentiates it from the other genera in the subfamily, and the nature of these tubercles combined with the fact that
+the sclerites of the tentacle rachis are the same as the crescentic scales found in Mopseinae strongly suggest Tenuisis has a far greater affinity with that subfamily than with Keratoisidinae (based on the most recent treatment of the
+Mopseinae by Alderslade in 1998). It is interesting to note that the coenenchymal sclerites and, it would seem,
+those of the anthopoma (they were not indicated on the sclerite figure but the arrangement was drawn in fig.24 on
+page 980) are similar to those found in Primnoisis Studer [& Wright] 1887 (see Alderslade 1998: fig. 201). Indeed,
+if the polyp body sclerites of Tenuisis were more scale-like and more-or-less transversally arranged, the genus
+would conform to the latest definition of Mopseinae. The species even has axial internodes of the same form as
+found in species included in Mopseinae; usually ribbed longitudinally, they can have an even surface and they
+always have large desmocyte cavities (Alderslade 1998: 13–14).
+It should be noted that at the time of their deliberations, Bayer (1990: key, 207) was defining the subfamily
+Mopseinae as having “Sclerites in the form of plates, sometimes elongate and spindle-like but never with complex
+sculpture”, which is not consistent with Bayer & Stefani’s 1987(a) descriptions of species within the subfamily,
+such as Mopsea bargibanti Bayer & Stefani, 1987(a), M. whiteleggei Thomson & Mackinnon, 1911 and M. provocatoris Bayer & Stefani, 1987(a), which all have sclerites with complex tuberculation.
+In the same 1987 paper in which Tenuisis was described, Bayer & Stefani also proposed several other new
+isidid genera (Stenisis, Australisis and Caribisis) after earlier (Bayer & Stefani 1987(a)) having revalidated Sclerisis Studer, 1879; a genus that had been treated as a synonym of Primnoisis and long been forgotten. However, the
+authors did not place any of these four genera into a subfamily, remarking instead on the difficulties that had arisen
+as the volume of new discoveries caused morphologically based boundaries to become increasingly blurred. Little
+has changed since and no molecular data have become available for these taxa to ease the problem. Nevertheless, it
+is possible to make deductions about some of these genera in a similar manner to the treatment of Tenuisis, the most
+obvious being that they do not fit into Keratoisidinae.
+Like Tenuisis microspiculata, Stenisis humilis Bayer & Stefani, 1987(b) would also seem to have some affinities with the Mopseinae given that the tentacle sclerites are crescentic and the polyp body sclerites are flattened,
+complexly tuberculated and scale-like, and in this case also transversally placed (Bayer & Stefani 1987(b): figs.
+15b, 18). However, although the tentacle sclerites are similar to those of Mopsea triaknema Alderslade, 1998, the
+authors thought they were probably from the pinnules and not the tentacle rachis, which would appear to be correct
+as the shape is the same as the pinnule sclerites of Primnoisis mimas Bayer & Stefani, 1987(b) and those of the
+material described as Sclerisis pulchella Studer, 1879 in the same paper. It should be noted, therefore, that pinnule
+sclerites have rarely been reported in the Mopseinae and the axial internodes of S. humilis do not conform to those
+that occur in the subfamily. These characteristics combined with the fact that the species is endemic to the Caribbean and the Gulf of Mexico, currently rules it out of inclusion in the Mopseinae, the genera of which are restricted
+to Australasia, the South Atlantic and the circumpolar Southern Ocean (Alderslade 1998) (and also southern Africa
+if the species attributed to Chathamisis Grant, 1976 from that region are included (see Alderslade 1998: 263–265)).
+The subfamilial placement of Australisis saramentosa Bayer & Stefani, 1987(b) remains unresolved. The narrow, thorned needles distinctly arranged en chevron on the body wall of the polyps set it apart from all other known
+genera.
+In Caribisis simplex Bayer & Stefani, 1987(b) the polyp body sclerites are stout spindles arranged in irregular
+chevrons, but they are ornamented with complex tubercles, and again, the scale-like tentacle sclerites with “projections forming a serrated margin Fig. 21a” bear some resemblance to those seen in species within the subfamily
+Mopseinae. However, like Australisis, the genus is endemic to the Caribbean, and both have the same, prickly axial
+form that is not seen in the Mopseinae.
+There are some concerns regarding Bayer & Stefani’s treatment of Sclerisis that invite comment. The authors
+revalidated the genus for some isidid samples from Macquarie Island, south of New Zealand, that have generated a
+deformed axis owing to the presence of commensal polychaete worms (a character also reported for the type species Sclerisis pulchella). They erected a new species, Sclerisis macquariana Bayer & Stefani, 1987(a), for the fragmented specimens in which: most of the polyp body sclerites are longitudinally arranged plate-like, flattened,
+spindles with irregular lateral lobes or branches; pinnule sclerites are absent; and there are thorn scales with a sin-
+
+36 · Zootaxa 3154 © 2012 Magnolia Press
+
+ALDERSLADE & MCFADDEN
+
+gle projection arranged below the base of the tentacles. Because of the nature of the thorn scales, the authors briefly
+compared the polyps with those found on colonies of Echinisis Thomson & Rennet, 1931. Later these same authors
+(1987(b)) described some relevant specimens from the South Atlantic that they attributed to Sclerisis pulchella; the
+type species that was originally described from north of New Zealand. But although the sclerites from the polyp
+body and the tentacle rachis are of the same form as those of Sclerisis macquariana, those of the anthopoma and
+the coenenchyme are not, and pinnule sclerites are present but thorn scales are absent. The anthopoma of the polyps
+of Sclerisis pulchella is formed from obliquely and longitudinally arranged narrow sclerites, as can be seen in
+Bayer & Stefani 1987(b), fig. 15c, while that of Sclerisis macquariana is formed from several triangular scales
+(Bayer & Stefani 1987(a): pl. XXX, figs. d–f), as is described for a number of species of Mopseinae (see Alderslade 1998). But more importantly, such an arrangement was also described for species of Echinisis in the same
+paper as Sclerisis pulchella. It is our opinion that the two Sclerisis species are not congeneric, and until Echinisis is
+revised, Sclerisis macquariana would be better placed within that genus alongside Echinisis eltanin, described as a
+new species in the same paper. Prior to the description of Echinisis eltanin and the other three new species of the
+genus included in the same paper (Bayer & Stefani, 1987(a)), only two nominal species of Echinisis were known;
+the type species E. spicata (Hickson, 1907) and E. armata (Kükenthal, 1912), both of which have a bottle-brush
+growth form. All of the new species described by Bayer & Stefani are planar, which the authors recognised was a
+departure from the established characteristic colony form. This fact, combined with the large variety of sclerite
+shapes and arrangements figured by Bayer & Stefani for their new species, and the relevant colonies the first author
+has at hand (where different species have the polyp sclerites arranged longitudinally and/or transversally), leads us
+to believe that the nominal species of Echinisis are probably not congeneric.
+Echinisis has been included in Mopseinae by several authors; Kükenthal (1915, 1924 with reference to Primnoisis spicata (Hickson, 1907) and P. armata), Thomas & Mathews (1986, also with reference to P. spicata), Bayer
+(1981, in the systematic list at the end of the key) and Alderslade (1998). So, if we take into account that the Echinisis complex includes species where the polyps may have either longitudinally or transversally arranged sclerites,
+but morphologically these species are sufficiently similar that it would be unjustified to consider placing any of
+them in different subfamilies, it seems logical to expand the definition of the subfamily to include Sclerisis sensu
+Bayer & Stefani 1987(b). Bayer & Stefani stated in that paper that there is doubt as to whether their material
+represents Sclerisis pulchella, and that the question will only be resolved by examining the original specimen
+described by Studer. But, the warty plate-like sclerites of the polyp body (although longitudinally arranged),
+the form of the axis, and the crescentic scales in the tentacles, together indicate their material should be included in
+Mopseinae. An expanded version of the definition given in Alderslade 1998 follows:
+Subfamily Mopseinae: The colonies can be planar, arborescent, bushy, sparsely branched or unbranched and
+filiform. Branching can be pinnate, dichotomous, pseudo-dichotomous, sympodial or irregular. The polyps are nonretractile but may be so highly contractile as to become flush with the branch surface. When protruding they can be
+angled to the branch surface, adaxially reduced with or without adaxial sclerites, or more-or-less erect and completely covered with sclerites. The sclerites of the polyp body can be in the form of smooth, tuberculate, or thorny
+scales or plates (generally broad, but sometimes narrow, thick and spindle-like). When arranged transversally they
+generally have a distal margin that is dentate, tuberculate, scalloped, thorny or thorn-like, or more-or-less entire,
+while the proximal margin generally has lobes or tuberculate root-like processes, but may be similar to the distal
+margin. When arranged longitudinally they are like narrow or stout spindles, generally flattened, with a simple or
+complex margin. Rarely, body sclerites can have a disorganised arrangement.
+The anthopomal sclerites are scale-like, sometimes elongate but generally triangular, triradiate, or crescentic,
+intermesenterially situated and forming simple or complex protective arrangements that enclose the deflated tentacles during contraction. The tentacle rachis contains a single series of crescentic scales, and the pinnules may
+sometimes contain twisted half-crescents with short processes on one end. Sclerites of the surface of the coenenchyme are of a form that can generally be derived from unilaterally spinose spindles, but are sometimes present as
+irregularly shaped platelets and crosses, or, rarely, tuberculate nodules or double-goblets. Axial internodes are solid
+with large desmocyte cavities on the surface, which is sometimes plain but is commonly sculptured with longitudinal ridges and ornamented with spines or granules of various sizes that are associated with the ridges. Branching
+occurs from both internodes and nodes, but is predominantly internodal.
+Included genera: Mopsea Lamouroux, 1816; Paracanthoisis Alderslade, 1998; Oparinisis Alderslade, 1998;
+Tethrisis Alderslade, 1998; Acanthoisis Studer [& Wright], 1887; Notisis Gravier, 1913; Pteronisis Alderslade,
+
+A NEW ISIDID GENUS & SUBFAMILIAL IDEAS
+
+Zootaxa 3154 © 2012 Magnolia Press ·
+
+37
+
+1998; Sphaerokodisis Alderslade, 1998; Jasminisis Alderslade, 1998; Ktenosquamisis Alderslade, 1998; Myriozotisis Alderslade, 1998; Iotisis Alderslade, 1998; Peltastisis Nutting, 1910; Lissopholidisis Alderslade, 1998; Minuisis Grant, 1976; Primnoisis Studer [& Wright], 1887; Chathamisis Grant, 1976; Echinisis Thomson & Rennet,
+1931; Tenuisis Bayer & Stefani, 1987(b), and Sclerisis sensu Bayer & Stefani 1987(b).
+[It should be noted that the figure references in the original descriptive text of Sclerisis pulchella are correct,
+14, 15c, 16, but those under the species name heading are incorrect, 13, 14c, 15].
+
+Acknowledgments
+The authors thank the Advanced Imaging and Visualisation Laboratory, Woods Hole Oceanographic Institution, for
+permitting us to use the underwater photograph of Jasonisis thresheri n. sp., Rick van den Enden of the Australian
+Antarctic Division, Hobart, for the SEM images, Suzanne Horner and Gavin Dally, NTM, for the Orstomisis specimen loan, Suheilah Abdalla for assistance with DNA sequencing, Leen van Ofwegen and Karen Gowlett-Holmes
+for reading and commenting on different drafts, and Scott France and Les Watling for sharing their data and observations of a similar species. Support for molecular analysis was provided in part by the Assembling the Cnidarian
+Tree of Life project, NSF grants EF-0531570 to C.S. McFadden and EF-0531779 to Paulyn Cartwright .
+
+References
+Alderslade, P. (1998) Revisionary systematics in the gorgonian family Isididae, with descriptions of numerous taxa (Coelenterata: Octocorallia). Records of the Western Australian Museum, Supplement No. 55, 1–359.
+Alderslade, P. (2006) New subfamilies and a new genus and species of Melithaeidae (Coelenterata: Octocorallia: Alcyonacea)
+with comparative data on the structure of both melithaeid and subergorgiid axes. Zootaxa, 1199, 19–47.
+Bayer, F.M. (1955) Contributions to the nomenclature, systematics, and morphology of the Octocorallia. Proceedings of the
+United States National Museum, 105, 207–220.
+Bayer, F.M. (1956) Octocorallia. In: R.C. Moore (Ed), Treatise on Invertebrate Paleontology. Part F. Coelenterata. Geological
+Society of America and University of Kansas Press, Lawrence, Kansas, pp. 163–231.
+Bayer, F.M. (1989) A new isidid octocoral (Coelenterata: Octocorallia) from the Galapagos Rift. Boletim de Zoologia Universidade de São Paulo,Brazil, 10, 197–208.
+Bayer, F.M. (1990) A new isidid octocoral (Anthozoa: Gorgonacea) from New Caledonia, with descriptions of other new species from elsewhere in the Pacific Ocean. Proceedings of the Biological Society of Washington, 103(1), 205–228.
+Bayer, F.M. & Cairns, S.D. [Eds] (2004) The unpublished plates for A.E. Verrill’s unfinished report on THE ALCYONARIA OF
+THE “BLAKE” EXPEDITIONS. With revised explanations of the figures transcribed from A.E. Verrill’s original typescript. Department of Zoology, National Museum of Natural History, Washington DC, pp. viii + 11 + 156 leaves of plates.
+Bayer, F.M. & Stefani, J. (1987a) Isididae (Gorgonacea) de Nouvelle-Calédonie Nouvelle clé des genres de la famille. Bulletin
+du Muséum National d’Histoire Naturelle, Paris, (4)9, (A no.1), 47–106.
+Bayer, F.M. & Stefani, J. (1987b) New and previously known taxa of isidid octocorals (Coelenterata: Gorgonacea), partly from
+Antarctic waters. Proceedings of the Biological Society of Washington, 100(4), 937–991.
+Brugler, M.R. & France, S.C. (2008) The mitochondrial genome of a deep-sea bamboo coral (Cnidaria, Anthozoa, Octocorallia,
+Isididae): genome structure and putative origins of replication are not conserved among octocorals. Journal of Molecular
+Evolution, 67, 125–228.
+Edgar, R.C. (2004) MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Research,
+32, 1792–1797.
+Fautin, D.G., (2009) Structural diversity, systematics, and evolution of cnidae. Toxicon, 54(8), 1054–64
+France, S. (2007) Genetic analysis of bamboo corals (Cnidaria: Octocorallia: Isididae): does lack of colony branching distinguish Lepidisis from Keratoisis? Bulletin of Marine Science, 81, 323–333.
+Grant, R.B. (1976) The marine fauna of New Zealand: Isididae (Octocorallia: Gorgonacea) from New Zealand and the Antarctic. Memoirs of the New Zealand Oceanographic Institute, Wellington, 66, 1–56.
+Gravier, Ch. (1913) Sur les Alcyonaires rapports par la seconde expedition antarctique française. Comptes Rendus Académie
+des Sciences, 157, 1015–1018.
+Gray, J.E. [1858] Synopsis of the families and genera of axiferous zoophytes or barked corals. Proceedings of the Zoological Society of London for 1857, 278–294.
+Gray, J.E., (1870) Catalogue of the lithophytes or stony corals in the collection of the British Museum. British Museum, London, pp. [iv] + 51.
+Guindon, S. & Gascuel, O., (2003) A simple, fast and accurate algorithm to estimate large phylogenies by maximum likelihood. Systematic Biology, 52, 696–704.
+
+38 · Zootaxa 3154 © 2012 Magnolia Press
+
+ALDERSLADE & MCFADDEN
+
+Hadley, A. CombineZP. Available from http://www.hadleyweb.pwp.blueyonder.co.uk/. (2011)
+Hickson, S.J. (1907) Coelenterata 1. Alcyonaria. National Antarctic (Discovery) Expedition, Natural History, 3, 211–239.
+Kükenthal, W. (1912) Die Alcyonaria der deutschen Südpolar-Expedition 1901–1903. Deutsche Südpolar Expedition 1901–
+1903, 13. Zoologie, 5(3), 289–349.
+Lamouroux, J.V.F. (1812) Extrait d'un mémoire sur la classification des Polypiers coralligènes non entièrement pierreux. Nouveau Bulletin des Sciences, par la Société Philomatique, Paris, 3(63), 181–188.
+McFadden, C.S., Sánchez, J.A. & France, S.C. (2010) Molecular phylogenetic insights into the evolution of Octocorallia: a
+review. Integrative and Comparative Biology, 50, 389–410.
+McFadden, C.S., Benayahu, Y., Pante, E., Thoma, J.N., Nevarez, P.A. & France, S.C. (2011) Limitations of mitochondrial gene
+barcoding in the cnidarian sub-class Octocorallia. Molecular Ecology Resources, 11, 19–31.
+Molander, A.R. (1929) Die Octactiniarien. In: T. Odhner (Ed.) Further Zoological Results of the Swedish Antarctic Expedition
+1901—1903 under the direction of Dr. Otto Nordenskjöld. P.A. Norstedt & Soner, Stockholm, 2(2), i–iv + 1–86.
+Muzik, K.M. (1978) A bioluminescent gorgonian Lepidisis olapa, new species (Coelenterata: Octocorallia) from Hawai’i. Bulletin of Marine Science, 28(4), 735–741.
+Noé, S.U. & Dullo, W.-Chr. (2006) Skeletal morphogenesis and growth mode of modern and fossil deep-water isidid gorgonians (Octocorallia) in the West Pacific (New Zealand and Sea of Okhotsk). Coral Reefs, Report, DOI 10.1007/s00338006-0095-8.
+Nutting, C.C. (1910) The Gorgonacea of the Siboga Expedition V. The Isidae. Siboga-Expeditie Monograph, 13b2, 1–24.
+Sánchez, J.A., McFadden, C.S. , France, S.C. & Lasker, H.R. (2003) Phylogenetic analyses of shallow-water Caribbean octocorals. Marine Biology, 142, 975–987.
+Studer, Th. (1875) Überschicht der Anthozoa Alcyonaria, welche während der Reise S.M.S. Gazelle um die Erde gesammelt
+wurden. Monatsbericht der Königlich Preussischen Akademie der Wissenschaften zu Berlin, 1878, 632–688.
+Studer, Th. [& Wright] (1887) Versuch eines Systemes der Alcyonaria. Archiv für Naturgeschichte, Jahrgang 53, 1(1), 1–74.
+Thomson, J. & Mackinnon, D.L. (1911) The Alcyonarians of the “Thetis” Expedition. Australian Museum Memoires, 4, 661–
+665.
+Thomson, J.A. & Rennet, N.I. (1931) Alcyonaria, Madreporaria, and Antipatharia. Australasian Antarctic Expedition. Scientific Reports. (C)9(3), 1–46.
+Verrill, A.E. (1868) Critical remarks on the halcyonoid polyps of the Museum of Yale College with descriptions of new genera.
+American Journal of Science and Arts, (2)45, 411–415.
+Verrill, A.E. (1883) Report on the Anthozoa, and on some additional species dredged by the "Blake" in 1877–1879, and by the
+U.S. Fish Commission steamer "Fish Hawk" in 1880–82. Bulletin of the Museum of Comparative Zoology, Harvard, 11, 1–
+72, pls 1–8.
+Wright, E.P. (1869) On a new Genus of Gorgonidæ from Portugal. Annals and Magazine of Natural History, (4)3, 23–26.
+
+A NEW ISIDID GENUS & SUBFAMILIAL IDEAS
+
+Zootaxa 3154 © 2012 Magnolia Press ·
+
+39
+
+

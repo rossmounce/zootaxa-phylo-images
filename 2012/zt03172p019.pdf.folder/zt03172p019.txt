@@ -1,0 +1,2598 @@
+Zootaxa 3172: 1–19 (2012)
+www.mapress.com / zootaxa/
+Copyright © 2012 · Magnolia Press
+
+ISSN 1175-5326 (print edition)
+
+Article
+
+ZOOTAXA
+ISSN 1175-5334 (online edition)
+
+Catanduba, a new Theraphosinae spider genus from Central Brazil
+(Araneae, Theraphosidae)
+FLÁVIO U. YAMAMOTO1,2, SYLVIA M. LUCAS2 & ANTONIO D. BRESCOVIT2
+1
+
+Departamento de Zoologia, Instituto de Biociências, Universidade de São Paulo, São Paulo, SP, Brazil.
+E-mail: flayamamoto@gmail.com
+2
+Laboratório Especial de Coleções Zoológicas, Instituto Butantan, Av. Vital Brazil, 1500, CEP 05503-900, São Paulo, SP, Brazil.
+E-mail: anyphaenidae@butantan.gov.br; sylvialucas@butantan.gov.br
+
+Abstract
+A new genus, Catanduba, is proposed and supported on the cladistic analysis with the following synapomorphies: embolus tapering abruptly from half of the length, embolus tooth associated with PIK and a triangular basal nodule on male
+metatarsus I. Homoeomma simoni and Plesiopelma flavohirtum are transferred to Catanduba and five new species are described: C. tuskae, C. araguaia, C. piauiensis, C. canabrava and C. peruacu. The species occur mainly in central Brazil,
+in Cerrado areas, with some species also occurring in Atlantic forest (C. tuskae sp. n. ) and Caatinga (C. piauiensis sp. n.
+and C. peruacu sp. n.).
+Key words: Spider, Mygalomorphae, cladistics, Cerrado
+
+Introduction
+The subfamily Theraphosinae is restricted to the New World. It contains about 30 genera and 400 species, most of
+them occurring in the Neotropical region (Raven, 1985). Unfortunately, the taxonomic state of the subfamily is
+problematic, with most of its genera lacking revisionary studies (Raven 1990).
+In the last years, some research has improved the knowledge of the group with the revisions of genera, such as
+Hemirrhagus Simon, 1903 (Pérez-Miles 2003), Cyriocosmus Simon, 1903 (Pérez-Miles 1998; Fukushima et al.
+2005), Tmesiphantes Simon, 1892 (Yamamoto et al. 2007), Magulla Simon, 1892 (Indicatti et al. 2007) and with
+proposition of new genera, like Ami Pérez-Miles 2008, Kochiana Fukushima, Nagahama & Bertani, 2008 and
+Agnostopelma Pérez-Miles & Weinmann 2010. Even though, most of the genera still need basic taxonomic studies
+as does Homoeomma Ausserer 1871.
+In our revision of Homoeomma (Yamamoto et al. in prep.), we find that H. simoni Soares & Camargo 1948
+does not resemble the other species of this genus and has unique features when compared to other Theraphosinae
+genera.
+Other undescribed species with the same features were found, leading us to erect a new genus to include
+Homoemma simoni, Plesiopelma flavohirtum (Simon 1889) and five other new species. This hypothesis is based on
+the cladistic analysis here presented.
+
+Material and methods
+The material is deposited in the following institutions (acronym and curator in parentheses): Instituto Butantan, São
+Paulo (IBSP, D. Battesti); Museu de Zoologia da Universidade de São Paulo, São Paulo (MZSP, R. Pinto da
+Rocha); Muséum National d’Histoire Naturelle, Paris (MNHN, C. Rollard), Museu de Ciências Naturais, Fundação
+Zoobotânica do Rio Grande do Sul, Porto Alegre (MCN, E.H. Buckup), Museu de Ciências e Tecnologia, Pontifícia Universidade Católica do Rio Grande do Sul, Porto Alegre (MCTP, A.A. Lise).
+Accepted by R. J. Raven: 24 Nov. 2011; published: 25 Jan. 2012
+
+1
+
+Spine notation follows Petrunkevitch (1925). Palpal bulb structure classification follows Bertani (2000).
+Urticating hairs classification follows Cooke et al. (1972).
+Abbreviations: AME, anterior median eyes; ALE, anterior lateral eyes; PLE, posterior lateral eyes and PME,
+posterior median eyes; PLS, posterior lateral spinnerets; PIK, prolateral inferior keel; PSK, prolateral superior keel;
+d, dorsal; v, ventral; p, prolateral; r, retrolateral; m, median. All measurements are in millimeters.
+Cladistic analysis. The character matrix (Table 1) was edited with Mesquite version 2.72 (Maddison & Maddison 2009). Non-applicable and unknown data are presented as ‘–’ and ‘?’, respectively.
+The parsimony analysis was performed with the software TnT, version 1.1 (Goloboff, Ferris & Nixon 2003),
+using the algorithm “implicit enumeration”, with the same weight for all the characters and with the collapsing rule
+“minimum length = 0”. The data matrix is composed by 38 characters (Table 1). Multistate characters were treated
+as non-additive.
+A total of 20 taxa were used, including representatives of nine Theraphosinae genera (Catanduba gen. nov.,
+Plesiopelma Pocock, Homoeomma Ausserer, Grammostola Simon, Tmesiphantes Simon, Cyriocosmus Simon,
+Hapalopus Ausserer, Magulla Simon and Maraca Pérez-Miles) and one species of Ischnocolinae, Oligoxystre caatinga Guadanucci 2007. The last one was used as root, based on close relationships between Theraphosinae and
+Ischnocolinae (Raven 1985). The voucher list is in Appendix 1.
+
+List of characters
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+
+Digitiform apophysis : (0) absent; (1) present, wider than higher; (2) present, higher than wider.
+PSK: (0) absent; (1) present
+PIK : (0) absent; (1) present
+PSK in distal part of embolus: (0) absent; (1) present
+Auxiliary keel under PIK: (0) absent; (1) present
+Auxiliary keel tip: (0) pointed; (1) rounded
+Embolus tapering: (0) gradual; (1) abrupt from half of the length
+Angle formed between bulb and embolus: (0) 165–180º; (1) 90–135º
+Transition tegulum-embolus: (0) not twisted; (1) twisted
+Embolus tip: (0) thin; (1) thick
+Spermatic duct: (0) curve; (1) straight; (2) S-shaped
+Tooth on embolus: (0) absent; (1) present
+Tooth on embolus: (0) free; (1) associated with PIK
+Tooth with PIK: (0) PIK ends with tooth; (1) PIK extends after tooth
+Paraembolic apophysis: (0) absent; (1) present
+Subtegulum-tegulum shape: (0) oval; (1) rounded
+Grooves on male palpal bub: (0) absent; (1) present
+Male metatarsal I flexion: (0) retrolateral side of tibial apophysis; (1) between branches of tibial apophysis
+Male leg I, tibial apophysis branches: (0) convergents; (1) divergents
+Base of tibial apophysis branches: (0) separated; (1) fused
+Male metatarsus I, basal nodule: (0) absent; (1) present
+Male metatarsus I, basal nodule: (0) rounded; (1) triangular
+Male metatarsus I: (0) straight; (1) curved at the base; (2) curved at the middle
+Retrolateral process on male palpal tibia: (0) absent; (1) present
+Spermathecae: (0) flat; (1) cylindrical
+Cylindrical spermathecae: (0) straight; (1) spiral
+Nodules on spermathecae: (0) absent; (1) present
+Spermathecae with membranous base: (0) absent; (1) present
+Spermathecae proportions: (0) higher than wide; (1) as high as wide
+Subapical constriction on spermathecae: (0) absent; (1) present
+Spermathecal receptacles: (0) independent bases; (1)attached at the base
+Urticating hairs of type III on males: (0) absent; (1) present
+Urticating hairs of type III on females: (0) absent; (1) present
+Urticating hairs type IV on males: (0) absent; (1) present
+Urticating hairs type IV on females: (0) absent; (1) present
+Difference between dorsal and ventral abdomen color: (0) gradual; (1) abrupt
+Division of abdomen color with abrupt difference: (0) with stripes; (1) with
+Stridulatory setae on coxa I: (0) absent; (1) present
+
+2 · Zootaxa 3172 © 2012 Magnolia Press
+
+YAMAMOTO ET AL.
+
+TABLE 1. Character state matrix. Taxa scored with more than one state are plotted with “&”
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+0
+
+1
+
+2
+
+3
+
+Oligoxystre caatinga
+
+0
+
+0
+
+0
+
+0
+
+0
+
+-
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+-
+
+Homoeomma montanum
+
+2
+
+1
+
+1
+
+1
+
+0
+
+-
+
+0
+
+1
+
+1
+
+1
+
+2
+
+0
+
+-
+
+Homoeomma stradlingi
+
+2
+
+1
+
+1
+
+1
+
+0
+
+-
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+-
+
+Homoeomma elegans
+
+2
+
+0
+
+1
+
+0
+
+0
+
+-
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+-
+
+Maraca cabocla
+
+1
+
+0
+
+1
+
+1
+
+0
+
+-
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+-
+
+Plesiopelma longisternalis
+
+1
+
+1
+
+1
+
+0
+
+0
+
+-
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+-
+
+Plesiopelma insulari
+
+1
+
+1
+
+1
+
+0
+
+0
+
+-
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0
+
+Plesiopelma sp.
+
+1
+
+1
+
+1
+
+0
+
+0
+
+-
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0
+
+Tmesiphantes nubilus
+
+1
+
+1
+
+1
+
+0
+
+0
+
+-
+
+0
+
+1
+
+1
+
+1
+
+2
+
+0
+
+0
+
+Grammostola mollicoma
+
+1
+
+1
+
+1
+
+0
+
+0
+
+-
+
+0
+
+0
+
+1
+
+0
+
+2
+
+0
+
+-
+
+Cyriocosmus ritae
+
+1
+
+1
+
+0
+
+0
+
+0
+
+-
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+-
+
+Magulla obesa
+
+1
+
+1
+
+1
+
+0
+
+0
+
+-
+
+0
+
+0
+
+1
+
+0
+
+2
+
+0
+
+-
+
+Hapalopus sp.
+
+1
+
+1
+
+1
+
+0
+
+0
+
+-
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+-
+
+Catanduba tuska
+
+1
+
+1
+
+1
+
+0
+
+0
+
+-
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+Catanduba simoni
+
+2
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+Catanduba flavohirta
+
+1
+
+1
+
+1
+
+0
+
+0
+
+-
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+Catanduba peruacu
+
+1
+
+1
+
+1
+
+0
+
+0
+
+-
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+Catanduba piauiensis
+
+1
+
+1
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+Catanduba araguaia
+
+1
+
+1
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+Catanduba canabrava
+
+1
+
+1
+
+1
+
+0
+
+0
+
+-
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+continued.
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Oligoxystre caatinga
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+-
+
+0
+
+0
+
+0
+
+0
+
+Homoeomma montanum
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0&1
+
+0
+
+-
+
+0&1
+
+0
+
+0
+
+0
+
+Homoeomma stradlingi
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+0
+
+-
+
+1
+
+0
+
+0
+
+0
+
+Homoeomma elegans
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+1
+
+0
+
+0
+
+0
+
+Maraca cabocla
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+-
+
+0
+
+1
+
+0
+
+0
+
+Plesiopelma longisternalis
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0
+
+1
+
+0
+
+0
+
+1
+
+1
+
+1
+
+Plesiopelma insulari
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0
+
+1
+
+0
+
+0
+
+?
+
+1
+
+1
+
+Plesiopelma sp.
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0
+
+1
+
+0
+
+0
+
+?
+
+1
+
+1
+
+Tmesiphantes nubilus
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+-
+
+0
+
+0
+
+0
+
+0
+
+Grammostola mollicoma
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+-
+
+2
+
+0
+
+0
+
+0
+
+Cyriocosmus ritae
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+0
+
+-
+
+1
+
+2
+
+1
+
+1
+
+Magulla obesa
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+-
+
+1
+
+0
+
+0
+
+0
+
+Hapalopus sp.
+
+0
+
+0
+
+1
+
+0
+
+0
+
+1
+
+1
+
+0
+
+-
+
+0
+
+1
+
+1
+
+0
+
+Catanduba tuska
+
+1
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+0
+
+Catanduba simoni
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+0
+
+Catanduba flavohirta
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+0
+
+Catanduba peruacu
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+0
+
+Catanduba piauiensis
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+?
+
+?
+
+Catanduba araguaia
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+?
+
+?
+
+Catanduba canabrava
+
+1
+
+0
+
+0
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+?
+
+?
+
+CATANDUBA, A NEW THERAPHOSINAE SPIDER GENUS
+
+Zootaxa 3172 © 2012 Magnolia Press ·
+
+3
+
+continued.
+2
+
+2
+
+2
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+7
+
+8
+
+9
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Oligoxystre caatinga
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+-
+
+0
+
+Homoeomma montanum
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+0
+
+0&1
+
+0&1
+
+0
+
+-
+
+0
+
+Homoeomma stradlingi
+
+0
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0
+
+-
+
+0
+
+Homoeomma elegans
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+-
+
+0
+
+Maraca cabocla
+
+0
+
+0
+
+1
+
+0
+
+0
+
+1
+
+1
+
+0
+
+1
+
+0
+
+-
+
+0
+
+Plesiopelma longisternalis
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0
+
+-
+
+0
+
+Plesiopelma insulari
+
+0
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0
+
+-
+
+0
+
+Plesiopelma sp.
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0
+
+-
+
+0
+
+Tmesiphantes nubilus
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+1
+
+0
+
+-
+
+0
+
+Grammostola mollicoma
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+-
+
+1
+
+Cyriocosmus ritae
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+0
+
+1
+
+0
+
+0
+
+-
+
+0
+
+Magulla obesa
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+-
+
+0
+
+Hapalopus sp.
+
+0
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+0
+
+Catanduba tuska
+
+1
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+-
+
+0
+
+Catanduba simoni
+
+2
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+Catanduba flavohirta
+
+1
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0
+
+Catanduba peruacu
+
+2
+
+0
+
+1
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+Catanduba piauiensis
+
+?
+
+?
+
+?
+
+?
+
+?
+
+1
+
+0
+
+?
+
+?
+
+1
+
+0
+
+0
+
+Catanduba araguaia
+
+?
+
+?
+
+?
+
+?
+
+?
+
+1
+
+0
+
+?
+
+?
+
+1
+
+0
+
+0
+
+Catanduba canabrava
+
+?
+
+?
+
+?
+
+?
+
+?
+
+1
+
+0
+
+?
+
+?
+
+0
+
+-
+
+0
+
+Results
+The parsimony analysis of 20 taxa and 38 characters resulted in two most parsimonious trees, with 78 steps (CI=
+0.56, RI= 0.70, Figs 1B, 1C). Catanduba gen. nov. emerges as monophyletic in both trees, with the inclusion of
+Homoeomma simoni and Plesiopelma flavohirtum. The difference between the two topologies refers to distinct
+relationships within Catanduba gen. nov.
+Catanduba gen. nov. is supported by the following autapomorphies: embolus tapering abruptly from half of
+the length, embolus tooth associated with PIK and a triangular basal nodule on male metatarsus I (Figs 2–8 D).
+Additionally, females of Catanduba lack urticating hairs of type IV, as do females of Cyriocosmus ritae PérezMiles 1998; in both cases, these are considered secondary losses. Oligoxystre caatinga lacks urticating hairs, as do
+all Ischnocolinae species.
+Catanduba gen. nov. is fully resolved in one of the trees, with a dichotomy pattern relationship (Fig. 1B). In
+the other, C. canabrava sp. nov. and C. tuskae sp. nov. appear closely related, both being the sister group of the
+clade formed by the other species. In this clade, C. flavohirta n. comb. and C. peruacu sp. nov. appears in polytomy
+with the clade formed by another tricotomy of C. simoni n. comb., C. piauiensis sp. nov. and C. araguaia (Fig. 1C).
+The strict consensus resulted in similar topology to Fig. 1C, the only difference being that C. canabrava sp.
+nov. and C. tuskae sp. nov. are in a polytomy with the clade of the others Catanduba species (Fig. 1A). The sister
+group of Catanduba is proposed to be Plesiopelma, with an embolus tooth as a synapomorphy and a basal nodule
+on male metatarsus I, also present in Homoeomma elegans (Gerschman & Schiapelli 1958).
+Although some may argue that Catanduba gen. nov. and Plesiopelma are the same genus since they form a
+monophyletic group, our hypothesis shows that Catanduba gen. nov. is an independent evolutionary lineage, with
+unique morphology of males palpal bulb and females spermathecae when compared to Plesiopelma species. The
+
+4 · Zootaxa 3172 © 2012 Magnolia Press
+
+YAMAMOTO ET AL.
+
+last ones present a palpal bulb with long and slender embolus with uniform tapering from base to tip and spermathecae with spiral shape spermathecae (Schiapelli & Gerschman 1970, figs 1–18 ; Pérez-Miles et al. 1996, figs 38–
+40).
+Additionally, Catanduba has a distribution pattern associated with Cerrado and Caatinga vegetation (Fig. 10),
+while Plesiopelma species occur mainly on Chaco and Atlantic forest (Schiapelli & Gerschman 1970), probably
+due to differences in biogeographical history.
+
+FIGURE 1. Consensus tree (A) and the two alternative topologies for Catanduba gen. nov. presented in the most parsimonious
+trees (B, C). Unambiguous characters optimizations are presented in circles. White circles represent homoplasies and black circles synapomorphies.
+
+Taxonomy
+Catanduba gen. nov.
+Type-species. Catanduba tuskae sp. nov.
+Etymology. Catanduba is a noun in apposition from Tupí language, meaning Cerrado (Brazilian savanna), habitat of most species of the genus. The gender is feminine.
+Diagnosis. Males of Catanduba gen. nov. differ from those of other Theraphosinae genera by the presence of a
+PIK tooth in the middle of the embolus (Figs 2–8 A, B, C ) and a triangular basal nodule on metatarsus I (Figs 2–
+8D) in males and large number of spherical nodules on the spermathecae in females (Figs 2–4, 7 E, F).
+Description: Medium-sized spiders: total length of males 7.7–19.2, of females 13.8–26.5. Chelicerae without
+rastellum, furrow with prolateral line of larger teeth and group of smaller teeth on retrolateral base. Ocular tubercle
+wider than longer, anterior eye row procurved., posterior row recurved. Carapace longer than wider, with procurved fovea. Labium wider than longer, with cuspules on apical third (15–71). Endites with distinct anterior lobe,
+with 100–140 cuspules on internal basal angle. Sternum rounded, as wide as long, with one to three pairs of sigilla
+apparent. Stridulatory setae absent. Metatarsal scopula not divided or divided only by median longitudinal rows of
+stiff setae. Scopulae on metatarsus I and II longer than on III, IV. Tarsi with ventral face scopulated, divided by 1–
+
+CATANDUBA, A NEW THERAPHOSINAE SPIDER GENUS
+
+Zootaxa 3172 © 2012 Magnolia Press ·
+
+5
+
+10 longitudinal rows of stiff setae. All tarsi without spines, claw tufts well developed. Inferior tarsal claw absent.
+Superior tarsal claws with one row of small teeth, medially. Two pairs of spinnerets. Posterior medium spinnerets
+short, one-fifth of length of posterior lateral spinnerets. Posterior lateral spinnerets three-segmented, with apical
+segment digitiform. Abdomen with triangular area of urticating hairs, with ornamental color in Catanduba peruacu
+sp. nov., C. simoni (Soares & Camargo 1948), C. flavorhirta (Simon 1889) and C. piauiensis sp. nov (Fig. 8).
+Urticating hairs of type III present in males and females. Male palpal bulb with PSK and PIK. Embolus thin, with
+PIK tooth in median portion. Basal digitiform apophysis weak. Cymbium with two lobes, retrolateral larger than
+retrolateral. Leg I tibial apophysis with two branches, prolateral smaller than retrolateral. Metatarsus I with triangular basal nodule (Figs 2D–8D) and bending between branches of tibial apophysis. Females spermathecae with two
+cylindrical receptacles bearing large number of nodules of different sizes (Figs 2–5 and 7 E, F).
+Distribution. All species occur in Brazil, in the states of Piauí, Bahia, Goiás, Mato Grosso, Minas Gerais,
+Mato Grosso do Sul and São Paulo. Most species occur in areas of Cerrado vegetation (Brazilian savanna), with
+some introgression on Atlantic Forest by C. tuskae sp. nov. and Caatinga by C. piauiensis sp. nov. and C. peruacu
+sp. nov. (Fig. 10, see also Rizzini, 1978 for Brazilian vegetation).
+
+Catanduba tuskae sp. nov.
+Figs 2 A–F
+Type material: Holotype: male, Ilha Bandeirantes, Usina Hidrelétrica Sérgio Motta, Brasilândia, Mato Grosso do
+Sul, Brazil, (S23°28'00"; W46°40'59"), 20–25/III/2001, R. Bertani & J. P. L. Guadanucci col., deposited in IBSP
+8976. Paratypes: male and female from Usina Hidrelétrica Sério Motta, Brasilândia, Mato Grosso do Sul, Brazil,
+(23°28'00"S; 46°40'59"W), 31/VII – 07/VIII/2000, D. Candiani & C.A.R. Souza col., deposited in IBSP 8976 and
+8589, respectively; male. female. Estação Ecológica de Assis, Assis, São Paulo, Brazil, (22º35’14”S;
+50º22’38”W), III/2009, F.T.S. Morimoto col., deposited in MZSP 36505.
+Additional material examined. BRAZIL, Mato Grosso do Sul, 31/VII–07/VIII/2000, D. F. Candiani & C. A.
+R. Souza col., 1 (IBSP 8597); VII/2000, C. A. Rheims & E. Kashimata col., (IBSP 8605); Anaurilândia,Usina
+Hidrelétrica Engenheiro Sérgio Motta, (22°03'S; 52°45'W), XII/1998, Equipe Resgate de Fauna col., 1 , 2 (IBSP
+11401; 8973; 10814); Bataguassú, Usina Hidrelétrica Engenheiro Sérgio Motta, (21°40'00"S; 52°28'59"W), 26/III/
+2001, R. P. Indicatti & C. A. R. de Souza col., 1 , 1 (IBSP 11589, 11594); Brasilândia, Usina Hidrelétrica
+Engenheiro Sérgio Motta, (23°28'00"S; 46°40'59"W) 08/VI/2000, C.A. Rheims & E. Kashimata col., 1 (IBSP
+8541); 25/III/2001, R. Bertani & J.P. Guadanucci col., 1 (IBSP 10541); 20–25/III/2001, 1 (IBSP 10545); 20–
+26/III/2001, 1 (IBSP 10644); VI/2000, C. Rheims & E. Kashimata col., 1 (IBSP 10661); Usina Hidrelétrica
+Engenheiro Sérgio Motta, Usina Hidrelétrica Engenheiro Sérgio Motta, VII–VIII/2000, Equipe IBSP col., 1
+(IBSP 8630); I/1999, 1 (IBSP 8784); 4 , 2j (IBSP 8787); VI/2000, C. Rheims & E. K. Kashimata col., 1 (IBSP
+9083); 11/XII/98, Equipe Resgate Fauna col., 1 (IBSP 9843); 23–27/IV/2001, R. Bertani & E. K. Kashimata col.,
+1 (IBSP 9034); 12/VI/2001, E. K. Kashimata & S. P. G. Guizze col., 1 (IBSP 9378); VI/2000, C. Rheims & E.
+K. Kashimata col., 1j (IBSP 9673); 20–25/III/2001, R. Bertani & J. P. L. Guadanucci col., 1j (IBSP 9674); 31/VII–
+07/VIII/2000, D. Candiani & C. A. R. de Souza col., (IBSP 8867); 25/V/2001, D. Candiani & C. Y. Fukami col.,
+1 (IBSP 8970); 23–27/IV/2001, R. Bertani & E. K. Kashimata col., 1 , 2 , 7j (IBSP 9029); 26–27/VIII/2000, I.
+Knysak & R. Martins col., 1 (IBSP 9119); (Ilha Bandeirantes), 20–25/III/2001, R. Bertani e J. P. L. Guadanucci
+col., 29 , 31 , 17 j (IBSP 8835–8841; 8945–8948; 8974–8980; 9118; 9120; 9302–9315; 9379; 9392; 9393; 9433;
+9598; 9686; 9831; 10946; 11031; 11058–11061; 10007; 10022; 10031; 10145; 10354; 10363; 10367; 10370–
+10371; 10403–10404; 11402–11403; 11420; 11583); 11/XII/1998, Equipe IBSP col., 1 (IBSP 9903); (Fazenda
+Flórida), 11/VIII/2000, R. Bertani & C. Y. Fukami col., 1 (IBSP 8586); 15/VIII/2001, C. S. Fukushima & J. P. L.
+Guadanucci col., 1 (IBSP 9316); 15/VIII/2000, 1 (IBSP 8656); 15/VIII/2001, 1 (IBSP 9317); 11/VIII/2000,
+C. Y. Fukami & R. Bertani, 1 (IBSP 9320) 1j (IBSP 9608); 11/VIII/2000, R. Bertani & J. L. Guadanucci col., 1
+(IBSP 10021); 15/VIII/2000, C. S. Fukushima & J. P. L. Guadanucci col., 1j (IBSP 9691); (Fazenda Cisalpina), 28/
+VII/2000, I. Knysak & R. Martins col., 1 (IBSP 8865); (Fazenda Orelha de Onça), 26/III/2001, R. P. Indicatti &
+C. A. R. de Souza col., (IBSP 9867); 25/VII/2000, I. Knysak & R. Martins, 1j (IBSP 9690); 10/VIII/2000, R. Bertani & C. Y. Fukami, 1 (IBSP 8588); (Ilha Capivara), 16/VIII/2000, C. S. Fukushima & J. P. L. Guadanucci, 1
+(IBSP 8655); 15/VIII/2000, C. S. Fukushima & J. P. L. Guadanucci col., 1j (IBSP 9616); 27/VII/2000, I. Knysak &
+
+♂
+
+♀ ♂
+♂
+
+♂
+
+♂ ♀
+
+♂
+
+♂
+
+♀
+
+♂
+
+♀
+
+♀
+
+♀
+
+♀
+
+♀
+
+♀ ♂
+
+♀
+
+♀
+
+♀
+
+♀
+
+♀
+
+♂
+
+♀
+
+♂
+
+♂
+
+♀
+
+♀
+
+♂
+
+♀
+
+♂
+
+♀
+
+6 · Zootaxa 3172 © 2012 Magnolia Press
+
+YAMAMOTO ET AL.
+
+R. Martins col., 1 (IBSP 9121); 31/VII–07/VIII/2000, D.F. Candiani & C.A.R. Souza, 1 (IBSP 8589); 27/VII/
+2000, I. Knysak & R. Martins col., 3 (IBSP 8590 – 8592); Rio Pardo, 26/III/2001, R. P. Indicatti & M. S.
+Sebastião col., 1 , 1j (IBSP 9830, 9860) R. P. Indicatti & C. A . R. de Souza col., 1 , 1 , 2j (IBSP 9318, 9319,
+9872, 9140); Cáceres, Bairro Jardim Paraíso, 10/VIII/2004, N. M. Rocha col., 1 (IBSP 11232). São Paulo, Presidente Epitácio, Usina Hidrelétrica Engenheiro Sérgio Motta, Rio do Peixe, (21°46'12"S; 52°06'W), 20–25/III/2001,
+R. Bertani & J. L. Guadanucci col., 1 1 (IBSP 10036; 10054); Planalto, (21°01' 48"S; 49°55'12"W), 18–25/
+VIII/2007, Donizete col. (IBSP 14315); Salto de Pirapora, (23°38'24"S; 47°34'12"W), X/1979, A.B. Eisernger col.
+(IBSP 4492); Jarinu, (23°06'12"S; 46°43'41"W), 06/X/2004, J. Fitipaldi col. (IBSP 11051); Mairinque,
+(23°32'24"S 47°10'48"W), 08/VIII/2007, A.C.G. de Almeida col. (IBSP 14316, 160892); Assis, Estação Ecológica
+de Assis, (22º35’14”S; 50º22’38”W), III/2009, F.T.S. Morimoto col., 1 1 (IBSP160890–16891).
+Diagnosis. Males and females of Catanduba tuskae sp. nov. differ from those of all other species of the genus
+by the uniformly brown color of the abdomen, without ornamentation (Fig. 11A), the male palpal bulb with a long
+curved median tooth on the embolus (Figs 2 A–C) and female spermathecal receptacles bent to the outer side, with
+large nodules (Figs 2 E, F).
+
+♂
+
+♀ ♂
+
+♂
+
+♂
+
+♂
+
+♀
+
+♀ ♂
+
+♀ ♂
+
+FIGURE 2. Catanduba tuskae sp. nov.: (A–C) Left palpal bulb: (A) prolateral view; (B) retrolateral view; (C) dorsal view; (D)
+Male left leg I, tibial apophysis, ventral view. (E, F) Spermathecae: (E) dorsal view; (F) ventral view. Scale bar = 1 mm. Abbreviation: PSK = prolateral superior keel; PIK= prolateral inferior keel, T= tooth.
+
+Etymology. In honor of Ana Carolina Tuska de Almeida Yamamoto, biologist, wife of the first author.
+Description. Male (Holotype): Color in ethanol: body dorsally brown and ventrally light brown (Fig. 9 A).
+Color in vivo (Fig. 11A): body brown with sparse light brown setae. Urticating hairs of type III. Total length, 13.75.
+Carapace: length 6.50; width 5.81. Ocular tubercle: length 0.86; width 1.13. Eyes size: AME 0.18, ALE 0.33, PME
+0.23, PLE 0.28. Labium: length 0.76; width 1.29. Sternum: length 3.41; width 2.72. Basal segment of chelicera
+with row of 9 teeth on prolateral margin and group of 14 small teeth concentrated on basal third. Labium with 34
+CATANDUBA, A NEW THERAPHOSINAE SPIDER GENUS
+
+Zootaxa 3172 © 2012 Magnolia Press ·
+
+7
+
+cuspules. Endites with ca. 110 cuspules. Palp: femur 3.56/ patella 2.25/ tibia 3.13/ cymbium 1.13/ total 10.06. Leg
+I: femur 5.69/ patella 3.38/ tibia 4.31/ metatarsus 3.81/ tarsus 2.69/ total 19.88. II: 5.38/ 2.94/ 3.56/ 3.50/ 2.63/
+18.00. III: 4.31/ 2.31/ 2.88/ 3.75/ 2.63/ 15.88. IV: 5.44/ 2.75/ 4.25/ 5.31/ 3.19/ 20.94. Spinnerets: basal segment
+1.33; medium 0.70; apical 1.35. Spination: Palp: femur d0-0-1p, patella r0-1-0, tibia d1p-0-0, p0-1-0; Leg I: femur
+d0-0-1p, tibia v1-1-0, p1-0-1, metatarsus p0-1-0; II: femur d0-0-1p, tibia v1-2-0-2ap, p0-1-1, metatarsus v0-1-0,
+p0-1-0; III: femur d0-0-2, patella r0-1-0; tibia v1r-2-0-2ap, p1-0-1, r1-0-1, metatarsus v2-1-1p-3ap, p1-1-1, r1-0-1.
+IV: femur d0-0-1r, tibia v2-2-0-2ap, p0-1-1, v1-0-1, metatarsus v2-1p-1r-3ap, p0-1-1, r1-1-1. Scopula: metatarsus I
+with 0.42 of total length scopulated, II with 0.48 of total length, III with 0.43 and IV with 0.22. Tarsus: I divided by
+one row of strong setae, II divided by 2–3 rows, III by 3–4 and IV by 4–5. PSK and PIK well developed and distant
+from each other. PSK extends to basal third of embolus. PIK with long curved tooth at median embolus. Embolus
+thin. Digitiform apophysis weak (Figs 2 A, B and C). Tibial apophysis on I formed by two branches with distinct
+bases: prolateral branch smaller, with retrolateral spine beside it; retrolateral larger. Metatarsus I with triangular
+basal nodule and flexes between branches of tibial apophysis, touching their median portion (Fig. 2D).
+Female (IBSP 13047): Color as in male. Urticating hairs of type III. Total length, 20.01. Carapace: length
+7.76; width 6.16. Eye tubercle: length 1.02; width 1.24. Eyes size: AME 0.18, ALE 0.31, PME 0.17, PLE 0.28.
+Labium: length 1.00; width 1.58. Sternum: length 3.53; width 3.22. Basal segment of chelicera with row of 10 teeth
+on prolateral margin, group of 20 small teeth concentrated on basal third. Labium with 51 cuspules. Endites with
+ca. 142 cuspules. Palp: femur 3.75/ patella 2.44/ tibia 2.25/ cymbium 2.31/ total 10.75. Leg I: femur 5.06/ patella
+3.31/ tibia 3.38/ metatarsus 2.44/ tarsus 2.00/ total 16.19; II: 4.31/ 2.81/ 2.63/ 2.19/ 2.13/ 14.06; III: 3.88/ 2.63/
+2.00/ 2.81/ 2.00/ 13.31; IV: 5.13/ 2.94/ 3.25/ 4.31/ 2.38/ 18.00. Spination: Palp: tibia v0-0-0-3ap. Leg I: metatarsus
+v0-0-0-1ap. II: metatarsus v0-1-0-1ap. III: tibia v0-1p-0-2ap, p1-1-0, r0-1-0 metatarsus v2-2-0-3ap, p1-1-1, r0-0-1.
+IV: tibia v0-2-0-2ap, r1-0-1, metatarsus v2-1p-2-3ap, p0-1-1, r0-1-1. Scopula: metatarsus I with 1.13 of total length
+scopulated, II with 0.48, III with 0.35, IV with 0.20. Tarsus: I divided by 3–4 rows of larger setae, II divided by 5
+rows of larger setae, III by 6–7 rows and IV by 8. Spinnerets: basal segment 1.44; medium 1.09; apical 1.31. Spermathecae formed by two cylindrical receptacles leaning out, covered by nodules of different sizes (Figs 2 E, F).
+Variation. Males (n = 15): total length 13.75–16.30; carapace 6.20–7.80; cuspules on labium: 31–53. Females
+(n = 15): total length: 13.80–26.50; carapace 5.3–9.90; cuspules on labium: 30–71.
+Distribution. States of São Paulo and Mato Grosso do Sul, Brazil (Fig. 10).
+
+Catanduba simoni (Soares & Camargo 1948) comb. nov.
+Figs 3 A–F
+Homoeomma simoni Soares & Camargo, 1948: 404, figs 81–85 .
+Platnick, 2010 (accessed 13 December 2010)
+
+Type material. Holotype: male, Chavantina, Mato Grosso, Brazil, (14°40'00"S; 52°21'W), 1946, H. Sick col.,
+deposited in MZSP 1251, examined.
+Other material examined. BRASIL, Goiás: Campinaçú, Serra da Mesa, (13º52’S; 48º23’W), 18/II–02/III/
+1996, Silvestre, Brandão & Yamamoto col., 1 1j (MZSP 28591); Colinas do Sul, Serra da Mesa, (14º01’S;
+48º12’W), 2–15/XII/1995, Silvestre, Dietz & Campaner col., 4 1 (MZSP 28592); Corumbá, Fazenda Monjolinho, 1946, H. Levi col., 1 (MZSP 28601); Luziânia, Barragem de Corumbá IV, (16º19’38”S 48º13’22’’W),
+24/XI/2005, Eq. IBSP col. (IBSP 14289); (Usina Hidrelétrica de Corumbá), XI/2005, Eq. IBSP col., 1 (IBSP
+13707); Minaçú, Usina Hidrelétrica de Serra da Mesa, (13°50'01"S; 48°18'10"W ), 18–30/XI/1996, A.A. Bonaldo
+& L. Moura col., 3 2 1j (MCN 28122); Mato Grosso: Chapada dos Guimarães, (15°25'59"S; 55°45'W), 20–29/
+XI/2000, C. Strussman col., 1j (MCTP 11509); Chavantina, (14°40'00"S; 52°21'W), XII/1946, H. Sick col., 1
+(MZSP 14884).
+Diagnosis. Catanduba simoni resembles C. arauguaia sp. nov. and C. peruacu sp. nov. by the pattern of
+abdominal color but differs from these species by the overall orange color and dorsal abdomen with four pairs of
+lateral black stripes (Fig. 9 C), male palpal bulb with accessory keels (Figs 3 A–C) and large nodules on spermathecae of female (Figs 3 E, F).
+Description. Male (MZSP 28592): Color in alcohol: carapace and legs dark orange. Dorsal abdomen dark
+brown, with 4 pairs of black stripes laterally (Fig. 9). Abdomen venter light brown. Urticating hairs of type III.
+
+♀ ♂
+
+♀
+
+♀
+
+♀
+
+♂
+
+♀ ♂
+
+8 · Zootaxa 3172 © 2012 Magnolia Press
+
+YAMAMOTO ET AL.
+
+Total length, without chelicera, 18.40. Carapace: length 9.10; width 7.70. Eye tubercle: length 1.15; width 1.43.
+Eyes size: AME 0.28, ALE 0.49, PME 0.26, PLE 0.41. Labium: length 1.10; width 1.65. Sternum: length 4.65;
+width 3.75. Basal segment of chelicera with row of nine teeth on prolateral margin and group of 23 small teeth concentrated on basal third. Labium with 40 cuspules. Endites with ca. 110 cuspules. Palp: femur 4.56/ patella 3.04/
+tibia 3.68/ cymbium 1.44/ total 12.72. Leg I: femur 7.76/ patella 4.56/ tibia 5.84/ metatarsus 5.36/ tarsus 3.76/ total
+27.28. II: 7.28/4.00/5.36/4.96/3.60/25.20. III: 6.40/3.44/4.48/5.84/3.76/23.92. IV: 8.48/3.76./6.48/8.08/4.56/31.36.
+Spinnerets: basal segment of PLS 1.72; medium 1.28; apical 2.36. Spination: Palp: femur d0-0-1p, tibia v0-1p-1p,
+p0-1-0; Leg I: femur d0-0-1p, tibia v2-2-1p-1ap, p0-1-0, metatarsus v0-0-0-1ap; II: femur d0-0-1p, tibia v1r-1-1r3ap, p0-0-1, metatarsus v1-1-0; III: femur d0-0-2, tibia v2-2-0-2ap, p1-0-1, r1-1-0, metatarsus v2-1-0-3ap, p1-1-1,
+r1-0-1. IV: femur d0-0-1r, tibia v2-2-0-3ap, p1-0-1, v1-0-1, metatarsus v2-2-1p-3ap, p1-1-1, r0-1-0. Scopula: Metatarsus: I with 0.36 of total length scopulated, II with 0.46 of total length scopulated, III with 0.33 and IV with 0.15.
+Tarsus: I divided by three rows of larger setae, II and III divided by 4–5 rows and IV by 6. Palpal bulb with weak
+PSK, conspicuous PIK and three accessory keels above PSK. Thin embolus with tooth emerging from PIK. Digitiform apophysis well developed (Figs 3 A-C). Tibial apophysis formed by two branches with distinct bases: prolateral smaller, with retrolateral spine; retrolateral larger. Metatarsus I with triangular basal nodule and flexes between
+tibial apophysis branches, touching their median portion (Figs 3D).
+
+FIGURE 3. Catanduba simoni comb. nov.: (A–C) Left palpal bulb: (A) prolateral view; (B) retrolateral view; (C) dorsal view.
+(D) Male left leg I, tibial apophysis, ventral view. (E, F) Spermathecae: (E) dorsal view; (F) ventral view. Scale bar = 1 mm.
+
+Female (MZSP 28592): Color in vivo (Fig. 11 B): carapace and legs brown orange. Dorsal abdomen dark
+brown, with 4 pairs of black stripes laterally. Area of urticating hair triangular-shaped. Urticating hairs of type III.
+Total length, without chelicera, 25.48. Carapace: length 10.60; width 9.70. Eye tubercle: length 1.33; width 1.90.
+Eyes size: AME 0.26, ALE 0.53, PME 0.33, PLE 0.48. Labium: length 1.69; width 2.22. Sternum: length 5.25;
+width 5.30. Basal segment of chelicera with row of 11 teeth on prolateral margin and group of 7 smaller teeth in
+
+CATANDUBA, A NEW THERAPHOSINAE SPIDER GENUS
+
+Zootaxa 3172 © 2012 Magnolia Press ·
+
+9
+
+basal third. Labium with 31 cuspules. Endites with ca. 102 cuspules. Palp: femur 6.64/ patella 3.76/ tibia 5.12/
+cymbium 3.92/ total 19.44. Leg I: femur 8.24/ patella 4.16/ tibia 6.88/ metatarsus 4.32/ tarsus 3.04/ total 26.64. II:
+7.36/ 4.48/ 5.68/ 4.08/ 3.36/ 24.96. III: 6.56/ 4.08/ 4.64/ 4.96/ 3.28/ 23.52. IV: 8.56/ 4.48/ 6.96/ 7.36/ 3.68/ 31.04.
+Spinnerets: basal segment 1.85; medium 1.15; apical 2.10 of PLS. Spination: Palp: tibia v0-0-0-2ap. Leg I: femur
+d0-0-1p, metatarsus v0-0-0-1ap. II: femur d0-0-p1, tibia v0-0-p1, metatarsus v1-0-0-2ap. III: tibia v0-1p-0-1ap, p01-0, metatarsus v2-p1-2-4ap, p1-1-1, r1-1-1. IV: tibia v0-p1-0-1ap, r0-0-1, metatarsus v1-1-2-1-2-4ap, p0-1-1, r11-1-2. Scopula: Metatarsus: I with 0.46 of total length scopulated, II with 0.41, III with 0.29, IV with 0.09. Tarsus:
+I divided by 1–2 rows of larger setae, II divided by 3–4 rows of larger setae, III by 6 rows and IV by 10. Spermathecae formed by two cylindrical receptacles with apical spherical nodules (Figs 3 E, F).
+Variation. Males (n = 8): total length 7.7–19.2; carapace 4.2–10.2; cuspules on labium: 15–42. Females (n =
+6): total length: 13.9–25.48; carapace 4.6 – 10.6; cuspules on labium: 20–34.
+Distribution. Occurring in central Brazil, States of Mato Grosso and Goiás, Brazil (Fig 10).
+
+Catanduba flavohirta (Simon, 1889) comb. nov.
+Figs 4 A–F
+Hapalopus flavohirtus Simon, 1889: 219; Mello-Leitão, 1923: 163–163; Smith, 1986; 83.
+Ceropelma flavohirtus Schiapelli & Gerschman, 1970: 231, figs 19–25. Schmidt, 1993: 61, figs. 40–42;.
+Plesiopelma flavohirtum Pérez-Miles et al., 1996: 55; Schmidt, 1997; 1998: 16, figs 44, 47, 50; Schmidt, 2003: 184, figs 467–
+469.
+
+Type material. Syntypes male and female from Santo Antonio da Barra (currently Condeúba), Bahia, Brazil,
+(14°52'59"S; 41°58'59"W), 1888, E. Gounelle col., deposited in MNHN 4567, examined, lectotype male and paralectotype female here designated.
+Additional material examined. BRASIL, Bahia: Aracatu, (14°25'00"S; 41°27'W), VI/2002, A. Zanotti col.,
+1 (IBSP 11315); Anagé, (14°36'S; 41°07'59"W), 21/VI/2002, Equipe Resgate Fauna col., 1 (IBSP 11318); Contendas do Sincorá, Floresta Nacional Contendas do Sincorá (13º46'–14°00'S; 41º03'–41º10'W), X/2007–X/2008,
+Y.G. Santos col. (IBSP 126869); Poções, (14°33'00”S; 40°23'00”W); 04/VII/2000, A. Zanotti col., 1 (IBSP
+11316).
+Diagnosis. Males of Catanduba flavohirta comb. nov. differ from those of other species by the more rounded
+palpal bulb, shorter embolus, and an additional keel between PIK and PSK (Figs 4 A–C), and females differ by the
+presence of a greater number of small nodules on spermathecae (Figs 4 E, F).
+Description. Male. (Lectotype): Color in alcohol: carapace and legs brown. Sternum and coxae light brown.
+Abdomen dorsally dark brown and ventrally light brown (Fig. 9B). Urticating hairs of type III. Total length, without chelicera, 12.08. Carapace: length 5.92; width 4.88. Eye tubercle: length 0.78; width 1.01. Eyes size: AME
+0.24, ALE 0.33, PME 0.19, PLE 0.25. Labium: length 0.78; width 1.08. Sternum: length 3.28; width 2.48. Basal
+segment of chelicera with row of 9 teeth on prolateral margin and group of 14 small teeth concentrated on basal
+third. Labium with 21 cuspules. Endites with ca. 84 cuspules. Palp: femur 3.12/ patella 2.16/ tibia 2.80/ cymbium
+0.88/ total 8.96. Leg I: femur 4.72/ patella 2.96/ tibia 3.68/ metatarsus 3.28/ tarsus 2.16/ total 16.80. II: 4.40/ 2.72/
+3.04/ 3.28/ 2.24/ 15.68. III: 4.64/ 2.08/ 2.48/ 3.44/ 2.32/ 14.96. IV: 5.28/ 2.56/ 4.24/ 4.72/ 2.80/ 19.60. Spinnerets:
+basal segment 0.85; medium 0.83; apical 1.33. Spination: Palp: femur d0-0-1p, tibia p 0-0-1; Leg I: femur d0-0-1p,
+tibia v1-1-0-1p, p1-0-1; II: femur d0-0-1p, tibia v1-1-0-1ap, p1-0-1, metatarsus v1-1-0-1ap, p1-0-1; III: femur d00-1r, tibia v1-2-0-2ap, p1-0-1, r1-0-1, metatarsus v1p-1-1p-3ap, p1-0-1, r0-1-1. IV: femur d0-0-1r, tibia v1-2-0-2ap,
+r1-0-1, metatarsus v1r-2-1p-3ap, p0-1-1, r0-1-1. Scopula: Metatarsus: I lost all scopula by damage, II with 0.46 of
+total length scopulated, III with 0.42 and IV without scopula. Tarsus: I undivided, II divided by 2 rows of larger
+setae, III divided by 3–4 rows of larger setae and IV divided by 5 rows. Metatarsus of leg I with basal triangular
+nodule and flexes between tibial apophysis branches, touching their median portion (Figs 4D). Palpal bulb with
+well developed PIK and PSK. Embolus short with strong curvature. PIK end with conspicuous tooth. Digitiform
+apophysis weakly developed (Figs 4 A–C). Tibial apophysis formed by two branches with distinct bases: prolateral
+smaller, with retrolateral spine; retrolateral larger.
+Female (IBSP 11315): Color as in male. Urticating hairs of type III. Total length, without chelicera, 19.93.
+Carapace: length 7.68; width 6.64. Eye tubercle: length 1.17; width 1.48. Eyes size: AME 0.39, ALE 0.49, PME
+
+♀
+
+♀
+
+♀
+
+10 · Zootaxa 3172 © 2012 Magnolia Press
+
+YAMAMOTO ET AL.
+
+0.28, PLE 0.38. Labium: length 1.20; width 1.68. Sternum: length 4.35; width 3.70. Basal segment of chelicera
+with row of nine teeth on prolateral margin and group of 23 smaller teeth basal third. Labium with 44 cuspules.
+Endites with ca. 124 cuspules. Palp: femur 4.72/ patella 2.72/ tibia 2.88/ cymbium 2.80/ total 13.12. Leg I: femur
+6.24/ patella 4.08/ tibia 4.16/ metatarsus 3.44/ tarsus 2.24/ total 20.16. II: 5.52/ 3.28/ 3.52/ 3.28/ 2.48/ 18.08. III:
+4.40/ 2.88/ 2.88/ 4.00/ 2.48/ 17.04. IV: 6.72/ 3.12/ 4.96/ 6.00/ 2.88/ 23.68. Spinnerets: basal segment 1.96; medium
+1.32; apical 1.96. Spination: Palp: femur d0-0-p1, tibia v0-0-0-3ap. Leg I: femur d0-0-p1, tibia v0-0-0-1ap, metatarsus v0-0-0-1ap. II: metatarsus v0-1-0-1ap. III: femur 0-0-1r, patella p0-0-1, tibia v0-2-0-2ap, p 1-0-1, r0-0-1,
+metatarsus v1p-2-1p-3ap, p1-1-1, r0-1-1. IV: femur 0-0-1r, tibia v1-2-0-3ap, r1-0-1, metatarsus v2-2-1-3ap, p0-1-1,
+r1-1-1. Scopula: Metatarsus: I with 0.60 of total length scopulated, II with 0.49, III with 0.38, IV with 0.24. Tarsus:
+I divided by 1-2 rows of larger setae, II and III divided by 3–4 rows of larger setae and IV by 5 rows. Spermathecae
+formed by two cylindrical receptacles covered by small nodules (Figs 4 E, F).
+Variation. Females (n = 4): Total length: 16.5–19.9; Carapace 6.7–9.2; cuspules no. labium: 31–44.
+Distribution. Restricted to southern Bahia, Brazil (Fig. 10).
+
+FIGURE 4. Catanduba flavohirta comb. nov.: (A–C) Left palpal bulb: (A) prolateral view; (B) retrolateral view; (C) dorsal
+view. (D) Male left leg I, tibial apophysis, ventral view. (E, F) Spermathecae: (E) dorsal view; (F) ventral view. Scale bar = 1
+mm.
+
+Catanduba peruacu sp. nov.
+Figs 5 A–F
+Type-material. Holotype: male from Januária, Minas Gerais, Brazil. (44°22'43"W; 15°28'44"S) 16.XII.2007,
+C.A.R. De Souza et al col., deposited in IBSP 11316. Paratypes: one female from Parque Nacional Cavernas do
+Peruaçú, Januária, Minas Gerais, Brasil, (44°14'28"W; 15°07'26"S), 24–25/I/2009, M. Teixeira Jr. & R.S. Recoder
+col., deposited in IBSP 144799, one male, one female with same locality and collector as paratype, deposited in
+MZSP 36506.
+Additional material examined. BRASIL, Minas Gerais: Januária, Parque Nacional Cavernas do Peruaçú,
+(44°14'28"W; 15°07'26"S ), 8–30/VII/2009, M. Teixeira Jr. & R. S. Recoder col., 3 (IBSP 144798–144798); 4–
+25/I/2009, 4 (IBSP 144798, 144800–144802).
+Etymology. The species epithet is a noun in apposition taken from type locality.
+
+♂
+
+♀
+
+CATANDUBA, A NEW THERAPHOSINAE SPIDER GENUS
+
+Zootaxa 3172 © 2012 Magnolia Press ·
+
+11
+
+FIGURE 5. Catanduba peruacu sp. nov.: (A–C) Left palpal bulb: (A) prolateral view; (B) retrolateral view; (C) dorsal view.
+(D) Male left leg I, tibial apophysis, ventral view. (E, F) Spermathecae: (E) dorsal view; (F) ventral view. Scale bar = 1 mm.
+
+Diagnosis. Differs from others species by the abdomen being dorsally dark gray with a longitudinal strip of
+yellow hairs, mainly seen on live animals (Figs 11C, D), palpal bulb with PIK and PSK close and parallel (Figs 5
+A–C) in males and spermathecae with large nodules, mainly in apical portion (Figs 5 E, F)
+Description. Male (IBSP 15234). Color in alcohol: carapace and legs dark brown. Abdomen dorsally black,
+with a longitudinal strip of yellow setae and ventrally light brown. Color in vivo (Fig. 11 C): carapace and legs dark
+gray, Abdomen dorsally black with longitudinal strip of yellow setae and ventrally light brown. Urticating hairs of
+type III. Total length, without chelicera, 13.50. Carapace: length 5.56; width 6.63. Eye tubercle: length 0.76; width
+1.19. Eyes size: AME 0.29, ALE 0.33, PME 0.33, PLE 0.21. Labium: length 0.76; width 1.24. Sternum: length
+3.28; width 2.72. Basal segment of chelicera with row of 10 teeth on prolateral margin and group of 24 small teeth
+concentrated on basal third. Labium with 41 cuspules. Endites with ca. 118 cuspules. Palp: femur 3.60/ patella
+2.32/ tibia 2.64/ cymbium 1.36/ total 9.92. Leg I: femur 5.60/ patella 3.04/ tibia 3.92/ metatarsus 3.68/ tarsus 2.48/
+total 18.72. II: 5.04/ 2.72/ 3.52/ 3.52/ 2.64/ 18.72. III: 4.32/ 2.32/ 2.88/ 2.88/ 2.64/ 15.04. IV: 5.92/ 2.64/ 4.40/
+4.40/ 3.36/ 20.72. Spinnerets: basal segment 1.34; medium 0.91; apical 1.13. Spination: Palp: femur d0-0-1p, tibia
+v0-0-2p; Leg I: femur d0-0-1p, tibia v2-1p-0-2ap, p1-0-1, metatarsus v0-0-0-1ap, p0-1-0; II: femur d0-0-1p, tibia
+v1-2-p1-3ap, p1-1-1, metatarsus v2-1-0-2ap, p0-1-0; III: femur d2-2-2, patella 0-0-p1, tibia v1-2-0-3ap, p3-2-1, r10-1, metatarsus v5-p2-p2-3ap, p1-0-1, r0-1-1. IV: femur d0-0-1r, tibia v2-3-0-3ap, p0-1-1, r1-1-1, metatarsus v3r1-p1-3ap, p1-1-1, r1-1-1. Scopula: Metatarsus: I 0.37 of total length scopulated, II 0.45, III with 0.50 and IV with
+0.40. Tarsus: I undivided, II and III divided by 3 rows or larger setae and IV by 4 rows. Tibial apophysis formed by
+two branches with distinct bases: prolateral smaller, with retrolateral spine; retrolateral larger. Metatarsus I with
+strong basal triangular nodule and flexes between tibial apophysis branches, touching their median portion (Figs 5
+D). Palpal bulb with conspicuous PIK and PSK close and parallel from each other, both extend to middle of
+embolus. Thin embolus with tooth emerging from PIK. Tooth with basal edge smooth and apical edge abrupt. Digitiform apophysis present (Figs 5 A–C).
+
+12 · Zootaxa 3172 © 2012 Magnolia Press
+
+YAMAMOTO ET AL.
+
+Female (IBSP 144799): Color in alcohol: carapace and legs light brown. Abdomen dorsally black, with a longitudinal strip of yellow setae and ventrally light brown. Color in vivo (Fig. 11 D): carapace and legs brown, abdomen dorsally black, with longitudinal strip of yellow setae and ventrally light brown. Urticating hairs of type III.
+Total length, without chelicera, 16.72. Carapace: length 7.76; width 6.32. Eye tubercle: length 1.02; width 1.33.
+Eyes size: AME 0.26, ALE 0.36, PME 0.21, PLE 0.29. Labium: length 1.38; width 0.96. Sternum: length 3.84;
+width 3.28. Basal segment of chelicera with row of nine teeth on prolateral margin and group of 13 smaller teeth
+basal third. Labium with 47 cuspules. Endites with ca. 131 cuspules. Palp: femur 3.68/ patella 2.40/ tibia 2.48/
+cymbium 2.40/ total 10.96. Leg I: femur 4.72/ patella 3.36/ tibia 3.52/ metatarsus 2.72/ tarsus 1.84/ total 16.16. II:
+4.64/ 3.04/ 2.88/ 2.56/ 2.24/ 15.36. III: 4.48/ 2.56/ 2.32/ 3.60/ 2.32/ 15.28. IV: 5.44/ 3.04/ 4.08/ 5.20/ 2.56/ 20.32.
+Spinnerets: basal segment 1.55; medium 1.10; apical 1.50. Spination: Palp: femur d0-0-p1, tibia v0-0-0-3ap. Leg I:
+femur d0-0-p1, metatarsus v0-0-0-1ap. II: femur 0-0-1p, metatarsus v0-1-0-1ap. III: tibia v0-2-0-2ap, metatarsus
+v2-p-0-3ap, p0-1-1, r0-1-1. IV: tibia v0-2-1-2ap, r1-0-1, metatarsus vp1-2-p1-3ap, p0-1-1, r0-1-1. Scopula: Metatarsus: I with 0.41 of total length scopulated, II with 0.47, III with 0.31, IV with 0.40. Tarsus: I divided by 3 rows of
+larger setae, II and III divided by 4 rows of larger setae and IV by 5 rows. Spermathecae with two irregular receptacles with large nodules, mainly in apical portion (Figs 5 E, F).
+Variation. 5 males: Total length 11.8–16.5; Carapace 5.9–8.3; cuspules on labium: 25–40. 5 females: Total
+length: 17–18.7; Carapace 6.2–9.1; cuspules on labium: 35–78.
+Distribution. Known only from the state of Minas Gerais, Brazil (Fig. 10).
+
+Catanduba araguaia sp. nov.
+Figs 6 A–D
+Type-material. Holotype: male from São Félix do Araguaia, Mato Grosso, Brazil, (11°36'36"S; 50°39'36"W) XII/
+1972, I. Frasceschini col., deposited in IBSP 2605.
+Etymology The species epithet is a noun in apposition taken from type locality.
+Diagnosis Males of Catanduba araguaia sp. nov. differ from those of other species by the presence of an auxiliary keel under PIK with a pointed apical edge, as C. piauiensis sp. nov. (Figs 6 A–C). Differ C. piuaiensis sp.
+nov. by the presence of the curved apical portion of the metatarsus I basal nodule (Fig 6 D).
+Description. Male (Holotype). Color in alcohol: carapace and legs dark brown. Sternum and coxae brown.
+Abdomen dorsally dark gray with four gray stripes extending to lateral sides and ventrally light brown. Urticating
+hairs of type III. Total length, without chelicera, 17.28. Carapace: length 8.32; width 7.12. Eye tubercle: length
+1.08; width 1.41. Eyes size: AME 0.40, ALE 0.39, PME 0.19, PLE 0.33. Labium: length 0.98; width 1.56. Sternum: length 4.48; width 3.44. Basal segment of chelicerae with row of 11 teeth on prolateral margin and group of
+13 small teeth concentrated on basal third. Labium with 19 cuspules. Endites with ca. 107 cuspules. Palp: femur
+4.24/ patella 2.72/ tibia 3.68/ cymbium 1.28/ total 11.92. Leg I: femur 7.28/ patella 4.24/ tibia 4.72/ metatarsus
+4.88/ tarsus 3.52/ total 24.64. II: 6.56/ 3.68/ 4.64/ 5.12/ 3.68/ 23.68. III: 5.68/ 3.04/ 3.84/ 5.36/ 3.52/ 21.44. IV:
+7.44/ 3.44/ 5.44/ 7.44/ 4.16/ 27.92. Spinnerets: basal segment 1.75; medium 1.19; apical 1.59. Spination: Palp:
+femur d0-0-1p, tibia d0-p1-0, v0-1p-2p; Leg I: femur d0-0-1p, tibia v2-2-0-1ap, p1-0-1, metatarsus v0-0-1ap, p0-10; II: femur d0-0-1p, tibia v3-2-0-3ap, p1-0-1, metatarsus v1-1-0-2ap, p1-0-1; III: femur d0-0-2, tibia v2-3-0-2ap,
+p1-0-1, r1-0-1, metatarsus v2-2-p1-1ap, p1-1-1, r0-1-1. IV: femur d0-1r-1r, tibia v2-3-0-3ap, p1-0-1, r1-0-1, metatarsus v2-2-p1-3ap, p1-1-1, r1-1-1. Scopula: Metatarsus: I 0.69 of total length scopulated, II with 0.58, III with 0.54
+and IV with 0.31. Tarsus: I–III undivided, IV by 3–4 rows of stronger setae. Palpal bulb with conspicuous PIK and
+PSK. An additional keel under PIK, with pointed end. Thin embolus with tooth emerging from PIK with bifid
+point. Digitiform apophysis present (Figs 6 A–C). Tibial apophysis formed by two branches with distinct bases:
+prolateral smaller, with retrolateral spine; retrolateral larger. Metatarsus I with strong basal triangular nodule with
+curved tip and flexes between the tibial apophysis branches, touching their median portion (Figs 6 D).
+Female. Unknown.
+Distribution. Known only from the type locality (Fig. 10).
+
+CATANDUBA, A NEW THERAPHOSINAE SPIDER GENUS
+
+Zootaxa 3172 © 2012 Magnolia Press ·
+
+13
+
+FIGURE 6. Catanduba araguaia sp. nov.: (A–C) Left palpal bulb: (A) prolateral view; (B) retrolateral view; (C) dorsal view.
+(D) Male left leg I, tibial apophysis, ventral view. Scale bar = 1 mm.
+
+Catanduba canabrava sp. nov.
+Figs 7A–D
+Type-material. Holotype: male from Cana Brava, Minaçu, Goiás, Brazil, (13°50'01"S; 48°18'10"W), 03/V/1935,
+J. Blaser col., deposited in IBSP 3735. Paratype: two males from the same locality and collector as holotype,
+deposited in MZSP 36507 and IBSP 160893.
+Additional material examined. BRASIL, Goiás, Minaçu, Cana Brava, (13°50'01"S; 48°18'10"W), XII/1972,
+I. Frasceschini col., 3 (IBSP 160894–160896).
+Etymology. The specific name is a noun in apposition that refers to the type locality of the holotype.
+Diagnosis. Males of C. canabrava sp. nov. differ from those of other species by the position of the embolus
+tooth in the middle of the PIK (Figs 7 A–C).
+Description. Male (Holotype). Color in alcohol: carapace and legs dark brown. Sternum and coxae brown.
+Abdomen dorsally dark brown and ventrally brown (Fig. 29H). Specimens lost all urticating hairs, abdomen dorsal
+area is bare. Total length, without chelicera, 11.31. Carapace: length 5.06; width 4.69. Eye tubercle: length 0.73;
+width 1.00. Eyes size: AME 0.30, ALE 0.27, PME 0.15, PLE 0.24. Labium: length 0.58; width 0.98. Sternum:
+length 2.28; width 2.25. Basal segment of chelicera with row of 7 teeth on prolateral margin and group of 17 small
+teeth concentrated on basal third. Labium with 26 cuspules. Endites with ca. 81 cuspules. Palp: femur 2.94/ patella
+1.75/ tibia 2.31/ cymbium 0.88/ total 7.88. Leg I: femur 4.75/ patella 2.75/ tibia 3.69/ metatarsus 3.19/ tarsus 2.19/
+total 16.56. II: 4.19/ 2.44/ 2.94/ 3.00/ 2.13/ 14.69. III: 3.63/ 1.94/ 2.50/ 3.31/ 2.25/ 13.63. IV: 4.81/ 2.25/ 3.94/ 4.56/
+2.63/ 18.19. Spinnerets: basal segment 0.97; medium 0.72; apical 0.97. Spination: Palp: femur d0-0-1p, tibia d0p1-0, p 0-1-1; Leg I: femur d0-0-1p, tibia d0p1-p1, v3-1-r1, metatarsus p0-1-0; II: femur d1-2-1p, patella v 0-0-1,
+tibia v2-2-0-2ap, p1-0-1, metatarsus d0-p1-0, v1-1-0-2ap; III: femur d1-2-1, r0-0-2, patella 0-2-0, tibia v2-1-2-3ap,
+p1-1-1, r1-1-1, metatarsus d r1-r1-r1, v1-1-0-3ap, p1-1-1, r1-1-1. IV: femur d1-2-2, tibia v1-1-2-3ap, p 1-2-1, r1-11, metatarsus v2-2-1p-3ap, p1-1-1, r0-1-1. Scopula: Metatarsus: I with 0.49 of total length scopulated, II with 0.40,
+III with 0.42 and IV with 0.33. Tarsus: I, II undivided, III divided by 3 rows of larger setae and IV divided by 6
+rows. Palpal bulb with weak PIK and conspicuous PSK. Thin embolus with tooth emerging from middle of PIK.
+
+♂
+
+14 · Zootaxa 3172 © 2012 Magnolia Press
+
+YAMAMOTO ET AL.
+
+Digitiform apophysis weakly developed (Figs 7 A–C). Tibial apophysis formed by two branches with distinct
+bases: prolateral smaller, with retrolateral spine; retrolateral larger. Metatarsus I with basal triangular nodule and
+flexes between tibial apophysis branches, touching their median portion (Fig 7 D).
+Female. Unknown.
+Distribution. Known only from the type locality (Fig. 10).
+
+FIGURE 7. Catanduba canabrava sp. nov.: (A–C) Left palpal bulb: (A) prolateral view; (B) retrolateral view; (C) dorsal view.
+(D) Male left leg I tibial apophysis, ventral view. Scale bar = 1 mm.
+
+Catanduba piauiensis sp. nov.
+Figs 8 A–D
+Type-material. Holotype: male from Campus da Embrapa, Teresina, Piauí, Brazil, (5°09'S; 42°46'00"W), 15/IV–
+01/VI/2005, A. dos Santos Rocha col., deposited in IBSP 13747.
+Etymology. Named after the state of type-locality, Piauí, Brazil.
+Diagnosis. Males of Catanduba piauiensis sp. nov. differ from those of other species by the presence of an
+auxilliary keel under PIK with a pointed apical edge, also present in C. araguaia (Figs 8 A–C). They differ from
+males of C. araguaia, by the stronger auxiliary keel, weaker PSK and absence of tip curvature on the metatarsal I
+basal nodule (Fig. 8D).
+Description. Male (Holotype). Color in alcohol: carapace and legs reddish brown. Abdomen dorsally dark
+gray with five strips extending to laterally and ventrally light brown. Urticating hairs of type III. Total length, without chelicera, 16.96. Carapace: length 8.88; width 7.12. Eye tubercle: length 1.18; width 1.36. Eyes size: AME
+0.36, ALE 0.44, PME 0.21, PLE 0.30. Labium: length 1.13; width 1.50. Sternum: length 4.75; width 3.69. Basal
+segment of chelicera with row of 9 teeth on prolateral margin and group of 16 small teeth concentrated on basal
+third. Labium with 51 cuspules. Endites with ca. 129 cuspules. Palp: femur 4.88/ patella 3.12/ tibia 4.16/ cymbium
+1.60/ total 13.76. Leg I: femur 7.76/ patella 4.16/ tibia 5.76/ metatarsus 5.60/ tarsus 3.92/ total 27.20. II: 7.28/ 4.24/
+4.88/ 5.04/ 4.08/ 25.52. III: 6.08/ 3.44/ 4.00/ 5.52/ 3.84/ 22.88. IV: 7.68/ 3.84/ 5.92/ 8.00/ 4.56/ 30.00. Spinnerets:
+basal segment 1.76; medium 0.92; apical 1.00. Spination: Palp: femur d0-0-1p, tibia v0-1p-1p; p 0-1-0; Leg I:
+femur d0-0-1p, tibia v2-2-0-1ap, p1-0-1; II: femur d0-0-1p, tibia v1-2-0-2ap, p1-0-1, metatarsus v2-1-0-1ap,
+
+CATANDUBA, A NEW THERAPHOSINAE SPIDER GENUS
+
+Zootaxa 3172 © 2012 Magnolia Press ·
+
+15
+
+FIGURE 8. Catanduba piauiensis sp. nov.: (A–C) Left palpal bulb: (A) prolateral view; (B) retrolateral view; (C) dorsal view.
+(D) Male left leg I, tibial apophysis, ventral view. Scale bar = 1 mm.
+
+FIGURE 9. Color pattern of abdomen: (A) C. tuskae sp. nov. (B) C. flavohirta comb. nov. and (C) Catanduba simoni comb.
+nov.
+
+p1-0-0; III: femur d0-1p-2, patella p0-0-1, r0-0-1, tibia v2-3-0-3ap, p1-0-1, r1-0-1, metatarsus v2-2-1p-1ap, p1-1-1,
+r1-0-1. IV: femur d0-0-2r, tibia v1-2-1p-1ap, p1-0-1, r2-2-1, metatarsus v1-2-2-3ap, p0-1-1, r1-1-1. Scopula: Meta-
+
+16 · Zootaxa 3172 © 2012 Magnolia Press
+
+YAMAMOTO ET AL.
+
+tarsus: I with 0.42 of total length scopulated, II with 0.46, III with 0.31 and IV with 0.27. Tarsus: I undivided, II
+divided by 1–2 rows of stronger setae, III divided by 2 rows of stronger setae and IV by 4. Palpal bulb with PIK and
+PSK well developed. PSK curved for half of its length. Thin embolus with tooth emerging from PIK. Additional
+keel under PIK with pointed end. Small weak grooves between PIK and PSK and above last one. Digitiform apophysis present (Figs 8 A–C). Tibial apophysis formed by two branches with distinct bases: prolateral smaller, with
+retrolateral spine; retrolateral larger. Metatarsus I with strong basal triangular nodule and flexes between tibial apophysis branches, touching their median portion (Fig 8 D).
+Female. Unknown.
+Distribution. Known only from the type locality (Fig 10).
+
+FIGURE 10. Distribution map of Catanduba gen. nov. species.
+
+Acknowledgements
+We wish to thank José Paulo L. Guadanucci, Fernando Pérez-Miles and Robert Raven for helpful comments on this
+manuscript. We also thank the curators for the loan of material used here and the herpetologists Mauro Teixeira Jr.
+and Renato Souza Recoder, for aways collecting important spiders specimens (like C. peruacu sp. nov.) during
+their fieldtrips. This work was supported by FAPESP (FUY 06/53070-2; 2008/10147-0) and Conselho Nacional
+do Desenvolvimento Científico e Tecnológico (CNPq grant 301776/2004-0 to ADB). This paper was developed in
+the Programa de Pós-graduação em Zoologia da Universidade de São Paulo.
+
+CATANDUBA, A NEW THERAPHOSINAE SPIDER GENUS
+
+Zootaxa 3172 © 2012 Magnolia Press ·
+
+17
+
+FIGURE 11. Live animals: (A) Male of Catanduba tuskae sp. nov.; (B) Female, C. simoni comb. nov.; (C) Male and (D)
+female, C. peruacu sp. nov.
+
+Bibliography
+Bertani, R. (2000) Male palpal bulbs and homologous features in Theraphosinae (Araneae, Theraphosidae). Journal of Arachnology, 28, 29–42.
+Cooke, J.A.L., Roth, V.D. & Miller, F.H. (1972) The urticating hairs of theraphosid spiders. American Museum Novitates, 2498,
+1–43.
+Fukushima, C.S., Bertani, R. & Silva-Junior, P.I (2005) Revision of Cyriocosmus Simon, 1903, with notes on the genus
+Hapalopus Ausserer, 1875 (Araneae: Theraphosidae). Zootaxa, 846, 1–31.
+Fukushima C.S, Nagahama, R.H. & Bertani, R. (2008) The identity of Mygale brunnipes C.L. Koch 1842 (Araneae, Theraphosidae), with a redescription of the species and the description of a new genus. Journal of Arachnology, 36, 402–410.
+Goloboff, P., Farris, J. & Nixon, K. (2003) T.N.T. Tree Analysis Using New Technology. Program and documentation, available
+form the authors, and at www.zmuc.dk/public/phylogeny (acessed 13 December 2010).
+Indicatti, R.P., Lucas, S.M., Guadanucci, J.P.L. & Yamamoto, F.U. (2008) Revalidation and revision of the genus Magulla
+Simon 1892 (Araneae, Mygalomorphae, Theraphosidae). Zootaxa, 1814, 21–36.
+Maddison, W.P. & Maddison, D.R. (2009) Mesquite: a modular system for evolutionary analysis. Version 2.72 http://mesquiteproject.org (accessed 13 December 2010).
+Pérez-Miles, F. & Locht, A. (2003) Revision and cladistic analysis of the genus Hemirrhagus Simon, 1903 (Araneae, Theraphosidae, Theraphosinae). Bulletin of the British Arachnological Society, 12, 365–375.
+Pérez-Miles, F., Gabriel, R., Miglio, L., Bonaldo, A., Gallon, R., Jimenez, J.J., & Bertani, R. (2008) Ami, a new theraphosid
+genus from Central and South America, with the description of six new species (Araneae: Mygalomorphae). Zootaxa,
+1915, 54–68
+Pérez-Miles, F. & Weinmann, D. (2010) Agnostopelma: a new genus of tarantula without a scopula on leg IV (Araneae: Theraphosidae: Theraphosinae). Journal of Arachnology, 38, 104–112.
+Petrunkevitch, A. (1925) Arachnida from Panama. Transactions of the Connecticut Academy of Arts and Sciences, 27, 51–248.
+
+18 · Zootaxa 3172 © 2012 Magnolia Press
+
+YAMAMOTO ET AL.
+
+Platnick, N.I. (2010) The world spider catalog, version 11.0. American Museum of Natural History, online at http://
+research.amnh.org/entomology/spiders/catalog/index.html. (accessed 13 December 2010).
+Raven, R.J. (1985) The spider Infraorder Mygalomorphae (Araneae): cladistics and systematics. Bulletin of the American
+Museum of Natural History, 182, 1–180.
+Raven, R.J. (1990) Comments on the proposed precedence of Aphonopelma Pocock, 1901 (Chelicerata: Araneae) over Rhechostica Simon, 1892. Bulletin of Zoological Nomenclature, 47 (2), 126–127.
+Schiapelli, R.D. & Gerschman de P.B.S. (1970) El género Ceropelma Mello-Leitão, 1923 (Araneae, Theraphosidae). Physis,
+30, 225–239.
+Yamamoto, F.U., Lucas, S.M., Guadanucci, J.P.L. & Indicatti, R.P. (2007) Revision of the genus Tmesiphantes Simon (Araneae, Mygalomorphae, Theraphosidae). Revista Brasileira de Zoologia, 24, 971–980.
+
+APPENDIX 1. Exemplar taxa and their voucher specimens scored for the cladistic analysis.
+Homoeomma stradlingi O. P.-Cambridge 1881, male, Rio de Janeiro, Rio de Janeiro, Brazil, 30/VII/1974, J.U. Circe col.,
+(IBSP 4147D); female, Teresópolis, Rio de Janeiro, Brazil, 21/X/1976, R.W. Waltermath col.(IBSP 4242).
+Homoeomma elegans, (Gerschman & Schiapelli 1958), male, Sarapuí, São Paulo, Brazil, 16/XI/1982, A. Gerard col., (IBSP
+11175); Usina Hidrelétrica de Salto Segredo, Candói/Mangueirinha, Paraná, Brazil, 08/IX/1996, R. Bertani col. (IBSP
+8965).
+Homoeomma montanum (Mello-Leitão 1923), male e female, Itatiaia, Rio de Janeiro, Brazil, XII/1964, H.N. da Cunha col.
+(MNRJ 13797).
+Cyriocosmus ritae Pérez-Miles 1998, male e female, Senador Guiomard, Acre, Brazil, 2002, E. F. Morato col. (IBSP 14705,
+14704).
+Grammostola mollicoma (Ausserer 1875), male, São Marcos, Rio Grande do Sul, Brazil, 1990, Prefeitura Municipal de São
+Marcos col. (IBSP 13876); female, Maquiné, Rio Grande do Sul, Brazil, 18–27/I/2002, Equipe Biota col. (IBSP 12729).
+Magulla obesa Simon 1892, male, São Pedro da Aldeia, Rio de Janeiro, Brazil, 22°51'S, 42°6'W, 03.VII.1968, S. Machado col.
+(IBSP 4685); female, Teresópolis, Rio de Janeiro, Brazil, 18–22.VIII.2001, Equipe Biota col. (IBSP 12713).
+Maraca cabocla (Pérez-Miles 2000), male e female, Estação Ecológica de Maracá, Ilha de Maracá, Alto Alegre, Roraima, Brazil, 20/VII/1987, A.A. Lise col. (MCN 17610, 17611).
+Oligoxystre caatinga, male e female, Toca dos Pilões, Central, Bahia, Brazil, 11º 01' – 11º 19' S41º 47' – 42º 10' W,
+16.VII.2002, Equipe Biota col. (IBSP 12852).
+Plesiopelma longisternale (Schiapelli & Gerschman 1942), male, Sierra de Animas, Maldonado, Uruguay, 34º42’S 55º19’W,
+17–19/V/1992, F. Costa & F. Pérez-Miles col. (FCE-MY 0466); female, Sierra de Animas, Maldonado, Uruguay, 34º44’S
+55º21’W, 18/IV/1989, Caposale, F. Costa & F. Pérez-Miles col. (FCE-MY 0444).
+Plesiopelma insulare (Mello-Leitão 1923), female, Ilha de Alcatrazes, São Paulo, Brazil, O. A. V. Marques col. 21/IX/1994
+(IBSP 8953); male, Ilha Bela, São Paulo, Brazil, VIII.1998, E. Boehringer col. (IBSP 11100).
+Plesiopelma sp., male and female, Espírito Santo, Brazil, I/1998, A . D. Brescovit et al. col. (IBSP 8936–8937).
+Hapalopus sp., male,Usina Hidrelétrica Luís Eduardo Magalhães, Lajeado, Tocantins, Brazil, 08/I/2002, M. Costa & D. M.
+Candido (IBSP 11582), female, Porto Nacional, Tocantins, Brazil, 22/VIII/2003, Equipe Resgate de Fauna col. (IBSP
+115451).
+
+CATANDUBA, A NEW THERAPHOSINAE SPIDER GENUS
+
+Zootaxa 3172 © 2012 Magnolia Press ·
+
+19
+
+

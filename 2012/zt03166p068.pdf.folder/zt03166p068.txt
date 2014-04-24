@@ -1,0 +1,821 @@
+Zootaxa 3166: 59–68 (2012)
+www.mapress.com / zootaxa/
+Copyright © 2012 · Magnolia Press
+
+ISSN 1175-5326 (print edition)
+
+Article
+
+ZOOTAXA
+ISSN 1175-5334 (online edition)
+
+A new Alestopetersius (Characiformes: Alestidae) from the Kwilu River
+(Kasai basin) of central Africa; with a phylogeny for the genus
+and synonymy of Duboisialestes
+JOSÉ JUSTIN MBIMBI MAYI MUNENE1 & MELANIE L.J. STIASSNY 2
+1
+Faculté des Sciences, Département de Biologie, Université de Kinshasa, B.P 190 Kin XI, Democratic Republic of Congo.
+E-mail: jjmbimbi@yahoo.fr
+2
+American Museum of Natural History, Department of Ichthyology, Central Park West at 79th Street, New York, New York 10024, USA.
+E-mail: mljs@amnh.org
+
+Abstract
+A new Alestopetersius is described from the Kwilu River in the Kasai basin of the Democratic Republic of Congo. Alestopetersius conspectus, new species, is readily distinguished from all congeners based on attributes of squamation and coloration. It is distinguished from “Duboisialestes” tumbensis by tooth morphology and in the possession of a distinctive
+caudal-fin pigmentation patterning consisting of a median black band extending to the caudal-fin margin and flanked by
+dense black bands in both upper and lower fin lobes. “Duboisialestes” bifasciatus, which shares similar caudal-fin pigmentation patterning, is distinguished from A. conspectus by the absence of a broad mid-lateral band on the body, and by
+tooth morphology. Results from an analysis of the relationships and generic composition of the Alestidae provide support
+for the monophyly for Alestopetersius inclusive of the members of the genus Duboisialestes, which are placed into synonomy with the former.
+Une nouvelle espèce de Alestopetersius est décrite de la rivière Kwilu dans le bassin du Kasai de la République
+Democratique du Congo. Alestopetersius conspectus, nouvelle espèce, se distingue très facilement de tout ses congénères
+sur les attributs de la squamation et coloration. Cette espèce est distinguée de “Duboisialestes” tumbensis par la morphologie des dents et par la posséssion d'un type de pigmentation de la nageoire caudale composée d’une bande noire médiane
+s'étendant de la marge de la caudale et flanquée de denses bandes noires dans les deux lobes supérieur et inférieur de la
+nageoire. “Duboisialestes” bifasciatus qui partage le même type de pigmentation de la nageoire caudale, se distingue de
+A. conspectus par l'absence d'une large bande mi-latérale sur le corps, et par la morphologie des dents. Les résultats d'une
+analyse des relations et de la composition générique du Alestidae fournissent un soutien pour la monophylie des Alestopetersius incluant les membres du genre Duboisialestes, qui sont placés en synonymie avec le genre précèdent.
+Key words: Alestopetersius conspectus, new species, Duboisialestes synonym of Alestopetersius
+
+Introduction
+The Kwilu River, a large left bank tributary of the Kasai River about 965 km in length and wet-season inundation
+area of 1,550 km2 (Hughes, 1996), joins the Kwango River just south of the provincial capital of Bandundu.
+Together these two large affluent tributaries enter the main channel of the Kasai River some 50 km upstream of the
+Kasai-Fimi confluence (Fig. 1). The Kwilu, like many affluents of the Kasai, is poorly known ichthyologically
+(Stiassny et al. 2011), and as part of a comparative study of northwestern Kasai tributaries, Mbimbi and Stiassny
+(2011) provide a checklist of fishes collected in the Kwilu River in the vicinity of Kikwit, a river port some 250 km
+upstream of Bandundu. Among the fishes reported are numerous individuals of the alestid genus, Alestopetersius
+Hoedeman, 1951. As currently recognized, Alestopetersius includes seven species (Fig. 2); A. hilgendorfi (Boulenger 1899), A. brichardi Poll 1967, A. caudalis (Boulenger 1899), A. compressus (Poll & Gosse 1963), A. leopoldianus (Boulenger 1899), A. nigropterus Poll 1967 and A. smykalai Poll 1967. Recent studies (Zanata & Vari 2006;
+Arroyave & Stiassny 2011) have hypothesized that members of the genus Duboisialestes Poll 1967; D. tumbensis
+
+Accepted by J. Friel: 1 Nov. 2011; published: 19 Jan. 2012
+
+59
+
+(Hoedman 1951) and D. bifasciatus Poll 1967, are closely related to or nested within Alestopetersius, and that
+hypothesis is further investigated here. Individuals collected in the Kwilu could not be attributed to any described
+Alestopetersius (or Duboisialestes) and closer examination confirms that these specimens belong to a new species
+for which a description is provided below.
+In addition to numerous specimens of the new species described here, was one individual seemingly of another
+undescribed Alestopetersius (AMNH 252479, Alestopetersius sp. “mbuji”, Fig. 2J). We are hesitant to describe a
+new taxon on the basis of a single specimen and, pending the availability of additional material, note the occurrence of this anomalous individual and provide meristic and morphometric data for the specimen (Table 1). Interestingly, despite trenchant differences in meristics and pigmentation, an exploratory phylogenetic analysis places
+Alestopetersius sp. “mbuji” as the sister to Alestopetersius conspectus, new species (Fig. 3).
+
+FIGURE 1. Location of the Kwilu River, stars indicate collecting localities for Alestopetersius conspectus, new species. Inset
+photograph: locality of the holotype at Carrefour.
+
+60 · Zootaxa 3166 © 2012 Magnolia Press
+
+MBIMBI & STIASSNY
+
+TABLE 1. Morphometric and meristic data for Alestopetersius conspectus, new species. Values in parentheses indicate number
+of specimens examined with that count. Left hand column provides comparative data for an anomalous individual collected
+together with A. conspectus at Kwilu, Mbuji (AMNH 252479).
+Holotype
+
+N
+
+Mean
+
+Min
+
+Max
+
+52.9
+
+27.0
+
+47.9
+
+42.3
+
+56.9
+
+Body Depth
+
+34.3
+
+27.0
+
+32.1
+
+26.4
+
+34.5
+
+1.7
+
+31.2
+
+Head Length
+
+25.6
+
+27.0
+
+27.5
+
+20.4
+
+29.7
+
+1.5
+
+25.8
+
+Predorsal Length
+
+51.9
+
+27.0
+
+51.3
+
+44.0
+
+54.1
+
+2.4
+
+52.9
+
+Prepelvic Length
+
+50.2
+
+27.0
+
+49.0
+
+42.9
+
+51.8
+
+2.5
+
+53.7
+
+Prepectoral Length
+
+26.1
+
+27.0
+
+26.8
+
+24.8
+
+28.7
+
+1.2
+
+27.6
+
+Dorsal-fin base
+
+13.8
+
+27.0
+
+13.3
+
+11.2
+
+15.6
+
+0.8
+
+12.0
+
+Standard Length (mm)
+
+SD
+
+AMNH 252479
+49.3
+
+%SL
+
+Dorsal-adipose
+
+23.8
+
+27.0
+
+25.1
+
+22.5
+
+28.4
+
+1.2
+
+24.7
+
+Anal-fin base
+
+17.9
+
+27.0
+
+21.0
+
+17.9
+
+24.0
+
+1.2
+
+20.1
+
+Caudal peduncle length
+
+10.1
+
+27.0
+
+12.1
+
+10.6
+
+14.3
+
+0.6
+
+13.2
+
+Caudal peduncle depth
+
+9.8
+
+27.0
+
+10.6
+
+8.9
+
+11.9
+
+0.6
+
+10.9
+
+Eye diameter
+
+34.6
+
+27.0
+
+34.9
+
+28.2
+
+37.2
+
+0.6
+
+33.9
+
+Snout Length
+
+27.1
+
+27.0
+
+26.6
+
+23.3
+
+31.9
+
+0.4
+
+29.1
+
+Holotype
+
+Paratypes
+
+%HL
+
+Dorsal-fin rays (branched)
+
+8.0
+
+8(30)
+
+8.0
+
+Anal-fin rays (branched)
+
+19.0
+
+18(7) 19(22) 20(1)
+
+18.0
+
+Gill rakers (lower limb)
+
+13.0
+
+12(6) 13(23) 14(1)
+
+15.0
+
+Lateral-line scales (pored)
+
+32.0
+
+31(2) 32(6) 33(21) 34(1)
+
+29.0
+
+Lateral line-dorsal fin scale rows
+
+7.0
+
+7(12) 6.5(18)
+
+4.5
+
+Lateral line-pelvic fin scale rows
+
+2.5
+
+2.5(30)
+
+2.5
+
+Circumpeduncular scale rows
+
+12.0
+
+12(30)
+
+10.0
+
+Total number of vertebrae
+
+37.0
+
+36(5) 37(15)
+
+Material and methods
+Species description. Thirteen morphometric measurements and 8 meristic counts were taken following Paugy et al.
+(2003). In order to accurately count vertebral and fin-ray elements and to visualize other skeletal features, specimens
+were radiographed and some were cleared and stained following a modified protocol based on Taylor and Van Dyke
+(1985). CS indicates cleared and stained specimens; SL denotes standard length, and HL head length. Total vertebral counts include the four modified Weberian centra but exclude the terminal, hypural-bearing centrum. Gill
+raker counts include only the rakers on the lower limb of the first arch and exclude the raker in the angle of the
+arch. Institutional abbreviations follow Leviton et al. (1985).
+Phylogenetic analysis. A hypothesis of relationships of Alestopetersius is presented in Figure 3. The tree is
+clipped from a larger analysis (Arroyave & Stiassny in prep.) with expanded taxon sampling within “clade C” of
+Arroyave & Stiassny (2011), and a total of 48 terminals (see Table 2, for additional taxa added to the matrix of
+Arroyave & Stiassny 2011). Sequence data from four molecular markers; two nuclear (SH3PX3 and myh6) and
+two mitochondrial (COI and cyt-b), totaling 3,266 bp, were utilized in the analysis following the methodology of
+Arroyave & Stiassny (2011). Clade support was estimated with jackknife character resampling (Lanyon, 1985).
+
+A NEW ALESTOPETERSIUS FROM DR CONGO
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+61
+
+FIGURE 2. Species of the nominal alestid genera Alestopetersius and Duboisialestes: (A) Alestopetersius hilgendorfi (AMNH
+240791), (B) Alestopetersius nigropterus (AMNH 242455), (C) Alestopetersius compressus (MRAC 137845, holotype), (D)
+Alestopetersius leopoldianus (AMNH 242464), (E) Alestopetersius brichardi (AMNH 240432), (F) Alestopetersius caudalis
+(AMNH 242193), (G) Alestopetersius smykalai (after Poll, 1967), (H) Alestopetersius conspectus (AMNH 253473, holotype),
+(I) Alestopetersius sp “mbuji”, (AMNH 252479), (J) Duboisialestes bifasciatus (AMNH 240060), (K) Duboisialestes tumbensis (AMNH 252336).
+
+Generic assignment and synonomy of Duboisialestes. Initial placement of the new species in Alestopetersius, based on a combination of attributes of dentition and squamation following the generic concept of Poll (1967),
+was confirmed by preliminary molecular analysis. We note that neither Zanata and Vari (2005) nor Arroyave and
+Stiassny (2011) find support for a monophyletic Alestopetersius at the exclusion of species currently included in
+the genus Duboisialestes, and the relationships depicted in Figure 3 support this conjecture. While species representation within Alestopetersius is incomplete, nodal support for the placement of Duboisialestes tumbensis and D.
+bifasciatus as nested within Alestopetersius is strong (Fig. 3).
+
+62 · Zootaxa 3166 © 2012 Magnolia Press
+
+MBIMBI & STIASSNY
+
+TABLE 2. List of “clade C” taxa added to dataset of Arroyave & Stiassny (2011) and incorporated in phylogenetic analysis.
+Taxon
+
+GenBank accession number
+CO1
+
+cyt-b
+
+myh6
+
+SH3PX3
+
+Alestopetersius conspectus, new species
+
+AMNH 252517
+
+JN710383
+
+JN710396
+
+JN710410
+
+JN710426
+
+Alestopetersius conspectus, new species
+
+AMNH 252517
+
+JN710384
+
+JN710397
+
+JN710411
+
+JN710427
+
+Alestopetersius conspectus, new species
+
+AMNH 252517
+
+JN710385
+
+JN710398
+
+JN710412
+
+JN710428
+
+Alestopetersius nigropterus
+
+AMNH 253634
+
+JN710382
+
+JN710395
+
+JN710409
+
+JN710425
+
+Alestopetersius sp. "mbuji"
+
+AMNH 252479
+
+JN710386
+
+xxxxxxxx
+
+JN710413
+
+JN710429
+
+Brachypetersius huloti
+
+AMNH 244586
+
+JN710387
+
+xxxxxxxx
+
+JN710414
+
+JN712904
+
+Brachypetersius notospilus
+
+AMNH 253637
+
+JN710388
+
+JN710399
+
+JN710415
+
+JN710430
+
+Brachypetersius notospilus
+
+AMNH 253637
+
+JN710389
+
+JN710400
+
+JN710416
+
+JN710431
+
+Bathyaethiops breuseghemi
+
+AMNH 252883
+
+JN710390
+
+JN710401
+
+JN710417
+
+JN710432
+
+Bathyaethiops breuseghemi
+
+AMNH 253472
+
+JN710391
+
+JN710402
+
+JN710418
+
+JN710433
+
+Bathyaethiops breuseghemi
+
+AMNH 253472
+
+JN710392
+
+JN710403
+
+JN710419
+
+JN710434
+
+Bathyaethiops sp. "lékoumou"
+
+AMNH 253502
+
+xxxxxxxx
+
+JN710404
+
+JN710420
+
+JN710435
+
+Bathyaethiops sp. "lékoumou"
+
+AMNH 253502
+
+xxxxxxxx
+
+JN710405
+
+JN710421
+
+JN710436
+
+Bathyaethiops sp. "lékoumou"
+
+AMNH 253502
+
+xxxxxxxx
+
+JN710406
+
+JN710422
+
+JN710437
+
+Duboisialestes bifasciatus
+
+AMNH 253635
+
+JN710393
+
+JN710407
+
+JN710423
+
+JN710438
+
+Phenacogrammus polli
+
+AMNH 247925
+
+xxxxxxxx
+
+xxxxxxxx
+
+JN712905
+
+JN712906
+
+Nannopetersius ansorgii
+
+AMNH 253914
+
+JN710394
+
+JN710408
+
+JN710424
+
+JN710439
+
+FIGURE 3. Strict consensus of 3 equally parsimonious trees (tree length=2997, ensemble CI=0.66, RI=0.74) based on the
+nucleotide dataset of Arroyave & Stiassny (2011) augmented with expanded taxon sampling within “clade C” (added taxa listed
+in Table 2). Type species of focal genera indicated by * and illustrated at right. Indices at nodes indicate jacknife support.
+
+A NEW ALESTOPETERSIUS FROM DR CONGO
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+63
+
+Morphologically Duboisialestes has been distinguished from Alestopetersius on the basis of dentition, with the
+former characterized by the possession of highly compressed inner row premaxillary and dentary teeth that are
+closely abutting and bear numerous (8–14) small cusps. Poll (1967) also notes that the median tooth cusps in
+Duboisialestes are reduced in size and only slightly larger than the flanking cusps. The highly compressed, low
+cusped teeth of D. tumbensis and D. bifasciatus do appear to represent an extreme, presumably derived condition.
+Nonetheless, we concur with the assessment of Géry (1977) and Schaefer (2007) that many alestid genera are
+poorly defined and “over split”, and maintaining Duboisialestes would perpetuate this unsatisfactory state of taxonomic affairs. We therefore propose the synonomy of Duboisialestes with Alestopetersius, and include comparisons with A. bifasciatus and A. tumbensis in the diagnosis and discussion of the new species provided below.
+
+Alestopetersius conspectus, new species
+Fig. 4
+Holotype. AMNH 253473, , 52.9 mm SL, Democratic Republic of Congo, Bandundu Province, Kwilu River at
+Carrefour, 05.19160° S, 18.94947° E, Coll. J.J. Mbimbi Mayi Munene, 24 February 2011.
+Paratypes. AMNH 253475, 9 specimens, 42.3–53.6 mm SL, 2 CS, same data as holotype.—AMNH 253476,
+10 specimens, 45.5–56.9 mm SL, 2 CS, Democratic Republic of Congo, Bandundu Province, Kwilu River at Kwilu
+beach, 05.04810°S, 18.83968°E, Coll. J.J. Mbimbi Mayi Munene, 19 February 2011.—AMNH 253477, 5 specimens, 42.4–49.2 mm SL, Democratic Republic of Congo, Bandundu Province, Democratic Republic of Congo,
+Bandundu Province, Kwilu River at Mbuji, 05.07180°S, 18.86935°E, Coll. J.J. Mbimbi Mayi Munene, 22 February
+2011.—MRAC B1-19-P-5-6, 2 specimens, 44.8–44.9 mm SL, same data as holotype.—ZSM 40759, 2 specimens,
+45.4–53.0 mm SL, same data as AMNH 253476.—CU 96797, 2 specimens, 42.3–44.3 mm SL, same data as
+AMNH 253477.
+Diagnosis. Alestopetersius conspectus, new species, is distinguished from A. smykalai, A. leopoldianus, A.
+nigropterus, A. caudalis, and A. sp. “mbuji” in the possession of 12 (vs. 10) circumpeduncular scales. It is readily
+distinguished from A. brichardi, A. compressus, A. hilgendorfi, and A. tumbensis in the possession of a caudal-fin
+pigmentation consisting of a median black band extending to the caudal-fin margin and flanked by dense black
+bands in both upper and lower fin lobes. Alestopetersius bifasciatus, which shares similar caudal fin pigmentation,
+is distinguished from A. conspectus by the absence of a broad mid-lateral band on the body, and in tooth
+morphology.
+
+♂
+
+FIGURE 4. Alestopetersius conspectus, new species (A) AMNH 253473, , preserved holotype, 52.9 mm SL, (B) paratype,
+immediately post mortem, (C) AMNH 253477, , preserved paratype, 47.5 mm SL, (D) paratype, immediately post mortem.
+
+♂
+
+♀
+
+♂
+
+♀
+
+Description. Medium-sized species, maximum size 56.9 mm SL. See Figure 4 for general appearance and
+Table 1 for summary of morphometric and meristic data. Relatively gracile and shallow-bodied, body depth 26.4–
+34.5 % SL (mean 32.1), greatest depth at vertical through pelvic-fin insertion. Head length 20.4–29.7 (mean 27.5),
+eye large, bony orbit diameter 28.2–37.2 % HL (mean 34.9). Dorsal head profile straight from upper lip to nape,
+
+64 · Zootaxa 3166 © 2012 Magnolia Press
+
+MBIMBI & STIASSNY
+
+gently convex from that point to dorsal-fin origin. Dorsal body profile gently convex along dorsal-fin base to caudal-fin base, ventral body profile gently convex between isthmus and anal-fin base, caudal peduncle slightly longer
+than deep.
+Mouth terminal, lower jaw prominent and slightly prognathous. Premaxilla with two teeth in outer row, each
+bearing five cusps, positioned opposite interspaces between and alternating with, four inner row teeth, each bearing
+6–8 cusps (Fig. 5). Outermost premaxillary tooth is markedly compressed and elongate with 7 or 8 small evenly
+sized cusps and a low median cusp. Dentary with four teeth in outer row, each bearing 6 or 7 cusps, outermost tooth
+smallest in jaw. No inner row teeth on dentary.
+
+FIGURE 5. Alestopetersius conspectus, new species AMNH 253476, 46.3 mm SL; (A) mouth open in lingual view; (B) maxilla and premaxilla in right lateral view; (C) lower jaw in left medial view.
+
+Dorsal-fin rays, ii 8 anal-fin rays iii, 18-20 (mode 19). Origin of dorsal fin slightly in advance of vertical
+through pelvic-fin insertion. There is muted sexual dimorphism in fin shape; anal-fin margin convex in mature
+males, and concave in females and juveniles. The first 4 or 5 branched rays of dorsal fin of mature males somewhat
+elongated and filamentous.
+Body covered with small, regularly imbricate scales. Lateral line complete, with 31–34 pored scales to caudal flexion, 6.5–7 scale rows between lateral line and dorsal-fin insertion, 2.5 between lateral line and pelvic-fin insertion,
+12 circumpeduncular scales. Twelve to 14 elongate gill rakers arrayed along lower limb of first arch. Total vertebral
+count 36 or 37 (mode 37).
+Miscellaneous osteological features. Seven supraneurals are situated above the first seven rib-bearing vertebrae anterior to first dorsal-fin pterygiophore (Fig. 6A). This condition contrasts with that in most other species
+A NEW ALESTOPETERSIUS FROM DR CONGO
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+65
+
+examined which possess only 6 supraneurals interdigitating with neural spines of six predorsal vertebrae (Fig. 6B).
+We note that Alestoptersius leopoldianus also exhibits 7 rib-bearing vertebrae anterior to dorsal fin pterygiophore,
+but unlike A. conspectus has 6 rather than 7 supraneurals. Both Alestopetersius tumbensis and Alestopetersius
+bifasciatus share the modal Alestopetersius configuration with 6 supraneurals interdigitating with 6 vertebrae anterior to the dorsal fin pterygiophore. The condition in the single individual of A. sp. “mbuji” is not discernable in
+radiographs.
+
+FIGURE 6. Anterior vertebrae and associated structures in (A) Alestopetersius conspectus, new species (AMNH 253476), (B)
+Alestopetersius caudalis (AMNH 238424).
+
+Coloration. In alcohol (Fig. 4A&C), base body coloration pale creamy brown with darker basal crescents at
+contact zones of contiguous scales on dorsum. In males faint humeral stripe present above pectoral fin, but no trace
+of humeral stripe present in preserved females (Fig. 4C). In males (Fig. 4A) a broad black band extends from
+behind opercle, thickening gradually to caudal peduncle base, then narrows and extends to posterior caudal-fin
+margin. Distinctive broad black band in each caudal-fin lobe flank central black band and are separated from it by
+white bands. Remaining fins dusky hyaline, leading edge of pectoral fin dark brown or black. In females coloration
+similar but mid-lateral band and caudal-fin bands somewhat muted (Fig. 4C). In life (Fig. 4B&D) all individuals
+are iridescent silver with greenish-copper reflections anterolaterally, becoming bluish on flanks and caudal peduncle. Mid-lateral band is obscured anteriorly on body but clearly marked on caudal peduncle. Markings on caudal fin
+as in preserved specimens but much of the white interspaces between black bands are bright orange.
+Distribution. Currently known from the Kwilu River in the vicinity of Kikwit (Fig. 1). Collections in the main
+channel of the Middle Congo River, the Kasai main channel in the region of Bandundu, and Lulua River (a neighboring tributary Kasai) did not recover any individuals of A. conspectus despite intensive sampling, suggesting that
+the species may be a Kwilu endemic.
+Ecology and habitat. Numerous specimens of Alestopetersius conspectus were collected at all sample sites
+along a 35 km stretch of the river (Fig. 1). Most were collected using seine nets at depths of between 1–2 m. Water
+temperature in the shallows where most specimens were collected was between 21–22.5oC and pH ranged from
+
+66 · Zootaxa 3166 © 2012 Magnolia Press
+
+MBIMBI & STIASSNY
+
+5.8–6.5. The Kwilu River at the sampling sites is between 15–40 meters wide and the banks are variously covered
+with dense, undisturbed riparian vegetation, heavily degraded urban areas, and cleared agricultural areas (Mbimbi
+& Stiassny 2011).
+Female specimens contain numerous, maturing eggs in the ovaries and males have enlarged testes suggesting
+that reproductive activity was approaching at time of capture (February). Short guts (ca. 60% of SL when unraveled) and large stomachs with 6–8 fleshy pyloric caeca are suggestive of a carnivorous diet, and all specimens
+examined contained large numbers of insect head capsules and disarticulated body parts, most of terrestrial origin,
+with a preponderance of ants and small midges presumably taken at the water surface.
+Etymology. Conspectus, from the Latin, in reference to the conspicuous markings on the caudal fin and striking, bright coloration of the species in life.
+
+Discussion
+In addition to the new species described here, collections made in the Kwilu in the vicinity of Kikwit document the
+presence there of 113 species of which 29 are new records for the region, and many represent significant range
+extensions within the Congo basin (Mbimbi & Stiassny 2011). The Kwilu, like the main channel of the Kasai and
+its numerous affluents, is poorly known ichthyologically (Stiassny et al. 2011), and the present study underscores
+the importance of continued survey and taxonomic revisional work in the basin, which is undergoing rapidly
+increasing anthropogenic transformation (Brooks et al. 2011).
+
+Comparative material examined
+Alestopetersius bifasciatus: MRAC 96575, Holotype, Democratic Republic of Congo, Bokuma.—AMNH 239508,
+9 specimens, 2 CS, Democratic Republic of Congo, Equateur Province, Bodjia Village, Congo River.—AMNH
+240060, 1 specimen, Republic of Congo, Cuvette Province, Likouala aux Herbes, at Moungouma.
+Alestopetersius brichardi: MRAC 121105 (Micralestes caudomaculatus), Holotype, Democratic Republic of
+Congo, Yangambi, Lake Yandja.—MNHN 1967-0664 (2), paratypes, same data as holotype.—AMNH 240416, 19
+specimens, 2 CS, Republic of Congo, Cuvette Ouest Province, Odzala National Forest.—AMNH 240425, 1 specimen, Republic of Congo, Cuvette Province, Likouala aux Herbes aval d’Itanga.
+Alestopetersius caudalis: MRAC 852 (Petersius caudalis), Syntype, Boma, Lower Congo River, Democratic
+Republic of Congo.—BMNH 1899.9.26.102-103 (2), MRAC 849 (1), 850 (1), 851-52 (2), 853-54 (2) syntypes,
+same data as holotype.—AMNH 238424, 15 specimens, 5 CS, Democratic Republic of Congo, Bas Congo Province, Nzya Village.
+Alestopetersius compressus: MRAC 137845 (Petersius compressus), Holotype, River Lotolo, route YangambiBosulo, Central Congo.
+Alestopetersius conspectus, new species: AMNH 252517, 3 specimens, 1 CS, Democratic Republic of Congo,
+Bandundu Province, Kwilu River at Carrefour.—AMNH 252478, 1 specimen, Democratic Republic of Congo,
+Bandundu Province, Kwilu River, main channel at Kikwit.
+Alestoptersius hilgendorfi: MRAC 829 (Petersius hilgendorfi), lectotype, Democratic Republic of Congo,
+Kutu.—MRAC 828 (Petersius modestus), holotype, Democratic Republic of Congo, Kutu, Lake Leopold II.—
+AMNH 240421, 3 specimens, 1 CS, Republic of Congo, Likouala Province, Lac Telle Reserve, Likouala aux
+Herbes at Mokenfu.—AMNH 244114, 18 specimens, 2 CS, Democratic Republic of Congo, Equateur Province,
+Salonga National Park, Yenge River.
+Alestopetersius cf. hilgendorfi: AMNH 245189, 19 specimens, 2 CS, Republic of Congo, Sangha Province,
+Lengoué River at Lousesso.
+Alestopetersius leopoldianus: MRAC 821 (Petersius leopoldianus), Lectotype, Kutu, Lake Leopold II.—
+AMNH 242464, 2 specimens, 1 CS, Democratic Republic of Congo, Bandundu Province, Lokora River between
+Ikenge and Maindombe.—AMNH 242463, 2 specimens, Democratic Republic of Congo, Bandundu Province,
+Lokora, Lake Ikenge.
+
+A NEW ALESTOPETERSIUS FROM DR CONGO
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+67
+
+Alestopetersius sp. “mbuji”: AMNH 252479, 1 specimen, Democratic Republic of Congo, Bandundu Province, Kwilu River, main channel at Mbuji near Kikwit.
+Alestopetersius nigropterus: MRAC 845, holotype, Democratic Republic of Congo, Ibali.—AMNH 252851, 2
+specimens, 1 CS, Democratic Republic of Congo, Equateur Provingce, Salonga National Park, Luilaka River at
+Mbokomboko.—AMNH 242459, 15 specimens, 2 CS, Democratic Republic of Congo, Bandundu Province, Lac
+Maindombe, near mouth of Lokoro River.—AMNH 252359, 3 specimens, Democratic Republic of Congo, Kinshasa Province, Nsele River at Mayi Mpembe.
+Alestopetersius tumbensis: MRAC 154727 (A. Petersialestes xenurus tumbensis), Paralectotype, Democratic
+Republic of Congo, Lake Tumba.—AMNH 238391, 15 specimens, 3 CS, Republic of Congo, Pool Province,
+Congo River at Djoue confluence.—AMNH 239461, 6 specimens, Republic of Congo, Pool Province, Main channel of Congo River at Bela.—AMNH 252336, 1 specimen, Democratic Republic of Congo, Kinshasa Province,
+Nsele River at Ngangayala.
+
+Acknowledgements
+We thank Victor Mamonekene (University of Marien Ngouabi, Brazzaville) and Daniel Ramos (AMNH) for their
+help during the preparation of this paper. Thanks also to Ulrich Schliewen (ZSM) and John Friel (CU) for loan of
+materials, and tissues. Jairo Arroyave (AMNH) provided preliminary data from an ongoing molecular phylogenetic
+study of alestid fishes for which we are extremely grateful. For assistance with permits and logistical support we
+thank Julien Punga Kumanenga, Raoul Monsembula and Jean Mukulire Malekani (University of Kinshasa, D.R.
+Congo), and to Koffi Mulumba (Ministry of Agriculture, D.R. Congo). Our thanks also to Barbara Brown and Radford Arrindell (AMNH) for their help with materials examined during the course of this study. Financial support to
+JJMMM was provided by the Herbert and Evelyn Axelrod Curatorship (MLJS), and comparative materials were
+collected with support from the National Science Foundation (DEB 0542540).
+
+References
+Arroyave, J. & Stiassny, M.L.J. (2011) Phylogenetic relationships and the temporal context for the diversification of African
+characins of the family Alestidae (Ostariophysi: Characiformes): Evidence from DNA sequence data. Molecular Phylogenetics and Evolution, 60(3), 385–397.
+Brooks, E.G.E., Allen, D.J. & Darwell, W.R.T. (2011) The Status and Distribution of FreshwaterBiodiversity in Central Africa.
+IUCN, Gland, Switzerland and Cambridge, UK, 125 pp.
+Géry, J. (1977) Characoids of the World. TFH Publications, Neptune City, NJ, 672 pp.
+Hughes, F.M.R. (1996) Wetlands. In: Adams, W.M., Goudie, A.S. & Orme, A.R. (Eds.), The Physical Geography of Africa.
+Oxford University Press, Oxford, UK, pp. 267–286.
+Lanyon, S.M. (1985) Detecting internal inconsistencies in distance data. Systematic Zoology, 34, 397–403.
+Leviton, A.E., Gibbs, R.H., Heal, J.E. & Dawson, C.E. (1985) Standards in herpetology and ichthyology: Part 1. Standard symbolic codes for institutional resource collections in herpetology and ichthyology. Copeia, 1985, 802–832.
+Mbimbi, J.J. & Stiassny, M.L.J. (2011). Fishes of the Kwilu River (Kasai basin, central Africa); a list of species collected in the
+vicinity of Kikwit, Bandundu Province, Democratic Republic of Congo. Check List, 7(5), 691–699.
+Paugy, D., Lévêque, C. & Teugels, G.G. (2003) The fresh and brackish water fishes of West Africa. Vol. 1. Faune et Flore Tropicales 40. IRD, Paris, MHNH, Paris & MRAC, Tervuren, 457 pp.
+Poll, M. (1967) Révision des Characidae nains africains. Annales Musée Royal de l’ Afrique Centrale, Sciences Zoologique,
+162, 1–158.
+Schaefer, S.A. (2007) Petersiini. In: Stiassny, M.L.J., Teugels, G.G. & Hopkins, C.D. (Eds), The Fresh and Brackish Water
+Fishes of Lower Guinea, West-Central Africa. IRD Éditions, Paris, pp. 381–411.
+Stiassny, M.L.J., Brummett, R.E., Harrison, I.J., Monsembula, R. & Mamonekene, V. (2011) The status and distribution of
+freshwater fishes in central Africa. In: Brooks, E.G.E., Allen, D.J. & Darwell, W.R.T. (Compilers), The Status and Distribution of Freshwater Biodiversity in Central Africa. IUCN, Gland, Switzerland and Cambridge, UK, pp. 27–46.
+Taylor, W.R. & Van Dyke, G. C. (1985) Revised procedures for staining and clearing small fishes and other vertebrates for bone
+and cartilage study. Cybium, 9, 107–119.
+Zanata, A.M. & Vari, R.P. (2005) The family Alestidae (Ostariophysi, Characiformes): a phylogenetic analysis of a trans-Atlantic clade. Zoological Journal of the Linnean Society, 145, 1–144.
+
+68 · Zootaxa 3166 © 2012 Magnolia Press
+
+MBIMBI & STIASSNY
+
+

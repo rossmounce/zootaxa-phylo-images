@@ -1,0 +1,1422 @@
+Zootaxa 3166: 1–33 (2012)
+www.mapress.com / zootaxa/
+Copyright © 2012 · Magnolia Press
+
+ISSN 1175-5326 (print edition)
+
+Article
+
+ZOOTAXA
+ISSN 1175-5334 (online edition)
+
+A new aetosaur genus (Archosauria: Pseudosuchia) from the early Late Triassic
+of southern Brazil
+JULIA B. DESOJO1,2,5, MARTÍN D. EZCURRA1,3, & EDIO E. KISCHLAT4
+1
+Sección Paleontología de Vertebrados, Museo Argentino de Ciencias Naturales "Bernardino Rivadavia", Av. Ángel Gallardo 470
+(C1405DJR), Buenos Aires, Argentina. E-mail: julideso@macn.gov.ar
+2
+CONICET, Consejo Nacional de Investigaciones Científicas y Técnicas, Argentina
+3
+Laboratorio de Anatomía Comparada y Evolución de los Vertebrados, Museo Argentino de Ciencias Naturales "Bernardino Rivadavia", Av. Ángel Gallardo 470 (C1405DJR), Buenos Aires, Argentina. E-mail: martindezcurra@yahoo.com.ar
+4
+E-mail: kischlat@hotmail.com
+5
+Corresponding author
+
+Abstract
+We describe the new aetosaur Aetobarbakinoides brasiliensis gen. et sp. nov. from the early Late Triassic (late Carnianearly Norian) Brazilian Santa Maria Formation. The holotype is composed of a partial postcranium including several cervical and dorsal vertebrae and ribs, one anterior caudal vertebra, right scapula, right humerus, right tibia, partial right pes,
+and anterior and mid-dorsal paramedian osteoderms. Aetobarbakinoides is differentiated from other aetosaurs by the presence of cervical vertebrae with widely laterally extended prezygapophyses, mid-cervical vertebrae with anterior articular
+facet width more than 1.2 times wider than the posterior one, anterior caudal vertebrae with extremely anteroposteriorly
+short prezygapophyses, elongated humerus and tibia in relation to the axial skeleton, and paramedian osteoderms with a
+weakly raised anterior bar. A cladistic analysis recovered the new species as more derived than the South American genera
+Aetosauroides (late Carnian-early Norian) and Neoaetosauroides (late Norian-Rhaetian), and it is nested as the sister-taxon of an unnamed clade, composed of Typothoracisinae and Desmatosuchinae, due to the absence of a ventral keel in the
+cervical vertebrae. Aetobarbakinoides presents a skeletal anatomy previously unknown among South American aetosaurs,
+with the combination of presacral vertebrae with hyposphene, anteroposteriorly short and unkeeled cervical vertebrae,
+gracile limbs, and paramedian osteoderms with a weakly raised anterior bar. Aetobarbakinoides is among the oldest known
+aetosaurs together with Aetosauroides from Argentina and Brazil and Stagonolepis robertsoni from Scotland, indicating
+a widely distributed early record for the group. In addition, the recognition of a suite of derived features in Aetobarbakinoides, which is one of the oldest known aetosaurs, is in agreement with an older origin for the group, as it is expected by
+the extensive ghost lineages at the base of the main pseudosuchian clades.
+Key words: Archosauria, Aetosauria, Late Triassic, Santa Maria Formation, Brazil
+
+Introduction
+The aetosaurs are a group of heavily armoured quadrupedal archosaurs restricted to continental Late Triassic rocks.
+This group is nested within Pseudosuchia, the crocodile lineage of Archosauria, but its phylogenetic relationships
+with other high-level suchians are currently a matter of debate (e.g. Gower & Sennikov 1996; Nesbitt 2007; Brusatte et al. 2010; Nesbitt 2011). Aetosaurs achieved a cosmopolitan distribution during the Late Triassic, but most
+species are recorded in North American assemblages (Long & Murry 1995; Parker 2007). Nevertheless, a handful
+of species are also known from Europe and South America (Heckert & Lucas 2000). The South American aetosaur
+record is based on three valid taxa from the Late Triassic beds of Argentina, Brazil, and Chile. In Argentina, the
+aetosaur record is restricted to the Ischigualasto-Villa Unión Basin, with Aetosauroides scagliai in the late Carnian
+to early Norian Ischigualasto Formation (Casamiquela 1960, 1961, 1967; Desojo 2005; Desojo & Ezcurra 2011)
+and Neoaetosauroides engaeus from the late Norian-Rhaetian Los Colorados Formation (Bonaparte 1969, 1971;
+Desojo & Báez 2005, 2007). In Chile the only known aetosaur is Chilenosuchus forttae from the Late Triassic
+
+Accepted by R. Benson: 15 Nov. 2011; published: 19 Jan. 2012
+
+1
+
+Estratos El Bordo (Casamiquela 1980; Desojo 2003). Aetosaurs from the Triassic beds of Brazil are currently
+known on the basis of several fragmentary individuals recovered from six localities in the Sequence 2 of the Santa
+Maria Formation (Langer et al. 2007). A recent taxonomic revision of the early Late Triassic South American aetosaur record concluded that some of these Brazilian specimens are assignable to the species Aetosauroides scagliai,
+others to indeterminate non-typothoracisine aetosaurines (following the phylogenetic scheme of Parker [2007] and
+Parker et al. [2008]), and one of them was cited as a new aetosaur genus and species (Desojo & Ezcurra 2011). The
+latter specimen was preliminary reported by Desojo and Kischlat (2005) as a new species of the genus Aetosauroides (Desojo 2005). However, further studies conducted on this Brazilian specimen allowed us to assign the material
+to the new genus and species Aetobarbakinoides brasiliensis. The objective of the present contribution is to diagnose, describe, compare, and analyze the phylogenetic relationships of Aetobarbakinoides.
+TABLE 1. Measurements in millimetres of the available elements of the axial skeleton of Aetobarbakinoides. Abbreviations:
+AFH, anterior articular facet heigth; AFW, anterior articular facet width; CL, centrum length; MH, maximum preserved height;
+PFH, posterior articular facet height; PFW, posterior articular facet width. * incomplete; () distorted, and ca. for estimated measurements.
+CL
+Cervical 5/6
+Cervical 9
+Dorsal 1
+Dorsal 2
+Dorsal 3
+Dorsal 4
+Dorsal 5
+Dorsal 6
+Dorsal 7
+Dorsal 8
+Dorsal 9
+Anterior caudal
+
+AFH
+
+AFW
+
+PFH
+
+PFW
+
+MH
+
+20.0
+-21.2
+21.3
+24.1
+24.1
+21.4
+24.0
+25.3
+28.9
+29.0
+37.6
+
+19.8
+-20.4
+19.3
+ca. 21.8
+17.8*
+-19.0
+ca. 22.5
+23.6
+20.8
+24.1
+
+22.9
+-17.4
+18.3
+19.5
+19.8
+-19.1
+20.1
+21.0
+21.7
+21.0
+
+17.3
+-21.3
+ca. 21.5
+16.8
+20.3*
+-ca. 20.0
+22.0
+25.0
+22.4
+(23.4)
+
+17.8
+-15.6
+17.1
+18.7
+18.0
+-18.3
+21.2
+22.6
+23.4
+(32.3)
+
+46.5*
+30.0*
+50.0*
+48.1*
+51.2*
+39.0*
+ca. 56.0
+58.2
+66.0*
+51.0*
+59.3
+56.7
+
+Institutional abbreviations
+AMNH
+CPE2
+GPIT
+ISI
+MCP
+MLP
+NHMUK
+PULR
+PVL
+PVSJ
+SAM
+TTUP
+UCMP
+UFRGS
+UFSM
+ZPAL
+
+American Museum of Natural History, New York, USA.
+Coleção Municipal, São Pedro do Sul, Brazil.
+Institut und Museum für Geologie und Paläontologie, Universität Tübingen, Germany.
+Geological Studies Unit of the Indian Statistical Institute, Calcutta, India.
+Museo de Ciencias e Tecnología, Porto Alegre, Brazil.
+Museo de La Plata, Buenos Aires, Argentina.
+The Natural History Museum, London, United Kingdom.
+Paleontología, Universidad Nacional de La Rioja, La Rioja, Argentina.
+Paleontología de Vertebrados, Instituto ‘Miguel Lillo’, San Miguel de Tucumán, Argentina.
+División de Paleontologia de Vertebrados del Museo de Ciencias Naturales y Universidad Nacional de
+San Juan, San Juan, Argentina.
+South African Museum, Cape Town, South Africa.
+Texas Tech University Museum, Lubbock, Texas, USA.
+University of California Museum of Paleontology, Berkeley, California, USA.
+Universidade Federal do Rio Grande do Sul, Porto Alegre, Rio Grande do Sul, Brazil.
+Universidade Federal do Santa María, Porto Alegre, Rio Grande do Sul, Brazil.
+Institute of Paleobiology of the Polish Academy of Sciences in Warsaw, Warsaw; Poland.
+
+2 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+Systematic Palaeontology
+Archosauria Cope, 1869 sensu Gauthier and Padian (1985)
+Pseudosuchia Zittel, 1887-1890 sensu Gauthier and Padian (1985)
+Aetosauria Marsh, 1884 sensu Parker (2007)
+Stagonolepididae Lydekker, 1887 sensu Heckert & Lucas (2000)
+Aetobarbakinoides brasiliensis gen. et sp. nov.
+Figures 3–17
+Stagonolepis robertsoni Agassiz, 1844; Lucas & Heckert (2001)
+
+Etymology. The generic name (long-legged aetosaur form) is derived from the Greek word aetobarbakina (longlegged buzzard, vulgar name of the falconiform Buteo rufinus) and the Latin word oides (form); in allusion to the
+elongated humerus and tibia in relation to the axial skeleton and the Greek word aetos (eagle), which refers to the
+name Aetosaurus (eagle reptile). The specific name is derived from the country Brazil from which the holotype
+specimen was discovered.
+Holotype. CPE2 168, partial postcranium including cervical vertebra 5 or 6 with its corresponding right and
+left proximal end of ribs, articulated series including cervical 9 and dorsals 1-9, one almost complete left cervical
+rib 9 and some fragmentary dorsal ribs, one anterior caudal vertebra, right scapula, right humerus, probable distal
+end of right femur, right tibia, right distal tarsal IV, proximal half of right metatarsal I, right metatarsals II-III, right
+metatarsal IV lacking its proximal end, proximal half of metatarsal V, right pedal phalanx IV-1, anterior and middorsal paramedian osteoderms, and some associated paramedian osteoderms.
+Diagnosis. Medium-sized aetosaur (around 2 meters in total length) distinct from other archosaurs by the following combination of characters (autapomorphies indicated by an asterisk): cervical vertebrae with prezygapophyses widely laterally extended through most of the anterior edge of the diapophysis* and with hyposphene; midcervical vertebrae with anterior articular facet width more than 1.2 times wider than the posterior one* and without
+ventral keel; anterior and mid-dorsal vertebrae without lateral fossa in the centrum, and postzygapophyses mainly
+posteriorly projected; anterior caudal vertebrae with extremely anteroposteriorly short prezygapophyses*; elongated humerus and tibia in relation to axial skeleton (including humerus with a length/transverse width at midlength ratio greater than 12)*. The paramedian osteoderms of Aetobarbakinoides present a radial ornamentation
+composed of grooves and pits and with a weakly raised anterior bar. This osteoderm morphology is also exhibited
+by Paratypothorax and Rioarribasuchus, but Aetobarbakinoides differs from these taxa in the presence of proportionally transversely narrower and strongly ventrally flexed paramedian osteoderms.
+Locality and horizon. Inhamandá, close to the city of Sao Pedro do Sul, center of the Rio Grande do Sul State,
+southern Brazil (Fig. 1). Sequence 2 of the Santa Maria Supersequence (Hyperodapedon Assemblage Zone) (late
+Carnian-earliest Norian, 231.4-225.9 Mya, Late Triassic; Langer et al. 2007; Martinez et al. 2011) (Fig. 2).
+Biostratigraphical setting. The predominant lithofacies at the Inhamandá 1 locality is non-laminated to finely
+laminated reddish mudstones, with some sandy inclusions (Zerfass et al. 2003). From this locality were also collected the rhynchosaurs Hyperodapedon huenei and Hyperodapedon mariensis and the holotype of “Aetosauroides
+subsulcatus” (MCP13a-b-PV: currently considered a junior synonym of Aetosauroides scagliai; Desojo and
+Ezcurra 2011) (Langer et al. 2007). The Inhamandá 1 locality is situated in the Acme Zone of the Hyperodapedon
+Assemblage Zone, which was correlated with the lower levels of the Argentinean Ischigualasto Formation of late
+Carnian-early Norian age (Langer et al. 2007). The Santa Maria Hyperodapedon Acme Zone also contains the following known species: the rhynchosaurs Hyperodapedon sanjuanensis and Hyperodapedon sp., the proterochampsid Rhadinosuchus gracilis, the pseudosuchians Aetosauroides scagliai and Rauisuchus tiradentes, the
+cynodonts Therioherpeton cargnini, Prozostrodon brasiliensis, and Gomphodontosuchus brasiliensis, the parareptile Candelaria barbouri, the dinosaurs Staurikosaurus pricei, “Teyuwasu barberenai”, and Saturnalia tupiniquim
+(Langer 2005; Langer et al., 2007; Desojo and Ezcurra, 2011).
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+3
+
+FIGURE 1. Map of the Brazilian region showing the Inhamandá locality in the Santa Maria Formation that has yielded the
+holotype of Aetobarbakinoides brasiliensis (modified from Reichel et al. 2009).
+
+A recent study on the chronostratigraphy of the Ischigualasto Formation indicates that the rhynchosaur biozone
+(Scaphonyx-Exaeretodon-Herrerasaurus biozone) and the younger Exaeretodon biozone (in which Hyperodapedon and Herrerasaurus are not recorded) can be constrained between 231.4 and 225.9 Ma (Martinez et al. 2011).
+The age of the boundary between both biozones of the Ischigualasto Formation cannot be confidently assessed. In
+the Santa Maria 2 Sequence most localities have Hyperodapedon-Exaeretodon associations and in the cases in
+which a locality only possesses Exaeretodon (e.g. the Sacisaurus site; Langer et al. 2007) we cannot assign it
+unambiguously to the Exaeretodon biozone because the assessment will be based on negative evidence. Accordingly, we have decided to consider here that the entire Hyperodapedon Assemblage Zone is constrained between
+the 231.4 and 225.9 Ma (Fig. 2).
+Description. The length of the preserved dorsal centra of Aetobarbakinoides is very similar to those of the
+holotype of Aetosauroides (PVL 2073) and a statistical analysis does not recover a significant difference between
+the size of both specimens (p<0.05) (see below). Accordingly, we estimate that Aetobarbakinoides had a similar
+body size to that of PVL 2073, with a total length of 2 meters (Desojo & Ezcurra 2011). The absence of open neurocentral sutures in the available vertebrae suggests that CPE2 168 was not a juvenile individual at the time of
+death of the animal (Irmis 2007).
+
+4 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+FIGURE 2. Chronostratigraphical column of the Santa Maria Supersequence showing the Aetobarbakinoides-bearing level.
+Modified from Zerfass et al. (2003) and Desojo et al. (2011). The ages indicated with an asterisk within the Carnian and Norian
+stages are the radioisotopic datings of the Ischigualasto Formation reported by Rogers et al. (1993: close to the base of the unit;
+dating re-calculated by Furin et al. [2006]) and Martinez et al. (2011: close to the top of the unit). Norian-Rhaetian and Triassic-Jurassic boundaries after Muttoni et al. (2010).
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+5
+
+TABLE 2. Measurements in millimetres (mm) of cervical rib 9, paramedian osteoderm of dorsal vertebra 8, and available
+appendicular skeleton of Aetobarbakinoides (all the measurements are the maximum preserved). *, incomplete; (), aproximmate.
+Cervical rib 9
+Length
+Anteroposterior depth of tubercle
+Dorsoventral heigth of tubercle
+Traverse width of proximal end
+Paramedian dorsal osteoderm 8
+Maximum width of anterior margin
+Maximum width of posterior margin
+Maximum length at mid-width
+Scapula
+Length
+Proximal transverse width
+Proximal anteroposterior depth
+Distal transverse width
+Distal anteroposterior depth
+Humerus
+Length
+Proximal transverse width
+Proximal anteroposterior depth
+Perimeter at mid-legth
+Distal transverse width
+Distal anteroposterior depth
+Tibia
+Length
+Distal transverse width
+Distal anteroposterior depth
+Distal tarsal IV
+Anteroposterior length
+Transverse width
+Dorsoventral height
+Metatarsal I
+Length
+Proximal transverse width
+Proximal dorsoventral depth
+Permimeter at mid-length
+Metatarsal II
+Length
+Proximal transverse width
+Proximal dorsoventral depth
+Permimeter at mid-length
+Distal transverse width
+Distal dorsoventral depth
+Metatarsal III
+Length
+Proximal transverse width
+Proximal dorsoventral depth
+Permimeter at mid-length
+Distal transverse width
+Distal dorsoventral depth
+Metatarsal IV
+Length
+Proximal transverse width
+Proximal dorsoventral depth
+Distal transverse width
+Distal dorsoventral depth
+
+108
+5
+6
+(25)
+58
+68
+34
+85*
+20
+50
+6.5*
+28*
+138.2
+51
+21
+36
+45*
+17
+131.4*
+37
+23
+13
+14.5
+7.5
+28*
+11
+14
+22
+44
+14
+9
+23
+16
+10
+50
+12
+8
+22
+14
+12
+36*
+12
+6
+13
+10
+continued next page
+
+6 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+TABLE 2. (continued)
+Metatarsal V
+Length
+Proximal transverse width
+Proximal dorsoventral depth
+Pedal phalanx IV-1
+Length
+Proximal transverse width
+Proximal dorsoventral depth
+Permimeter at mid-length
+Distal transverse width
+Distal dorsoventral depth
+
+13*
+14
+15
+17
+12
+10
+22
+10
+7
+
+The overall preservation of the specimen is very good (e.g. cervical and dorsal vertebrae and right pedal elements), but some bones have suffered some degree of distortion (e.g. caudal vertebra, right scapula, humerus, and
+tibia) and others are weathered and crushed (e.g. some paramedian osteoderms).
+Cervical vertebrae. Two cervical vertebrae are preserved in the holotype of Aetobarbakinoides (Figs. 3, 4). A
+mid-cervical probably corresponds to the fifth or sixth vertebra of the series based on the position of the parapophyses, which are positioned slightly below the mid-height of the vertebral centrum. This vertebra is amphicoelous
+and the length of the centrum is slightly lower than the height of the anterior articular facet, with a ratio of 0.97
+between them. This ratio resembles those of the mid-cervical vertebrae of most aetosaurs, including Typothorax
+(C6: 0.74: Long & Murry 1995: fig. 102a), Stagonolepis robertsoni (C6?: 0.84, Walker 1961: fig. 7g), Sierritasuchus (anterior or mid-cervical: 0.93, Parker et al. 2008: fig. 2f), and Desmatosuchus spurensis (C5: 0.93; Parker
+2003; 2008). In Neoaetosauroides this ratio (C5: 0.45, PVL 5698) is even lower than in other aetosaurs and in
+Aetosauroides the centrum length is longer than the height of the anterior articular facet (C5: 1.16, PVL 2059). The
+lateral surface of the centrum of Aetobarbakinoides is concave and lacks a well-rimmed fossa (Fig. 3C–D), as
+occurs in Neoaetosauroides (PVL 5698), Stagonolepis robertsoni (NHMUK R4784), Desmatosuchus spurensis
+(Parker 2008), and Sierritasuchus (Parker et al. 2008). By contrast, well-rimmed lateral fossae are present in the
+centra of the entire presacral region of Aetosauroides (PVL 2059, 2073; MCP 13-a-b-PV; Desojo & Ezcurra 2011).
+The cervical centrum of Aetobarbakinoides is constricted at mid-length in ventral view (Fig. 3F). The ventral surface of the centrum completely lacks a median keel, resembling the condition observed in Desmatosuchus spurensis (Parker 2008), but contrasting with the sharp keels present in the cervical vertebrae of Aetosauroides (PVL
+2059), Neoaetosauroides (PVL 5698), Stagonolepis robertsoni (Walker 1961: fig. 7f), and Typothorax (Long &
+Murry 1995: fig. 102c). The anterior articular facet of Aetobarbakinoides is 1.35 times transversely wider than the
+posterior one and also more ventrally extended (Fig. 3A). The presence of an anterior articular facet wider than the
+posterior one is a condition also observed, but in a lesser degree, in Desmatosuchus spurensis (Parker 2008). In
+some specimens of Typothorax (e.g. TTU P-9214; Martz 2002) the latter condition is also present but lesser developed than in Aetobarbakinoides, whereas in others the articular facets are sub-equal in width (e.g. AMNH 7634;
+Long & Murry 1995: fig. 102). In specimens of Aetosauroides (PVL 2059), Neoaetosauroides (PVL 5698), Stagonolepis (S. robertsoni: Walker 1961), and Sierritasuchus (Parker 2008: fig. 2) the anterior and posterior articular
+facets are always sub-equal in width. The outline of the anterior and posterior articular facets is circular in Aetobarbakinoides, resembling the condition of Stagonolepis (S. robertsoni: Walker 1961) and Sierritasuchus (Parker et al.
+2008). By contrast, in Neoaetosauroides (Desojo & Baez 2005) and Typothorax (Martz 2002) these facets are oval,
+with a transverse main axis, and in Desmatosuchus spurensis are sub-rectangular (Parker 2008). The parapophyses
+are situated at the anterior margin of the centrum and are placed on a very low peduncle. The articular facet of the
+parapophysis is oval, being dorsoventrally taller than anteroposteriorly long (Fig. 3E).
+Most of the neural arch is preserved, but only the base of the neural spine is available (Fig. 3D). The preserved
+portion of the neural arch is higher than the centrum. The pedicles of the neural arch are parallel to each other and
+directly ventrally projected. Their lateral borders are slightly concave in anterior or posterior view. The neural
+canal is sub-quadrangular and its height is around two times lower than the height of the anterior articular surface
+of the centrum. A complete right diapophysis and the base of the left diapophysis are preserved. The diapophyses
+are dorsolaterally projected and short (Fig. 3C). The distal articular surface is rounded and with an oval outline, and
+an oblique main axis, in which the upper portion is the anterodorsal. An anterior and a posterior infradiapophyseal
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+7
+
+lamina (sensu Salgado et al. 1997) are present below each diapophysis, as also occurs in Aetosauroides (PVL 2059)
+and, at least, in the posterior cervical vertebrae of Stagonolepis robertsoni (NHMUK 4784) and Desmatosuchus
+spurensis (Parker 2008). By contrast, the available cervical vertebrae of Neoaetosauroides do not present infradiapophyseal laminae (Desojo & Báez 2005). These laminae are well-preserved in the right side of the mid-cervical of
+Aetobarbakinoides and bound a central infradiapophyseal fossa. The diapophysis of Aetobarbakinoides is connected with the postzygapophysis through a sharp and well-developed postzygodiapophyseal lamina, only preserved in the right side of the element (Fig. 3C). The latter lamina and the posterior infradiapophyseal lamina
+bound a shallow and wide posterior infradiapophyseal fossa, resembling the condition of Aetosauroides (PVL
+2059), Stagonolepis robertsoni (NHMUK 4784), and Desmatosuchus spurensis (Parker 2008). The anterior infradiapophyseal fossa is absent. Only the base of the right prezygapophysis of the mid-cervical of Aetobarbakinoides
+is preserved. It has an oblique main axis with a dorsolateral upper end. The prezygapophysis is transversely wide at
+its base, being extended through most of the anterior edge of the diapophysis (Fig. 3: leprz). In contrast, in other
+known aetosaurs the prezygapophyses are more medially restricted than in Aetobarbakinoides, as occurs in Aetosauroides (PVL 2059), Neoaetosauroides (PVL 5698), Typothorax (TTU P-9214), Desmatosuchus spurensis
+(Parker 2008), and Stagonolepis robertsoni (NHMUK 4784). Between the prezygapophyses exists a moderately
+deep and circular pre-spinal fossa, which is not dorsally extended along the neural spine. The postzygapophyses are
+anteroposteriorly short and slightly upturned. The articular facets are ventrolaterally oriented and with an oval outline, being transversely wider than anteroposteriorly long. Both postzygapophyses are connected at their mediodistal corner by a horizontal lamina which forms the dorsal border of the neural canal and defines a U-shaped
+hyposphene (Fig. 3B). Directly above and between both postzygapophyses exists a deep post-spinal fossa. This
+fossa is dorsally extended on the posterior surface of the base of the neural spine as far as is preserved and at this
+region the fossa is laterally bounded by sharp spinopostzygapophyseal laminae, as also occurs in Desmatosuchus
+spurensis (Parker 2008). The base of the neural spine is only preserved and the available portion indicates that it
+was anteroposteriorly short. A shallow depression is present laterally to the base of the neural spine, but the deep
+circular pit found within it in some pseudosuchians is absent.
+The neural arch of the last cervical vertebra is preserved, lacking the left pedicle, prezygapophyses, left diapophysis, and the distal end of the neural spine (Fig. 4, 5A, C). The right diapophysis is almost completely obscured
+by matrix and a cervical rib. The base of the right pedicle is available, but with a broken distal end. Only the base of
+the postzygadiapophyseal lamina is preserved. The postzygapophyses are anteroposteriorly short and the right one
+is mostly obscured by matrix and dorsal paramedian osteoderms. The left postzygapophysis lacks its distal end, but
+its preserved overall morphology resembles that of the above described cervical. A deep post-spinal fossa is present
+between both postzygapophyses and is extended dorsally on the neural spine. This fossa is co-laterally delimited by
+a pair of spinopostzygapophyseal laminae, resembling the condition exhibited by the cervicals of Desmatosuchus
+spurensis (Parker 2008). The presence of a hyposphene cannot be determined. The preserved portion of the neural
+spine is taller than anteroposteriorly long. An incipient depression is present lateral to the base of the neural spine
+and posteriorly displaced from the mid-length of the neural arch.
+Dorsal Vertebrae. An articulated series of nine complete anterior and middle dorsal vertebrae are preserved in
+the holotype of Aetobarbakinoides (Figs. 4–8). The dorsal vertebrae are moderately tall, with the neural arch ranging between 1.65 to 2.05 times higher than the centrum height along the preserved series, resembling the ratios
+observed in Desmatosuchus spurensis (Parker 2008) and Typothorax (TTU P-9214). By contrast, in the neural
+arches of the posterior dorsal vertebrae of Stagonolepis (S. robertsoni: Walker 1961) this ratio is slightly lower than
+three times and in Aetosauroides (PVL 2073; MCP 13a-b-PV; Desojo & Ezcurra 2011), the holotype of Calyptosuchus wellesi (Long & Murry 1995:fig. 75), and a putative Polish specimen of Stagonolepis robertsoni (sensu Lucas
+et al. 2007; ZPAL AbIII 502/67) the neural arch is three times higher than the centrum height. The centra of the
+dorsal vertebrae of Aetobarbakinoides are amphicoelous and subequal or slightly longer than their anterior articular
+facet height, with a ratio ranging from 1.04-1.1 in the first through third dorsals and 1.22-1.39 in the fourth through
+ninth dorsals. A similar condition is observed in the anterior dorsals of Typothorax (1.15: Martz 2002) and Desmatosuchus spurensis (0.95-1.42: Parker 2003, 2008) and the middle dorsals of Stagonolepis robertsoni (0.97: Walker
+1961: fig. 7k). In contrast, in the anterior and middle dorsals of Aetosauroides (1.5: PVL 2073) and anterior dorsals
+of Stagonolepis robertsoni (1.45: NHMUK R4784; Walker 1961: fig. 7i) and Sierritasuchus (1.46: Parker et al.
+2008: fig. 2g) the centrum is proportionally longer, being 1.45-1.5 longer than high. In ventral view, the centra are
+moderately transversely compressed at mid-length, acquiring an overall spool-shape. The ventral surface is convex
+and smooth, without a longitudinal keel or groove. The anterior and posterior articular facets are usually taller than
+
+8 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+wide, contrasting with the middle dorsals of Aetosauroides in which they are as tall as wide (Desojo & Ezcurra
+2011). However, in the ninth dorsal of Aetobarbakinoides the articular facets are wider than tall, as occurs in the
+posterior dorsals of Aetosauroides (Desojo & Ezcurra 2011). None of the available dorsal centra do exhibit lateral
+fossae. These fossae are also absent in Stagonolepis robertsoni (Walker 1961; ZPAL AbIII 502/67), Calyptosuchus
+wellesi (Long & Murry 1995), Typothorax coccinarum (Martz, 2002), Tecovasuchus chatterjeei (Martz & Small
+2006), and Neoaetosauroides (PVL 3525). In contrast, Aetosauroides exhibits an oval shallow lateral fossa in the
+presacral vertebral centra (Desojo & Ezcurra 2011).
+
+FIGURE 3. Middle cervical vertebra (C5–6) of Aetobarbakinoides brasiliensis in anterior (A), posterior (B), right lateral (C),
+dorsal (D), left lateral (E), and ventral (F) views. Abbreviations: cr, cervical rib; dp, diapophysis; hy, hyposphene; leprz, laterally extended prezygapophysis; nc, neural canal; ns, neural spine; poz, postzygapophysis; pp, parapophysis; prz, prezygapophysis; psf, post-spinal fossa. Scale bar equals 1 cm.
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+9
+
+FIGURE 4. Preserved articulated presacral series (cervical 9 to dorsal 9) of Aetobarbakinoides brasiliensis in left lateral view.
+Abbreviations: C9, cervical number 9; D#, dorsal number #; os, osteoderm. Scale bar equals 2 cm.
+
+FIGURE 5. Last cervical and three first dorsal vertebrae of Aetobarbakinoides brasiliensis in left lateral (A), ventral (B), right
+lateral (C), and posterior (D) views; and last cervical rib of Aetobarbakinoides brasiliensis in posterior view (E). Abbreviations:
+cn, centrum; cp, capitulum; dp, diapophysis; hy, hyposphene; os, osteoderms; poz, postzygapophysis; pp, parapophysis; tb,
+tuberculum. Scale bar equals 2 cm.
+
+In the available dorsal series of Aetobarbakinoides the infradiapophyseal laminae are incipient or completely
+absent. A very faint posterior infradiapophyseal lamina is present in the middle dorsals (e.g. D9) (Fig. 8). Conversely, better developed infradiapophyseal laminae are present in the dorsal vertebrae of Aetosauroides (Desojo &
+Ezcurra 2011), Stagonolepis robertsoni (NHMUK R4784), Desmatosuchus spurensis (Parker 2008), and Typothorax coccinarum (Martz 2002). The infradiapophyseal laminae are absent in Neoaetosauroides (PVL 3525) and the
+Polish Stagonolepis (ZPAL AbIII 502/67). No traces of anterior infradiapophyseal fossae are observed, resembling
+the condition of Aetosauroides (Desojo & Ezcurra 2011). In the first through eighth dorsals the central and posterior infradiapophyseal fossae are absent in Aetobarbakinoides (Figs. 5–7), but incipient central and posterior infradiapophyseal fossae are present in the ninth dorsal. The latter contrasts with the well-defined central and posterior
+
+10 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+infradiapophyseal fossae observed in Aetosauroides (Desojo & Ezcurra 2011). As occurs in Aetosauroides, in Aetobarbakinoides the transverse processes are anteriorly displaced from the mid-length point of the neural arch. In the
+first through eighth dorsals, the transverse processes are dorsolaterally projected, but they are directly laterally oriented in the ninth dorsal. The transverse processes are sub-rectangular in dorsal view, which is the same condition
+observed in Stagonolepis robertsoni (NHMUK R4784), Neoaetosauroides (PVL 3525), and Desmatosuchus spurensis (Parker, 2008). In contrast, in Aetosauroides the transverse processes are trapezoideal in dorsal view (PVL
+2073, MCP 13-a-b-PV; Desojo & Ezcurra 2011).
+
+FIGURE 6. Dorsal vertebrae 5–7 of Aetobarbakinoides brasiliensis in left lateral (A), right lateral (B), posterior (C), and ventral (D) views. Abbreviations: dp, diapophysis; hy, hyposphene; os, osteoderm; poz, postzygapophysis; pp, parapophysis; psf,
+post-spinal fossa; st, spine table. Scale bar equals 2 cm.
+
+The prezygapophyses are very anteroposteriorly short, without a well-developed pedicle, and with dorsomedially oriented articular facets, resembling the condition of Aetosauroides (PVL 2073; MCP 13-a-b-PV), Stagonolepis (S. robertsoni: Walker 1961), and Typothorax (Martz 2002). In dorsal 9 of Aetobarbakinoides the right
+prezygapophysis is complete and well exposed, exhibiting a sub-rectangular articular facet with a transverse main
+axis (Fig. 9). The postzygapophyses are longer than the prezygapophyses, but they do not reach the mid-length of
+the subsequent vertebra, resembling the condition of Typothorax (Martz 2002). The postzygapophyses of the dorsal
+vertebrae of Aetosauroides (Desojo & Ezcurra 2011) and Stagonolepis (S. robertsoni: Walker 1961) extend posteriorly up to the mid-length of the subsequent neural arch. Conversely, in Desmatosuchus spurensis (Parker 2008) and
+the Polish Stagonolepis robertsoni (ZPAL AbIII 502/67) the postzygapophyses are extremely posteriorly short. An
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+11
+
+anteriorly shallow median notch separates the postzygapophyses of the dorsal vertebrae of Aetobarbakinoides. This
+median notch is deeper in Stagonolepis (S. robertsoni: Walker 1961) than in Aetobarbakinoides. In Aetosauroides
+the postzygapophyses are posterolaterally projected, resulting in strongly divergent apophyses with an even transversely wider median notch than in Stagonolepis robertsoni in dorsal view (Desojo & Ezcurra 2011). In the first
+through eighth dorsals of Aetobarbakinoides the postzygapophyses exhibit a lateral triangular projection, resulting
+in an oval articular facet with a transverse main axis in ventral view (Figs. 5–7). In contrast, in the ninth dorsal this
+lateral projection is lacking and the lateral margin of the postzygapophyses is slightly convex and consequently the
+articular facets are circular (Fig. 8). A well-developed Y-shaped hyposphene is present in all the available dorsal
+vertebrae of Aetobarbakinoides in which this region is exposed, as also occurs in Desmatosuchus spurensis (Parker
+2008). In contrast, in Aetosauroides these structures are completely absent (PVL 2073; MCP 13-a-b-PV). The
+postzygadiapophyseal lamina is well-developed in all the preserved dorsal vertebrae, resembling the condition
+present in Aetosauroides (Desojo & Ezcurra 2011). At both sides of the neural spine of all preserved dorsals, a deep
+and circular pit is present at the posterior level of the transverse process (Fig. 8: dlp). This condition is widely
+observed among pseudosuchians (e.g. Batrachotomus: Gower & Schoch 2009), but absent in Aetosauroides (PVL
+2073; MCP 13-a-b-PV) and still unreported in other aetosaurs.
+
+FIGURE 7. Dorsal vertebra 8 of Aetobarbakinoides brasiliensis in left lateral (A), anterior (B), ventral (C), and posterior (D)
+views. Abbreviations: dp, diapophysis; dr, dorsal rib; hy, hyposphene; os, osteoderm; poz, postzygapophysis; prf, prespinal
+fossa; prz, prezygapophysis; psf, postspinal fossa. Scale bar equals 2 cm.
+
+The neural spines of the first through eighth dorsals of Aetobarbakinoides are dorsally directed (Figs. 4–7), as
+also occurs in Desmatosuchus spurensis (Parker 2008), the Polish Stagonolepis robertsoni (ZPAL AbIII 502/67),
+and Calyptosuchus wellesi (Long & Murry 1995). However, in the ninth dorsal the neural spine is anterodorsally
+projected, resembling the anterior and middle dorsals of Aetosauroides (PVL 2073; MCP 13-a-b-PV), and posterior
+dorsals of Stagonolepis (S. robertsoni: Walker 1961) and Typothorax (Martz 2002). In the first through eighth dor-
+
+12 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+sals of Aetobarbakinoides the neural spine is taller than anteroposteriorly long, but in the ninth dorsal the neural
+spine is as tall as long (Fig. 8), resembling the morphological change observed along the dorsal series of Aetosauroides (PVL 2073). The distal end of the neural spine of the fifth, sixth, and ninth dorsals are moderately expanded
+transversely into spine-tables, resembling the condition of the Aetosauroides specimens PVL 2073 and PVL 2052,
+Stagonolepis robertsoni (NHMUK R4784), and Calyptosuchus wellesi (Long & Murry 1995). In contrast, better
+transversely developed spine tables are present in Desmatosuchus spurensis (Parker 2008), Longosuchus (Sawin
+1947), and Typothorax (Martz 2002). The spine tables of Aetobarbakinoides are drop-shaped in dorsal view, with
+the widest end anteriorly positioned. This condition resembles that of the drop-shaped spine tables of Sierritasuchus (Parker et al. 2008) and Stagonolepis (S. robertsoni: Walker 1961), but contrasts with the oval spine tables of
+the entire dorsal series of Aetosauroides (PVL 2073) and the sub-rectangular ones of Typothorax (Martz 2002). In
+Desmatosuchus spurensis a strong variation in shape of the spine table is observed through the dorsal and caudal
+series, ranging from sub-rectangular in anteriormost dorsals, oval in more posterior anterior dorsals, drop-shaped
+with a posteriorly positioned main transverse axis in middle dorsals, drop-shaped with an anteriorly positioned
+main transverse axis in posterior dorsals, and oval to circular in anterior caudals (Parker 2008). The post-spinal fossae are moderately deep, sub-triangular, and do not extend dorsally into the neural spine. Unfortunately, the presence of pre-spinal fossae cannot be confirmed.
+TABLE 3. Ratios between the total length of the humerus against the transverse width at mid-length of the bone.
+Neoaetosauroides PVL 3525
+Aetosauroides PVL 2052
+Stagonolepis robertsoni Walker, 1961
+“Argentinosuchus” PVL 2091
+Aetosauroides PVSJ 326
+Typothorax NMMNH P-12964
+Typothorax UCMP 34240
+Longosuchus TMM 31185-84
+Aetosauroides PVL 2073
+Aetobarbakinoides CPE2 168
+
+5.86
+6.4
+6.5
+6.53
+6.68
+6.74
+7.99
+8.00
+9.2
+> 12.22
+
+TABLE 4. Measurements in millimetres. Left humeri of Aetosauroides. Abbreviations: Ab. Aetobarbakinoides; As, Aetosauroides; C, centrum length; H, humeral length; T, tibial length.
+Ab.
+
+C/H Ab.
+
+C/H As.
+
+C/T Ab.
+
+C/T As.
+
+H/T Ab.
+
+H/T As.
+
+21.2
+21.3
+24.1
+24.1
+21.4
+24.0
+25.3
+28.9
+29.0
+138.2
+131.4
+
+C D1
+C D2
+C D3
+C D4
+C D5
+C D6
+C D7
+C D8
+C D9
+Humerus
+Tibia
+
+As.
+---25.7
+26.7
+26.1
+27.5
+24.1
+24.4
+99.6
+117.2
+
+0.1534
+0.1541
+0.1744
+0.1744
+0.1548
+0.1737
+0.1831
+0.2091
+0.2098
+---
+
+---0.2580
+0.2681
+0.2620
+0.2761
+0.2420
+0.2450
+---
+
+0.1613
+0.1621
+0.1834
+0.1834
+0.1629
+0.1826
+0.1925
+0.2199
+0.2207
+---
+
+---0.2193
+0.2278
+0.2227
+0.2346
+0.2056
+0.2082
+---
+
+---------1.05
+--
+
+---------0.85
+--
+
+TABLE 5. Non-parametric statistical analyses between the ratios of the holotypes of Aetobarbakinoides and Aetosauroides
+(PVL 2073) ( =0.05). Abbreviations: C, centrum length; H, humeral length; T, tibial length.
+
+α
+
+Type of analysis
+One-way Kruskal–Wallis axial size
+One-way Kruskal–Wallis C/H
+One-way Kruskal–Wallis C/T
+Spearman’s correlation C/H-T
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+p-value
+0.631 (NS)
+0.005075 (S)
+0.06555 (NS)
+0.17971 (NS)
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+13
+
+FIGURE 8. Dorsal verebra 9 of Aetobarbakinoides brasiliensis in right lateral (A), left lateral (B), dorsal (C), ventral (D), anterior (E), and posterior (F) views. Abbreviations: dlp, dorsolateral pit; dp, diapophysis; hy, hyposphene; ns, neural spine; poz,
+postzygapophysis; pp, parapophysis; prz, prezygapophysis; st, spine table. Scale bar equals 2 cm.
+
+Caudal vertebra. One posterior proximal caudal vertebra is preserved (Fig. 9). It lacks the left transverse process and postzygapophysis and presents some degree of post-mortem distortion, which is particularly evident in the
+posterior articular facet of the centrum (Fig. 9C). It is interpreted as a caudal vertebra because of its short transverse
+process, elongated centrum, and the strongly lateroventrally oriented articular facet of the postzygapophysis. The
+
+14 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+centrum is amphicoelous and longer than the available presacral vertebrae, about 1.56 times longer than the anterior articular facet. The proportion of the centrum of Aetobarbakinoides resembles the moderately elongated centra
+of the posterior proximal caudals of Aetosauroides (PVL 2073), Aetosaurus (SMNS 11837), and Stagonolepis (S.
+robertsoni: Walker 1961), but contrasts with the proportionally shorter anterior caudals of Desmatosuchus spurensis (Parker 2008: fig. 15, 16). The caudal centrum is more transversely compressed at mid-length than in the preserved presacral vertebrae. The ventral surface of the centrum is convex and does not present a ventral groove or
+keel, as occurs in other aetosaurs (Fig. 9E). The lateral surface of the centrum is slightly concave but does not present a well-rimmed fossa, as is the case of Aetosauroides (PVSJ 326) and other aetosaurs. Although the anterior and
+posterior articular facets are heavily distorted they are taller than wide (Fig. 9B, C).
+
+FIGURE 9. Posterior proximal caudal vertebra of Aetobarbakinoides brasiliensis in right lateral (A), anterior (B), posterior
+(C), dorsal (D), and ventral (E) views. Abbreviations: ns, neural spine; poz, postzygapophysis; prz, prezygapophysis; st, spine
+table; tp, transverse process. Scale bar equals 2 cm.
+
+The neural arch is 1.42 higher than the anterior articular facet of the centrum, a ratio which resembles that of
+the anterior caudals of Aetosauroides (PVL 2073) and Stagonolepis (S. robertsoni: Walker 1961). In contrast, in
+Desmatosuchus spurensis this ratio is lower than 1.17 in the anterior caudal vertebrae (Parker 2008). The right
+transverse process is short, sub-rectangular in dorsal view, and strongly anterolaterally projected. However, the
+unusual orientation of the transverse process is here considered a dubious natural feature because of the strong
+post-mortem distortion present in the element. A low and wide lamina connects the posterior end of the base of the
+transverse process with the posterodorsal corner of the centrum, as occurs in Aetosauroides (PVL 2073). The transverse process is not connected with the postzygapophysis by a lamina. At both sides of the anterior exit of the neural canal there is a slightly concave surface directly below the prezygapophyses. An incipient circular depression is
+present at both sides of the base of the neural spine, which is in the same position as the pits present in the dorsal
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+15
+
+vertebrae. The prezygapophyses are short, almost lacking a peduncle, and do not project beyond the anterior level
+of the anterior articular facet of the centrum. This condition contrasts with the proportionally longer prezygapophyses of the caudals of other aetosaurs (e.g. Aetosauroides: PVL 2073; Stagonolepis robertsoni: Walker 1961; Desmatosuchus spurensis: Parker 2008). The articular facets of the prezygapophyses are dorsomedially oriented and
+oval in outline with a transverse main axis. A small and shallow pre-spinal fossa is observed at the base of the neural spine and between both prezygapophyses. The postzygapophysis is slightly elongated and projected beyond the
+posterior level of the posterior articular facet of the centrum, resembling the condition of Aetosauroides (PVL
+2073) and Stagonolepis (S. robertsoni: Walker 1961). In contrast, in Desmatosuchus spurensis the postzygapophyses are posteriorly extended up to the same level of the posterior articular surface of the centrum (Parker 2008). The
+articular facet of the postzygapophysis is longer than wide and strongly lateroventrally oriented. A well-developed
+and sharp spinopostzygapophyseal lamina is present, which bounds a deep post-spinal fossa. No hypophene or
+hypantrum are observable in the caudals, resembling the pattern of Desmatosuchus spurensis (Parker 2008). The
+neural spine is slightly higher than long and presents a spine-table at its distal end (Fig. 9D). The spine table is
+drop-shaped in dorsal view with its widest end being anteriorly positioned, as occurs in dorsal 9. In contrast, in the
+proximal caudals of Aetosauroides (PVL 2073) and Desmatosuchus spurensis (Parker 2008) the spine-tables are
+oval or circular in dorsal view.
+Cervical and dorsal ribs. The proximal ends of the two cervical ribs, which are preserved in articulation with
+the available middle cervical vertebra, are present. Although fragmentary, the preserved portions of these ribs evidence a stout morphology. The right cervical rib corresponding to cervical 9 is completely preserved, being two
+times longer than the maximum height of this vertebra (Fig. 5E). It has a bicipitous head with a sub-rectangular
+capitulum two times longer than the tuberculum. The articular facet of the capitulum is oval. The shaft is straight
+and presents an oval cross-section. At the distal end of the rib the shaft becomes more anteroposteriorly flattened.
+Several dorsal ribs are preserved, but most of them are only represented by parts of their shafts. The proximal ends
+are bicipitous and the shafts elongated, with a circular cross-section at the proximal end of the shaft which gradually flattens distally towards an oval cross-section.
+Osteoderms. Fragments of at least eight dorsal paramedian osteoderms and an almost complete right dorsal
+paramedian osteoderm corresponding to the eighth dorsal vertebra are preserved (Figs. 4–7, 10). The eighth paramedian osteoderm is sub-rectangular in dorsal view, about 1.96 times transversely wider than anteroposteriorly
+long (Fig. 10B, C). In posterior view, this osteoderm possesses a strong ventral inflexion at mid-width between the
+flat medial and lateral portions, as occurs in desmatosuchines and typothoracisines (Parker 2007). The preserved
+osteoderms are proportionally dorsoventrally thin, as is typical for aetosaurs but contrasting with the thicker dorsal
+osteoderms of Koilamasuchus (Ezcurra et al., 2010), Erythrosuchus (Gower 2003), Euparkeria (cast of SAM-PK5867), doswelliids (e.g. Doswellia, Tarjadia, Archeopelta; Weems 1980; Arcucci & Marsicano 1998; Desojo et al.
+2011), Chanaresuchus (PVL 6244), phytosaurs (e.g. Parasuchus, Smilosuchus gregorii; ISI R42; UCMP 26699),
+“rauisuchians” (e.g. Prestosuchus, Batrachotomus; UFRGS 156; Gower & Schoch 2009), Revueltosaurus (Parker
+et al. 2005), Gracilisuchus (PULR 08), and crocodylomorphs (e.g. Terrestrisuchus; NHMUK P. 79/1). The eighth
+paramedian dorsal osteoderm presents an unornamented transverse anterior articular bar. This anterior bar is
+restricted to the anterior-most region of the osteoderm and becomes anteroposteriorly longer towards the lateral
+edge of the osteoderm, as occurs in other aetosaurs (e.g. Aetosauroides: MCP 13-a-b-PV). The anterior margin of
+the osteoderm is slightly convex, whereas the posterior margin is slightly concave. The medial margin is completely straight and the lateral one is slightly damaged and the shape of its border cannot be confidently assessed.
+The overall ornamentation of the dorsal paramedian osteoderms consists of irregular circular pits, grooves, and
+ridges with a radial pattern originated from a low eminence (Fig. 10). A radial pattern of ornamentation is also
+present in Aetosauroides scagliai (e.g. PVL 2059, 2073; MCP 13-a-b-PV) (Fig. 4E–F), Neoaetosauroides (Bonaparte 1971), Aetosaurus (Schoch 2007), Lucasuchus, Paratypothorax (Long & Murry 1995), Coahomasuchus
+(Heckert & Lucas 1999), Stagonolepis robertsoni (NHMUK R4788), and Calyptosuchus wellesi (Long & Murry
+1995). In contrast, a reticular pattern is observed in Typothorax (Long & Ballew 1985), Redondasuchus (Heckert et
+al. 1996), and Chilenosuchus (Desojo 2003) and a random distribution (sensu Long & Ballew 1985) is exhibited by
+Desmatosuchus smalli, Desmatosuchus spurensis, Longosuchus, and Acaenasuchus (Long & Ballew 1985; Parker
+2005, 2008; Parker & Martz 2010). Although an overall radial ornamentation, in the eighth paramedian dorsal osteoderm of Aetobarbakinoides the portion medial to the dorsal eminence presents a reticular ornamentation, as
+occurs in some paramedian osteoderms of Aetosauroides (PVL 2073) as well as Calyptosuchus and Paratypothorax (Long and Ballew 1985). The dorsal eminence of the eighth dorsal paramedian osteoderm of Aetobarbaki-
+
+16 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+noides is incipient, as also occurs in Typothorax and Redondasuchus (Long & Ballew 1985; Heckert et al. 1996).
+By contrast, other aetosaurs (e.g. Stagonolepis robertsoni: NHMUK R4788; Calyptosuchus wellesi: Long & Murry
+1995; Aetosaurus: Schoch 2007; Acaenasuchus: Long & Murry, 1995; Paratypothorax: Long & Murry 1995; Aetosauroides scagliai: PVL 2059, 2073; Desmatosuchus spurensis: Parker 2008; Neoaetosauroides: Bonaparte 1971;
+Coahomasuchus: Heckert & Lucas 1999) present stouter eminences in the mid-dorsal paramedian osteoderms.
+
+FIGURE 10. Paramedian osteoderms of Aetobarbakinoides brasiliensis. Left paramedian osteoderms of cervical 9 and dorsal
+1–3 in dorsal view (A) and right paramedian osteoderm of dorsal 8 in dorsal (B) and anterior (C) views. The arrows indicate
+anterior direction. Abbreviations: ab, anterior bar; vin, ventral inflexion. Scale bar equals 2 cm.
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+17
+
+FIGURE 11. Right scapula of Aetobarbakinoides brasiliensis in lateral (A), medial (B), anterior (C), posterior (D), distal (E),
+and proximal (F) views. Abbreviations: afc, articular facet for coracoid; ap, acromial process; gf, glenoid fossa; sad, sub-acromial depression; sat, sub-acromial tuberosity; sb, scapular blade; sgl, supraglenoid lip. Scale bar equals 2 cm.
+
+18 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+Scapula. A right scapula lacking the distal end of the scapular blade and anteroventral portion of the proximal
+end is preserved (Fig. 11). The scapular blade is wide in lateral view, slightly medially bowed, and presents a
+sharper anterior margin than the thicker posterior one. The distal-most preserved portion of the scapular blade only
+presents the beginning of the distal anteroposterior expansion. The lateral surface of the scapular blade is convex
+and the medial one is straight. The scapular blade becomes gradually thinner towards its distal end (Fig. 11D). The
+proximal end is well anteroposteriorly expanded, with a low acromial process (Fig. 11 A, B). This process is not
+distinctly differentiated from the scapular blade, resembling Aetosaurus (SMNS 5770 S-2), Neoaetosauroides
+(PVL 3525), Typothorax (Long & Murry 1995: fig. 105), and Longosuchus (TMM 31185-84a). In contrast, in Aetosauroides (PVL 2073) these structures form a distinct gently obtuse angle. In Aetobarbakinoides the sub-acromial
+tuberosity is thick and well laterally developed. However, in Aetosauroides (PVL 2073), Neoaetosauroides (PVL
+3525), and Longosuchus (TMM 31185-84a) the sub-acromial tuberosity is much sharper. The sub-acromial tuberosity of Aetobarbakinoides distally delimits a moderately deep sub-acromial depression, as occurs in Neoaetosauroides (PVL 3525), but contrast with the shallower anteroposterior groove of Aetosauroides (PVL 2073). The
+remaining portion of the scapular proximal end, anterior to the supraglenoid lip, is concave. The supraglenoid lip is
+a well laterally projected process, resembling the condition of other aetosaurs such as Aetosauroides (PVL 2073).
+In contrast, in Neoaetosauroides the supraglenoid tuberosity is poorly developed. Below it, the scapular portion of
+the glenoid fossa is posterolaterally oriented and is more transversely constricted proximally. A sharp edge rises
+distally from the supraglenoid lip and ends at the base of the scapular blade, delimiting the concave lateral and convex posterior surfaces of the proximal end of the bone, respectively. The medial surface of the proximal end of the
+scapula is biconvex, with a concave median longitudinal depression (Fig. 11B). The posterior convexity is wider
+than the anterior one. The preserved ventral portion, for contact with the coracoid, is gently convex.
+Humerus. A right humerus, lacking the distal ectepicondyle, is preserved (Fig. 12). Both proximal and distal
+ends of the bone are distinctly transversely expanded with respect to the shaft (Fig. 12E, F). The humeral head is
+well-defined and presents a convex proximal articular surface. The greater (= lateral) tuberosity is well differentiated from the head and globous, contrasting with the less developed greater tuberosity observed in Aetosauroides
+(PVL 2052, 2073; PVSJ 326), Neoaetosauroides (PVL 3525), Stagonolepis (S. robertsoni: Walker 1961), and
+Typothorax (Martz 2002). Nevertheless, in the holotype of “Argentinosuchus bonapartei” [PVL 2091: Argentinosuchus was considered as a nomen dubium, representing an indeterminate aetosaur by Desojo & Ezcurra (2011)]
+and a referred specimen of Longosuchus (TMM 31185-84) this tuberosity resembles the condition of Aetobarbakinoides. At the lateroventral corner of the humeral head of Aetobarbakinoides a rounded and low tuberosity is present (Fig. 12: lvt), which is less developed in Aetosauroides (PVL 2073). A second dome-shaped tuberosity is
+situated on the dorsal margin of the humeral head, slightly laterally displaced from the mid-width of the element
+(Fig. 12: dt). Both tuberosities are similar in size (Fig. 12E). However, in Aetosauroides the ventrolateral tuberosity
+is less developed than the dorsal one (PVL 2073). The morphology of the internal tuberosity cannot be determined
+because this region is not well-preserved. The deltopectoral crest is directly ventrally projected sub-triangular in
+medial view (Fig. 12D), resembling the condition of other pseudosuchians (e.g. Batrachotomus: Gower & Schoch
+2009; Aetosauroides: PVL 2073). The ventral surface of the proximal end of the humerus is concave, whereas the
+dorsal one is slightly convex (Fig. 12E).
+Below the proximal end of the bone, the humeral shaft is straight and with a circular cross-section. The shaft is
+proportionally elongated in relation to the entire length of the bone, with a length-transverse width of the shaft at
+mid-length greater than 12.22. In contrast, this ratio is lower in other aetosaurs, such as Longosuchus (TMM
+31185-84), Aetosauroides (PVL 2052, 2073; PVSJ 326), “Argentinosuchus” (PVL 2091), Neoaetosauroides (PVL
+3525), Typothorax (NMMNH P-12964, UCMP 34240, Martz 2002), and Stagonolepis (S. robertsoni: Walker
+1961). At the distal end of the bone, the entepicondyle and ectepicondyle are well separated by a median groove
+which opens onto the ventral surface (Fig. 12F). The entepicondyle is globous and with a strongly convex distal
+articular surface. A shallow sub-triangular depression is present on the dorsal surface of the distal end of the bone.
+A deep wide groove is present directly above the ectepicondyle, which is bounded by a sharp dorsal ridge and a
+more rounded ventral edge. The same condition is present in other aetosaurs, such as Aetosauroides (PVL 2073;
+PVSJ 326), Neoaetosauroides (PVL 3525), and Stagonolepis (S. robertsoni: Walker 1961).
+Femur?. A fragment of bone was attached to the proximal end of the preserved tibia (Fig. 13A–C). Because
+this fragment preserves a condyle like structure and in addition to its preserved position, we infer that it could be
+the distal end of the right femur. However, because of the fragmentary condition of the bone and heavy damage no
+further useful information is available from this element.
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+19
+
+FIGURE 12. Right humerus of Aetobarbakinoides brasiliensis in ventral (A), dorsal (B), lateral (C), medial (D), proximal (E),
+and distal (F) views. Abbreviations: dpc, deltopectoral crest; dr, dorsal ridge; dt, dorsal tuberosity; enc, entepicondyle; gt,
+greater trochanter; lg, lateral groove; lvt, lateroventral tuberosity; mg, median ventral groove. Scale bar equals 2 cm.
+
+Tibia. The right tibia is almost complete, but preserves a strongly damaged proximal end and displaced proximal and distal halves due to a diagonal break close to its mid-length (Fig. 13D–H). The tibia of Aetobarbakinoides
+presents a moderately gracile morphology (total length/transverse width at mid-length ratio 6.44), a ratio which
+falls within the intraspecific variation observed in Aetosauroides (PVL 2073: 8.43; PVL 2052: 6.14) and Typothorax (Martz 2002, TTU P-9214: 6.55; Heckert et al. 2010: 4.63). The tibia is posteriorly curved in lateral or medial
+views (Figs. 12E, G). The proximal end is well transversely expanded but we lack evidence of an anteroposterior
+expansion. In Aetosauroides an anteroposterior expansion of the proximal end of the bone is observed (PVL 2073).
+The shaft is oval in cross-section at the mid-length of the bone, with a major transverse axis. The distal end of the
+bone is transversely expanded but in a lesser degree than the proximal end, as occurs in other aetosaurs (e.g. PVL
+2073; PVL 3525; Walker 1961; Long & Murry 1995). The anterior surface of the distal end of the bone is strongly
+convex and the posterior one is almost planar (Fig. 13H). A rounded diagonal tuberosity extends from the anteromedial corner of the distal end towards the mid-length of the bone. The medial and lateral surfaces of the distal
+ends are also convex. The medial surface is continuous with the posterior and anterior ones, but the lateral surface
+is separated from the posterior one by a distinct posteromedial longitudinal edge. The distal expansion of the bone
+is mainly medially oriented, which results in a globous condyle for articulation with the tibial facet of the astragalus. This condyle is more distally extended than the medial facet for reception of the calcaneum, as usually occurs
+in crurotarsal archosaurs (Sereno 1991). The distal-most tip of the astragalar condyle is posteriorly displaced. The
+facet for reception of the calcaneum is slightly concave and posteriorly projected as a sub-triangular lip in lateral
+view. The distal end is only incipiently expanded anteroposteriorly.
+
+20 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+FIGURE 13. Probable distal end of femur of Aetobarbakinoides brasiliensis in posterior (A), lateral (B), and distal (C) views;
+and right tibia of Aetobarbakinoides brasiliensis in anterior (D), medial (E), posterior (F), lateral (G), and distal (H) views.
+Scale bar equals 5 cm.
+
+Distal tarsal. A probable right distal tarsal 4 is the only tarsal element preserved of Aetobarbakinoides (Figs.
+14–15). The element presents a sub-triangular outline in dorsal view, in which the straight medial margin is the
+anteroposteriorly deepest and the convex lateral margin is more anteroposteriorly reduced (Fig. 15A). The ventral
+surface of the bone is pointed, for articulation with the metatarsal IV and V, and the lowest point is situated at the
+centre of the bone (Fig. 15B). In lateral and dorsal views the bone is pyramidal in shape (Fig. 15A, C). The surface
+for articulation with the metatarsal V is ventrolaterally oriented and slightly convex (Fig. 15).
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+21
+
+FIGURE 14. Right pes of Aetobarbakinoides brasiliensis in dorsal view. Abbreviations: IV-1, first pedal phalanx of the fourth
+digit; dtIV, disal tarsal IV; mttI-V, metatarsal I-V. Scale bar equals 2 cm.
+
+Pes. All the bones of the right metatarsus are available, but only the metatarsals II and III are completely preserved (Figs. 14, 16). In contrast, the metatarsals I and V lack their distal ends and the metatarsal IV lacks its proximal end. The metatarsus is robust and composed by well separated bones, in which the metatarsals II and III are
+the most robust elements, as usually occurs in non-ornithodiran archosauriforms (Sereno 1991).
+The metatarsal I of Aetobarbakinoides is gracile, resembling the condition of Aetosaurus (Schoch 2007), but
+contrasting with the more robust elements of Neoaetosauroides (PVL 3525), Aetosauroides (PVL 2052), Stagonolepis (S. robertsoni: Walker 1961), and Typothorax (Heckert et al. 2010). The bone preserves a well transversely
+expanded proximal end, mainly in lateral direction. The proximal articular facet is saddle-shaped, being bounded
+by anterior and posterior lips, and a squared outline in proximal view. The shaft is slightly laterally curved and
+straight in anterior view. The shaft is oval in cross-section, with a posterolaterally to anteromedially diagonal main
+axis.
+The metatarsal II is a robust bone, even more robust than that observed in Neoaetosauroides (PVL 3525), and
+Aetosaurus (Schoch 2007). The proximal end of the bone is only slightly transversely expanded, contrasting with
+the strong expansion observed in Neoaetosauroides (PVL 3525), Aetosaurus (Schoch 2007), Stagonolepis (S. robertsoni: Walker 1961), and Typothorax (Heckert et al. 2010). The proximal articular facet is slightly concave and
+oval, with a transverse main axis. The anterior margin of the proximal end is strongly convex whereas the posterior
+
+22 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+one is only slightly convex. The shaft is straight with an anteroposteriorly depressed oval cross-section. The distal
+end is as transversely expanded as the proximal end and presents a well-developed ginglymous articulation. The
+medial collateral fossa is completely absent and the lateral one is circular and very deep. The dorsal extensor
+groove is semilunate is shape and very deep. This groove is distally limited by the distal articular surface of the
+bone. The distal condyles are separated by a shallow median depression distally and ventrally. The medial condyle
+is more ventrally projected than the lateral one. The lateral collateral groove opens distally resulting in a notched
+lateral margin of the lateral distal condyle. The distal end of the bone is asymmetric in anterior view, in which the
+medial condyle is more projected beyond the main axis of the bone than the lateral condyle. The dorsal margin of
+the distal articular surface is straight and the medial margin of the medial distal condyle is convex, with its most
+medially projected region posteriorly displaced.
+
+FIGURE 15. Right distal tarsal IV of Aetobarbakinoides brasiliensis in dorsal (A), ventral (B), lateral (C), medial (D), proximal (E), and distal (F) views. Scale bar equals 1 cm.
+
+The metatarsal III is longer and more gracile than the metatarsal II, as occurs in Aetosauroides (PVL 2052),
+Aetosaurus (Schoch 2007), and Neoaetosauroides (PVL 3525). In contrast, in Stagonolepis robertsoni the metatarsals II and III are subequal in length (Walker 1961). The proximal end of the bone is only slightly expanded laterally in anterior view, but anteroposteriorly expanded in lateral view with respect to the shaft. The degree of
+expansion of the proximal end is lesser than that observed in Neoaetosauroides (PVL 3525), Aetosaurus (Schoch
+2007), Stagonolepis (S. robertsoni: Walker 1961), and Typothorax (Heckert et al. 2010). The proximal end presents
+a concave proximal articular surface, which has a semi-oval outline in proximal view. The anterior and posterior
+surfaces of the proximal end are strongly convex, whereas the medial one is slightly convex and the lateral is
+straight exhibiting a facet for the reception of the metatarsal IV. The shaft is straight and with a circular cross-section. The anterior surface of the shaft is almost planar and the other ones are slightly convex. The distal end of the
+bone is more transversely expanded and robust than the proximal end. The anterior surface of the distal end pres-
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+23
+
+ents a deep extensor groove semilunate in shape. As occurs in the metatarsal II, the lateral collateral fossa is only
+present and is well-defined but shallow. The distal articular surface is ginglymous and sub-rectangular in distal
+view. In anterior view the distal end is slightly asymmetric with a lateral condyle more distally projected than the
+medial one, but in distal view the medial condyle is more ventrally projected than the lateral one.
+
+FIGURE 16. Right pes of Aetobarbakinoides brasiliensis in proximal (A), dorsal (B), ventral (C), lateral (D), medial (E), and
+distal (F) views. Abbreviations: I-V, metatarsal I-V; clf, collateral fossa. Scale bar equals 2 cm.
+
+The distal end and a probable fragmentary shaft of the metatarsal IV are preserved. The available portion of the
+shaft is straight and presents a semi-oval cross-section, in which the planar margin is probably the anterior surface.
+The distal end of the metatarsal IV is more asymmetric in anterior view than in the metatarsals II and III, with a lateral condyle more distally projected than the medial one. The dorsal extensor groove is shallower than in the more
+medial metatarsals. As is the case in the metatarsals II and III, only the lateral collateral fossa is present in the metatarsal IV. This fossa is shallow, resembling the condition of the metatarsal III, but contrasting with the deeper fossa
+observed in the metatarsal II. The distal articular surface is ginglymous and smaller than those from the metatarsals
+II and III, as occurs in Neoaetosauroides (PVL 3525), but contrasting with the sub-equal distal ends observed in
+Stagonolepis (S. robertsoni: Walker 1961). This surface is sub-rectangular in distal view and the medial condyle is
+incipiently more ventrally extended than the lateral one, in a lesser degree than the condition observed in the metatarsal III.
+The proximal half of the metatarsal V presents the characteristic hook-shape present in archosauromorphs, as
+the result of a medial projection. The proximal articular surface is proximomedially oriented and heart-shaped in
+proximal view, with the notch being laterally oriented. The medial three-quarters of the proximal articular surface
+are concave and the lateral quarter is slightly convex. The articular surface is laterally bounded by a raised and
+proximally directed lip, in which the notch is present. The lateral surface is planar and directly below the proximal
+
+24 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+end of the bone a faint longitudinal groove is present. This groove confers a semi-lunate shape to the cross-section
+of the bone. The anterior surface presents a depression directly below the proximal articular surface and it is medially opened. Below it, the anterior surface is convex.
+
+FIGURE 17. Right pedal phalanx IV-1 of Aetobarbakinoides brasiliensis in medial (A), lateral (B), dorsal (C), ventral (D),
+proximal (E), and distal (F) views. Abbreviations: clf, collateral fossa; pdl, proximodorsal lip; pvl, proximoventral lip. Scale
+bar equals 1 cm.
+
+The single available pedal phalanx of Aetobarbakinoides is interpreted to be the first element of the fourth digit
+because of its robust morphology and the strong asymmetry observed in its proximal articular surface, which
+matches with the morphology observed in the distal end of the metatarsal IV (Figs. 14, 16–17). The proximal end is
+dorsoventrally higher than the distal one, but both extremes present sub-equal transverse widths. The proximal
+articular surface is semi-oval, with a straight ventral margin. The main axis of the proximal articular surface is
+rotated in an angle of about 10º with respect to the main axis of the distal end. The proximoventral lip is much more
+proximally extended than the proximodorsal one. The phalanx presents a transverse compression at mid-length.
+The posterior surface of the shaft is planar and the anterior one is convex. The distal end of the phalanx is asymmetric with a distinct trochlea, in which the medial condyle is more distally extended than the lateral one. The collateral fossae are circular, shallow, and present at both sides of the distal end of the bone. In distal view, the
+condyles are separated by a ventral groove and the medial condyle is more ventrally projected than the lateral one.
+
+Discussion
+Comparison between Aetobarbakinoides and Aetosauroides appendicular proportions. A series of quantitative
+comparisons have been performed between the dorsal vertebral centrum-humerus/tibia length ratio of Aetobarbakinoides brasiliensis and the holotype of Aetosauroides scagliai (PVL 2073). Non-parametric statistical analyses
+were conducted with PAST 2.05 (Hammer et al. 2001) because we failed to recognize the assumptions of independently of the data regarding the length of the vertebrae. First of all, we conducted a one-way Kruskal–Wallis
+analysis between the dorsal vertebral centrum lengths (D4-D9) of these South American specimens, in order to test
+the hypotheses of the presence of size differences in the axial elements. If both specimens would present significant
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+25
+
+different sizes among the homologous dorsal vertebrae, any differences between the axial-appendicular elements
+ratio could be explain due to total size differences. However, the analysis recovered a non-significant difference
+between the length of the dorsal centra of Aetoabarbakinoides and Aetosauroides scagliai (PVL 2073) (p=0.631).
+Thus, any differences observed in the following comparisons between the axial-appendicular elements of Aetobarbakinoides and PVL 2073 would be only consequence of differences among the appendicular bones.
+The next analyses included comparisons between the centrum-humerus length and centrum-tibia length,
+respectively, between Aetobarbakinoides and PVL 2073. The ratios between the centrum-appendicular element
+lengths were plotted against the position in the dorsal series (Fig. 18). In the case of Aetobarbakinoides, the length
+of the vertebra centra of dorsals 5-9 increases towards the posterior region of the available dorsal series and the
+dorsal 4 presents a length almost identical to dorsal 6. In contrast, in PVL 2073 the centra of dorsals 4–7 are subequal in length and the centra of dorsals 8-9 are shorter than in the preceeding elements of the studied region of the
+series. In order to test the difference between the centrum vertebra length pattern along the dorsal series of Aetobarbakinoides and PVL 2073 we conducted linear correlations. The result was a non-significant correlation between
+both specimens (p=0.17971) (Table 5) and bolsters the presence of differences in the pattern of length among
+homologous dorsal vertebrae between Aetobarbakinoides and Aetosauroides.
+
+FIGURE 18. Bivariate plot depicting the centrum length-humeral or tibial length ratios across the dorsal vertebra series of
+Aetobarbakinoides brasiliensis and Aetosauroides scagliai. Continuous lines are the centrum length-humeral length ratio and
+the spotted lines are the centrum length-tibial length. The open rectangules are the ratios of Aetosauroides and the filled circles
+are the ratios of Aetobarbakinoides.
+
+The ratio values observed in Aetobarbakinoides, including the humerus or tibia length, are always lower than
+those of Aetosauroides for dorsals 4-7. In the case of dorsals 8-9 the ratios of Aetobarbakinoides are greater than
+the ratios of PVL 2073 obtained with the tibia length but lower than those obtained with humerus length. One-way
+Kruskal–Wallis analyses were performed in order to test the presence of differences between the proportion of the
+appendicular elements with respect to the axial elements. The results were significant in the case of the humeral
+length (p=0.005075) but roughly non-significant in the case of the tibial length (p=0.06555). The latter indicates
+the presence of a proportionally significantly longer humerus in Aetobarbakinoides than in the holotype of Aetosauroides. In addition, the difference in length between the humerus and tibia of Aetobarbakinoides is lower than in
+PVL 2073.
+Phylogenetic analysis. A cladistic analysis was performed in order to assess the phylogenetic relationships of
+Aetobarbakinoides brasiliensis. The new species was added to the data matrix of Parker et al. (2008). The resulting
+data matrix is composed of 37 characters and 20 taxa. The “rauisuchian” Postosuchus kirkpatricki was used to root
+the recovered most parsimonious trees (MPTs). The data matrix was analyzed under equally-weighted maximum
+parsimony using TNT 1.1 (Goloboff et al. 2008). A heuristic search of 50 replications of Wagner trees (with random addition sequence), followed by the TBR branch swapping algorithm (holding 10 trees per replicate), was performed. Zero length branches among any of the recovered MPTs were collapsed (i.e. rule 1 of Coddington &
+Scharff [1994]).
+
+26 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+FIGURE 19. Strict consensus tree depicting the phylogenetic relationships of Aetobarbakinoides brasiliensis and other aetosaurs. Absolute (left) and GC (right) bootstrap frequencies greater than 50% are shown below the nodes and decay indexes
+greater than 1 above the nodes. Abbreviations: Typoth, Typothoracisinae.
+
+FIGURE 20. Strict consensus tree depicting the phylogenetic relationships of Aetobarbakinoides brasiliensis and other aetosaurs after the a posteriori pruning of Coahomasuchus. Absolute (left) and GC (right) bootstrap frequencies greater than 50%
+are shown below the nodes and decay indexes greater than 1 above the nodes. Abbreviations: Typoth, Typothoracisinae.
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+27
+
+The analysis resulted in three most parsimonious tress (MPTs) of 67 steps, with a C.I. of 0.687 and a R.I. of
+0.838, and the best score hit on 23 times of the replications. The obtained MPTs differ from the topologies recovered by Parker (2007) and Parker et al. (2008) in several aspects within Aetosauria, and Aetobarbakinoides was
+unequivocally depicted as deeply nested within stagonolepidid aetosaurs (Fig. 19). In the new analysis, the late
+Carnian-early Norian South American Aetosauroides scagliai was recovered as the most basal aetosaur in all the
+MPTs. Accordingly, this South American taxon is recovered as the sister-taxon of Stagonolepididae rather than
+being nested within it, in a monophyletic group also composed of Neoaetosauroides, Aetosaurus, Coahomasuchus,
+Stagonolepis robertsoni, and Calyptosuchus wellesi, as found by Parker (2007). Synapomorphies of Aetosauria
+common to all MPTs are (character 5.1) external nares longer than internal antorbital fenestra and (character 6.1)
+supratemporal fenestra laterally exposed. The base of Stagonolepididae is represented by a polytomy composed of
+Neoaetosauroides, Coahomasuchus, Aetosaurus, and more derived aetosaurs. Stagonolepididae is supported by the
+presence of a synapomorphic (character 8.1) ‘slipper-shaped’ mandible. In the next less inclusive node a trichotomy is recovered, which is represented by Stagonolepis robertsoni, Calyptosuchus wellesi, and more derived
+forms, and characterized by the presence of (character 23.1) paramedian dorsal osteoderms that are strongly flexed
+ventrally. Aetobarbakinoides was recovered in all MPTs as the sister-taxon of a monophyletic clade composed of
+Desmatosuchinae and Typothoracisinae. This node is supported by the presence of (character 12.1) cervical vertebrae without a ventral keel (unknown condition in paratypothoracines). This phylogenetic arrangement contrasts
+with that of Parker (2007) and Parker et al. (2008) in that the typothoracisines were found as more closely related
+to desmatosuchines than to the remaining aetosaurs. The typothoracisines plus desmatosuchines clade is supported
+by a single synapomorphy, (character 11.1) presacral neural spine generally lower than the height of the centrum.
+The phylogenetic relationships within Typothoracisinae recovered in this analysis are identical to that of Parker
+(2007) and Parker et al. (2008). The synapomorphic characters of Typothoracisinae are the presence of (character
+10.1) dorsal vertebrae with transverse processes elongated and buttressed ventrally, (character 14.1) width to length
+ratio of widest dorsal paramedian osteoderm equal or more than 3.5, and (character 20.1) at least some paramedian
+osteoderms with ventral keel or strut. Regarding Desmatosuchinae, Sierritasuchus is found as the most basal form
+of the clade, a topology that is resolved in comparison with that published by Parker et al. (2008), in which a large
+polytomy including Sierritasuchus was depicted. The synapomorphies of Desmatosuchinae are (character 15.1)
+cervical dorsal paramedian osteoderms longer than wide, (character 19.1) presence of cervical and anterior-most
+dorsal paramedian osteoderms with a raised dorsal eminence, (character 21.1) cervical paramedian osteoderms dorsoventrally thickened with a tongue-and-groove articulation, (character 22.1) lateral cervical armour with spikes,
+paramedian osteoderms with centralized dorsal eminence, and (character 30.2) anterior and mid-dorsal regions
+with conical lateral spikes. The phylogenetic relationships among desmatosuchines more derived than Sierritasuchus are the same as those recovered by Parker (2007). The synapomorphy which excludes Sierritasuchus from the
+clade including other desmatosuchines is the (character 23.0) absence of strongly flexed paramedian osteoderms.
+Although Aetobarbakinoides does not exhibit unambiguous synapomorphies of Aetosauria or Stagonolepididae, the new genus presents apomorphies of less inclusive clades. In this regard, Aetobarbakinoides possesses
+(character 23.1) paramedian osteoderms that are strongly flexed ventrally, a synapomorphy of stagonolepidids
+more derived than Neoaetosauroides, Coahomasuchus, and Aetosaurus. The (character 12.1) absence of a ventral
+keel in the cervical vertebrae supports the assignment of Aetobarbakinoides together with Desmatosuchinae and
+Typothoracisinae. The quantitative analyses determinated that the (character 13.1) presence of dorsal paramedian
+osteoderms with a weakly raised anterior bar is an autapomorphy of the new Brazilian species, convergently
+acquired with paratypothoracisines (sensu Parker 2007).
+The differences recovered between the topologies of Parker (2007) and the present analysis could be probably
+related with the modifications that we performed to the original data matrix and not solely due to the inclusion of
+the new species. Accordingly, we decided to test the following hypotheses that could explain these differences: 1)
+the inclusion of Aetobarbakinoides, 2) the re-scorings introduced here in Aetosauroides, and 3) a combination of
+the latter possibilities. In order to test these hypotheses we conducted new analyses after the introduction of modifications into the original data-set of Parker et al. (2008). 1) When Aetobarbakinoides was included in the original
+Parker’s data matrix we recovered a massive polytomy at the base of Aetosauria, in which only the genus Desmatosuchus and Typothoracisinae were recognized. This result indicates that the inclusion of Aetobarbakinoides
+strongly affects the original topology. The latter could be probably related to the high amount of missing information in the new taxon related to osteoderm characters. 2) The character-states re-scored in Aetosauroides were
+
+28 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+introduced in Parker’s data-set and it was re-analyzed. In this new analysis we found Aetosauroides as the most
+basal aetosaur (cf. the present analysis) and a massive polytomy at the base Stagonolepididae, but recognizing a
+monophyletic Desmatosuchinae and Typothoracisinae (sensu Parker 2007). Accordingly, the changes introduced in
+the Aetosauroides scorings undermines the aetosaurine monophyly (sensu Parker 2007). 3) Finally, the analysis of
+the data-matrix when the re-scored Aetosauroides and Aetobarbakinoides were included in the original Parker’s
+data-set depicted the following results. Aetosauroides was found at the base of Aetosauria, a monophyletic
+Typothoracisinae + Desmatosuchinae clade were recovered (cf. the present analysis), and “non-typothoracisine
+aetosaurines” (sensu Parker 2007) were nested within a large polytomy as the sister-taxa of the Typothoracisinae +
+Desmatosuchinae clade. Accordingly, the inclusion of Aetobarbakinoides and the modifications on Aetosauroides
+explains most of the changes observed between Parker’s topology and the present study, but not the phylogenetic
+relationships found here among “non-typothoracisine aetosaurines”. In this regard, the modifications introduced
+here in the scoring of the character-states of Aetosaurus, Neoaetosauroides, and Stagonolepis robertsoni must have
+also influenced the final topology recovered here.
+The strict consensus of the present analysis showed an overall well-resolved topology with two polytomies
+among basal stagonolepidids (Fig. 19). In order to obtain a better resolution we conducted an a posteriori pruning
+of Coahomasuchus, because of the unstable position of the genus. The resultant strict reduced consensus showed
+Aetosauroides, Aetosaurus, and Neoaetosauroides as successive sister-taxa of a trichotomy composed of Stagonolepis, Calyptosuchus, and the Aetobarbakinoides and Desmatosuchinae + Typothoracisinae clade (Fig. 20).
+The decay indexes were minimal through most of the strict consensus tree. Only Bremer support values of two
+were found at the nodes including Typothoracisinae, Redondasuchus + Typothorax, Paratypothoracisini, and the
+genus Desmatosuchus. Bootstrapping was carried out with 5,000 pseudoreplicates. The results of the resampling
+analysis depicted only a few nodes with frequencies above the 50%, namely those of Redondasuchus + Typothorax
+(absolute frequency of 78%), Paratypothoracisini (54%), and the genus Desmatosuchus (83%) (Fig. 19).
+The recovery of suboptimal trees under an enforced constraint topology and setting Aetobarbakinoides brasiliensis as a pivotal taxon showed that only one additional step is necessary to find the new species as the sister-taxon
+of Stagonolepis robertsoni, Calyptosuchus wellesi, and the clade including Desmatosuchinae and Typothoracisinae. One extra step is also needed to position the new genus as the most basal Typothoracisinae and Desmatosuchinae, and as a desmatosuchine more derived than Sierritasuchus. Additionally, under suboptimal topologies with
+two extra steps Aetobarbakinoides is alternatively found outside Aetosauria, as the most basal aetosaur, and the
+most basal stagonolepidid. These results indicate a rather weak support for the phylogenetic position of Aetobarbakinoides. The phylogenetic position of Aetobarbakinoides will be further tested in future analyses with the addition of postcranial characters which are not contemplated in the present data set.
+Implications on aetosaur evolution. The recent revision of the early Late Triassic South American aetosaur
+record recognized only one species, Aetosauroides scagliai, in the Santa Maria 2 Sequence of Brazil, which is also
+documented in the supposed coeval Argentinean Ischigualasto Formation. Thus, the description of the new species
+Aetobarbakinoides brasiliensis enlarges the alpha-level taxonomic diversity of the group, representing the second
+Brazilian aetosaur species and the fourth in South America. Aetobarbakinoides brasiliensis was found in levels
+chronostratigraphically correlated with those bearing Aetosauroides specimens in the Santa Maria 2 Sequence and
+in the Ischigualasto Formation (Langer et al. 2007). The phylogenetic analysis performed here indicates that Aetobarbakinoides is the closest South American form to the desmatosuchines and typothoracisines. Nevertheless, it
+must be noted that Chilenosuchus presents a paramedian, lateral, and ventral osteoderm morphology very similar to
+that of typothoracisines and it could be nested within the latter clade (Desojo & Ezcurra unpublished data). Nevertheless, within this phylogenetic context, Aetobarbakinoides preserves a skeletal anatomy previously unknown
+among South American aetosaurs, with the combination of presacral vertebrae with hyposphene-hypantrum,
+anteroposteriorly short and unkeeled cervical vertebrae, gracile limbs, and paramedian osteoderms with weakly
+raised anterior bar. Aetobarbakinoides is among the oldest known aetosaurs together with the late Carnian-early
+Norian South American Aetosauroides and the European Stagonolepis robertsoni, indicating a widely distributed
+early record for the group. In addition, the recognition of a suite of derived features in Aetobarbakinoides bolsters
+an older origin for the group as is expected by the extensive ghost lineages (Sereno 1991; Brusatte et al. 2010; Nesbitt 2011) at the base of the major pseudosuchian clades.
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+29
+
+Acknowledgements
+We thank several people who allowed us to study specimens under their care: M.C. Malabarba (PUCS), C.L.
+Schultz (UFRGS), A.A.S. Da-Rosa (UFSM), J. Ferigolo (FZB), F. Glaw (ZSM), R. Martinez (UNSJ), M. Reguero
+(MLP), J. Powell (PVL), P. Holroyd (UCMP), R. Schoch (SMNS), S. Chapman, L. Steel (NHMUK), and O.
+Rauhut (BSPG). This research was partially funded by the Agencia Nacional de Promoción Científica y Técnica
+PICT 2010 N° 207 and Alexander von Humboldt Foundation (to JBD). Santiago Reuil and Jonathan Kaluza skillfully prepared the holotype of Aetobarbakinoides. We thank the comments and suggestions provided by the
+reviewers William Parker (MNA) and Max Langer (USP). Access to the free version of TNT 1.1 was possible due
+to the Willi Henning Society.
+
+Literature cited
+Agassiz, L. (1844) Monographie des poissons fossiles du Vieux Grès Rouge ou Système Dévonien (Old Red Sandstone) des
+Îles Britanniques et de Russie. Jent et Gassman, Neuchâtel, 171 pp.
+Arcucci, A., & Marsicano, C.A. (1998) A Distinctive New Archosaur from the Middle Triassic (Los Chañares Formation) of
+Argentina. Journal of Vertebrate Paleontology, 18, 228–232.
+Bonaparte, J.F. (1969) Los tetrápodos triásicos de Argentina. In First International Symposium of Gondwana, Mar del Plata
+1967, Actas, 307–325
+Bonaparte, J.F. (1971) Los tetrápodos del sector superior de la Formación Los Colorados, La Rioja, Argentina (Triásico Superior). Opera Lilloana, 22, 87–102.
+Brusatte, S.L., Benton, M.J., Desojo, J.B. & Langer, M.C. (2010) The higher-level phylogeny of Archosauria (Tetrapoda:
+Diapsida). Journal of Systematic Palaeontology, 8, 3–47.
+Casamiquela, R.M. (1960) Noticia preliminar sobre dos nuevos estagonolepoideos Argentinos. Ameghiniana, 2, 3–9.
+Casamiquela, R.M. (1961) Dos nuevos Estagonolepoideos Argentinos (de Ischigualasto, San Juan). Revista de la Asociación
+Geológica Argentina, 16, 143–203.
+Casamiquela, R.M. (1967) Materiales adicionales y reinterpretacion de Aetosauroides scagliai (de Ischigualasto, San Juan).
+Revista del Museo de La Plata, 5, 173–196.
+Casamiquela, R.M. (1980) Nota sobre restos de un reptil aetosauroideo (Thecodontia, Aetosauria) de Quimal, Cordillera de
+Domeyko, Antofagasta. Prueba de la existencia del Neotriásico continental en los Andes del Norte de Chile. Actas Congreso Argentino de Paleontología y Bioestratigrafía, No. 2 y Congreso Latinoamericano de Paleontología, No. 11, 135–
+142.
+Coddington, J.A. & Scharff, N. (1994). Problems with zero-length branches. Cladistics, 10, 415–423.
+Cope, E.D. (1869). Synopsis of the extinct Batrachia, Reptilia and Aves of North America. Transactions of the American Philosophical Society, 14, 1–252.
+Desojo, J.B. (2003) Redescripción del aetosaurio Chilenosuchus forttae Casamiquela (Diapsida: Arcosauria): presencia de
+Triásico continental en el norte de Chile. Revista Geológica de Chile, 30, 53–63.
+Desojo, J.B. (2005) Los aetosaurios (Amniota, Diapsida) de América del Sur: sus relaciones y aportes a la biogeografía y
+bioestratigrafía del Triásico continental. Unpublished PhD thesis, Universidad de Buenos Aires, 250 pp.
+Desojo, J.B & Báez, A.M. (2005) El esqueleto postcraneano de Neoaetosauroides (Archosauria: Aetosauria) del Triásico Superior del centro-oeste de Argentina. Ameghiniana, 42, 115–126.
+Desojo, J.B & Báez, A.M. (2007) Cranial morphology of the Late Triassic South American archosaur Neoaetosauroides
+engaeus: evidence for aetosaurian diversity. Palaeontology, 50, 267–276.
+Desojo, J.B & Ezcurra, M.D. (2011) A reappraisal of the taxonomic status of Aetosauroides (Archosauria: Aetosauria) specimens from the Late Triassic of South America and their proposed synonymy with Stagonolepis. Journal of Vertebrate
+Paleontology, 31, 596–609.
+Desojo, J.B & Kischlat, E.-E. (2005) A new species of Aetosauroides (Archosauria: Aetosauria) from southern Brazil; p. 96–97
+in A. W. A. Kellner, D. D. R. Henriques, and T. Rodrigues (eds.), II Congresso Latino-Americano de Paleontologia de Vertebrados, Boletim de Resumos. Museu Nacional, Rio de Janeiro.
+Desojo, J.B., Ezcurra, M.D. & Schultz C.L. (2011) An unusual new archosauriform from the Middle-Late Triassic of southern
+Brazil and the monophyly of Doswelliidae. Zoological Journal of the Linnean Society, 161, 839–871.
+Ezcurra, M.D., Lecuona, A. & Martinelli, A.G. (2010) A new basal diapsid archosauriform from the Early Triassic of Argentina. Journal of Vertebrate Paleontology, 30, 1433–1450.
+Furin, S., Preto, N., Rigo, M., Roghi, G., Gianolla, P., Crowley, J.L. & Bowring, S.A. (2006) High-precision U-Pb zircon age
+from the Triassic of Italy: implications for the Triassic time scale and the Carnian origin of calcareous nannoplankton and
+dinosaurs. Geology, 34, 1009–1012.
+Gauthier, J.A. & Padian, K. (1985) Phylogenetic, functional, and aerodynamic analyses of the origin of birds and their flight.
+In: Hecht MK, Ostrom JH, Viohl G, Wellnhofer P, eds. The beginnings of birds. Freunde des Jura Museums, Eichstatt,
+
+30 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+185–197.
+Goloboff, P.A., Farris, J.S. & Nixon, K. (2008) TNT, a free program for phylogenetic analysis. Cladistics, 24, 774–786.
+Gower, D.J. (2003) Osteology of the early archosaurian reptile Erythrosuchus africanus Broom. Annals of the South African
+Museum, 110, 1–84.
+Gower, D.J. & Sennikov, A.G. (1996) Morphology and phylogenetic informativeness of early archosaur braincases. Palaeontology, 39, 883–906.
+Gower, D.J. & Schoch, R.R. (2009) Postcranial anatomy of the rauisuchian archosaur Batrachotomus kupferzellensis. Journal
+of Vertebrate Paleontology, 29, 103–122.
+Hammer, Ø., Harper, D.A.T. & Ryan, P.D. (2001) PAST: Paleontological Statistics software package for education and data
+analysis. Paleontologia Electronica, 4, 1–9.
+Heckert, A.B. & Lucas, S.G. (1999) A new aetosaur from the Upper Triassic of Texas and the phylogeny of aetosaurs. Journal
+of Vertebrate Paleontology, 19, 50–68.
+Heckert, A.B. & Lucas, S.G. (2000) Taxonomy, phylogeny, biostratigraphy, biochronology, paleobiogeography, and evolution
+of the Late Triassic Aetosauria (Archosauria: Crurotarsi). Zentralblatt für Geologie und Paläontologie, 1998, Teil I, Heft
+11–12, 1539–1587.
+Heckert, A.B., Hunt, A.P. & Lucas, S.G. (1996) Redescription of Redondasuchus reseri, a Late Triassic aetosaur (Reptilia:
+Archosauria) from New Mexico (U.S.A.) and the biochronology and phylogeny of aetosaurs. Geobios, 29, 619–632.
+Heckert, A.B., Lucas, S.G., Rinehart, L.F., Celeskey, M.D., Spielmann, J.A. & Hunt, A.P. (2010) Articulated skeletons of the
+aetosaur Typothorax coccinarum Cope (Archosauria: Stagonolepididae) from the Upper Triassic Bull Canyon Formation
+(Revueltian: early-mid Norian), eastern New Mexico, USA. Journal of Vertebrate Paleontology, 30, 619–642.
+Irmis, R.B. (2007) Axial skeleton ontogeny in the Parasuchia (Archosauria: Pseudosuchia) and its implications for ontogenetic
+determination in archosaurs. Journal of Vertebrate Paleontology, 27, 350–361.
+Langer, M.C. (2005) Studies on continental Late Triassic tetrapod biochronology. II. The Ischigualastian and a Carnian global
+correlation. Journal of South American Earth Sciences, 19, 219–239.
+Langer, M.C., Ribeiro, A.M., Schultz, C.L. & Ferigolo, J. (2007) The continental tetrapod-bearing Triassic of South Brazil. In:
+Lucas SG, Spielmann JA, eds. The Global Triassic. New Mexico Museum of Natural History & Science Bulletin, 41, 201–
+218.
+Long, R.A. & Ballew, K.L. (1985) Aetosaur dermal armor from the late Triassic of southwestern North America, with special
+reference to material from the Chinle Formation of Petrified Forest National Park. Museum of Northern Arizona Bulletin,
+47, 45–68.
+Long, R.A. & Murry, P.A. (1995) Late Triassic (Carnian and Norian) tetrapods from the southwestern United States. New Mexico Museum of Natural History and Science Bulletin, 4, 1–254.
+Lucas, S.G. & Heckert, A.B. (2001) The aetosaur Stagonolepis from the Upper Triassic of Brazil and its biochronological significance. Neues Jahrebuch für Geologie und Paläontologie Monatshefte, (12), 719–732.
+Lucas, S.G., Spielmann, J.A. & Hunt, A.P. (2007) Biochronological significance of Late Triassic tetrapods from Krasiejów,
+Poland. New Mexico Museum of Natural History and Science, Bulletin, 4, 229–240.
+Lydekker, R. (1887) The fossil Vertebrata of India. Records of the Geological Survey of India, 20, 51–80
+Marsh, O.C. (1884) The classification and affinities of dinosaurian reptiles. Nature, 31, 68–69.
+Martinez, R.N., Sereno, P.C., Alcober, O.A., Colombi, C.E., Renne, P.R., Montañez, I.P. & Currie, B.S. (2011) A basal dinosaur
+from the dawn of the dinosaur era in southwestern Pangaea. Science, 331, 206–210.
+Martz, J.W. (2002) The morphology and ontogeny of Typothorax coccinarum (Archosauria, Stagonolepididae) from the Upper
+Triassic of the American Southwest. M.S. thesis, Department of Geoscience, Texas Tech University, Lubbock, Texas, 279
+pp.
+Martz, J.W. & Small, B.J. (2006) Tecovasuchus chatterjeei, a new aetosaur (Archosauria: Stagonolepididae) from the Tecovas
+Formation (carnian, Upper Triassic) of Texas. Journal of Vertebrate Paleontology, 26, 308–320.
+Muttoni, G., Kent, D.V., Jadoul, F., Olsen, P.E., Rigo, M., Galli, M.T. & Nicora, A. (2010) Rhaetian magneto-biostratigraphy
+from the southern Alps (Italy): constraints on Triassic chronology, Palaeogeography, Paleoclimatology, Palaeontology,
+285, 1–16.
+Nesbitt, S.J. (2007) The anatomy of Effigia okeeffeae (Archosauria, Suchia), theropod-like convergence, and the distribution of
+related taxa. Bulletin of the American Museum of Natural History, 302, 1–84.
+Nesbitt, S.J. (2011) The early evolution of archosaurs: relationships and the origin of major clades. Bulletin of the American
+Museum of Natural History, 352, 1–292.
+Parker, W.G. (2003) Description of a new specimen of Desmatosuchus haplocerus from the Late Triassic of Northern Arizona.
+Unpublished MSc thesis, Northern Arizona University, Flagstaff, 315 pp.
+Parker, W.G. (2005) A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia). Paleovol, 4,
+327–340.
+Parker, W.G. (2007) Reassessment of the aetosaur ¨Desmatosuchus¨chamaensis with a reanalysis of the phylogeny of the Aetosauria (Archosauria: Pseudosuchia). Journal of Systematic Palaeontology, 5, 1–28.
+Parker, W.G. (2008) Description of new material of the aetosaur Desmatosuchus spurensis (Archosauria: Suchia) from the
+Chinle Formation of Arizona and a revision of the genus Desmatosuchus. PaleoBios, 28, 1–40.
+Parker, W.G. & Martz, J.W. (2010) The Late Triassic (Norian) Adamanian–Revueltian tetrapod faunal transition in the Chinle
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+31
+
+Formation of Petrified Forest National Park, Arizona. Earth and Environmental Science Transactions of the Royal Society
+of Edinburgh, 101, 231–260.
+Parker, W.G., Irmis, R.B., Nesbitt, S.N., Martz, J.W. & Browne, L.S. (2005) The Pseudosuchian Revueltosaurus callenderi and
+its implications for the diversity of early ornithischian dinosaurs. Proceedings of the Royal Society B, 272, 963–69.
+Parker, W.G., Stocker, M.R. & Irmis, R.B. (2008) A new desmatosuchine aetosaur (Archosauria: Suchia) from the Upper Triassic Tecovas Formation (Dockum Group) of Texas. Journal of Vertebrate Paleontology, 28, 692–701.
+Reichel, M., Schultz, C.L. & Soares, M.B. (2009) A new traversodontid cynodont (Therapsida, Eucynodontia) from the Middle
+Triassic Santa Maria Formation of Rio Grande do Sul, Brazil. Palaeontology, 52, 229–250.
+Rogers, R.R., Swisher III, C.C., Sereno, P.C., Monetta, A.M., Forster, C.A. & Martinez, R.N. (1993) The Ischigualasto Tetrapod Assemblage (Late Triassic, Argentina) and 40Ar/39Ar dating of dinosaur origins. Science, 260, 794–797.
+Salgado, L., Coria, R.A. & Calvo, J.O. (1997) Evolution of titanosaurid sauropods. I. Phylogenetic analysis based on the postcranial evidence. Ameghiniana, 34, 3–32.
+Sawin, H.J. (1947) The Pseudosuchian reptile Typothorax meadei. Journal of Paleontology, 21, 201–238.
+Schoch, R.R. (2007) Osteology of the small archosaur Aetosaurus from the Upper Triassic of Germany. Neues Jahrbuch für
+Geologie und Paläontologie, 246, 1–35.
+Sereno, P.C. (1991) Basal archosaurs: phylogenetic relationships and functional implications. Journal of Vertebrate Paleontology Memoir, 2, 1–53.
+Walker, A.D. (1961) Triassic reptiles from the Elgin area: Stagonolepis, Dasygnathus and their allies. Philosophical Transactions of the Royal Society of London B, 244, 103–204.
+Weems, R.E. (1980) An unusual newly discovered archosaur from the Upper Triassic of Virginia, U.S.A. Transactions of the
+American Philosophical Society, 70, 1–53.
+Zerfass, H., Lavina, E.L., Schultz, C.L., Vasconcellos Garcia, A.J., Faccini, U.F. & Chemale, F. Jr. (2003) Sequence stratigraphy of continental Triassic strata of Southermost Brazil: a contribution to Southwestern Gondwana paleogeography and
+paleoclimate. Sedimentary Geology, 161, 85–105.
+Zittel, K.A. Von (1890) Handbuch der Palaeontologie. 1. Abt.: Palaeozoologie, 3.-xii + 900 pp., 719 figs. Munchen and Leipzig
+(R. Oldenbourg).
+
+APPENDIX I. Synapomorphy list
+The following list depicts the unambiguous synapomorphies common to all the MPTs obtained in the heuristic search with all
+the taxa included (characters in bold indicate apomorphies preserved in Aetobarbakinoides):
+Aetosauria: 5 (0 1), 6 (0 1).
+Stagonolepididae: 8 (0 1).
+Unnamed clade (Stagonolepis robertsoni + Desmatosuchus spurensis): 23 (0 1).
+Unnamed clade (Aetobarbakinoides + Desmatosuchus spurensis): 12 (0 1).
+Unnamed clade (Typothoracisinae + Desmatosuchinae): 11 (0 1).
+Typothoracisinae: 10 (0 1), 14 (0 1), 20 (0 1).
+Unnamed clade (Typothorax + Redondasuchus): 16 (0 1), 17 (0 1).
+Paratypothoracisini: 18 (0 1), 22 (0 1), 23 (1 0), 29 (1 2), 30 (0 1).
+Unnamed clade (Paratypothorax + Rioarribasuchus): 13 (2 1), 32 (0 1).
+Desmatosuchinae: 15 (0 1), 19 (0 1), 21 (0 1), 22 (0 2), 29 (1 0), 30 (0 2).
+Unnamed clade (Longosuchus + Desmatosuchus spurensis): 23 (1 0).
+Unnamed clade (Lucasuchus + Desmatosuchus spurensis): 18 (1 0).
+Unnamed clade (Acaenasuchus + Desmatosuchus spurensis): 16 (0 1).
+Desmatosuchus: 13 (2 0), 35 (0 1).
+
+→
+
+→
+
+→
+
+→
+
+→
+
+→
+
+→
+→
+→
+→
+→
+→
+→
+→
+→
+
+→
+
+→
+
+→
+
+→
+
+→
+
+→
+
+→
+
+→
+
+→
+
+→
+
+→
+
+→
+
+→
+
+→
+
+Character-scorings for Aetobarbakinoides brasiliensis nov. gen. et nov. sp.:
+?????????0011??00??0??1?????????00???
+Character-state scorings modified from the data matrix published by Parker et al. (2008):
+Aetosauroides
+Character 1: in the available specimens referred to Aetosauroides (Desojo & Ezcurra 2011) the anterior half of the premaxilla is
+not preserved. Accordingly, the state of this character cannot be assessed in this taxon and the state (?) has been scored
+instead of (1).
+Character 2: the teeth of Aetosauroides present a recurved and slightly labiolingually compresed crown and is not bulbous
+(PVL 2059). Accordingly, the state (0) has been scored instead of (1).
+Character 3: the right dentary of PVL 2059 lacks its anterior tip and the left dentary presents a strongly damaged anterior end.
+As a consequence the presence of anterior aveoli in the dentary cannot be assessed in Aetosauroides. The state (?) has been
+scored instead of (1).
+
+32 · Zootaxa 3166 © 2012 Magnolia Press
+
+DESOJO ET AL.
+
+Character 7: the jugal is unknown in Aetosauroides (Desojo & Ezcurra 2011: fig. 7a). The state (?) has been scored instead of
+(1) for this character.
+Character 8: Desojo & Ezcurra (2011: fig. 7) showed that the mandible of Aetosauroides is not ‘slipper-shaped’, contrasting
+with the condition observed in other aetosaurs. Accordingly, the state (0) has been scored instead of (1) for this character.
+Character 20: Desojo & Ezcurra (2011: fig. 5d) described the presence of a faint transverse ridge in the ventral surface of the
+dorsal paramedian osteoderms of Aetosauroides. However, this ridge contrasts with the more developed ventral strut present in the osteoderms of other aetosaurs, such as Typothorax and Redondasuchus (Parker 2007). Accordingly, the state (0)
+has been scored instead of (?) for this character.
+Character 23: the dorsal paramedian osteoderms of Aetosauroides are only slightly ventrally flexed (PVL 2073). Accordingly,
+the state (0) has been scored instead of (1) for this character.
+Aetosaurus
+Character 20: the ventral surface of the paramedian osteoderms lacks a ventral transverse strut (SMNS 5770). Accordingly, the
+state (0) has been scored instead of (?) for this character.
+Character 23: as occurs in Aetosauroides, the dorsal paramedian osteoderms of Aetosaurus are only slightly ventrally flexed
+(SMNS 5770). Accordingly, the state (0) has been scored instead of (1) for this character.
+Neoaetosauroides
+Character 33: the character-state (1) was scored instead of (?) because the cervical vertebrae of Neoaetosauroides are even
+more anteroposteriorly compressed than those of Typothorax (Desojo & Baéz 2005).
+Stagonolepis robertsoni
+Character 20: the ventral surface of the paramedian osteoderms lacks a ventral transverse strut (NHMUK R4787). Accordingly,
+the state (0) has been scored instead of (?) for this character.
+
+NEW AETOSAUR GENUS FROM BRAZIL
+
+Zootaxa 3166 © 2012 Magnolia Press ·
+
+33
+
+

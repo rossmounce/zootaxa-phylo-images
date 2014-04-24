@@ -1,0 +1,2271 @@
+Zootaxa 3163: 1–32 (2012)
+www.mapress.com / zootaxa/
+Copyright © 2012 · Magnolia Press
+
+ISSN 1175-5326 (print edition)
+
+Article
+
+ZOOTAXA
+ISSN 1175-5334 (online edition)
+
+Taxonomic study and morphology based phylogeny of the patagonic clade
+Liolaemus melanops group (Iguania: Liolaemidae), with the description of three
+new taxa
+ABDALA C. S. 1, 2; R. V. SEMHAN 1, 2; D. L. MORENO AZOCAR 3; M. BONINO 3 M. M. PAZ2 & F. CRUZ 3
+1
+
+Instituto de Herpetología, Fundación Miguel Lillo - Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) y
+samiryjazmin@gmail.com; romisemhan@gmail.com
+2
+Facultad de Ciencias Naturales e Instituto Miguel Lillo (IML), Universidad Nacional de Tucumán. Miguel Lillo 251. 4000Tucumán. Argentina. marcosmax_paz@hotmail.com
+3
+INIBIOMA (CONICET – UNCOMA) Centro Regional Universitario Bariloche, Universidad Nacional del Comahue, Quintral 1250,
+(8400) Bariloche, Río Negro, Argentina, felix.cruz@crub.uncoma.edu.ar; lina.morenoazocar@gmail.com; boninom@gmail.com
+
+Abstract
+The genus Liolaemus is a group of lizards with more than 230 recognized species, which have been grouped in different
+clades and subgroups. One of the monophyletic groups is the one of Liolaemus boulengeri or “the patch group”; this clade
+itself is integrated by several monophyletic groups: the groups Liolaemus anomalus, Liolaemus wiegmanii, Liolaemus
+darwinii and Liolaemus melanops. The latter group is constituted almost exclusively by Patagonian lizards, and it is our
+focal group. In the present work we describe three new species belonging to the Liolaemus melanops group. One of the
+new taxon described, Liolaemus tromen sp. nov., is related to the Liolaemus fitzingerii clade, inhabits in the Center-West
+of Neuquén Province, and was confused initially with Liolaemus hermannunezi, a mountain Chilean species. The second
+species described, Liolaemus purul sp. nov., belongs to the Liolaemus telsen clade, inhabits in the center and north-west
+of Neuquén Province, and was confused first with Liolaemus boulengeri and then with Liolaemus loboi. While the third
+species, Liolaemus dumerili sp. nov., is basal of the L. goetschi group, inhabits in the center-south of Río Negro province
+and was considered as Liolaemus melanops. In addition, we present a phylogenetic analysis based in the morphology and
+we contribute with a dichotomic key for males of the Liolaemus melanops group.
+Key words: Liolaemus; new species; cladogram; Key; Patagonia
+
+Resumen
+El género Liolaemus es un conjunto de lagartijas con más de 230 especies reconocidas, las cuales han sido agrupadas en
+varios clados y subgrupos. Uno de los grupos monofiléticos es el de Liolaemus boulengeri o “grupo del parche”; este clado
+a su vez está integrado por varios grupos monofileticos, los grupos de Liolaemus anomalus, Liolaemus wiegmannii, Liolaemus darwinii y Liolaemus melanops. El grupo de Liolaemus melanops está constituido casi exclusivamente por lagartijas de distribución patagónica y que constituye nuestro grupo focal. En el presente trabajo se describen tres nuevas
+especies del grupo de Liolaemus melanops. De los nuevos taxa que se describen, Liolaemus tromen sp. nov., esta relacionada al clado de Liolaemus fitzingerii, habita en el centro oeste de Neuquén y fue confundida inicialmente con Liolaemus
+hermannunezi, especie cordillerana de Chile. La segunda especie que se describe, Liolaemus purul sp. nov., pertenece al
+clado de Liolaemus telsen, habita en el centro y noroeste de Neuquén, fue considerada inicialmente como Liolaemus boulengeri y luego como Liolaemus loboi. En tanto que la tercera especie, Liolaemus dumerili sp. nov., es basal al grupo de
+L. goetschi, habita en el centro sur de Río Negro y fue confundida con Liolaemus melanops. Además, se presenta un análisis filogenético basado en morfología y se aporta una clave dicotómica para machos del grupo de Liolaemus melanops.
+
+Introduction
+Recent studies include several descriptions of new species and phylogenetic arrangements (see Pincheira Donoso
+and Nuñez, 2005, Pincheira Donoso et al., 2008, Lobo et al., 2010, Breitman et al., 2011; Pincheira Donoso, 2011)
+Accepted by S. Carranza: 28 Oct. 2011; published: 17 Jan. 2012
+
+1
+
+on lizards belonging to the genus Liolaemus. Currently, the number of species in this genus has increased drastically, from 150 recognized species by the year 2000 (Etheridge and Espinoza, 2000), to up to more than 230
+(Abdala et al., 2008, 2009; 2010, 2011; Quinteros et al., 2008; Avila et al., 2010; Lobo et al., 2010; Quinteros and
+Abdala, 2011).
+Phylogenetic relationship studies of Liolaemus have also increased in recent years. Particularly, within the L.
+boulengeri group, two major hypotheses have emerged, the molecular study by Avila et al. (2006) and a total evidence analysis by Abdala (2007). According to Abdala (2007), one of the supported groups is the L. melanops
+clade, mostly composed by Patagonic species (except for Liolaemus cuyanus Cei and Scolaro). This group of species has close to 25 recognized species and comprises three smaller subclades, the L. telsen, the L. cuyanus and the
+L. fitzingerii species groups (Abdala, 2007).
+Within the Liolaemus melanops group, and more generally within the genus Liolaemus, several species are
+presumably broadly distributed. However, new evidence show that most of these species corresponded to species
+complexes rather than single species (Etheridge, 1993, 1995; Lobo and Espinoza, 1999; Etheridge and Christie,
+2003; Morando et al., 2003, 2004; Avila et al., 2006; Abdala, 2002, 2007; Abdala et al., 2006, 2008, 2010;
+Pincheira and Scolaro, 2007; Quinteros et al., 2008; Quinteros and Abdala, 2011). Perhaps, the most striking examples of how a single Liolaemus species was splitted into several species are; Liolaemus darwinii Bell (including at
+this moment 10 recognized species after Etheridge, 1992, 1993, 2001; Lobo and Kretschmar, 1996; Cei, and Scolaro,1999; Abdala, 2005a; Abdala et al., 2011), L. boulengeri Koslowsky (splited into seven species after Abdala,
+2003; 2005b; Avila et al., 2007), and L. rothi Koslowsky (at present day five species after Etheridge and Christie,
+2003; Abdala, 2003; Pincheira Donoso and Scolaro, 2007).
+The present day range distribution of Liolaemus rothi, described as inhabiting “territories del Neuquen” in
+Argentina is still broad, from central Neuquén to north central Chubut, elevation range from 700 to 1800 m, many
+populations apparently disjunct. Historically, Donoso Barros cites this species for Chile (1974) and Cei (1986) considered it to be distributed from Neuquén to Chubut. Later, this species was redescribed by Etheridge and Christie,
+(2003) together with L. sagei and L. morenoi. Subsequently Abdala (2003) described L. loboi and PincheiraDonoso et al. (2007) described L. hermannunezi. One of the species studied here was confused with L. hermannunezi (Abdala and Quinteros, 2007). However this taxon does not belong to the L. telsen group as expected. Instead
+it belongs to the L. fitzingerii clade. Therefore, the sibling species described here denotes the absence of L. hermannunezi in Argentina.
+The taxon Liolaemus boulengeri was originally described by Koslowsky (1898). That description included
+material collected by Koslowsky himself in Chubut Province (Argentina) and some specimens collected by Santiago Roth in Neuquén Province. The description of terra typica is vague, mentioning “Territorios del Neuquén y
+Chubut”. This situation brought some unwanted errors, such as considering that similar, but different taxa resembling L. boulengeri, were named or catalogued as L. boulengeri but they actually are different taxa. After a series of
+confusing episodes, the distribution range of L. boulengeri was recorded from San Juan to Santa Cruz Provinces by
+Liebermann (1939); and Neuquén, Río Negro and Chubut by Gallardo (1971). Later Cei (1973), establishes the
+range extension from Santa Cruz to Mendoza. Aditionally, Gallardo (1971) and Cei (1973, 1986) comment on the
+variation and different color patterns in the populations of L. boulengeri, concluding that these populatons show
+“singular” characteristics but not strongly enough to separate into different species. Later, Abdala (2003) described
+three new species (L. inacayali, L. tehuelche and L. martorii) formerly considered L. boulengeri. Abdala (2005b)
+redescribes L. boulengeri, restricting the range distribution to cental west Chubut. In addition, Abdala (2005b)
+described two new taxa, L. josei from Mendoza and L. senger from southwest Chubut and Northwestern Santa
+Cruz. Similarly to the above, this species was also confounded with L. boulengeri, late this taxon was confounded
+with L. loboi (Abdala and Lobo, 2006). Therefore, the second species described here belongs to the L. telsen group
+and occurs in central and northwest Neuquén Province.
+In the last case, Liolaemus melanops Burmeister, was considered to occur in south Rio Negro and North central
+Chubut Provinces (Cei, 1980, 1986; Cei and Scolaro, 1983; Avila and Morando, 1998; Scolaro, 2005; Scrocchi et
+al., 2010). Additionally, L. goetschi Müller and Hellmich, was sinonimized as L. melanops (Cei and Scolaro, 1977)
+and later revalidated (Cei and Scolaro, 2003; Abdala, 2007; Nori et al., 2010). At present, the known distribution of
+L. melanops is restricted to a part of Chubut (Sierra de Quele Curá and surrounding region) and Río Negro (North
+of Quele Curá hills) (Abdala, 2007, Scrocchi et al., 2010). The remaining populations, formerly named as L. melanops, were actually undescribed taxa (e.g., Cruz et al., 2005). The third species described here occurs in the center
+
+2 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+and south of Rio Negro Province, Argentina and, based on the phylogenetic arrengement made in this study,
+belongs to the L. melanops group sensu Abdala (2007).
+By describing three new taxa, new morphological evidence arise, needing a new phylogenetic analysis to elucidate how all these species are related. For this reason, besides describing three new taxa belonging to the L. melanops group, we perform a new morphology based phylogenetic analysis that also gives support to these findings.
+We also provide a key for males of the species belonging to the L.melanops group.
+
+Materials and Methods.
+The examined specimens are adults belonging to the Liolaemus melanops group of species (Appendix I).
+In addition to the described taxa, we include the following species in the matrix: Liolaemus abaucan
+Etheridge, L. anomalus Koslowsky, L. boulengeri, L. calchaqui Lobo and Kretschmar, L. canqueli Cei, L. casamiquelai Avila, Perez, Morando and Sites, L. chehuachekenk Avila, Morando and Sites, L. cuyanus Cei and Scolaro, L. crepuscularis Abdala and Díaz Gómez, L. darwinii, L. ditadai Cei, L. donosobarrosi Cei, L. dorbignyi
+Koslowsky, L. espinozai Abdala, L. fitzingerii Dúmeril and Bibron, L. goetschi, L. grosseorum Etheridge, L. huacahuasicus Laurent, L. inacayali Abdala, L. josei Abdala, L. kingii Bell, L. koslowskyi Etheridge, L. laurenti
+Etheridge, L. lavillai Abdala and Lobo, L. lentus Gallardo, L. lineomaculatus Boulenger, L. loboi Abdala, L. mapuche Abdala, L. martorii Abdala, L. melanops, L. morenoi Etheridge and Christie, L. multicolor Koslowsky, L. multimaculatus Dúmerill and Bibron, L. nigriceps Philippi, L. olongasta Etheridge, L. ornatus Koslowsky, L.
+pseudoanomalus Burmeister, L. quilmes Etheridge, L. rothi Koslowsky, L. sagei, L. salinicola Laurent, L. senguer
+Abdala, L. scapularis Laurent, L. tehuelche Abdala, L. telsen Cei and Scolaro, L. uspallatensis Macola and Castro,
+L. wiegmannii Dúmerill and Bibron, L. xanthoviridis Cei and Scolaro and L. sp. 1, L. sp. 7, L. sp. 9 of Abdala
+(2007).
+We studied characters regularly used for Liolaemus, described or cited by Laurent (1985); Etheridge (1993,
+1995, 2000), Cei (1986), Lobo (2001), and Abdala (2007). We follow Smith’s (1946) terminology for our descriptions of squamation and Frost (1992) for neck-fold terminology. Sexual maturity was assessed as a combination of
+body size and the presence of secondary sexual characteristics (see Valdecantos et al., 2007; Valdecantos and Lobo,
+2007). Color in life was based on field observations and digital pictures taken at the moment of capture. The color
+pattern terminology follows Abdala (2007). Scales counting and body measurements were taken under a binocular
+microscope (Boeco, Germany, 10–40x) and a digital vernier caliper (Mitutoyo, Japan, precision 0,02 mm).
+Specimens were collected by hand or noose. After examining the specimens, they were euthatinazed with a
+Penthotal-sodium overdosis, fixed in formalin 10% and later transferred to ethanol 70%. All specimens were
+deposited in the Colección Herpetológica de la Fundación Miguel Lillo (FML). We also studied specimens from
+the following museums and collections; Museo de Ciencias Naturales de La Plata (MLP), Museo de Ciencias Naturales de Salta (MCN) and Museo Argentino de Ciencias Naturales de Buenos Aires (MACN) (Apendix I).
+For the phylogenetic analysis, we used a morphology based matrix following Abdala (2007), later modified by
+Juarez Heredia (2011). The matrix was formed by 55 terminal taxa and 142 characters, 33 were continuous and 109
+discrete. The latter were discriminated into binary non polymorphic, binary polymorphic, multistate non polymorphic and multistate polymorphic. Multistate characters were discriminated as additive (postulated as transformation
+series from the character states) and non additive (considering one step or cost for the transformation between character states). Polymorphic and binary characters (Wiens, 1995) were treated as such and the program analyzed
+them in the same way as missing characters “?”, given that binary polymorphic characters present two states, “0”
+and “1”. Polymorphic multistate characters were treated with the values found in the matrix for each taxon.
+We used the Parsimony criterium for the phylogenetic analysis as the optimally criterion that searches the number of trees with the smaller number of steps and with the lesser number of homoplasies.
+We used TNT 1.0 software (Tree Analysis Using New Technology, version 1.0; Goloboff et al. 2003) to perform the phylogenetic analysis that also allows the analysis of continuous characters without the need of transforming them into discreet characters as for example the Thiele method (1993) after Goloboff. et al. (2006).
+The continuous characters were scored following the methodology proposed by Goloboff et al. (2006), where
+the continuous characters were analyzed 'as such', avoiding its discretization. For each character, the terminals were
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+3
+
+assigned a range (mean ± sd) to account for the variation. As the continuous characters were taken under different
+scales, a procedure known as standarization or scaling was used to avoid some characters having more influence
+than others in the analysis. The standarization was made using a script (mkstandb.run) for the software TNT (available from P. Goloboff). We run permutation of branches using TBR (Tree Bisection Reconnection) command.
+The matrix was treated using the “implied weighting method” (Goloboff, 1993). This method uses the formulae Fi = K/K + Esi (K = constant of 0.1 to infinit, Esi = number of extra steps for the character) and acts in favor of
+the characters less homoplastic. In this study, we gave K a value of 3; 6; 9 and 12. For each search, 500 replications
+were done.
+
+Results
+The phylogenetic results obtained here have been used to provide evidence in the species´ description included
+here. However, they constitute a new phylogenetic hypothesis for the Liolaemus boulengeri group, and it includes
+evidence that may help to understand the relationships among the species of the study group. It also helps to determinate synapomorphies supporting the sub-clades. The diagnosis presented below are based in the phylogenetic
+analysis obtained in this work.
+The three species described here belong to the Liolaemus boulengeri group characterized by the presence of
+the femoral patch of enlarged scales on the posterior ventral thigh (Etheridge, 1995; Abdala, 2007), showing also
+hypertrophy of the flexor tibialis internus muscle (Abdala et al., 2006). The L. boulengeri group includes the following groups: L. anomalus, L. darwinii, L. wiegmannii and L. melanops. Thus, we used a major diagnosis of the
+species groups to assess to which group each new species belongs to. For the three species described here, tail is
+longer than snout-vent length, the head is longer than wider, the palpebral “comb” is not developed, none of these
+species have pterigoid teeths and males and females have a higher number of precloacal pores differently of those
+species belonging to the L. anomalus group, thus none of the three species described here belong to the latter
+group. The species described here are different from the members of the L. darwinii group because they have
+expanded sides of teeth crowns of the posterior tooth, they lack a dark transversal line over the supecircilars scales,
+eyes and subocular. Finally, the three species described here are different from the species belonging to the L. wiegmannii group by possessing a single line of loreolabial scales instead of two or three (as in the L. wiegmannii species group) and by having four scales contacting the mental scale (six in the L. wiegmannii group). Therefore, the
+three species described here belong to the L. melanops group, by having light blue scales on the flanks and tail, by
+having a black margin on the posterior border of the paravertebrals spots and by lacking the characteristics of the
+above-mentioned groups (Abdala, 2007).
+The species belonging to the Liolaemus melanops group are found mainly in eastern Patagonia, Argentina.
+Only one species does not occur in the patagonic phytogeographic region sensu Cabrera and Willink (1980), i.e., L.
+cuyanus, which is found in the monte phytogeographic Province (from Catamarca to La Pampa, Argentina).
+According to Abdala (2007), the L. melanops group is formed by 26 described species and two subclades are recognized, the L. telsen and L. goetschi groups (Abdala, 2007). The L. goetschi group is also divided in two subgroups, the L. fitzingerii and the L. cuyanus groups. Based on a morphylogy matrix, the L. melanops group is
+always recovered in the parsimony analisis, showing the same species composition as in Abdala (2007), except for
+L. chehuachekenk (Avila et al., 2008, L. puelche (Avila et al., 2007) and L. casamiquelai (Avila et al., 2010).
+The Liolaemus melanops group is supported by 10 apomorfies as follows: number of ventral scales, number of
+cephalic dorsal scales (from the occiput to the rostral scale), number of scales from the occiput to the medium line
+between hind limbs, number of fringes on the fourth toe, number of precloacal pores in males, the relationship
+between head width and snout-vent length (SVL), posterior borders of teeths expanded forming a crown, lateral
+specs on the mid body with posterior white borders or bands and paravertebral specs bordered in black. For further
+details, see Table 1 for comparison among the new taxa and other members of the Liolaemus melanops group.
+
+4 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+5
+
+Midbodyscales
+
+61-70
+(65.1)
+
+58-72
+(65.6)
+
+59-70
+(65.1)
+
+63-74
+(68.1)
+
+70-79
+(75.7)
+
+64-79
+(71.8)
+
+69-75
+(72.0)
+
+65-73
+(68.9)
+
+68-76
+(71.5)
+
+62-72
+(66.3)
+
+66-77
+(71.8)
+
+65-79
+(71.7)
+
+62-76
+(69.1)
+
+59-70
+(63.7)
+
+Character/Species
+
+Liolaemus
+dumerili
+
+Liolaemus
+purul
+
+Liolaemus
+tromen
+
+Liolaemus
+boulengeri
+
+Liolaemus
+canqueli
+
+Liolaemus
+casamiquelai
+
+Liolaemus
+chehuachekenk
+
+Liolaemus
+cuyanus
+
+Liolaemus
+fitzingerii
+
+Liolaemus
+goetschi
+
+Liolaemus.
+hermanunnezi
+
+Liolaemus
+inacayali
+
+Liolaemus
+josei
+
+Liolaemus
+loboi
+
+94-113
+(101.8)
+
+92-105
+(99.1)
+
+107-118
+(112.6)
+
+¿?
+
+90-104
+(98.3)
+
+114-136
+(122.9)
+
+103-117
+(111.3)
+
+99-116
+(106)
+
+98-119
+(108.8)
+
+115-129
+(118.8)
+
+92-108
+(100.3)
+
+96-109
+(102.4)
+
+96-106
+(101.6)
+
+88-96
+(93.9)
+
+Ventral
+Scales
+
+63-73
+(67.1)
+
+67-81
+(73.1)
+
+73-85
+(79.2)
+
+¿?
+
+68-78
+(72.7)
+
+68-84
+(76)
+
+60-71
+(67.1)
+
+73-81
+(77.5)
+
+71-84
+(78.3)
+
+68-78
+(73.8)
+
+73-83
+(77.0)
+
+67-75
+(70.4)
+
+64-83
+(71.6)
+
+72-80
+(76.6)
+
+Dorsal
+Scales
+
+72.7
+
+73.1
+
+75.3
+
+64.1
+
+74.2
+
+110
+
+104.3
+
+98.3
+
+106.2
+
+99.6
+
+69
+
+82.5
+
+77.1
+
+80.9
+
+Max. SVL
+
+06-09
+
+04-10
+
+08-10
+
+07-09
+
+04-08
+
+08-12
+
+06-10
+
+07-10
+
+07-12
+
+06-09
+
+07-12
+
+07-09
+
+07-10
+
+06-10
+
+Precloacal
+pores
+
+Evident
+
+Evident
+
+Evident
+
+Evident
+
+Slightly
+
+No
+
+Slight
+
+No
+
+No
+
+No
+
+Evident
+
+Slight
+
+Evident
+
+Slightly
+
+Sexual
+dichromatism
+
+Yes
+
+No
+
+No
+
+Yes
+
+Yes
+
+Absent
+
+Absent
+
+Present
+
+Absent
+
+Absent
+
+Yes
+
+Present
+
+Yes
+
+Yes
+
+Pre- and
+postscapular
+black spots
+(males)
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Normal
+
+Wide
+
+Normal
+
+Normal
+
+Wide
+
+No
+
+Short
+
+No
+
+Absent or short
+
+Antehumeral
+arc
+
+Several
+
+Abundant
+
+No
+
+No
+
+Abundant
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Abundant
+
+Few
+
+Light blue
+or light
+green scales
+on the flanks
+(males)
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+Yes/No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+Yes
+
+Light blue
+scales on
+tail sides
+(males)
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Low or
+Absent
+
+Yes
+
+No
+
+No
+
+Yes
+
+No
+
+Jaw
+melanism
+(males)
+
+TABLE 1: Comparison of character states among the species of the L. melanops group and L. dumerili sp. nov. L. purul sp. nov. and L. tromen sp. nov.
+
+No
+
+Yes/No
+
+Extended
+
+Yes
+
+Band
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Extended
+
+Yes
+
+Extended
+
+Yes
+
+Gular
+melanism
+(males)
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Present
+
+Present
+
+Present
+
+No
+
+Only in
+males
+
+No o slightly
+
+no
+
+Cloacae and
+HL melanic
+
+……continued on next page
+
+No
+
+No
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+Yes/No
+
+Ventral
+melanism
+(males)
+
+6 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+Midbodyscales
+
+65-76
+(69.7)
+
+64-74
+(69)
+
+66-85
+(73.6)
+
+65-71
+(68.1)
+
+68-74
+(71)
+
+84-102
+(88.4)
+
+63-74
+(68.4)
+
+64-74
+(68.5)
+
+74-84
+(77.5)
+
+64-75
+(69.2)
+
+Character/Species
+
+Liolaemus
+mapuche
+
+Liolaemus
+melanops
+
+Liolaemus
+morenoi
+
+Liolaemus
+puelche
+
+Liolaemus
+rothi
+
+Liolaemus
+sagei
+
+Liolaemus
+senguer
+
+Liolaemus
+tehuelche
+
+Liolaemus
+telsen
+
+Liolaemus
+xanthoviridis
+
+TABLE 1. (continued)
+
+103-119
+(113.5)
+
+94-116
+(106.1)
+
+93-107
+(99.3)
+
+94-109
+(101.0)
+
+110-124
+(118.3)
+
+96-113
+(103.6)
+
+98-105
+(101.8)
+
+98-113
+(107.6)
+
+95-104
+(99.6)
+
+94-117
+(108.1)
+
+Ventral
+Scales
+
+73-78
+(76.2)
+
+83-96
+(88.8)
+
+65-79
+(73.3)
+
+69-82
+(75.7)
+
+85-98
+(90.6)
+
+66-78
+(70.33)
+
+64-73
+(68.3)
+
+69-84
+(73.1)
+
+73-84
+(77.5)
+
+70-86
+(76.2)
+
+Dorsal
+Scales
+
+101.2
+
+68.8
+
+74.2
+
+62.3
+
+92.8
+
+92.0
+
+88.6
+
+88.4
+
+79.7
+
+84.2
+
+Max. SVL
+
+06-11
+
+07-09
+
+07-11
+
+07-10
+
+07-11
+
+07-09
+
+06-08
+
+07-10
+
+08-10
+
+06-09
+
+Precloacal
+pores
+
+No
+
+Evident
+
+Evident
+
+Evident
+
+Slightly
+
+Evident
+
+Slightly
+
+No
+
+Yes
+
+Yes
+
+Sexual
+dichromatism
+
+Absent
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+Pre
+
+Present
+
+Absent
+
+Present
+
+Pre- and
+postscapular
+black spots
+(males)
+
+Very Wide
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Normal
+
+Normal
+
+Absent
+
+Antehumeral
+arc
+
+Yes
+
+No
+
+Abundant
+
+No
+
+Abundant
+
+No
+
+No
+
+No
+
+Yes
+
+Yes
+
+Light blue
+or light
+green scales
+on the flanks
+(males)
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+Yes
+
+Light blue
+scales on
+tail sides
+(males)
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Only in
+males
+
+No
+
+Jaw
+melanism
+(males)
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+Absent or
+slightly
+
+Yes
+
+Yes
+
+Yes
+
+Gular
+melanism
+(males)
+
+Yes
+
+No
+
+Slightly
+
+No
+
+No
+
+No
+
+No
+
+Yes
+
+Yes
+
+No
+
+Ventral
+melanism
+(males)
+
+Present
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Presnt or
+Absent
+
+Only in
+males
+
+No
+
+Cloacae and
+HL melanic
+
+Liolaemus tromen sp. nov.
+Figs 1–4
+2007 Liolaemus hermannunezi Abdala C.S. and A. S. Quinteros, Cuad. Herp. 21 (2):119.
+2009 Liolaemus hermannunezi Tulli M. J., F.B. Cruz, A. Herrel, B. Vanhooydonck, and V. Abdala, Zoology 112: 379–392.
+Holotype.— FML 17735: Km 140 of provincial route 21.7 km North of Huecú, El Cholar departament, Neuquén Province,
+Argentina.: C. Abdala, C. Robles and R. Juárez Cols. 21/I/2006.
+Paratypes.— FML 17731 – 734 and FML 17736: Same locality and date of the holotype.
+FML 22386–87: near Tromen volcano, Chos Malal departament, Neuquén, Argentina. 37°04'56,8"S 70°06'15,5"W, 2189 m.
+Abdala, Quinteros, Scrocchii, and Stazzonelli cols. 15/II/2007.
+
+Diagnosis. Liolaemus tromen belongs to the L. melanops group. Within this group, the new species differenciates
+from L. boulengeri, L. donosobarrosi, L. goetschi, L. hermannunezi, L. inacayali, L. josei, L. loboi, L. martorii, L.
+melanops, L. puelche, L. rothi, L. sagei, L. senguer, L. tehuelche and L. telsen, because it shows a short antehumeral band that is not longer than the superior line of forelimbs, absent in the above-mentioned species. It also differenciates from the species belonging to the L. telsen group (except for L. rothi and L. sagei), because L. tromen
+has a larger snout-vent length (SVL) of 82.5 mm versus the SVL in the species of L. telsen group (62.3 – 77.1 mm).
+It is different from Liolaemus mapuche by having four scales contacting mental scale (four to six in L. mapuche), by having a more expanded melanic ventral surface and by the absence of light blue scales on mid body and
+tail. It is different from L. cuyanus, because it is smaller (max SVL 82.5 mm, whereas L. cuyanus is 102 mm), four
+scales in contact with mental scale (six in L. cuyanus) and by a broader ventral melanism.
+The new species segregates from the Liolaemus fitzingerii group (L. fitzingerii, L. canqueli, L. casamiquelai, L.
+chehuachekenk, L. fitzingerii, L. morenoi and L. xanthoviridis), by its strong sexual dichromatism, absent in all
+species except for L. melanops. Moreover, it is also remarkably shorter in SVL (maximum SVL 82.5 mm in L.
+tromen vs. 88.4–110 mm in the other species), has a short antehumeral band, never wide or expanded and never
+going further than the superior line of the forelimbs. Liolaemus tromen is different from L. canqueli, L. casamiquelai, L. fitzingerii, and L. xanthoviridis because it shows evident pre and postscapular spots. Comparing it to L. melanops, L. tromen is differnt by lacking cephalic melanism, the presence of the mentioned pre and postscapular spots
+and males are never green in L. tromen.
+Description of the Holotype. Adult male. SVL 80.2 mm. Trunk length 35.5 mm. Head longer (17.4 mm) than
+wide (14.0 mm). Head height 10.3 mm. Eye diameter 5.51 mm. Interorbital distance 8.4 mm. Orbit–auditory
+meatus distance 6.22 mm. Auditory meatus height 3.3 mm; 2.1 mm wide. Orbit–commissure of mouth distance
+2.43 mm. Internares 2,74 mm. Subocular scale 4.84 mm. Femur length 15.8 mm, tibia 16.6 mm, and foot 25.1 mm.
+Humerus length 12.1 mm, radio length 10.5 mm, and hand 12.9 mm, base of the tail 9.19 mm, tail length 97.8 mm.
+Dorsal surface of the head smooth with 17 scales. Rostral wider than high, bordered by eight scales. Mental larger
+than rostral, trapezoidal and bordered by four scales. Nasal not in contact with rostral. Four internasals. Nasal scale
+surrounded by seven scales, separated from canthal scale by two scales. Four scales between frontal and supercilliaries. Eight scales between frontal and rostral. Frontal divided in four. Two postrostrals. Interparietal smaller than
+parietals, contacting with eight scales. Orbital semicircles complete. Five supraoculars. Preocular separated from
+lorilabial row by one scale. Three scales in anterior margin of auditory meatus. Twelve smooth temporals. Seven
+lorilabials, two of them in contact with subocular scale. Seven supralabials, none in contact with subocular. Five
+infralabials, second in contact, ventrally, with two scales. Six chinshields, second pair separated by two scales.
+Seventy scales around midbody. Sixty-nine round, imbricate, and keeled dorsals from occiput to hind limbs.
+Lateral scales keeled, some keels less evident and some scales smooth. One hundred and nine, ventrals flat and
+imbricated scales. Thirteen scales in pigal region. Thirty-nine smooth weakly imbricate gulars. Eight precloacal
+pores. Antehumeral scales flat, larger in size than dorsals. Postauricular, rictal, and longitudinal folds present.
+Scales on the longitudinal fold granular and smooth. Fourth finger with 20 subdigital lamellae; fourth toe with 31.
+Infracarpals flat, imbricate, and not trifid. Infratarsals flat, imbricate, and not trifid. Teeth crown shaped, with three
+expanded and deep cuspids.
+Color in life. Figs 1–2. Dorsal head light brown in Liolaemus tromen with some scales and small darker spots.
+Flanks in the head are lighter than dorsum and show less dark spots. Subocular scale white with dark spots.
+On the trunk there is a series of eight subsquare paravertebral spots. Laterally there are two series of five lateral
+spots in black color and irregular shape. Dorsal background color, light brownish with yellowish, the latter is more
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+7
+
+evident on flanks of the trunk. There are no vertebral lines or dorsolateral bands. Two large and evident black scapular maculi, they are short vertical bars. The prescapular is larger than the postscapular. Antehumeral band short
+and wide. Fore and hindlimbs are light brownish with scarce dark spots and few dark scales. Dorsally, the tail on
+the proximal part is the same color as the trunk, and turns lighter at the cloaca level with more yellowish marks.
+The flanks of the tail are light yellow colored with very few dark spots.
+Ventrally, the head is light cream without spots, but the throat, chest, belly, tail, cloaca and limbs are totally
+melanic. The femoral patch is light yellow. The gular melanic region extends to the neck in contact to the antehumeral band. Ventrally the tail is light yellow without spots.
+
+FIGURE 1: Liolaemus tromen. Holotype. On Km140 of provincial route 21, 7 km North of Huecú, El Cholar departament,
+Neuquén province, Argentina.
+
+FIGURE 2: Liolaemus tromen. Holotype. Ventral View.
+
+Variation (based on seven specimens) Figs. 3–4.
+Table 2 shows variation between sexes.
+Snout-vent length 61.6–82.5 mm (X = 73.9; SD = 8.5). Head length 13.2–17.4 mm (X = 15.6; SD = 1.7), width
+10.9–14.0 mm (X = 12.6; SD = 1.3). Interorbit distance 6.8–9.6 mm (X= 8.4; DS= 1.0). Humerous length 9.1–12.3
+(X= 11.1; DS= 1.2). Radio length 8.4–10.6 (X= 9.7; DS= 1.0). Auditory meatus height 2.1–4.2 (X= 2.9; DS= 0.6),
+wide 1.3–2.3 (X= 1.9; DS= 0.4). Axilla-groin distance 26.9–40.0 mm (X = 33.8; SD = 4.9). Femur length
+11.5–15.8 (X= 13.7; DS= 1.5). Tibia length12.6–17.8 (X= 15.1; DS= 1.7). Tail length 77.0–107.9 mm (X = 96.3;
+SD = 12.8). Midbody scales 59–70 (X =65.1; SD = 3.8). Dorsal scales, 67–75 (X = 70.1; SD = 2.7) between
+occiput and anterior surface of thighs. Dorsal head scales 14–18 (X = 15.8; SD =1.5). Ventrals 96–109 (X = 102.4;
+SD = 4.1). Scales around interparietal 6–8 (X = 7.0; SD = 0.6). Five to eight (X = 6.2; SD = 1.0) enlarged supraoculars. Ten to twelve (X =10.8; SD = 1.0), smooth temporals. Auricular, longitudinal and antehumeral fold present.
+Gulars 32–40 (X = 35.3; SD = 3.3). Supralabials 6–7 (X = 6.5; SD = 0.5). Infralabials 4–7 (X =5.6; SD = 1.0).
+
+8 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+Scales around nasals 5–7 (X = 6.1; SD = 0.6). Six to eight scales between rostral and frontal (X = 7.0; SD = 0.7).
+Five to seven lorilabials (X = 7.0; SD = 0.9). From two to four lorilabials in contact with the subocular scale. Subdigital lamellae on fourth finger 18–22 (X = 20.3; SD =1.4); on fourth toe 25–31 (X = 26.8; SD = 2.6). Precloacal
+pores 7–9 in males (X= 8.0; SD=0.8), absent in females.
+
+FIGURE 3: Liolaemus tromen. Paratype. adult male from type locality.
+
+FIGURE 4: Liolaemus tromen. Paratype. adult female from type locality.
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+9
+
+TABLE 2: Differences between males and females, of three new species.
+Species
+
+L. purul
+
+L. dumerili
+
+L. tromen
+
+Character
+
+Males
+
+females
+
+Males
+
+females
+
+Males
+
+females
+
+Scales around midbody
+
+58–72
+
+61–70
+
+61–71
+
+64–74
+
+66–70
+
+59–64
+
+ventrals
+
+96–106
+
+96–112
+
+88–120
+
+97–114
+
+100–109
+
+96–106
+
+Dorsals
+
+66–78
+
+65–83
+
+63–84
+
+70–84
+
+69–75
+
+67–70
+
+Precloacal pores
+
+7–10
+
+0
+
+7–9
+
+0–2
+
+7–9
+
+0
+
+Maximum SVL(mm)
+
+77.1
+
+65.5
+
+80.9
+
+72.7
+
+80.2
+
+82.5
+
+Head length/ SVL
+
+0.21–.23
+
+0.2–.22
+
+0.2–0.22
+
+0.19–0.2
+
+0.2–.22
+
+0.2–0.21
+
+Body width/ length
+
+1.74–2.33
+
+1.57–1.96
+
+1.71–2.24
+
+2.16–2.44
+
+1.44–1.83
+
+1.63–2.22
+
+Noticeably, sexual dichromatism is ventral, whereas dorsally there are no differences to denote between the
+sexes. Head color is variable, from dark grey to dark brown, in both sexes. Some specimens show a strait dark wide
+line that goes from the occipital region to the eyes. This character is absent in other individuals (particularly in the
+Holotype, Fig. 3). The dorsal background color is light brown or greyish. In males, on the medium dorso, there is a
+more intense yellow, also on the flanks. Remarkably, this was also observed in an adult female but lighter. Pre and
+postscapular bands marked and black. Antehumeral band short and generally wide. No vertebral line or dorsolateral bands. Black paravertebral spots irregularly shaped, subsquare or circular, which in females are paler with
+noticeable brown reddish scales in the middle of the paravertebral spots. The paravertebral spots in the middle
+trunk are larger, in some cases, so extended that they almost contact the lateral spots of the body. These paravertebral spots are also dark and at the midbody they tend to be Y shape. In two females, we saw white scales on the
+posterior margin of the paravertebral spots. Midbody flanks are spotless with a yellowish coloration. Tail coloration
+dorsally maintains the same color of the body, turning yellowish when it goes to the tip.
+Ventrally there is an evident strong dichromatism, males show a melanic phase in the neck, chest, belly and in
+some individuals melanism reaches cloaca and limbs. Gular melanism in males extends to the neck, contacting to
+the larger prescapular spot. Background color is only visible where no melanic scales are present. Conversely,
+females are light colored ventrally, with some dark scales on the neck and chest. Tail is ventrally yellowish in
+females and yellowish to greenish in males.
+Distribution. Fig. 5. This species is known from the type locality, 7 km N from Huecú, Department El Cholar,
+and the nearby Tromen Volcano, Department Chos Malal, Neuquén, Argentina. These localities are 65 km apart
+from each other and it is possible that several populations of the same species may be found in between these localities. There is a possibility that this species is limited to an elevation at the base of the mountains of Neuquén.
+Natural History. Liolaemus tromen sp. nov was observed in an area scattered with large bushes with meteorized substrate and considerable medium to large rocks (in both localities). This species was always associated to
+the dominant bushes at the study sites. The type of soil is sandy, mixed with basaltic rocks. Liolaemus tromen sp
+nov. is sympatric to Diplolaemus sexinctus, Homonota sp., Leiosaurus belli, Liolaemus cf. elongatus, L. ceii and
+Phymaturus dorsimaculatus.
+It is possible that like other members of the Liolaemus melanops group, Liolaemus tromen is oviparous and
+mainly insectivorous-omnivorous. The daily activity in adults is greater between 12:00 and 15:00 hs, when sand
+reaches its highest temperature. No other data on the natural history of this species is known.
+Etymology. The species is named after the Tromen Volcano, Neuquén Province, Argentina. Tromen means
+“totora” or “cloudy or shady place” in the mapuche language.
+
+10 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+FIGURE 5: Map showing the locations of the new species and species with which they were confused, of the provinces of
+Neuquen and Rio Negro, Argentina and Chile. Black circle: Liolaemus tromen sp. nov. Black triangle: Liolaemus purul sp. nov.
+Black square: Liolaemus dumerili sp. nov. White circle: Liolaemus melanops. White square: Liolaemus loboi. White triangle:
+Liolaemus boulengeri. White diamond: Liolaemus hermannunezi. Arrows show the type localities.
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+11
+
+Liolaemus purul sp. nov.
+Figs. 6–9
+1986 Liolaemus boulengeri. J. M. Cei. M. Mus. Reg. Sci. Nat. Torino Monogr. 4: 220.
+2003 Liolaemus cf. boulengeri Etheridge R. and M. Christie, J. Herpetol. 37 (2): 325–342.
+2006 Liolaemus loboi Abdala C.S. and J. F. Lobo, Herpetol. Rev. 37 (1): 107.
+2007 Liolaemus boulengeri Pincheira-Donoso, D., J. A. Scolaro and J. A. Schulte II, Zootaxa, 1452: 25–42.
+Holotype.- FML 24153 (FBC 1694): 6 km N of San Ignacio, on the way to Zapala National Route 40, Department La Rinconada, Neuquén Province, Argentina. 39° 50´ 54.4" S 70° 39´ 52.6" W 1071 m. C. Abdala, M. Bonino, F. Cruz, L. Moreno
+Azócar , R. V. Semhan Cols. 3/XII/2009.
+Paratypes.— FML 24154 – 163: Same locality and data of the holotype.
+FML 24164–165: toward Primeros Pinos on provincial route 13, Department Zapala, Neuquén Province, Argentina. 38° 52´
+16.1" S 70° 19´ 17.9" W. 1275 m. C. Abdala, M. Bonino, F. Cruz, L. Moreno Azócar , R. V. Semhan Cols. 2/XII/2009.–
+FML 24166–168: 41 km W of Zapala and 1 km S of provincial route 13, Department Zapala, Neuquén Province, Argentina.
+38° 51´ 14.4" S 70° 30´ 22,3" W. 1288 m. C. Abdala, M. Bonino, F. Cruz, L. Moreno Azócar , R. V. Semhan Cols. 2/XII/
+2009.–
+FML 21473–74: Parque Nacional Laguna Blanca, near Park Ranger station, Department Zapala, Neuquén Province, Argentina.
+39° 02' 38.5" S 70° 19' 36.4" W, 1272 m. C. Abdala, A. S. Quinteros, G. Scrocchi, and J. C. Stazzonelli cols. 18/XI/2007.
+FML: 21482: Parque Nacional Laguna Blanca, Department Zapala, Neuquén Province, Argentina. C. Abdala, A. S. Quinteros,
+G. Scrocchi, and J. C. Stazzonelli cols. 18/XI/2007.
+FML: 21499; 21534–35: Provincial route 46, Laguna Blanca National Park, entering gate, Department Zapala, Neuquén Province, Argentina. 39° 02' 55.8" S 70° 16' 36.2" W, 1306 m. C. Abdala, A. S. Quinteros, G. Scrocchi, and J. C. Stazzonelli
+cols. 17/XI/2007.
+FML 22211: 2 km S from Collón–Curá bridge, Department Collón-Curá, Neuquén Province, Argentina. C. S.Abdala, J. S.
+Abdala and E. Malovini cols. 18/I/2002.
+FML 22187–88: 35 km S from Collón-Curá, Department Collón-Curá, Neuquén Province, Argentina C. S.Abdala, J. S. Abdala
+and E. Malovini cols. 18/I/2002
+
+Liolaemus purul belongs to the L. melanops group. Within this group, this species differenciates from the species
+belonging to L. fitzingerii group because of its smaller SVL (L. purul maximum SVL 77.1 mm vs. 89–106 mm in
+the adult members of the L. fitzingerii group: L. canqueli, L. casamiquelai, L. chehuachekenk, L. fitzingerii, L. melanops, L. morenoi, L. xanthoviridis). The new species, L. purul, shows sexual dichromatism, body shape is not
+cylindrical (torpedo like), and it lacks the melanic antehumeral band. This new species is different from L. mapuche and L. cuyanus, because the former species is smaller (maximum SVL in L. purul 77.1 mm vs. 83 and 102 mm
+in L. mapuche and L. cuyanus, respectively); it has four scales in contact with the mental scale (six in L. cuyanus
+and between four and six in L. mapuche).
+This taxon is different from Liolaemus donosobarrosi by having different dorsally and ventrally coloration patterns and because the number of scales around midbody is lower in the new taxon (58–72 X = 65.6 vs. 79–95; X =
+85,4 in L. donosobarrosi).
+Conversely to Liolaemus goetschi, the new species has a higher number of ventral scales 96–106 (X = 101.6)
+vs. 79–89 (X = 74.2) in L. goetschi; it has four scales in contact with the mental scale (4–6 en L. goetschi). Liolaemus purul does not show paravertebral spots that forms a dark colored line with a wavy shaped white spot on the
+posterior part of each spot that is present in L. goetschi. In this new species, males are ventrally melanic, supralabials alternately light and darkly colored. Flanks and sides of the head show light blue and green scales in L. purul.
+The new taxon is distinguishible from Liolaemus hermannunezi by having a larger body size; SVL 77.1 mm vs.
+64.1 mm. in L. hermannunezi. Males in L. purul possess supralabial scales in alternated colors (light and dark).
+There are green and light blue scales at the sides of the head and midbody in L. purul and the melanic gular region
+is greater in L. purul than in L. hermannunezi. The new taxon is different from L. josei by having four scales in
+contact to the mental scale (4–6 in L. josei); it has noticeable scapular specs.
+Among other differences, L. purul is larger than L. martorii (SVL 77.1 mm vs. 67.1 mm); the new species
+lacks of dark paravertebral spots, or if present the dark line is bordered in white. The new species does not have two
+banded-shaped spots on the gular region (present in L. martorii). Males of L. purul show a clear ventral melanism;
+supralabials show alternated dark and light colored scales and light blue and greenish specs on the head sides, midbody and tail.
+
+12 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+The differences between Liolaemus purul and L. boulengeri are: larger SVL in L. purul (77.1 mm vs. 69.0
+mm), supralabials alternately dark and light colored, light blue and green scales on the sides of the head, body and
+tail. The predominance of ventral melanism is higher in L. purul than in L. boulengeri, and the former species never
+shows a reddish belly, typical of L. boulengeri.
+It differs from Liolaemus inacayali by the presence of scapular spots in males, scales light blue or greenish on
+the sides of the head, midbody and tail, absent in L. inacayali. In addition, males of L. purul exhibit ventral melanism and a lower number of ventral scales, 96–106 (X = 101.6), than L. inacayali 107–118 (X = 112.6).
+The differences between Liolaemus loboi and L. purul are: the presence of supralabials alternately dark and
+light colored, ventral melanism and light blue and green scales on the sides of the head, body and tail in the new
+taxon, absent in L. loboi.
+Liolaemus rothi is larger than L. purul (max 92.0 mm SVL vs 77.1 mm); the new species has scapular spots
+and males exhibit broad and marked melanism, all these characteristics are absent in L. rothi
+Liolaemus purul differs from L. sagei by its smaller SVL (max SVL 77.1 mm vs. 92.8 mm), a smaller number
+of ventral scales (96–106, X = 101.6, vs. 110–124, X = 118.3), and the dorsum (64–83, X = 71.6, vs. 85–98, X =
+90.6) and by possessing evident scapular specs and ventral melanism.
+The new species is different from Liolaemus senguer because it is larger in SVL (77.1 mm vs. 62.3 mm.), the
+new species has supralabials alternately dark and light colored, light blue and green scales on the sides of the head,
+body and tail. Additionally, L. senger shows a typical blue ventral coloration not present in L. purul.
+Liolaemus purul differs from L. tehuelche because males show a broader melanic surface; flank coloration is
+different, red or intense yellow in L. tehuelche and light blue or greenish in L. purul. Supralabials and infralabials
+show differences in coloration and pattern between both species.
+This new species is different from L. telsen by having a lower number of scales around the midbody (58–72; X
+= 65,6 vs. 74–84; X = 77,5), lower number of dorsal scales (64–83; X = 71,6 vs. 83–96; X = 88,8), larger SVL
+(77.1 mm vs. 68.8 mm). Liolaemus purul exhibits a more intense ventral melanism, supralabials alternately dark
+and light colored and light blue and green scales on the sides of the head, body and tail, all these characteristics are
+different in L. telsen.
+Description of the holotype. Adult male. SVL 77.1 mm. Trunk length 34.8 mm. Head longer (16.7 mm) than
+wide (13.2 mm). Head height 8.7 mm. Eye diameter 5.58 mm. Interorbital distance 9.2 mm. Orbit–auditory meatus
+distance 6.19 mm. Auditory meatus height 2.3 mm; 2.2 mm wide. Orbit–commissure of mouth distance 2.20 mm.
+Internares 3.01 mm. Subocular scale 5.44 mm. Femur length 13.8 mm, tibia 14.6 mm, and foot 21.8 mm. Humerus
+length 9.8 mm, radius length 8.8 mm, and hand 10.9 mm. Base of the tail 10.3. Tail length 104.2 mm.
+Dorsal surface of the head smooth, with 17 scales. Rostral wider than high, bordered by eight scales. Mental
+larger than rostral, trapezoidal, bordered by four scales. Nasal not in contact with rostral. Four internasals. Nasal
+scale surrounded by six scales, separated from canthal scale by two scales. Six scales between frontal and supercilliaries. Seven scales between frontal and rostral. Frontal divided in four. Two postrostrals. Interparietal is larger than
+parietals, also contacting with five scales. Orbital semicircles incomplete. Six supraoculars. Preocular separated
+from lorilabial row by one scale. Three scales in anterior margin of auditory meatus. Twelve smooth temporals.
+Seven lorilabials, two of them in contact with subocular scale. Eight supralabials, none in contact with subocular.
+Six infralabials, second in contact, ventrally, with two scales. Five chinshields, second pair separated by two scales.
+Sixty five scales around midbody. Sixty four round, imbricate, and keeled dorsals from occiput to hind limbs.
+Scales of flank same size and shape than dorsals. Ninety six ventrals, flat and imbricate. Eleven scales in pigal
+region. Thirty three smooth weakly imbricate gulars. Nine precloacal pores. Antehumeral scales flat, larger or
+equal in size than dorsals. Postauricular, rictal, and longitudinal folds present. Scales on the longitudinal fold, granular and smooth. Fourth finger with 23 subdigital lamellae; fourth toe with 27. Infracarpals flat, imbricate, and not
+trifid. Infratarsals flat, imbricate, and not trifid. Teeth crown shaped, with three deep and expanded cuspids.
+Color in life. Figs 6–7. Head dark gray on the sides and top with several scales with tiny light colored spots.
+Subocular grey greenish with dark spots. Supralabials, part of loreolabials and infralabials show alternance of light
+green or light blue with darker scales. Upper and lower temporal regions with scales and specks light blue colored.
+Trunk has two series of eleven subsquarely shaped paravertebral stains and two series of five lateral black spots.
+Dorsum and flanks of body are yellow-brownish, speckled with numerous intense green, light blue and yellow
+scales. The vertebral region has a discontinuous longitudinal line of light yellow scales. There is no vertebral line
+or dorsolateral band; vertebral line or dorsolateral band when present are not notorious. There are two large black
+scapular spots on each side, the prescapular one larger than the postscapular. There is also a small spot, but sharply
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+13
+
+FIGURE 6: Liolaemus purul. Holotype. 6 km N of San Ignacio on the way to Zapala National Route 40, La Rinconada departament, Neuquén province, Argentina.
+
+FIGURE 7: Liolaemus purul. Holotype. Ventral view.
+
+14 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+marked previous to the prescapular spot. Together, the scapular spots form a pseudo vertical band. Fore and hind
+limbs are light grey, forelimbs with numerous colored scales same as the flanks. Thighs, upperly and anteriorly
+covered with light blue scales. Tail dorsally and laterally grayish at the base, but suddenly turns yellow until the tip.
+There are several green and light blue scales on the lateral sides of the tail.
+Jaw region is ventrally melanic with pale spots close to the infralabials. Throat and chest and the medial part of
+the abdomen are totally melanic. Adyacent to the great ventral melanic region the coloration is light blue, then turning light yellow to the laterals. Cloacae, hind and forelimbs and base of the tail are light blue, then the tail turns yellow on the sides and white on the ventral side; there are also a few black scales and specks irregularly distributed.
+Variation (based on twenty four specimens). Figs. 8–9.
+Variation between males and females is shown in Table 2.
+Snout-vent length 59.2–77.1 mm (X = 67.0; SD = 6.7). Head length 12.0–17.2 mm (X = 14.4; SD = 1.6), width
+9.8–13.7 mm (X = 11.1; SD = 1.2). Interorbit distance 6.1–8.4 mm (X= 7.2; DS= 0.7). Humerus length 8.2–10.9
+(X= 9.3; DS= .7). Radius length 6.9–9.3 (X= 7.9; DS= 0.8). Auditory meatus height 1.5–3.0 (X= 2.2; DS= 0.5),
+width 1.1–2.2 (X= 1.6; DS= 0.4). Axilla-groin distance 25.6–35.3 mm (X = 30.2; SD = 3.3). Femur length 8.2–14.5
+(X= 12.4; DS= 1.8). Tibia length 9.1–15.7 (X = 12.7; DS= 1.9). Tail length 77.6–104.2 mm (X = 92.99; SD = 10.8).
+Midbody scales 58–72 (X =65.6; SD = 3.6). Dorsal scales, 64–83 (X = 71.6; SD = 5.0) between occiput and anterior surface of thighs. Dorsal head scales 14–19 (X = 16.5; SD =1.5). Ventrals 96–106 (X = 101.6; SD = 3.1).
+Scales around interparietal 5–9 (X = 6.7; SD = 1.0). Four to seven (X = 5.8; SD = 0.6) enlarged supraoculars. Nine
+to twelve (X =10.6; SD = 1.1), smooth temporals. Auricular, longitudinal and antehumeral fold present. Gulars
+30–36 (X = 33.7; SD = 1.7). Supralabials 6–8 (X = 6.6; SD = 0.7). Infralabials 4–7 (X =5.8; SD = 0.7). Scales
+around nasals 4–8 (X = 6.2; SD = 0.9). Six to ten scales between rostral and frontal (X = 7.1; SD = 1.1). Four to
+nine lorilabials (X = 6.6; SD = 1.5). One to four lorilabials in contact with the subocular scale. Precloacal pores
+7–10 in males (X= 8.5; SD=0.8), absent in females.
+Evident sexual dichromatism. Head in males with a singular and colorful latero-dorsal pattern; background
+color is brownish to greyish darker than the body background coloration. There are numerous irregularly distributed white and light blue scales on the top of the head too. A noticeable white straight line goes from the upper eyelids (nearby superciliar scales) to the occipital region. Some individuals possess a group of light blue and yellow
+scales that may form a larger pale area. A unique combination of specks characterizes this species, these specks are
+on the supralabials and are disposed irregularly in different pale colors (white, yellow, green, light blue) combined
+with dark ones (generally black). These arrangements of scales may reach the infralabial scales. In the majority of
+the specimens, subocular scale is white or yellow with two black edges. Body background brownish, with a reddish
+nuance, and dorsolateral and flank coloration yellow, brownish or deep reddish. On the vertebral region, a generally discontinuous white line is observed. Paravertebral spots are subsquare in shape, dark brownish or black in
+adult males. However, in juveniles or smaller males, these spots are not as dark and show some pale scales in the
+center. Some white, light blue or yellow scales are commonly observed between paravertebral spots. Pre and postcapular spots sharply black colored. Flanks speckled, generally the same color as the paravertebral spots or paler. In
+some individuals, the lateral specks on the midbody merge forming a band or arc. None of the specimens show
+black antehumeral arc, vertebral line or dorsolateral bands. The majority of the individuals show a great number of
+light blue, white or yellow small scales or spots on the dorsolateral region of the trunk. Limb color varies from grey
+to brownish with dark and pale spots irregularly distributed. Tail coloration is similar to that of the vertebral region,
+but turns to yellow or light brown distally. The flanks of the tail show noticeable scales colored in light blue, green
+or yellow. Ventrally, the tail is white yellowish.
+Ventrally, males are markedly melanic on the jaw, gular region, chest, belly and cloaca. The throat melanism
+may expand to the neck. Adult males show light blue scales on the anterior part of the thighs. Probably melanism
+extends with aging, some juvenile show a pale colored jaw (white, yellow, light blue).
+Females show the typical coloration of this sex in the Liolaemus telsen species group. Head is grey or brownish
+with some darker spots on the top or the sides. Trunk is light brown or pale grey. Scapular spots are present, but
+paler than in males. Paravertebral specks subsquare, anteriorly pale brownish, then the middle intensely black,
+forming an arc and, posteriorly there is a small white spot. Like other females of the species belonging to the L.
+telsen group, L. purul females show pale orange stains in between the paravertebral spots. Lateral spots similar to
+paravertebral ones; like in males, spots on the midbody tend to expand to the belly. Some females show yellow or
+reddish scapular spots; it is possible this coloration is related to different reproductive stages. Tail is also typical of
+females within the L. telsen group; paravertebral spots merge in the center, brownish with black edges and surrounded by brownish-reddish bands. Ventrally, females are spotless white.
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+15
+
+FIGURE 8: Liolaemus purul. Paratype. adult male from Parque Nacional Laguna Blanca, nearby Parkranger station, Zapala
+departament, Neuquén province, Argentina.
+
+FIGURE 9: Liolaemus purul. Paratype. adult female from type locality.
+
+16 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+Distribution. Fig. 5. This species occurs in central Neuquén Province, Argentina. It was collected from North of
+Zapala on National Route 40, near crossroad with provincial route 13 (located 40 km E from Primeros Pinos) to 35 km
+from Collón Curá to the South. It is likely that other populations remain undiscovered between both localities.
+Natural History. Liolaemus purul sp. nov was observed while basking over medium-sized rocks. Once they
+were chased, they escaped to the closest vegetation (usually a bush) and tried to hide by staying motionless or running from shaded to sunny spots. We observed Diplolaemus sexcinctus basking on the same type of rocks; however, the latter species moved quickly beneath the same rock, contrary to what was observed in the new taxon
+described here. Apparently this species is oviparous and mainly insectivorous, although some vegetable material is
+ingested. In the National Park Laguna Blanca, this species shares the general steppe habitat with other lizards: Liolaemus cf. elongatus, L. bibronii, L. ceii, Homonota darwinii, Diplolaemus sexinctus and Phymaturus querque.
+Etimology. The mapuche word “purul” means “alternated black and white colors (as on a chess board)”. This
+color pattern is present on the supralabials and is a typical feature that distinguishes this species from the rest of the
+species belonging to the L. melanops group.
+
+Liolaemus dumerili sp. nov.
+Figs. 10–13
+1975 Liolaemus melanops (partim). J. M. Cei, J. Herpetol. 9 (2): 217-222.
+1985 Liolaemus melanops (partim). Scolaro J. A.; J. M. Cei and L. Arias de Reina, Hist. Nat. 5 (2): 13–22.
+1986 Liolaemus melanops. J. M. Cei. M. Mus. Reg. Sci. Nat. Torino Monogr. 4: 220.
+2010 Liolaemus cf. melanops. Scrocchi G. J.; C. S. Abdala; J. Nori and H. Zaher. Fondo Editorial Rionegrino 252 pp.
+Holotype.— FML 24169 (FBC 1294): Sierra Colorada, on Provincial Route 212, km 23 route to Los Menucos, Río Negro Province, Argentina. 40°32´54.5" S 67°37´10.4" W. C. Abdala, M. Bonino, F. Cruz, L. Moreno Azócar Cols. II/2009
+Paratypes.— FML 24170–179: Same locality and date of the holotype.
+FML 24180 – 188: Sierra Colorada, on Provincial Route 212, km 23 route to Los Menucos, Río Negro Province, Argentina.
+40°32´54.5" S 67°37´10.4" W. C. Abdala, F. Cruz, G. Perotti, R. Semhan Cols. XII/2009.
+
+Liolaemus dumerili, belongs to the L. melanops group of species; within this group this new taxon differs from the
+species belonging to the L. fitzingerii group (L. canqueli, L. casamiquelai, L. chehuanchekenk, L. fitzingerii, L.
+melanops, L. morenoi, L. xanthoviridis) by a smaller SVL (max SVL 80.9 mm vs. 89–106 mm), sexual dichromatism is evident in the new species, and there is not a black antehumeral arc. It differs from L. mapuche, L. cuyanus
+and L. puelche, by its smaller SVL (max SVL 80.9 mm vs. 83, 102 and 89 mm, respectively) and four scales in
+contact to the mental scale (six in L. cuyanus; four to six in L. mapuche and L. puelche). The new taxon is different
+from L. donosobarrosi by the dorsal color pattern clearly different between these species and a lower number of
+scales around midbody (61–70, X = 65.1 vs. 79–95, X = 85.4).
+The new species is different from Liolaemus goetschi because it has four scales in contact to the mental scale
+(4–6 in L. goetschi), a larger SVL (max 80.9 mm vs. 74.2 mm); males present a broader ventral dark brown coloration, are sexually dichromatic. Female dorsal pattern is clearly different between species.
+Liolaemus dumerili is different from L. hermannunezi because it is larger (max SVL 80.9 mm vs. 64.1 mm); male
+dorsal pattern is different with presence of light blue or greenish scales on the flanks and tail, absent in L. hermannunezi.
+The new species is different from Liolaemus josei because it has a larger SVL (max SVL 80.9 mm vs. 73.1
+mm), it has four scales contacting the mental scale (4–6 in L. josei), evident scapular spots and a broader ventral
+dark coloration absent in L. josei.
+Liolaemus martorii and the new taxon are different by the SVL 80.9 mm in L. dumerili vs. 67.1 mm in L. martorii, the number of ventral scales are 88–96 (X = 93.9) and 97–114 (X = 105.0), respectively and dark brown ventral coloration is evident in males of L. dumerili.
+The new taxon differenciates from Liolaemus inacayali, L. martorii, L. rothi and L. sagei because it has a lower
+number of ventral scales (88–96, X = 93.9 vs. more than 96 in the mentioned species; see Table 1).
+Liolaemus dumerili is different from L. boulengeri in presenting a larger SVL (80.9 mm vs. 69.0 mm.), males
+have light blue and greenish scales on the flanks and tail, never red color in the abdomen (typical of L. boulengeri).
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+17
+
+The new species is different from Liolaemus rothi by a smaller SVL (max SVL 80.9 mm vs. 92.0 mm), it has a
+lower number of ventral scales (88–96, X = 93.9 vs. 96–113, X = 103.6), the presence of scapular spots and ventral
+coloration absent in L. rothi.
+Liolaemus dumerili and L. sagei differ in their SVL (L. dumerili max SVL 80.9 mm vs. 92.8 mm), the new species has a lower number of scales around the midbody (61–70, X = 65.1 vs. 84–102, X = 88.4), as well as ventral
+scales (88–96, X = 93.9 vs. 110–124, X = 118.3) and dorsal scales (72–80, X = 76.6 vs. 85–98, X = 90.6). The new
+species has scapular spots and males show a broader dark brown ventral coloration, absent in L. sagei.
+The differences between the new taxon and L. senguer are: SVL, larger in L. dumerili (80.9 mm vs. 62.3 mm),
+males have light blue and greenish scales on the flanks and tail, broader ventral melanism and abdomen is never
+blue as in L. senguer.
+The new species is different from L. inacayali by the presence of scapular spots, males have light blue and
+greenish scales on the flanks and absent on tail; in L. inacayali, and a lower number of ventral scales in L. dumerili
+(88–96, X = 93.9 vs. 107–118, X = 112.6).
+The new taxon is different from L. loboi because it has a lower number of ventral scales (88–96 X = 93.9 vs.
+94–113 X = 101.8), a larger SVL (max SVL 80.9 mm vs. 72.7 mm), a different pattern of coloration in females and
+because males show gular melanism.
+Liolaemus dumerili is different from L. tehuelche in SVL, being the new taxon larger (max SVL = 80.9 mm vs.
+74.2 mm.); there is a different dorsal color pattern and the jaw in the new taxon, which is not melanic in L. dumerili.
+is the new species is different from L. telsen by a larger SVL (80.9 mm vs. 68.8 mm.), a lower number of scales
+around midbody (61–70 X = 65,1 vs. 74–84; X = 77,5), dorsum (72–80 X = 76,6 vs. 83–96; X = 88,8) and the presence of light blue or green scales on the flanks and tail.
+Description of the holotype. Adult male, SVL 78.0 mm. Left arm partially absent, probably as a consequence
+of predation failure. Trunk length 35.9 mm. Head longer (15.9 mm) than wide (11.8 mm). Head height 8.7 mm.
+Eye diameter 5.9 mm. Interorbital distance 8.4 mm. Orbit–auditory meatus distance 4.8 mm. Auditory meatus
+height 2.8 mm; 2.1 mm wide. Orbit–commissure of mouth distance 2.0 mm. Internares 2.7 mm. Subocular scale
+5.25 mm. Femur length 14.9 mm, tibia 16.1 mm, and foot 22.4 mm. Humerus length 10.2 mm radio length 9.6 mm,
+and hand 10.8 mm. Base of tail 9.9 mm. Tail length 96.1 mm.
+Dorsal surface of the head smooth, with 17 scales. Rostral wider than higher, bordered by eight scales. Mental
+smaller than rostral, trapezoidal, bordered by four scales. Nasal not in contact with rostral. Four internasals. Nasal
+scale surrounded by eight scales, separated from canthal scale by two scales. Four scales between frontal and
+supercilliaries. Six scales between frontal and rostral. Frontal divided in four. Two postrostrals. Parietal larger than
+interparietals, in contact with seven scales. Orbital semicircles complete. Seven supraoculars. Preocular separated
+from lorilabial row by one scale. Three scales in anterior margin of auditory meatus. Eleven smooth temporals. Six
+lorilabials, three of them in contact with subocular scale. Eight supralabials, none in contact with subocular. Six
+infralabials, second in contact, ventrally, with two scales. Six chinshields, second pair separated by three scales.
+Seventy scales around midbody. Eighty four round, imbricate, and keeled dorsals from occiput to hind limbs.
+Scales of flank same sized and shaped than dorsals. Ninety nine ventrals, flat and imbricate. Fourtheen scales in
+pigal region. Thirty six smooth and weakly imbricate gulars. Nine precloacal pores. Antehumeral scales flat, larger
+or equal in size than dorsals. Postauricular, rictal, and longitudinal folds present. Scales on the longitudinal fold
+granular and smooth. Fourth finger with 16 subdigital lamellae; fourth toe with 27. Infracarpals flat, imbricate, and
+trifid. Infratarsals flat, imbricate, and trifid. Teeth crown-shaped, with three deep, expanded cusps.
+Color in life. Figs 10–11. Dorsally and on the sides, the head is brownish with small dark specks and many
+yellowish scales, light blue and green. Subocular white with a dark spot on the posterior part and a diffuse spot on
+the anterior part. Temporal region with two sharp black lines that runs from the eye to the timpanum on one side
+(right) and to the neck (left).
+Body surface is brownish with several spots green, light blue and yellow colored mainly on the flanks. Trunk
+with a series of 11 pairs of black and square shaped paravertebral spots that may be very close to each other or fuse
+in the vertebral region. Each paravertebral spot has a yellow line on the posterior side. There is no vertebral line or
+dorsolateral bands.There are two notorious black and big scapular spots; postscapular is slightly larger than the
+prescapular. Both scapular spots are bordered by yellow and green scales. Limbs are light brown with several green
+and yellow scales. On the flanks there are brownish diffuse specks bordered with yellow, green and in a smaller
+number, light blue scales; these colored scales are irregularly distributed. Tail slightly light brown, plus several yellow, green and light blue scales.
+
+18 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+FIGURE 10: Liolaemus dumerili. Holotype. Sierra Colorada, on Provincial Route 212, km 23 route to Los Menucos, Black
+River, Argentina.
+
+FIGURE 11: Liolaemus dumerili. Holotype. Ventral view.
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+19
+
+Jaws are light colored. Throat, posterior part of the chest and belly show an irregular melanism. Cloaca, limbs,
+base of the tail ventrally light colored (cream ivory). On the cloaca and hindlimbs some scales and small black
+spots can be seen.
+Variation (based on 20 pecimens). Figs. 12–14.
+Variation between males and females is shown in Table 2.
+Snout-vent length 57.3–80.9 mm (X = 71.9; SD = 7.4). Head length 11.8–17.0 mm (X = 14.6; SD = 1.6), width
+10.1–13.6 mm (X = 11.8; SD = 1.1). Interorbital distance 6.8–9.1 mm (X = 7.9; DS = 0.9). Humerus length 6.7–8.4
+(X = 8.3; DS = 1.1). Radius length 7.0–8.6 (X = 7.9; DS= 0.7). Auditory meatus height 2.3–2.7 (X= 2.6; DS= 0.2),
+width 0.8–1.5 (X= 1.2; DS= 0.2). Axilla-groin distance 31.5–44.9 mm (X = 39.4; SD = 4.2). Femur length
+10.5–15.5 (X= 13.6; DS= 2.0). Tibia length 9.7–15.6 (X= 12.8; DS= 2.0). Tail length 94.5–106.1 mm (X = 100.3
+SD = 8.2). Midbody scales 61–70 (X =65.1; SD = 3.3). Dorsal scales, 72–80 (X = 76.6; SD = 2.9) between occiput
+and anterior surface of thighs. Dorsal head scales 13–17 (X = 15.1; SD =1.5). Ventrals 88–96 (X = 93.9; SD = 3.4).
+Scales around interparietal 6–9 (X = 7.1; SD = 1.1). Six to seven (X = 6.2; SD = 0.4) enlarged supraoculars. Nine to
+eleven (X =9.8; SD = 0.9) smooth temporals. Auricular, longitudinal and antehumeral fold present. Gulars 30–40
+(X = 35.1; SD = 3.4). Supralabials 6–10 (X = 7.8; SD = 1.3). Infralabials 5–8 (X =6.3; SD = 0.9). Scales around
+nasals 6–8 (X = 7.2; SD = 0.8). Five to siX scales between rostral and frontal (X = 5.7 SD = 0.4). Seven to nine
+lorilabials (X = 7.9; SD = 0.6). Three to five lorilabials in contact with the subocular scale. Subdigital lamellae on
+fourth finger 17–21 (X = 18.2; SD =1.0); on fourth toe 24–28 (X = 26.5; SD = 1.6). Precloacal pores 6–10 in males
+(X= 7.4; SD=1.4), absent in females.
+Notorious sexual dichromatism. Males with variable head color from greyish, brownish both pale and dark,
+even some individuals yellowish on the sides. Most of the individuals with white, yellowish end even green scales
+and specks in the occipital and temporal regions, also on the posterior section of supralabials and loreolabials. A
+straight dark line from the upper eyelids (superciliar region) to the occipital passing through the temporal region.
+Dorsal body color from pale brown to dark brown, in some juvenile males dorsum is brown-reddish to orange. No
+vertebral line. Paravertebral spots subsquare in shape, anteriorly with a dark brown or black line forming a V shape
+cut. In some cases, paravertebral spots merge forming transversal bands. The posterior side of each paravertebral
+spots presents a bulky pale speck (white or yellow). These specks may have two different shapes, a transversal line
+(in this case, it may reach the flanks) or divided in two subsquare or circular specks (in this case, they may merge
+with the contiguous paravertebral spot). There is a recurrent tiny speck previous to each paravertebral spot. Two
+individuals show fused or almost fused paravertebral spots as in the case of the holotype. In between paravertebral
+specks, it is common to observe some pale scales. No dorsolateral bands are present in this species. Antehumeral
+arc short and narrow in most of the specimens, while in others, it is absent. Pre and postscapular specks black, generally the postscapular is larger. Generally these scapular spots have a small pale spot anteriorly and a tiny one posteriorly. A few specimens do not have spots on the flanks, while others have the flanks covered by specks slightly
+smaller and paler than paravertebral spots. These spots contact to the scapular and the paravertebral spots. On the
+sides of the body, there are spots and scales of light blue, green, white or yellow. In some cases spots are so abundant that the background color is different from grey or brownish. Limbs vary from grey to brownish with pale and
+dark specks irregularly distributed. Paravertebral spots continue over the tail and merge to paler spots resembling
+rings. On the sides of the tail several light blue, green or yellow bright scales.
+Ventrally adult males show a strong melanism in the gular region, that may extend to the pectoral and abdominal region. The outer ventral region is white, yellow or reddish. Tail is ventrally white or yellowish. Juveniles and
+small males present a reduced melanic ventral surface, suggesting that melanism grows with age.
+In females, head is grey or brownish, turning paler on trunk. Scapular specks are paler than those present in
+males. Paravertebral spots are subsquared in shape with a discolored speck on the posterior part, which, as in
+males, may extend to the laterals and are partially split. On the anterior part of the paravertebral spot, there is a
+noticeable brown-reddish or brown-orange speck. Lateral spots, when present, resemble parevertebral spots. Tail
+shows the same pattern observed in males. Ventrally, females are inmaculate white.
+Distribution. Fig. 5. This species is only known for the type locality, nearby Sierra Colorada, Río Negro,
+Argentina.
+Natural History: Liolaemus dumerili sp. nov is observed in a typical Monte region, in association with large
+bushes such as Larrea, Lycium and Schinus. The soil is compact and reddish. They bask in the bare soil but always
+close to the bushes or in sun-spots within the bushes, and when chased, they hide in bushes, remaining motionless,
+ocasionally hiding in burrows. Presumably this species is oviparous and omnivorous as other members of the clade.
+
+20 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+FIGURE 12: Liolaemus dumerili. Paratype. adult male from type locality.
+
+FIGURE 13: Liolaemus dumerili. Paratype. adult male from type locality. Ventral View.
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+21
+
+FIGURE 14: Liolaemus dumerili. Paratype. adult female from type locality.
+
+Etymology. This species is dedicated to the French naturalist and zoologist André Marie Constant Duméril
+(1774 - 1860). Professor Duméril, teached anatomy, herpetology and ichthiology at the Muséum National d'Histoire Naturelle of Paris from 1801 to 1812. He published numerous and important papers, among which the
+remarkable Erpétologie générale ou Histoire naturelle complète des reptiles in which 1,393 species were
+described, detailing their anatomy, physiology and literature. Together with Gabriel Bibron, Duméril described
+seven new species of Liolaemus, among them L. cyanogaster, L. fitzingerii, L. multimaculatus, L. pictus, L. signifer,
+L. tenuis and L. wiegmannii.
+
+Discussion.
+The Liolaemus melanops group is supported by a total evidence phylogenetic analysis (Abdala, 2007). Together with
+the L. laurenti and L. anomalus groups, the L.melanops group form the L. boulengeri series is known for the presence
+of a femoral patch, belonging to the Eulaemus subgenus (Laurent, 1986; Schulte et al., 2000; Abdala).
+In the present phylogenetic analysis, the Liolaemus anomalus group of species (Abdala, 2007) is always recovered as sister group of the L. wiegmannii group (Fig. 15) contrasting to the results of Abdala (2007). This arrangement is supported in other studies, such as Schulte et al. (2000); Espinoza et al. (2004), Morando (2004), Avila et
+al. (2006; 2008; 2010), all of these based on molecular data, and Lobo and Abdala (2002) and Juarez Heredia
+(2011) based on analysis performed with morphological characters. It has to be said that the latter studies (except
+for Juarez Heredia, 2011) used Liolaemus pseudoanomalus as the only member of the L. anomalus group. In Juarez
+Heredia (2011), the proposed hypothesis includes the L. anomalus group within the L. boulengeri series, making
+the L. chacoensis group (anomalus group + boulengeri sensu stricto group) and the L. laurenti group (formed by L.
+darwinii and L. wiegmannii groups) in Abdala (2007) paraphyletic (Fig. 16).
+We performed several analysis under implied weighting, using different k values and the mkstandb (values 2 or
+4) for continuous characters. Figure 15 exhibits one of these hypotheses (k = 3; mkstandb = 2) obtained for the L.
+boulengeri group is similar to the majority of the obtained hypotheses in the present analysis. The main topology of
+
+22 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+the resulting tree is partially consistent with the hypothesis of Abdala (2007) (Fig. 16). However, the L telsen and L.
+cuyanus groups show a different species composition. In the case of the L. fitzingerii group, the structure is similar
+to Avila et. al. (2006) and Abdala (2007) (Figs. 15 –16).
+
+FIGURE 15: Phylogenetic relationships of the Liolaemus melanpos group from the analysis in this study.
+
+The Liolaemus telsen group was proposed by Abdala (2007) and modified by Nori et al. (2010) where the position of species varied, for example in L. goetschi, L. josei and L. martorii. In the present analysis, the L. telsen
+group is also modified, comprising the following species: L. boulengeri, L. donosobarrosi, L. josei, L. martorii, L.
+purul, L. senguer, L. tehuelche, L. telsen, L. sp 1 (Fig. 15). However, species such as L. inacayali, L. loboi, L. rothi
+and L. sagei present in the L. telsen group in Abdala (2007) and Nori et al. (2010) were not recovered in the present
+study. This hypothesis is congruent with Morando (2004) and Avila et al. (2006) who proposed that the groups
+“boulengeri” and “rothi” were sister groups. Before that, Cei (1986) considered L. boulengeri as a member of the
+L. darwinii group, but this hypothesis is not supported in several studies (e. g. Avila et al., 2006; Abdala, 2007, and
+this study).
+One of the species described here, Liolaemus purul, is always recovered within the L. telsen group and is the
+sister species of L. telsen (Fig. 15).
+Another species described here, Liolaemus dumerili, previously confused with L. melanops, in some analyses
+appears as sister taxon to L. purul within the L. telsen group, but in the majority of the analyses (80 %) it is recovered as a basal species of the L. goetschi group (formed by L. cuyanus and L. fitzingerii clades), together with L.
+inacayali, L. rothi and L. sagei. Thus, in the majority of the analyses, L. dumerili forms the following structure (L.
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+23
+
+inacayali (L. dumerili (L. rothi + L. sagei) + (goetschi group))) (Fig. 15). It is possible that there are still several
+species to be described not yet included in this phylogenetic analysis, and therefore it is probable to obtain more
+stability for the consistency of the L. telsen group and other related species. Thus, it is probable that after including
+a higher number of tip species related to the group plus an increase of characters, a new more consistent hypothesis
+of the L. telsen group may be achieved.
+Finally, Liolaemus tromen, previously confused with L. hermannunezi (Abdala and Quinteros, 2006; Tulli et
+al., 2009), also confused in the past with L. rothi (Donoso Barros, 1974; Núñez and Jaksic, 1992; PincheiraDonoso, 2003; Pincheira-Donoso and Núñez, 2005), is considered here as a new taxon. Unfortunately, it was not
+possible to use material corresponding to L. hermannunezi to perform our phylogenetic analysis. It is therefore not
+posible to know the position of this taxon within the L. melanops group.
+Liolaemus tromen remains in the same position after all the analyses. Therefore, L. tromen is related to the species belonging to the L. fitzingeri group and its position is basal (Fig. 15). The relationship (L. melanops (L. tromen
++ fitzingerii clade)) was always recovered in the analyses independently of the “K” and mkstandb values used (Fig.
+15). Thus, the topology of the L. fitzingerii group remains the same as in Abdala (2007) and Avila et al. (2006;
+2008; 2010). The node linking L. tromen to the L. fitzingerii group of species is supported by ten synapomorphies,
+as follows: (1) number of gular scales, (2) number of infradigital scales in the fourth finger, (3, 4) males and
+females without longitudinal dark spot between posterior part of eyes and occipital region, (5, 6) no anterior vertebral band in males and females, (7, 8) no lateral spots or circular spots in males and females, (9) paravertebral spots
+in males or females are not surounded by white bands posteriorly, (10) nor are the spots on the flanks.
+
+FIGURE 16: Total evidence analysis Abdala (2007) displaying the phylogenetic relationships of Liolaemus melanops group.
+
+24 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+The L. fitzingerii group obtained in the present analysis is congruent with previous studies, such as Schulte et
+al. (2000), Espinoza et al. (2004), Avila et al. (2006; 2008; 2010), Abdala (2007), Nori et al. (2010) and Juarez
+Heredia (2011). It is composed by lizard species occurring in Patagonia that are not sexually dichromatic. However, the basal species, L. melanops and L. tromen, are dichromatic. For this reason, we interpret that the lack of
+dichromatism was achieved early in the cladogenesis of the group.
+In summary, here we present three new taxa for the L. boulengeri group of species and propose a new phylogenetic hypothesis. The latter analysis is also supporting evidence for the new described taxa.
+
+Key for adult males the species belonging to the L. melanops group
+1 a- Head as long as wide, tail al long as SVL or slightly longer, palpebral “comb” developed, dorsal scales of body juxtaposed without
+keels. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (L. anomalus group)
+1 b- Head longer than wider, tail longer than SVL; palpebral “comb” non developed; dorsal scales of body juxtaposed or imbricate scales
+with or without keels . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2 a- Posterior teeths in the maxila straight not expanded . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2 b- Posterior teeths in the maxilla with an expanded crown, never straight . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+3 a- Evident transversal line across the eyelids; a single layer of loreolabial scales; four scales in contact to mental scale . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (L. darwinii group)
+3 b- Without transversal line across eyelids, two layers of loreolabial scales, six scales contacting the mental scales . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . (L. wiegmannii group)
+4 a- Wide, melanic and noticeable antehumeral arc or band, it runs over the superior line of forelimbs and expands ventrally . . . . . . . 5
+4 b- No antehumeral arc or a short one, never runs over shoulders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+5 a- Conspicuous dorsal cephalic melanism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+5 b Head without or unconspicuous cephalic melanism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+6 a- Head melanism more noticeable on the sides, dorsally bright green or light green, tail blue-greenish; melanic paravertebral transversally deployed specks wider in the center; ventrally melanic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. melanops
+6 b- Head laterally and dorsally melanic, body dorsally yellow (sometimes light orange) with transversal paravertebral melanic lines;
+ventrally melanic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. canqueli
+7 a- Scapular region with pre and postscapular spots . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+7 b- Scapular region without spots . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+8 a- Vertebral field absent or slightly evident, never in contact to paravertebral scales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+8 b- Wide and evident vertebral field in contact to parevertebral scales; with pre and postescapular specks . . . . . . L. chehuanchekenk
+9 a- Mental in contact to four, five or six scales, dorsal body color light blue, green olive or brownish, melanic throat; ventrally
+melanic, yellow, light blue or grey . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+9 b- Always six scales contacting mental scale, dorsal color brownish or grey; gular melanic or dark brown band complete, ventrally
+white or yellowish . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .L. cuyanus
+10 a- Four scales in contact to mental scale; fading scapular specks; ventrally melanic as well as hindlimbs and cloaca. . . . L. morenoi
+10 b- Four to six scales in contact to mental scale; evident scapular spots; ventrally yellow, light blue or grey . . . . . . . . . .L. mapuche
+11 a- Antehumeral arc “normal” never reaching the ventral region of members; dorsally with regularly disposed spots, without melanism of the jaw . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+11 b- Antehumeral arc “very wide”, reaching the ventral region between forelimbs; dorsum with several irregularly disposed specks;
+melanic jaw . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. xanthoviridis
+12 a- Paravertebrales spots form transversal lines, fused to lateral specks and forming continuous bands; no dorsolateral bands; head
+and body grey or brownish with some paints in yellowish-green. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. casamiquelai
+12 b- Paravertebral spots forming a longitudinal line; dorsolateral bands red and/or paravertebral specks also red; head grey or intense
+red; dorsally background light blue greenish with red specks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. fitzingerii
+13 a- Scapular region without spots . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+13 b- Scapular region with pre and postscapular spots . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+14 a- Gular melanism present . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+14 b- Without gular melanism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+15 a- Paravertebral spots slightly visible, faded; extended melanic throat; ventrally yellow; without light blue scales to the sides of the
+tail; four scales contacting mental scale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. inacayali
+15 b- Marked paravertebral spots; gular melanism not expanded; ventrally white with red specks; light blue scales present at the sides
+of the tail; four to six scales in contact to the mental scale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. josei
+16 a- Paravertebral spots fused to the laterals forming a bat-like spot; background dorsal color light brownish; ventrally grey with yellow tones, laterally light yellow . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. sagei
+16 b- Paravertebral spots fused, but not to laterals, no bat-like spots observed; background dorsal color dark grey or brown-reddish;
+ventrally light grey with sides light grey. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. rothi
+17 a- Prescapular spot present . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+17 b- Prescapular spot absent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .L. puelche
+18 a- Supralabials uniformely colored, never alternating dark and light colors; thighs without light blue scales or spots . . . . . . . . . . 19
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+25
+
+18 b- Supralabials with alternated dark and light colored scales; thighs with light blue spots or scales . . . . . . . . . . . . . . . . . . . L. purul
+19 a- Jaws region never show evident melanism. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+19 b- Jaws always show evident melanism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. tehuelche
+20 a- Light blue scales on the sides of the tail . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+20 b- Tail sides never show light blue scales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+21 a- Paravertebral spots subsquare shape or a transversal line to the body, never half moon shaped or with a V shape; no light blue
+scales between the paravertebral scales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+21 b- Paravertebral scales half moon or V shaped; numerous light blue scales between paravertebral spots . . . . . . . . L. donosobarrosi
+22 a- Head and body flanks speckled with several yellow, light green or light blue scales; gular or pectoral melanism; posterior border
+of paravertebral spots notably white . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. dumerili
+22 b- Head and body flanks speckled never with yellow, light green or light blue scales; gular or pectoral melanism absent; posterior
+border of paravertebral spots non evidently white . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+23 a- Band shaped gular melanic spot; tail ventrally uniformely colored. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+23 b- Gular melanism absent; tail ventrally yellow, more intense near the cloaca and fading to the tip . . . . . . . . . . . . . . . . . . . .L. loboi
+24 a- Numerous light blue scales on the flanks and tail sides, four to six scales in contact to mental; larger than 70 mm SVL. . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. goetschi
+24 b- Few light blue scales on the flanks and tail sides, four scales in contact to mental; shorter than 70 mm SVL . . . . . . . L. martorii
+25 a- Ventral melanism present . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+25 b- Ventral melanism absent . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. hermannunezi
+26 a- Without antehumeral arc . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+26 b- Antehumeral arc present . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. tromen
+27 a- Gular melanism shaped as an incomplete band or difuse, never extended towards the pectoral region; ventral coloration never red
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+27 b- Gular melanism intense, extended to the pectoral and jaw regions; ventrally red. . . . . . . . . . . . . . . . . . . . . . . . . . . . L. boulengeri
+28 a- Ventrally light blue or blue greyish . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L. senguer
+28 b –Ventrally yellowish or whitish, never blue . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .L. telsen
+
+Acknowledgments
+We are grateful to R. Etheridge, F. Lobo and M. Halloy for comments on early drafts of this manuscript. We thank
+E. Lavilla and S. Kretzschmar (FML), F. Lobo (MCN), J. Williams (MLP), J. Faivovich (MACN) and R. Etheridge
+(SDSU) for giving us access to collections under their care. We appreciate the field assistance of G. Perotti, G.
+Scrocchi, J. C. Stazonelli, R. Espinoza, S. Barrionuevo, M. J. Tulli, and J. S. Abdala. We acknowledge the
+provincial Departments of Fauna of Neuquen, Chubut and Río Negro for providing collecting permits. DLMA, MB
+and RS were supported by a graduate fellowship from CONICET. Part of this study was supported by Consejo
+Nacional de Investigaciones Científicas y Técnicas to F. Lobo (PIP 5982), F. Cruz (PIP 6287) and E. Lavilla (PIP
+5780 and PIP 2422) and ANPCyT (PICT 01205) to FBC.
+
+Cited Literature
+Abdala, C.S. (2002) Nuevo Liolaemus (Iguania: Liolaemidae) perteneciente al grupo boulengeri de la provincia de Neuquén,
+Argentina. Cuadernos de Herpetología, 16, 3–14.
+Abdala, C.S. (2003) Cuatro nuevas especies del género Liolaemus (Iguania: Liolaemidae), pertenecientes al grupo boulengeri, de
+la Patagonia, Argentina. Cuadernos de Herpetología, (1–2), 3–32.
+Abdala, C.S. (2005a). Una nueva especie del género Liolaemus perteneciente al complejo darwinii (Iguania: Liolaemidae) de la
+provincia de Catamarca, Argentina. Revista Española de Herpetología, 19, 5–17.
+Abdala, C.S. (2005b) Dos nuevas especies del Género Liolaemus (Iguania: Liolaemidae) y redescripción de Liolaemus boulengeri
+(Koslowsky, 1898). Cuadernos de Herpetología, 19 (1), 3–33.
+Abdala, C.S. (2007) Phylogeny of the boulengeri group (Iguania: Liolaemidae, Liolaemus) based on morphological and molecular
+characters. Zootaxa, 1538, 1–84.
+Abdala C.S. & Lobo, F. (2006) Nueva especie para el grupo de Liolaemus darwinii (Iguania: Liolaemidae) del noroeste de Argentina. Cuadernos de Herpetología, 19 (2), 3–18.
+Abdala, C.S. & Quinteros, S. (2007) Liolaemus hermannunezi Pincheira-Donoso et al., 2007 (Iguania, Liolaemidae). Cuadernos
+de Herpetología, 21, 119.
+Abdala, C.S., Quinteros, A.S. & Espinoza, R.E. (2008) Two new species of Liolaemus (Iguania: Liolaemidae) from the Puna of
+Northwestern Argentina. Herpetologica, 64, 458–471.
+Abdala, C.S., Acosta, J.C., Cabrera, M.R,. Villavicencio, H.J. & Marinero, J. (2009) A New Andean Liolaemus of the L. montanus
+Series (Squamata: Iguania: Liolaemidae) from Western Argentina. South American Journal of Herpetology, 4, 91–102.
+Abdala, C.S. Quinteros, A.S. Scrocchi, G.J. & Stazzonelli, J.C. (2010) Three new species of the Liolaemus petrophilus group
+
+26 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+(Iguania: Liolaemidae) from Argentina. Cuadernos de Herpetología, 24 (1), 25–40.
+Abdala, C.S. Quinteros, A.S., Arias, F., Portelli, S. & Pallavechino, A. (2011) A new species of the Liolaemus darwinii group
+(Iguania: Liolaemidae) from Salta Province, Argentina. Zootaxa, 2968, 26–38.
+Abdala, V., Abdala, C.S. & Tulli, M.J. (2006) Three traditional muscular characters in the phylogeny of Liolaemus (Squamata:
+Tropiduridae) a reappraisal. Zootaxa, 1205, 55–68.
+Avila, L.J. & Morando, M (1998) Geographic distribution. Liolaemus melanops. Herpetological Review, 29, 174
+Avila, L.J., Morando, M. & Sites, J.W. Jr (2006) Congeneric phylogeography: hypothesizing species limits and evolutionary processes in Patagonian lizards of the Liolaemus boulengeri group (Squamata: Liolaemini). Biological Journal of the Linnean
+Society, 89, 241–275.
+Avila, L.J., Morando, M., Fulvio Perez, C.H. & Sites, J.W. JR (2007). A new species of Liolaemus (Reptilia: Squamata) from
+southwestern Mendoza Province, Argentina. Zootaxa, 1452, 43–54.
+Avila, L.J., Morando, M. & Sites, J.W. Jr (2008) New species of the iguanian lizard genus Liolaemus (Squamata, Iguania, Liolaemini) from central Patagonia, Argentina. Journal of Herpetology, 42, 186–196.
+Avila, L.J., Fulvio Perez, C.H., Morando, M. & Sites, J.W. Jr (2010) A new species of Liolaemus (Reptilia: Squamata) from
+southwestern Río Negro Province, northern Patagonia, Argentina. Zootaxa, 2434, 47–59
+Cabrera, A.L. & Willink, A. (1980) Biogeografía de América Latina. Secretaría General de la Organización de los Estados Americanos (OEA), Departamento de Asuntos Científicos y Tecnológicos, Monografía 13 (Serie de Biología), 122 pp.
+Cei, J.M. (1973) Herpetología patagónica. VII. Notas ecológicas y morfólogicas sobre Liolaemus bibroni y L. boulengeri (Sauria,
+Iguanidae). Physis (Buenos Aires) (C), 32, 459–469.
+Cei, J.M. (1975) Herpetología patagónica IX. Liolaemus goetschi y el conjunto Liolaemus darwini-boulengeri. Physis (Buenos
+Aires) (C), 34, 199–202.
+Cei, J.M.. (1980) L’identité des syntypes de Proctotretus fitzingeri Duméril et Bibron, 1837. Bulletin Museum National d’Historie
+Naturelle (Paris) Ser. 4, A2, 317–320.
+Cei, J.M. (1986) Reptiles del centro, centro-oeste y sur de la Argentina. Herpetofauna de las zonas áridas y semiáridas. Museo
+Regionale di Scienze Naturali, Torino, Monografie IV, 527 pp.
+Cei, J.M. & Scolaro, J.A. (1977) Herpetología patagónica. XIII. La identidad de Liolaemus goetschi y de la forma melanops del
+groupo Liolaemus fitzingeri, en Río Negro y Chubut. Physis (Buenos Aires), 36, 225–226.
+Cei, J.M. & Scolaro, J.A. (1983) Una nueva forma geográfica de Liolaemus kingi de Santa Cruz, Argentina (Lacertilia, Iguanidae). Neotropica, 29, 209–214.
+Cei, J.M. & Scolaro, J.A. (1999). Speciation of the "darwinii complex" (genus Liolaemus, "patch group") in the southernmost
+area of its distribution (Reptilia: Tropiduridae). Revue francais de Aquariologie, 26, 79–82.
+Cei, J.M. & Scolaro, J.A. (2003) Rectificación Taxonómica y Nomenclatural del presente status del Taxón Liolaemus melanops
+Burmeister 1888. Facena, 19,163–164.
+Donoso-Barros, R. (1974) Nuevos reptiles y anfibios de Chile. Notas herpetológicas. Boletín de la Sociedad de Biología de Concepción (Chile), 48, 217–229.
+Espinoza, R.E., Wiens, J.J. & Tracy, C.R. (2004) Recurrent evolution of herbivory in small, cold–climate lizards: breaking the
+ecophysiological rules of reptilian herbivory. Proceedings of the National Academy of Sciences, USA 101, 16819–16824.
+Etheridge, R.E. (1993) Lizards of the Liolaemus darwinii complex (Squamata: Iguania: Tropiduridae) in northern Argentina. Bollettino del Museo Regionale di Scienze Naturali, Torino, 11, 137–199.
+Etheridge, R.E. (1995) Redescription of Ctenoblepharys adspersa Tschudi, 1845, and the taxonomy of Liolaeminae (Reptilia:
+Squamata: Tropiduridae). American Museum of Natural History Novitates, 3142, 1–34.
+Etheridge, R.E. (2000) A review of the Liolaemus wiegmannii group (Squamata, Iguania, Tropiduridae), and a history of morphological change in the sand-dwelling species. Herpetological Monographs, 14, 293–352.
+Etheridge, R.E. (2001). A new species of Liolaemus (Reptilia: Squamata: Liolaemidae) from Mendoza Province, Argentina.
+Cuadernos de Herpetología, 15, 3–15.
+Etheridge, R.E. & Christie, M. (2003) Two new species of the lizard genus Liolaemus (Squamata: Liolaemidae) from northern
+Patagonia, with comments on Liolaemus rothi. Journal of Herpetology, 37, 325–341.
+Etheridge, R. & Espinoza, R.E. (2000) Taxonomy of the Liolaeminae (Squamata: Iguania: Tropiduridae) and a semi-annotated
+bibliography. Smithsonian Herpetological Information Service, 126, 1–64.
+Frost, D. (1992) Phylogenetic analysis and taxonomy of the Tropidurus group of lizards (Iguania: Tropiduridae). American
+Museum Novitates, 3033, 1–68.
+Gallardo, J.M. (1971) Algunas ideas sobre la zoogeografía de los saurios patagónicos. Revista Museo Argentino de Ciencias Naturales Ecologica, 4, 135–146.
+Goloboff, P. (1993) Estimating character weights during tree search. Cladistics, 9, 83–91.
+Goloboff, P., Farris, J. & Nixon, K. (2003) T.N.T.: Tree Analisis Using New Technology. Program and documentation, available
+from the authors, and at www.zmuc.dk/public/phylogeny.
+Goloboff, P.A., Mattoni, C.I. & Quinteros, A.S. (2006) Continuous Characters Analyzed as Such. Cladistics, 22, 589–601.
+Juarez Heredia V. I. (2011). Revisión Taxonómica y Filogenética del grupo de Liolaemus anomalus (Iguania: Liolemidae). Tesina
+de grado, Universidad Nacional de Tucumán, 132 pp.
+Koslowsky, J. (1898) Enumeración sistemática y distribución de los reptiles argentinos. Revista Museo La Plata, 8, 161–200.
+Laurent, R.F. (1985) Segunda contribución al conocimiento de la estructura taxonómica del género Liolaemus Wiegmann (Iguanidae). Cuadernos de Herpetología, 1, 1–37.
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+27
+
+Laurent, R.F. (1986) Descripciones de nuevas Iguanidae del genero Liolaemus. Acta Zoologica Lilloana, 38, 87–105.
+Liebermann, J. (1939). Catálogo Sistemático y Zoogeográfico de los Lacertílidos argentinos. Physis, 16, 61–82.
+Lobo, F. (2001) A phylogenetic analysis of lizards of the Liolaemus chilensis group (Iguania: Tropiduridae). Journal of Herpetology, 11, 137–150.
+Lobo, F. (2005) Las relaciones filogenéticas en el grupo chiliensis de Liolaemus (Iguania: Liolaemidae). Sumando nuevos caracteres y taxa. Acta Zoológica Lilloana, 49, 67–89.
+Lobo, F. & Kretzschmar, S. (1996) Descripción de una nueva especie de Liolaemus (Iguania: Tropiduridae) de la provincia de
+Tucumán, Argentina. Neotrópica, 42, 33–40.
+Lobo, F. & Abdala, C. (2001) Variación morfológica en el esqueleto de Liolaemus (Iguania: Liolaemidae). Búsqueda y descripción de caracteres. Cuadernos de Herpetología, 15, 119–135.
+Lobo, F. & Abdala, C.S. (2002) La información cladística de un set de datos morfológicos en lagartos del Género Liolaemus
+(Iguania: Liolaemidae). Cuadernos de Herpetología, 16, 137–150.
+Lobo, F. & Espinoza, R.E. (1999) Two new cryptic species of Liolaemus (Iguania: Tropiduridae) from northwestern Argentina:
+resolution of the purported reproductive bimodality of Liolaemus alticolor. Copeia, 1999, 122–140.
+Lobo, F., Espinoza, R.E. & Quinteros, S. (2010) A critical review and systematic discussion of recent classification proposals for
+liolaemid lizards. Zootaxa, 2549, 1–30.
+Morando, M. (2004) Sistemática y Filogenia de grupos de Especies de los Géneros Phymaturus y Liolaemus (Squamata: Tropiduridae: Liolaeminae). Tesis Doctoral Universidad Nacional de Tucumán.
+Morando, M. Avila, L.J. & J.W. Sites Jr (2003) Sampling strategies for delimiting species: genes, individuals, and populations in
+the Liolaemus elongatus-kriegi complex (Squamata: Liolaemidae) in Andean-Patagonian South America. Systematic Biology,. 52, 159–185.
+Morando, M. Ávila, L. J. Baker, J. & W. Sites Jr (2004) Phylogeny and phylogeography of the Liolaemus darwinii complex
+(Squamata: Liolaemidae) Evidence for introgression ond incomplete lieage sorting. Evolution, 58, 842–861.
+Nori, J. Abdala, C.S. & Scrocchi, G.J. (2010) Liolaemus goetschi (Iguania: Liolaemidae): redescriptionand phylogenetic relationships within the L. boulengeri group. Zootaxa, 2440, 49–59.
+Núñez, H. & Jaksic, F. (1992) Lista comentada de los reptiles terrestres de Chile continental. Boletín del Museo Nacional de Historia Nacional. (Santiago, Chile), 43, 63–91.
+Pincheira-Donoso, D. (2003) Revisión de las especies del género Liolaemus Wiegmann, 1834 de Chile (Iguania: Tropiduridae:
+Liolaeminae). Doctoral Tesis, Universidad de Concepción, 424 p.
+Pincheira-Donoso, D., Scolaro, J.A. & Schulte, II, J.A. II (2007) The limits of polymorphism in Liolaemus rothi: Molecular and
+phenotypic evidence for a new species of the Liolaemus boulengeri clade (Iguanidae, Liolaemini) from boreal Patagonia of
+Chile, Zootaxa, 1452, 25–42.
+Pincheira-Donoso, D. (2011) Debating Liolaemidae diversity and classification, and a bit more: A response to Lobo et al. Zootaxa, 2772, 61–66.
+Pincheira-Donoso, D. & Nuñez, H. (2005) Las especies chilenas del género Liolaemus Wiegmann, 1834 (Iguania: Tropiduridae:
+Liolaeminae). Taxonomía, Sistematica y Evolución. Publicación Ocasional del Museo de Historia Natural, Chile, 59, 7–486.
+Pincheira-Donoso, D., Scolaro, J.A. & Sura, P. (2008) A monographic catalogue on the systematics and phylogeny of the South
+American iguanian lizard family Liolaemidae (Squamata, Iguania). Zootaxa,1800, 1–85.
+Pincheira-Donoso, D. & Scolaro, A. (2007) Iguanian species richness in the Andes of boreal Patagonia: Evidence for an additional
+new Liolaemus lizard from Argentina lacking precloacal glands (Iguania, Liolaeminae). Zootaxa, 1452, 55–68.
+Quinteros, A.S. & Abdala, C.S. (2011) A new species of Liolaemus of the Liolaemus montanus section (Iguania: Liolaemidae)
+from Northwestern Argentina. Zootaxa, 2789, 35–48
+Quinteros, A.S. Abdala, C.S. & Lobo, F.J. (2008) Redescription of Liolaemus dorbignyi Koslowsky, 1898 and description of a
+new species of Liolaemus (Iguania: Liolaemidae). Zootaxa, 1717, 51–67.
+Schulte, J.A. Macey, J.R. Espinoza, R.E. & Larson, A. (2000) Phylogenetic relationships in the iguanid lizard genus Liolaemus:
+multiple origins of viviparous reproduction and evidence for recurring andean vicariance and dispersal. Biological Journal of
+the Linnean Society, 69, 75–102.
+Scolaro, J.A. Cei, J.M & Arias de Reyna, A. (1985) La identidad de las especies del grupo Liolaemus fitzingeri-melanops por
+medio del análisis discriminante de caracteres morfológicos (Sauria: Iguanidae). Historia Natural, 5, 13–22.
+Scolaro, A. (2005) Reptiles patagónicos: Sur. Guía de campo. Ediciones Universidad Nacional de la Patagonia, Trelew, 80 pp.
+Scrocchi, G.J. Abdala, C.S., Nori. J. & Zaher , H. (2010). Reptiles de la provincia de Rio Negro, Argentina. Fondo Editorial Rionegrino, Viedma, 249 pp.
+Smith, H. (1946) Handbookof lizards. Lizards of theUnited Statesand of Canada. Cornell University Press, Ithaca and London,
+557 p.
+Thiele, K. (1993) The holy grail of the perfect character: the cladistic treatment of morphometric data. Cladistics, 9, 275–304.
+Tulli, M.J., Cruz, F.B., Herrel, A., Vanhooydonckd, B. & Abdala, V. (2009). The interplay between claw morphology and microhabitat use in neotropical iguanian lizards. Zoology, 112, 379–392
+Valdecantos, M.S., Lobo, F. & Martinez, V. (2007) Estimación de edades, tamaño corporal y adquisición de la madurez sexual en
+dos especies de Liolaemus (Iguania: Liolaemidae). Cuadernos de herpetología, 21, 31–44.
+Valdecantos, M.S. & Lobo, F. (2007). Dimorfismo sexual en L. multicolor y L.irregularis (Iguania: Liolaemidae). Revista Española de Herpetología, 21, 55–69.
+Wiens, J.J. (1995) Polymorphic characters in phylogenetic systematics. Systematic Biology, 44, 482–500.
+
+28 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+Appendix I
+Examined specimens
+All the localities from Appendix I correspond to Argentina Republic.
+Liolaemus abaucan: FML 2638, (Holotype). 12 km. to the South of Palo Blanco, Provincial Route 34, Tinogasta Department,
+Catamarca Province. FML 2639 (Paratypes). Same data that holotype. FML 2585. Fiambalá, Tinogasta Department, Catamarca Province. FML 1814. Virgen del Valle Grotto, Palo Blanco, 2050 m. Tinogasta Department, Catamarca Province.
+FML 2063. Medanitos, 1650 m. Tinogasta Department, Catamarca Province.
+Liolaemus anomalus: MLP. S. 785. 786 (Type Material). La Rioja Province. MLP 1270. Los Baldecitos, Valle Fértil Department, San Juan Province. MLP 017-018. Chilecito, Chilecito Department, La Rioja Province. MACN 1965. Guallapa,
+Patquía, La Rioja Province. MACN 12975-76. Ischigualasto, Valle Fértil Department, San Juan Province. MACN 199. La
+Rioja Province. FML 309. Agua de La Peña, Ischigualasto, Valle Fértil Department, San Juan Province. FML 02740.
+Talampaya, Lavalle Department, La Rioja Province. FML 00318. Guayapa, Independencia Department, La Rioja Province. MACN 558. Nonogasta, La Rioja Province. FML 19007-008. Ischigualasto, Valle Fértil Department, San Juan Province. FML 24136- 37. Ischigualasto, Valle Fértil Department, San Juan Province.
+Liolaemus boulengeri: MLP S 843, S 1047-1048, 95-96, 2172, 2177-2180, 2182-2183. S 799 (Series type), 842 (Lectotype).
+"Territories of Neuquén and Chubut." FML 15733-738. 6 km., to the east of bifurcation among National Route 40 and Provincial Route 12, by Provincial Route 12, Futaleufu Department, Chubut Province. FML 15712-713. 75 km., to the South
+of Esquel, to 200 mts of Canquel stream, on National Route 40, Futaleufu Department, Chubut Province. FML 15714-718.
+6 km. to the South of Tecka on National Route 40, Languiñeo Department, Chubut Province. FML 15722-724. 1 km. from
+bifurcation of National Route 40 and Provincial Route 17, on Provincial Route 17, in route to Corcovado, Languiñeo
+Department, Chubut Province. FML 15740-746. 100 mts from bifurcation among National Route 40 and Provincial Route
+17, on Provincial Route 17, in route to Corcovado, Languiñeo Department, Chubut Province. FML 15711. Pocitos de
+Quichaura, Languiñeo Department, Chubut Province. FML 15747-749. 11 km. to the east of Pocitos de Quichaura, Languiñeo Department, Chubut Province. FML 15707-710. 4 km. to Southeast from intersection among National Route 40
+and Provincial Route 62, on Provincial Route 62, Languiñeo Department, Chubut Province. FML 15725-732. 6 km. Northern Gobernador Costas, by National Route 40, Tehuelches Department, Chubut Province.
+Liolaemus calchaqui: FML 3082 (Holotype). Punta de Agua, 3600 m., Trancas Department, Tucumán Province. FML 2750
+(Paratypes). Same data that holotype. FML 2425 (Paratypes). Puesto El Muñoz, 3550 m., Tafi del Valle Department,
+Tucumán Province. FML 890 (Paratypes). Muñoz Hill, Puesto Muñoz, 3600 m., Tafi del Valle Department, Tucumán
+Province. CSA 282-289. Hualinchay, 3000 m., Trancas Department, Tucumán Province. FML 09745. Western Hualinchay,
+Provincial Route 352, Trancas Department, Tucumán Province.
+Liolaemus canqueli: FML 2874. Provincial route 53, 20 Km. to the Southeast of Paso de los Indios, Paso de los Indios Department, Chubut Province. FML 2915. Same locality that previous one. FML 2786. Same locality that previous one. FML
+13966-967. El Sombrero meseta, Paso de los Indios Department, Chubut Province MCN 1288-1295 Hill in front of El
+Sombrero, El Sombrero, Canquel meseta, Paso de los Indios Department, Chubut Province.
+Liolaemus casamiquelai: FML 8433, 2 Km. to Esperanza's South, 25 de Mayo Department, Rio Negro Province . MACN
+28416. Nahuel Niyeu, Rio Negro, Argentina. MACN 11274 Niyeu Refuge, Rio Negro. FML 768-74. 9.1 km. to the east of
+Maquinchao, landmark 330, of Provincial Route 23, 25 de Mayo Department, Rio Negro Province.
+Liolaemus chehuachekenk: MLP.S 2535 (Holotype). 900 m Southwest slope of Calcatapul Mountains, Ruta Provincial 13,8 km
+north of El Molle, Cushamen Department, Chubut Province. MLP.S 2536 (Paratypes). Same data as the holotype.
+Liolaemus crepuscularis: FML 1227. Mina Capillitas, 3600 m., Andalgalá Department, Catamarca Province. FML 3611. Mina
+Capillitas, Andalgalá Department, Catamarca Province. CSA 527-34. Provincial route 47, 2 Km. to the South of Capillitas,
+Puesto Flores 3100 m, Andalgalá Department, Catamarca Province.
+Liolaemus cuyanus: FML 1622. To 4 Km. of La Puerta river and 31 Km. from Tinogasta, Tinogasta Department, Catamarca
+Province. FML 1719. National route 60 to 4 Km. of La Puerta river, Tinogasta Department, Catamarca Province. FML
+3439. 4 km. Western Bermejo, on National Route 20, 690 m., Caucete Department, San Juan Province. FML 1107. Dunes
+of Mendoza surroundings, Mendoza Province. MCN 800-806. 5 km. To the North the deviation route toward Udpinango
+from route Anillaco to Señor de la Peña, S 28°42'518 ', W 66°47'552 ', Castro Barros Department, La Rioja Province. CSA
+479-490, 492. Barreal Matagusano, Ollum Department, San Juan Province.
+Liolaemus darwinii: FML 8316. Between Zapala and Bosque Petrificado, Zapala Department, Neuquén Province. FML 8579.
+Lotena Hill, Zapala Department, Neuquén Province. FML 8313. 20 km. to the North of Cervantes, General Roca Department, Rio Negro Province. FML 8386. El Cuy, El Cuy Department, Rio Negro Province.FML 8284. Chelforo, Avellaneda
+Department, Rio Negro Province. MACN 35912-13. Chata Sierra, Telsen Department, Chubut Province. MACN 3176667. Peninsula de Valdez, Biedma Department, Chubut Province. MACN 288417-20. Nahuel Niyeu, Department of Valcheta, County of Black River. MACN 28407-13. Nahuel Niyeu, Valcheta Department, Rio Negro Province. MACN
+31770-71. Sierra Grande, San Antonio Department, Rio Negro Province. MACN 32644. Sellinosa, Confluencia Department, Neuquén Province. CSA 166-70. 38 km. North of the Cuy, Provincial Route 6, Cuy Department, Rio Negro Province. CSA 243-47. 58 km. to the South of Catriel, National Route 151, General Roca Department, Rio Negro Province.
+CSA 346-53. 20 km. to the North of General Roca by National Route 6, Cuy Department, Rio Negro Province. CSA 25051, Km. 1282, 62 km. to the West of Neuquén, National Route 22, Confluencia Department, Neuquén Province. CSA 13-
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+29
+
+15. 7 km. to the South of Paso de los Indios, Zapala Department, Neuquén Province. CSA 16-20. 7 km. to the South of
+Buta Ranquil, National Route 40, Pehuenches Department, Neuquén Province. CSA 21-26. 1 Km. to the South of Barrancas, Pehuenches Department, Neuquén Province. Liolaemus ditadai: MLP 701 (Holotype). Salinas Grandes, to 4 Km.
+from the Córdoba - Catamarca limit, Tulumba Department, Córdoba Province. MLP 702–05 (Paratypes). Same data that
+Holotype. MACN 3938, Rivadavia Department Santiago del Estero Province. FML 23616- 624. Salinas Grandes,
+Tulumba Department, 29°51’10.7 S 64° 40’09.0” O, Córdoba Province.
+Liolaemus donosobarrosi: IBA-R 824 (Holotype). Matancilla, Malargue Department, Mendoza Province. FML 2770. Matancilla, Malargue Department, Mendoza Province. FML2687. Matancilla, Malargue Department, Mendoza Province. FML
+2871. Matancilla, Malargue Department, Mendoza Province. FML 02770. Matancilla, Malargue Department, Mendoza
+Province.
+Liolaemus dumerili: FML 24169 (Holotype). Sierra Colorada, on Provincial Route 212, km 23 route to Los Menucos, Río
+Negro Province, 40°32´54.5" S 67°37´10.4". FML 24170-179 (Paratypes). Same locality and date of the holotype. FML
+24180 – 188. Sierra Colorada, Sierra Colorada, on Provincial Route 212, km 23 route to Los Menucos, Río Negro Province, 40°32´54.5" S 67°37´10.4".
+Liolaemus dorbignyi: FML 1855. Saujil, Provincial Route 60, Tinogasta Department, Catamarca Province.
+Liolaemus espinozai: FML 15527 (Holotype). El Ingenio, Campo El Arenal, 67 Km. to South of Santa María by
+Provincial Route 47, 2620 m. Andalgalá Department, Catamarca Province. FML 03604 (Paratypes). El Ingenio,
+Campo El Arenal, 67 Km. to South of Santa María by Provincial Route 47, 2620 m. Andalgalá Department, Catamarca Province. FML 15528–31 (Paratypes). El Ingenio, Campo El Arenal, 67 Km. to South of Santa María by Provincial Route 47,
+2620 m. Andalgalá Department, Catamarca Province. MCN 212–213 (Paratypes). Near to El Ingenio, Campo El Arenal, in
+route to Andalgalá (Km. 1443). S 27°13'639"; O 66°I4'930." 2620 m., Andalgalá Department, Catamarca Province. MCN
+214 (Paratypes). Morro del Arenal, Campo El Arenal. 2800 m., Andalgalá Department, Catamarca Province.
+Liolaemus fitzingerii: FML 02428. Punta Maqueda, 36 Km. to the South of Comodoro Rivadavia, Puerto Deseado Department,
+Santa Cruz Province. FML 17238-39. 58 km. to the Southwest of Pico Truncado, Puerto Deseado Department, Santa Cruz
+Province. FML 17241-46. 47 km. to the South of Tres Cerros, National Route 3, Puerto Deseado Department, Santa Cruz
+Province. FML 16359-64, 443. Lourdes Grotto, Puerto Deseado, Puerto Deseado Department, Santa Cruz Province. FML
+22196-203. Cardiel Lake, National Route 40, Río Chico Department, Santa Cruz Province. FML 10092-97. 1 km. to the
+Southeast of Cardiel Lake coasts, on National Route 40, Río Chico Department, Santa Cruz Province
+Liolaemus purul: FML 24154 - 163: Same locality and data of the holotype. FML 24164-165: In direction to Primeros Pinos on
+provincial route 13, Zapala department, Neuquén Province. 38° 52´ 16.1" S 70° 19´ 17.9" W. 1275 m. FML 24166-168: 41
+km W of Zapala and 1 km S of provincial route 13, Zapala departament, Neuquén Province. 38° 51´ 14.4" S 70° 30´ 22,3"
+W. 1288 m. FML 21473-74: Parque Nacional Laguna Blanca, nearby Parkranger station, Zapala departament, Neuquén
+Province. 39°02'38.5" S 70°19'36.4" W, 1272 m. FML: 21482: Parque Nacional Laguna Blanca, Zapala departament, Neuquén Province. FML: 21499; 21534-35: Provincial route 46, PN Laguna Blanca entrante gate, Zapala departament, Neuquén Province. 39°02'55.8" S 70°16'36.2" W, 1306 m. FML 22211: 2 km S from Collón-Curá bridge, Collón-Curá
+departament, Neuquén Province. FML 22187-88: 35 km S from Collón-Curá, Collón-Curá departament, Neuquén Province.
+Liolaemus goetschi: IBA 975. 5 km. from Catriel, General Roca Department, Rio Negro Province. IBA 976. North west side of
+Auca Mahuida, 15 Km. from La Cumbre, Añelo Department, Neuquén Province. FML 21501-511. Laguna Playa - 16,9
+km from north of General Roca, General Roca Department, Río Negro Province.
+Liolaemus grosseorum: FML 2972. El Nihuil Lake reservoir, San Rafael Department, Mendoza Province. CSA 95–108. El
+Nihuil, San Rafael Department, Mendoza Province. FML 3444. (Holotype) El Nihuil, San Rafael Department, Mendoza
+Province.
+Liolaemus inacayali: FML 13221 (Holotype). To 2.3 Km. to the South from the intersection among the Provincial Routes 76
+and 23, by Provincial Route 76, to 3.4 Km. to South of Ingeniero Jacobacci, 41° 20.022 ' S; 69° 28.233 ' O, 898 m., 25 de
+Mayo Department, Rio Negro Province. FML 13222-36 (Paratypes). Same data that holotype. FML 13237 (Paratypes). To
+9.1 Km. to the east of Maquinchao, in the Km. 330 of the Provincial Route 23, 41° 12.776 ' S; 68° 35.844 ' O, 904 m., 25
+de Mayo Department, Rio Negro Province. FML 8328-29 Ingeniero Jacobacci. 25 de Mayo Department, Rio Negro Province, Argentina. FML 13258-61 (Paratypes). Ingeniero Jacobacci. 25 de Mayo Department, Rio Negro Province. MCN
+1226-1228 (Paratypes). 19 km., to the east of Ingeniero Jacobacci, by Provincial Route 23, 25 de Mayo Department, Rio
+Negro Province.
+Liolaemus josei: FML 15544 (Holotype). El Zampal Bridge, dunes in the Rio Grande`s bank, Malargue Department, Mendoza
+Province. FML 15545-47 (Paratypes). Same data that holotype. FML 7219-23 (Paratypes). National route 40. 35° 45 ' 04 S
+- 69° 34 ' 49 O, 2064 m., Malargue Department, Mendoza Province. MCN 1437-39 (Paratypes). El Zampal Bridge, dunes
+in the Rio Grande`s bank, Malargue Department, Mendoza Province. IBA 813 (Paratypes). Salinillas, 1200 m., Malargue
+Department, Mendoza Province. IBA 814 (Paratypes). Agua del Toro, Malargue Department, Mendoza Province. IBA 815
+(Paratypes). 15 km. to the North of Matancilla, 1200 m., Malargue Department, Mendoza Province. IBA 888. Payunia,
+1300 m., Malargue Department, Mendoza Province. IBA 773. Payunia, 1800-2000 m., Malargue Department, Mendoza
+Province. IBA 856. El Zampal Bridge, Malargue Department, Mendoza Province. IBA 899. La Batra stream, to the Southeast from Malargue, Malargue Department, Mendoza Province. IBA 722. 30 km. before Ranquil Co, Payunia, Malargue
+Department, Mendoza Province. IBA 144. El Zampal Bridge, 1700 m., Malargue Department, Mendoza Province. IBA
+
+30 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+144. El Zampal, 1700 m., Malargue Department, Mendoza Province. IBA 795. El Zampal, Rio Grande, Malargue Department, Mendoza Province. IBA 0813. Salinillas, between Agua Escondida and Agua del Toro, Southeastern Mendoza, Malargue Department, Mendoza Province. IBA 820. To 12 Km. from Ciénago, Malargue Department, Mendoza Province.
+Liolaemus koslowskyi: FML 2659 (Holotype). 9.2 km. to the east of Pituil central square, Provincial Route 11, Famatina
+Department, La Rioja Province. FML 2660 (Paratypes) Same data that Holotype. MCN 573–576. 6 km. to the east of Anillaco, 28°47 ' S; 66°52 ' O, Castro Barros Department, La Rioja Province. CSA 518–19. National route 60 between Alpasinche and El Carrizal, 28° 18 ' 44,7 S 67° 17 ' 59,2 O, Tinogasta Department, Catamarca Province.
+Liolaemus laurenti: FML 02518 (Holotype). 12 km. to the east of Pituil central square, Provincial Route 11, Famatina Department, La Rioja Province. FML 02519 (Paratypes). Same data that Holotype. FML 2524. 9.9 km. to the east of Antinaco,
+Famatina Department, La Rioja Province. FML 2092. Campo de Loma Larga, Antinaco, Famatina Department, La Rioja
+Province. FML 2525. 79.2 km. to the Southeast of Villa La Union`s Central Square, General Lavalle Department, La Rioja
+Province. FML 2526–27. 110.7 km. to the Southeast of Villa La Union's Central Square, Independencia Department, La
+Rioja Province. FML 2907. Pituil, Famatina Department, La Rioja Province. FML 2977. To 4 Km. of La Puerta River, on
+National Route 60, Tinogasta Department, Catamarca Province.
+Liolaemus lavillai: FML 6343. La Poma Ecological reserves, National Route 40, La Poma Department, Salta Province. FML
+1657. La Poma, 3015 m., La Poma Department, Salta Province.
+Liolaemus lentus: MACN 22071 (Holotype) Cochicó, Altos de Cochicó, Puelén Department, La Pampa Province. MACN
+22072–73. Same data that Holotype.
+Liolaemus lineomaculatus: FML 02118. In proximity to Leona River, 70 Km. to the east of Calafate, Lago Argentino Department, Santa Cruz Province. FML 01797. Tapi Aike farm, Lago Argentino Department, Santa Cruz Province. MCN
+1553–56. 40 km. to South of Cardiel's Lake. S 49° 11.096 '; 7l°20.746'O, Lago Argentino Department, Santa Cruz Province. MCN 879–85. In route to Portezuelo, to 12 Km. from Perito Moreno, S 46 30.402 '; O 71 00.423 ', Buenos Aires
+Lake Department, Santa Cruz Province.
+Liolaemus loboi: FML 14802 (Holotype). Intersection of national routes 237 and 231. Los Lagos Department. Neuquén Province. FML 7770, 7780-82, 7789 (Paratypes). Intersection of national routes 237 and 231. Los Lagos Department, Neuquén
+Province, Argentina. FML 13253-56 (Paratypes). Same data that previous one. FML 14796-801 (Paratypes). Same data
+that previous one. MACN 36380-403. Junín de Los Andes, Huiliches Department, Neuquén Province.
+Liolaemus mapuche: FML 11462 (Holotype), 15 Km. to the South of Paso de Los Indios, on Provincial Route 10, Zapala
+Department, Neuquén Province. FML 11463 - 72 (Paratypes). Same data that Holotype. FML 11473 - 81 (Paratypes). 3
+km. to Southwest of Ramón Castro on National Route 22. Zapala Department, Neuquén Province. FML 11482 - 87 (Paratypes). 33 km. to the Southeast of Zapala on National Route 40, Zapala Department, Neuquén Province. FML 1715017158. 4 km. before Ramón Castro, Zapala Department, Neuquén Province. FML 17005. 13 km. to the South of Paso de
+Los Indios, Zapala Department, Neuquén Province. MACN 31216-18. Huincul Square.
+Liolaemus martorii: FML 13238 (Holotype). Dunes by the sea, Las Grutas. San Antonio Oeste Department, Rio Negro Province. FML 13239-47 (Paratypes). Same data that holotype. FML 13248-51 (Paratypes). Dunes by the sea, Las Grutas. San
+Antonio Oeste Department, Rio Negro Province. FML 13252 (Paratype). La Lobería, 30 Km. to the South of Viedma,
+Adolfo Alsina Department, Rio Negro Province. FML 2968 (Paratypes). Los Loros creek, Adolfo Alsina Department, Rio
+Negro Province. MCN 1229-1231 (Paratypes). Dunes by the sea, Las Grutas. San Antonio Oeste Department, Rio Negro
+Province. MACN 34454-34464 (Paratypes). Among Las Grutas and Piedras Coloradas, San Antonio Oeste Department,
+Rio Negro Province.
+Liolaemus morenoi: FML 22206-210. 20 km. to the Southwest Zapala, National Route 40, Zapala Department, Neuquén Province. FML 17020-028. 2 km. to the North of Cerrito Piñon, Collón Cures Department, Neuquén Province.
+Liolaemus melanops: MCN 1297-306. Sierra Colorada, to 70 Km. to the North from the crossing of Provincial Routes 8 and 4.
+MCN 1312-14. 2 km., to the east of Las Plumas, Martires Department, Chubut Province, Argentina. MCN 1332-33. To 40
+Km. to the North of Trelew, by National Route 3, Viedma Department, Chubut Province. IBA 1138. Sierra Colorada,
+Telsen Department, Chubut Province. IBA 1324. Las Plumas, Chubut River, Martires Department, Chubut Province. IBA
+943. Sierra Colorada, Quele Curá, 40 Km. to the northeast of Telsen, Telsen Department, Chubut Province. FML 2867.
+Valdez Creek, Provincial Route 47, Viedma Department, Chubut Province. FML 2771. Same locality that previous one.
+Liolaemus olongasta: FML 2667 (Holotype). 51.3 km. to Villa Union's South, in Provincial Route 26, Gral. Lavalle Department, La Rioja Province. FML 2668 (Paratypes). Same data that Holotype. FML 02974. Talampaya, 50 Km. to Villa
+Union's South, Provincial Route 26, Gral. Lavalle Department, La Rioja Province.
+Liolaemus ornatus: FML 1523 Pirquitas Pirquitas, La Rinconada Department, Jujuy Province. MCN 220–22. 2 km. to the
+North of Abra Pampa, S 22°41'8I9"; O 65°43'532", 3510 m., Cochinoca Department, Jujuy Province. MCN 736–737.
+Route from Humahuaca to Chorcan, Humahuaca Department, Jujuy Province. MCN 745–47. National route 9, 4 Km. to
+the North of Humahuaca, Humahuaca Department, Jujuy Province. MCN 748–51. National route 9, 50 Km. to the North of
+Humahuaca, Humahuaca Department Jujuy Province. MCN 752–54. Abdón Castro Tolay, (Barrancas) S 23°I9'673"; O
+66°05'399", 3636 m., Cochinoca Department, Jujuy Province. MCN 773–779. 2 km. to the North of Abra Pampa, S
+22°41'819"; O 65°43'532", 3510 m.,Cochinoca Department, Jujuy Province. FML 284–86. Abra Pampa, Cochinoca
+Department, Jujuy Province FML 1513. 21 km. before Abra Pampa, Cochinoca Department, Jujuy Province
+Liolaemus pseudoanomalus: MACN 1489. Aimogasta, Arauco Department, La Rioja Province. FML 9447. Access to Señor de
+la Peña, Castro Barros Department, La Rioja Province.
+
+THREE NEW TAXA OF LIOLAEMUS (IGUANIA: LIOLAEMIDAE)
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+31
+
+Liolaemus quilmes: FML 2644 (Holotype). 3.2 km. to the South of Animaná, in National Route 40, Cafayate Department, Salta
+Province. FML 2645 (Paratypes). Same data that Holotype. . FML 1665. 3 km. to the east of Cachi, Cachi Department,
+Salta Province. FML 1668. Laguna Brealito`s west, Molino Department, Salta Province. FML 2467.Km. 98 of Provincial
+Route 307, Tafi del Valle Department, Tucuman Province. FML 2291. Tafi del Valle, Tafi del Valle Department, Tucuman
+Province. FML 1159. Santa María, Santa María Department, Catamarca Province. FML 1158. Same data that previous
+one. FML 1838. El Puesto, Santa María Department, Catamarca Province. FML 2655. 3 km. to the South of Punta de
+Balasto, Santa María Department, Catamarca Province. FML 2656. 6 km. to the Southwest of Punta de Balasto, National
+Route 40, Santa María Department, Catamarca Province.
+Liolaemus rothi: FML 1037. Somuncurá meseta, near to Miñuelo lagoon, 1400 m., 9 de Julio Department, Rio Negro Province.
+CRYCIT 2182. Somuncurá meseta, 9 de Julio Department, Rio Negro Province. CRYCIT 252. Same locality that previous one. FML 17118-22. 56 km. to the South of the crossing among Provincial Routes 6 and 8, by Provincial Route 6 in
+the way to Ingeniero Jacobacci, Cuy Department Rio Negro Province. FML 17060. 60 km. to the West of Telsen, Telsen
+Department, Chubut Province. FML 22249-51. 6 km. from South intersection among Provincial Route 6 and Provincial
+Route 67, Cuy, on Provincial Route 6, 132 Km. to ingeniero Jacobacci`s Northwest, Cuy Department, Rio Negro Province.
+FML 16926. La Rinconada slope, 9.0 Km. from La Rinconada, on Provincial Route 234, Collón Curá Department, Neuquén Province.
+Liolaemus sagei: MACN 31418. Laguna Blanca, Zapala Department, Neuquén Province. MACN 11843. Zapala, Zapala
+Department, Neuquén Province. MACN 17746. Laguna Balnca, Zapala Department, Neuquén Province. FML 16375-77,
+16378-79. 1 km. to the east from Laguna Blanca National Park`s doors Zapala Department, Neuquén Province.
+Liolaemus senguer: FML 15548 (Holotype). 26 km. to the North of Alto Rio Senguer, Río Senguer Department, Chubut Province. FML 15549-50 (Paratypes). Same data that Holotype. IBA 657 (Paratypes). Los Tamariscos, 600 m., Río Senguer
+Department, Chubut Province. IBA 628 (Paratypes). Nueva Lubecka, Tehuelches Department, Chubut Province. IBA 526
+(Paratypes). 20 km., to the North of Nueva Lubecka, Tehuelches Department, Chubut Province. FML 1603. Nueva
+Lubecka, Tehuelches Department, Chubut Province. FML 15739. 72 km. to Río Mayo's North, Río Senguer Department,
+Chubut Province. MCN 1339-40. Los Tamariscos, Río Senguer Department, Chubut Province. MACN 30844-49. Fenix
+River, Buenos Aires Lake, Lago Buenos Aires Department, Santa Cruz Province.
+Liolaemus tehuelche: FML 13205 (Holotype). Cerro Alto, on National Route 40, to 54 Km. to the Northwest of Pilcaniyeu, 40°
+44.074 ' S; 70° 34.696'O to 1014 m., Pilcaniyeu Department, Rio Negro Province. FML 13206-16 (Paratypes). Same data
+that Holotype. FML 13217-20. Same data that Holotype.
+Liolaemus telsen: FML 16266-67. 80 km. to the West of Telsen, Telsen Department, Chubut Province. FML 16935-39. Telsen
+meseta, 80 Km. to the West of Telsen, Telsen Department, Chubut Province
+Liolaemus tromen: FML 17735: on Km140 of provincial route 21, 7 km North of Huecú, El Cholar departament, Neuquén
+Province. FML 17731 – 734 and FML 17736: Same locality and date of the holotype. FML 22386-87: near Tromen volcano, Chos Malal departament, Neuquén. 37°04'56,8"S 70°06'15,5"W, 2189 m.
+Liolaemus uspallatensis: FML 1541. 33 km. to the North of Uspallata, Las Heras Department, Mendoza Province. FML 3466.
+20 km. to the North of Uspallata, Las Heras Department, Mendoza Province. FML 1773, Pampa de Yalguaraz, Las Heras
+Department, Mendoza Province.
+Liolaemus wiegmannii: FML 03594. Agua de las Palomas, River`s crossing, Andalgalá Department, Catamarca Province. FML
+916. Camino El Rodeo, Las Juntas, 1300 m., Ambato Department, Catamarca Province. FML 960. Punta del Agua, Andalgalá Department, Catamarca Province. FML 1321. Agua de las Palomas, Andalgalá Department, Catamarca Province.
+MCN 730–32. Uturunco, Medina Sierra, 20 Km. to the east of Trancas, Trancas Department, Tucumán Province. MCN
+277. Km. 81, Provincial route 102, in route to Cafayate, Cafayate Department, Salta Province.
+Liolaemus xanthoviridis: FML 21259-265: 22 Km. al noroeste de Dos Pozos por Ruta Provincial 75, Provincia de Chubut.
+Liolaemus sp. 1: FML 02124. Tres Cerros, Puerto Deseado Department, Santa Cruz Province. FML 867. 86,2 km. to the east of
+Gobernador Gregores, National Route 25, Magellanes Department, Santa Cruz Province. MACN 37678– 82. El Tranquilo,
+Santa Cruz Province. MACN 19198–218. Colonia Las Heras, Puerto Deseado Department, Santa Cruz Province. CSA
+84–92. 102 km. to the Southwest of Pico Truncado, on Provincial Route 12, Puerto Deseado Department, Santa Cruz Province. CSA 226–34. Tres Cerros, Puerto Deseado Department, Santa Cruz Province.
+Liolaemus sp. 7.: FML 22191-95. 60 km. to the West of Telsen, Telsen Department, Chubut Province. FML 22217-19. 80 km.
+to the West of Telsen, Telsen Department, Chubut Province.
+Liolaemus sp. 9.: FML 13965. 18 km. to the South of Camarones, Florentino Ameghino Department, Chubut Province. FML
+23301-08. Playa a 3 km al sur de Camarones, Bahía Camarones, Florentino Ameghino Department, Chubut Province.
+FML 13052. Bahía Camarones, Lola Beach, Florentino Ameghino Department, Chubut Province
+
+32 · Zootaxa 3163 © 2012 Magnolia Press
+
+ABDALA ET AL.
+
+

@@ -1,0 +1,606 @@
+Zootaxa 3163: 54–68 (2012)
+www.mapress.com / zootaxa/
+Copyright © 2012 · Magnolia Press
+
+ISSN 1175-5326 (print edition)
+
+Article
+
+ZOOTAXA
+ISSN 1175-5334 (online edition)
+
+A new species of Ansonia (Anura: Bufonidae) from northern
+Tanintharyi Division, Myanmar
+JEFFERY A. WILKINSON1,3, ANNA B. SELLAS2 & JENS V. VINDUM3
+1
+
+H. T. Harvey & Associates, 983 University Avenue, Building D, Los Gatos, California 95032. E-mail: jwilkinson@harveyecology.com
+Center for Comparative Genomics, California Academy of Sciences, 55 Concourse Drive, Golden Gate Park, San Francisco,
+California 94118
+3
+Department of Herpetology, California Academy of Sciences, 55 Concourse Drive, Golden Gate Park, San Francisco, California
+94118
+2
+
+Abstract
+A new species of Ansonia is described from northern Tanintharyi Division, Myanmar. The new species is the first record
+of Ansonia from Myanmar. It is phylogenetically most closely related to A. kraensis at the Isthmus of Kra, Thailand, but
+can be distinguished from A. kraensis and all other species of Ansonia from Thailand and the Malay Peninsula by a combination of several morphological characters and dorsal and ventral color patterns.
+Key words: Ansonia thinthinae, A. kraensis, stream toad, molecular phylogenetic analysis
+
+Introduction
+As part of an ongoing survey of the reptiles and amphibians of Myanmar, members of the Nature and Wildlife Conservation Division (NWCD) of the Myanmar Forest Department, National Museum of Natural History, Smithsonian Institution (USNM), and California Academy of Sciences (CAS) surveyed the Tanintharyi Nature Reserve
+(TNR) in March 2008 and again in September and October 2009. The TNR is an approximately 1,700 km2 reserve
+ca. 70 km north of Dawei in the Tanintharyi Division of Myanmar. The TNR includes part of the Thein Ze Kalein
+Aung forest (857 km2) and Lu Wine forest (843 km2). The area is predominantly semi-evergreen dipterocarpacean
+rain forest (Thein 2009), and was established as a sanctuary for the Asian elephant and possibly the tiger (Lynam et
+al. 2006).
+Approximately 22 species of amphibians and 41 species of reptiles were found during the two surveys, including several unidentified species of frogs. Amongst these, a species of Ansonia Stoliczka was determined to be new
+and is the first record of Ansonia in Myanmar.
+
+Material and methods
+Specimens were collected by hand, euthanized, tissue samples removed, and then fixed in 10% buffered formalin
+before preserving in 70% ethanol. The tissue samples were stored in 95% ethanol. Latitude and longitude of specimen localities were recorded with a Garmin 12 GPS, datum WGS84. Specimens are housed in the Department of
+Herpetology, CAS and the Division of Amphibians and Reptiles, USNM. Additional specimens, although not used
+in this paper, are housed in the Myanmar Biodiversity Museum. The preserved specimens were examined, sexed
+(using body size and presence or absence of vocal sacs, nuptial pads, and eggs), and measured. Comparisons were
+made with available specimens (see material examined; museum acronyms follow Sabaj Pérez [2010]) and published descriptions of currently recognized (Frost 2011) and phylogenetically closely related (Matsui et al. 2010) or
+geographically proximate species of Ansonia from Thailand and the Malay Peninsula (Inger 1960; Kiew 1985;
+Matsui et al. 1998, 2005; Grismer 2006a,b; Wood et al. 2008; Quah et al. 2011).
+
+54 Accepted by M. Vences: 17 Nov. 2011; published: 17 Jan. 2012
+
+Measurements (Table 1) on adult specimens were taken using digital calipers to the nearest 0.1 mm as follows:
+snout-vent length (SVL, from tip of snout to vent); head length (HL, from tip of snout to hind border of angle of
+jaw); snout length (SL, from anterior border of eye to tip of snout); distance from nostril to eye (DNE, from center
+of nostril to anterior border of eye); head width (HW, width of head at its widest point); snout width (SW, width of
+snout at anterior corner of eyes); internarial distance (IND, distance between center of nares); interorbital distance
+(IOD, minimum distance between upper eyelids); eye diameter (ED, horizontal diameter of eye); upper eyelid
+width (UEW, greatest transverse width of eyelid); tympanum diameter (TD; horizontal diameter of tympanum);
+tympanum to eye distance (T-ED, from anterior edge of tympanum to posterior edge of eye); forelimb length (FLL,
+from elbow to tip of third finger); hand length (HAL, from proximal edge of palmar tubercle to tip of third finger);
+first finger length (1FL, from distal end of thenar tubercle to tip of first finger); thigh length (THL, from vent to
+knee); tibia length (TIL, from knee to ankle); foot length (FL, from proximal end of outer metatarsal tubercle to tip
+of fourth toe); first toe length (1TL, from distal end of inner metatarsal tubercle to tip of first toe); and inner metatarsal tubercle length (IMTL, greatest length of tubercle).
+TABLE 1. Measurements of the type series of Ansonia thinthinae. Mean (in mm) followed by standard deviation and range (in
+parenthesis). See text for abbreviations.
+Male (N = 23)
+
+Female (N = 1)
+
+SVL
+
+25.0 ± 1.4 (22.1–28.1)
+
+31.8
+
+HL
+
+7.3 ± 0.4 (6.7–7.9)
+
+8.6
+
+HW
+
+7.4 ± 0.3 (6.9–8.1)
+
+8.4
+
+SW
+
+3.8 ± 0.2 (3.4–4.2)
+
+4.2
+
+SL
+
+3.2 ± 0.2 (2.9–3.6)
+
+3.7
+
+DNE
+
+1.9 ± 0.1 (1.6–2.1)
+
+2.2
+
+IND
+
+2.4 ± 0.1 (2.0–2.6)
+
+2.8
+
+IOD
+
+2.9 ± 0.1 (2.5–3.2)
+
+3.3
+
+ED
+
+2.7 ± 0.2 (2.3–3.1)
+
+2.9
+
+UEW
+
+2.1 ± 0.2 (1.6–2.4)
+
+2.3
+
+VTD
+
+1.5 ± 0.2 (1.1–1.8)
+
+1.8
+
+HTD
+
+1.2 ± 0.2 (0.9–1.5)
+
+1.4
+
+T-ED
+
+0.5 ± 0.1 (0.3–0.6)
+
+0.8
+
+FLL
+
+13.3 ± 0.7 (11.8–14.2)
+
+16.8
+
+HAL
+
+7.0 ± 0.4 (6.1–7.7)
+
+8.3
+
+1FL
+
+1.7 ± 0.2 (1.5–2.2)
+
+2.0
+
+THL
+
+12.2 ± 0.8 (10.8–13.6)
+
+14.9
+
+TIL
+
+12.1 ± 0.6 (11.0–13.4)
+
+14.8
+
+FL
+
+10.0 ± 0.6 (8.7–11.0)
+
+12.2
+
+1TL
+
+1.7 ± 0.2 (1.5–2.0)
+
+2.1
+
+IMTL
+
+1.2 ± 0.2 (0.9–1.6)
+
+1.8
+
+OMTL
+
+0.7 ± 0.1 (0.5–0.9)
+
+1.3
+
+Measurements on tadpole specimen CAS 244137 were taken following Inger (1985) and Rao et al. (2006)
+using a binocular dissecting microscope with a micrometer as follows: total length, head-body length (tip of snout
+to insertion of tail), head-body depth, maximum head-body width, diameter of eyeball, interorbital distance, eye to
+tip of snout, internarial distance, width of oral disc, tail length, maximum tail depth, tail muscular depth, forelimb
+length, hand length, thigh length, tibia length, and foot length. Staging followed Gosner (1960), oral apparatus terminology followed Altig and McDiarmid (1999), and labial tooth row formula followed Altig et al. (1998).
+Genomic DNA was extracted from approximately 25mg of tissue from four adult male specimens (CAS
+243857, 243873, 243947, 244216), one adult female specimen (CAS 243871), and one tadpole specimen (CAS
+
+NEW SPECIES OF ANSONIA FROM MYANMAR
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+55
+
+244136) using the Qiagen DNeasy tissue kit (Qiagen, Valencia, California) as per the manufacturer’s instructions.
+DNA quality was then checked by running 5ul of the extraction out on a 1% agarose gel.
+A 2685bp fragment of the mitochondrial 12S and 16S rRNA genes was amplified from the extracted genomic
+DNA via PCR using primers ThrLm (Matsui et al. 2010) and Hedges16H1 (Hedges & Maxson 1993). Amplification reactions (25 µl) contained 50 ng DNA, 1 X PCR buffer (20 mM Tris-HCl, 50 mM KCl), 1.5 mM MgCl2, 0.4
+µM each primer, 200 µM each dNTP, and 1.25 U of Taq. The thermal cycler profile consisted of initial denaturation
+at 94°C for 2 min, followed by 35 cycles of 94°C for 30 s, 55°C for 30 s, and 72ºC for 1.5 min, with a final extension at 72°C for 10 min. PCR products were then visualized on a 1% agarose gel and purified using ExoSAP-IT
+(USB, Cleveland, Ohio) as per the manufacturer’s instructions. Cycle-sequencing was then carried out using the
+original, external primers as well as six other internal primers: 12S-3H, 12SL1091, 12StVal-H (Matsui et al. 2010),
+12SL2021, 16SH2715 (Tominaga et al. 2006), and 16S1M (Fu 2000). Cycle sequence reactions were then purified
+using a standard ethanol precipitation protocol and run on an ABI 3130xl Genetic Analyzer.
+The sequences were inserted into a data matrix of already aligned sequences of species of Ansonia from Matsui et al. (2010) and inspected by eye to maximize positional homology. The six new sequences were deposited in
+GenBank (JN664246–JN664251).
+Uncorrected pairwise genetic distances (p-distance) were computed in PAUP* 4.0b10 (Swofford 2002) to estimate how genetically divergent these specimens are from one another and from currently known species of Ansonia. A maximum parsimony (MP) analysis using PAUP* 4.0b10 and a Bayesian analysis using MrBayes version
+3.1.2 (Huelsenbeck & Ronquist 2001; Ronquist & Huelsenbeck 2003) were performed on this data matrix of 36
+sequences of 22 species of Ansonia, five of the six sequences of specimens from Myanmar (two sequences from
+CAS 243873 and CAS 243947 were identical so only the sequence from CAS 243873 was used), and one outgroup
+species, Pedostibes hosii (Boulenger) (Matsui et al. 2010). Each nucleotide was treated as an unordered character
+with four alternative states, and gaps were considered missing data in all analyses.
+In the MP analysis, data were treated with equal weight (Kjer 1995; Allard & Carpenter 1996; Cibois et al.
+1999). We performed 100 heuristic searches with the starting trees obtained by random stepwise addition, followed
+by tree-bisection-reconnection (TBR) branch-swapping. We also performed a nonparametric bootstrap analysis
+(Felsenstein 1985) with 1000 replicates, each executed as a heuristic search as above, to evaluate support for relationships, as implemented in PAUP* 4.0b10.
+In the Bayesian analysis, the general-time-reversal model of base substitution (Nei & Kumar 2000) was
+selected based on the results of Matsui et al. (2010). For the tree-partition analysis, the Monte Carlo Markov
+Chains were simulated for 50,000,000 generations and sampled every 1000 generations. Four chains were run and
+10,000 initial trees were discarded (burn-in).
+
+Results
+The Bayesian and MP analyses resulted in similar trees that were also similar to the tree presented in Matsui et al.
+(2010). The Bayesian tree is presented in Figure 1. In both trees, a clade of species from Thailand and the specimens from Myanmar is strongly supported by both Bayesian (1.00 PP) and MP (86%) analyses. Within this clade,
+the specimens from Myanmar form a strongly supported clade (1.00 PP, 100%) that is most closely related with
+strong support (1.00 PP, 86%) to a clade of specimens representing A. kraensis Matsui, Khonsue, and Nabhitabhata. Ansonia inthanon Matsu, Nabhitabhata, and Panha, Ansonia sp. 1, and Ansonia sp. 2 were outside of this
+clade with weaker support.
+The p-distance between the specimens from Myanmar and A. kraensis is 5%, and between the specimens from
+Myanmar and Ansonia sp. 1 is 6.5%, even though Ansonia sp. 1 is geographically the closest species to the specimens from Myanmar, possibly as close as eight km to the east in Thailand, on the opposite side of the Bilauktaung
+Mountain Range, whereas, A. kraensis is over 500 km to the south at the Isthmus of Kra. These p-distances are
+within the range (2.1%–13.2%) between different species of Ansonia by Matsui et al. (2010), and similar to p-distances between the species pairs A. jeetsukumarani Wood, Grismer, Ahmed, and Senawi / A. malayana Inger
+(5.5%), A. torrentis Dring / A. latiffi Wood, Grismer, Ahmad, and Senawi (5.6%), A. torrentis / A. leptopus
+(Günther) (5.7%), and A. muelleri (Boulenger) / A. mcgregori (Taylor) (4.5%), and greater than p-distances
+between the species pairs A. torrentis / A. longidigita Inger (2.5%), and A. latiffi / A. leptopus (2.1%).
+
+56 · Zootaxa 3163 © 2012 Magnolia Press
+
+WILKINSON ET AL.
+
+The results of the phylogenetic and morphological analyses clearly places the specimens from Myanmar as
+members of the genus Ansonia but these specimens cannot be assigned to any described species and are described
+herein as new.
+
+FIGURE 1. Bayesian phylogram (50% majority rule) obtained from a combined analysis of 12S and 16S genes from species of
+Ansonia and Pedostibes from Matsui et al. (2010) and new species from Myanmar (voucher specimen number and collection
+locality are in parentheses following species name). Asterisks at nodes indicate significant ( 0.95) posterior probabilities for
+those nodes.
+
+≥
+
+NEW SPECIES OF ANSONIA FROM MYANMAR
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+57
+
+Species description
+Ansonia thinthinae sp. nov.
+Thin Thin’s Stream Toad
+Holotype. CAS 243857 (Figures 2 and 3), an adult male, collected from a stream at 14° 41' 4.6" N, 98° 19' 59.3" E,
+Tanintharyi Nature Reserve, Yebyu Township, Dawei District, Tanintharyi Division, Myanmar, ca. 409 m, on 21
+March 2009 by K. S. Lwin, Y. M. Win, Z. H. Aung, and J. V. Vindum.
+Paratypes. CAS 243858–243861, 243869, USNM 558323, 558324, seven adult males, collected at same
+locality as holotype; CAS 243868, an adult male, collected from a stream at 14° 41' 11.7" N, 98° 20' 15.3" E, Tanintharyi Nature Reserve, Yebyu Township, Dawei District, Tanintharyi Division, Myanmar, 441 m, on 21 March
+2009 by K. S. Lwin, Y. M. Win, Z. H. Aung, and J. V. Vindum; CAS 243871–243873, USNM 558325, three adult
+males and one adult female, collected from a stream at 14° 41' 12.6" N, 98° 20' 7.9" E, Tanintharyi Nature Reserve,
+Yebyu Township, Dawei District, Tanintharyi Division, Myanmar, ca. 436 m, on 21 March 2009 by K. S. Lwin, Y.
+M. Win, Z. H. Aung, and J. V. Vindum; CAS 243943–243947, USNM 558326–558329, nine adult males, collected
+from a stream at 14° 41' 12.6" N, 98° 20' 7.9" E, Tanintharyi Nature Reserve, Yebyu Township, Dawei District,
+Tanintharyi Division, Myanmar, ca. 436 m, on 26 March 2009 by S. L. Oo, Z. H. Aung, M. Hlaing, and J. V. Vindum; CAS 244216, an adult male, collected from the Me Kyauklonegyi Stream at 14° 41' 35.8" N, 98° 17' 24.9" E,
+Tanintharyi Nature Reserve, Yebyu Township, Dawei District, Tanintharyi Division, Myanmar, ca. 161 m, on 13
+October 2009 by M. Hlaing, Z. H. Aung, S. L. Oo, K. S. Lwin, Y. M. Win, J. V. Vindum, and J. A. Wilkinson; CAS
+244136, 244137, two tadpoles collected from the Me Kyauklonegyi Stream at 14° 41' 35.1" N, 98° 17' 32.6" E,
+Tanintharyi Nature Reserve, Yebyu Township, Dawei District, Tanintharyi Division, Myanmar, ca. 155 m, on 13
+October 2009 by M. Hlaing, Z. H. Aung, S. L. Oo, K. S. Lwin, Y. M. Win, J. V. Vindum, and J. A. Wilkinson; CAS
+244217, an adult male, collected from a stream at 14° 41' 08.7" N, 98° 20' 12.3" E, Tanintharyi Nature Reserve,
+Yebyu Township, Dawei District, Tanintharyi Division, Myanmar, ca. 434 m, on 22 October 2009 by M. Hlaing, Z.
+H. Aung, S. L. Oo, K. S. Lwin, Y. M. Win, J. V. Vindum, and J. A. Wilkinson.
+Diagnosis. Ansonia thinthinae is considered a member of the genus Ansonia based on small body size, presence of slender limbs, weak subarticular tubercles, and membranous foot webbing, but absence of parotoid glands
+in adults, and presence of cup-like ventral oral disc, wide areas peripheral to tooth rows for both lips, expanded
+post-dental portion of lower lip with continuous papillae along margin, upper jaw sheath divided into two separate,
+keratinized parts, markedly flattened body, and eyes set relatively back on body in larvae (Inger 1960, 1992). Ansonia thinthinae can be distinguished from other congeners that are geographically (Thailand and Malay Peninsula)
+or phylogenetically (clade A1 of Matsui et al. [2010]) close by a combination of the following characters: male
+SVL of 22.1–29.0 mm, female SVL of 31.8 mm; head wider than long in males; light patch below eye; several yellow tubercles at corner of jaw; one vocal slit; spotting on gular region; dorsum tuberculated; first finger much
+shorter than second; first and second fingers with nuptial pads in males; finger tips rounded without forming disks;
+webbing reaching disks on third and fifth toes; iris yellow in life; dorsum brown with yellow interscapular spot;
+venter with yellow spotting fusing into larger patterning on brown background.
+Description of holotype. Snout-vent length 25.6 mm; head slightly wider than body, and slightly wider (7.6
+mm) than long (7.5 mm); snout (3.2 mm) longer than eye (2.8 mm), wide (4.2 mm; SW/SVL 16%), square (SW/
+HW 55%), constricted in front of eyes, dorsally concave, sloping anteroventrally between eyes and nostrils, truncate, projecting beyond lower jaw, sloping posteroventrally to mandibular symphysis when viewed laterally, with
+slight midline point in dorsal profile that appears as distinct vertical ridge on anterior margin when viewed from
+front; canthus rostralis distinct, slightly curved; lores straight, vertical; nostrils closer to tip of snout than eyes
+(DNE 1.9 mm; DNE/SL 59%), at level of symphysis of lower jaw, directed laterally, oval, angled anterodorsally;
+internarial distance (2.6 mm) narrower than interorbital distance (3.2 mm), latter wider than upper eyelid (2.2 mm);
+cranial crests absent; parotids absent; margin of eyelid with row of small tubercles making it appear sharp; tympanum distinct, oval, taller (1.6 mm) than wide (1.3 mm), horizontal diameter 46% of horizontal diameter of eye, separated from eye by 38% of tympanum diameter (0.5 mm).
+Longitudinal vocal slit on left side of mouth into median subgular vocal sac; vomerine ridge absent; choanae
+slightly oval, interior to lingual shelf when viewed from below; tongue narrow, ending in median point; posterior
+free.
+
+⅔
+
+58 · Zootaxa 3163 © 2012 Magnolia Press
+
+WILKINSON ET AL.
+
+FIGURE 2. Dorsal (A) and ventral (B) views of the holotype of Ansonia thinthinae (CAS 243857).
+
+NEW SPECIES OF ANSONIA FROM MYANMAR
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+59
+
+FIGURE 3. Lateral view of the head (A), palmar view of the left hand (B), and planter view of the left foot (C) of the holotype
+of Ansonia thinthinae (CAS 243857).
+
+60 · Zootaxa 3163 © 2012 Magnolia Press
+
+WILKINSON ET AL.
+
+FIGURE 4. Photograph in life of (A) the holotype (CAS 243857) and (B) a paratype (CAS 244216) of Ansonia thinthinae.
+
+NEW SPECIES OF ANSONIA FROM MYANMAR
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+61
+
+FIGURE 5. Dorsal (A), lateral (B), and mouth (C) views of the tadpole of Ansonia thinthinae (CAS 244137).
+
+62 · Zootaxa 3163 © 2012 Magnolia Press
+
+WILKINSON ET AL.
+
+Forelimbs long (13.8 mm) and slender; hand length (7.2 mm) more than half of forelimb length; fingers long,
+slender, webbing reaching base of most proximal subarticular tubercle of each finger, slight fringes from distal subarticular tubercles to tips; tips rounded, not forming disks wider than phalanges; relative finger length 1<2<4<3,
+first finger (2.0 mm) much shorter than second, reaching just beyond subarticular tubercle of second when
+adpressed; broad round palmar tubercle; very small, oval thenar tubercle; subarticular tubercles weak, subarticular
+tubercle formula I 1, II 1, III 2, IV 1; nuptial pad of coarse dark asperities broadly distributed on medial to medial
+dorsal surface of first finger from base of finger to proximal end of distal phalange and restricted to base and lower
+half of dorsal ridge of second finger.
+Thigh (12.6 mm) slightly longer than tibia (12.0 mm), heels barely touching when flexed limbs are held at right
+angles to body; tibiotarsal articulation of adpressed limb reaching anterior corner of eye; foot (9.7 mm) much
+shorter than tibia; toes long and slender, tips round, slightly swollen into small disks; toes with weak subarticular
+tubercles, subarticular tubercle formula I 1 II 1 III 2 IV 3 V 2; first toe 1.7 mm in length; fifth toe slightly longer
+than third; toes strongly webbed, webbing forming broad sheet, continuing as slight fringe to base of disk on fourth
+toe; webbing formula: I ½–1 II ½–2 III ½–3- IV 2¾–½ V following Myers and Duellman (1982) as modified by
+Savage and Heyer (1997); inner metatarsal tubercle flat and oval (length 1.1 mm); outer metatarsal tubercle round,
+prominent, smaller in diameter (0.7 mm) than inner; no tarsal fold.
+Ridges absent on forehead, interorbital, or parietal region; large tubercle anterior to tuberculated eyelid; single
+row of dark brown asperities along upper lip from tip of snout to mid-eye (left side) or posterior of eye (right side)
+where they are raised and surrounding area becomes light cream color (light patch below eye); another line of
+asperities along anterior edge of tympanum; group of four tubercles on left side and five on right side, ending in
+keratinized darker spinules, from posterior of jaw to anterior to insertion of forelimb; underside of mandible with
+single row of dark brown conical keratinized tubercles along edge becoming slightly scattered anteriorly at chin
+and posteriorly at corners of jaw; dorsum very tuberculate with mixture of large and small conical tubercles, some
+terminating in darker keratinized spinules, larger ones with more than one spinule; concentration of larger tubercles
+above tympanum and in scapular region forming loose dorsolateral rows posterior to scapular region extending to
+insertion of hindlimb; side of body granular but not tuberculate; abdominal area coarsely granulate, with evenly
+spaced keratinized pointed tubercles, becoming much more finely granular on pectoral and gular region; dorsal and
+lateral surfaces of limbs with scattering of small conical tubercles, most of which terminating in keratinized points,
+ventral side of limbs with fewer tubercles.
+Coloration in preservative. Dorsum dark brown, with light yellow diamond shaped interscapular spot; light
+cream-colored flecking on medial edges of eyelids, around edges of eyes, and on lores; light cream-colored patch
+below eye; vertical narrow light cream-colored line from symphysis of lower jaw to tip of snout; group of tubercles
+on side of head below and posterior to tympanum to anterior of insertion of arm light cream-colored; limbs brown
+dorsally with narrow, indistinct light yellow crossbars; skin above joints of phalanges lighter (Figure 2A); yellow
+spots along edge of underside of mandible; gular region brown with cream-colored spotting extending to chest;
+abdominal region with large yellow spots, some fused into elongate patterns, on brown background, becoming
+cream-colored on ventral aspect of thigh; anterior and posterior of thighs and flanks with yellow spotting on brown
+(Figure 2B).
+Coloration in life (based on digital image). Patterning is same as in preservative, light cream-color and yellow
+on dorsum is bright yellow. Iris dull yellow with dark brown thin reticulations, concentrated along horizontal midline across pupil to appear as dark brown bar (Figure 4A).
+Variation. Male paratypes closely resemble holotype, with snout-vent length ranging from 22.1 mm to 28.1
+mm; and with varying degrees of keratinized asperities on mandibles. Vocal slit on left side of mouth as with holotype in 13 male paratypes (CAS 243858–243860, 243869, 243873, 243947, 243952, 243953, USNM 558324,
+558325, 558327–558328) while on right side of mouth in 10 male paratypes (CAS 243861, 243868, 243872,
+243943–243946, USNM 558323, 558326, 558329); light crossbars on limbs orange in life (Figure 4B) in some
+individuals (CAS 244216, 244217), other individuals (CAS 243868, 243869) with white patterning on brown venter in preservative. Nuptial spines present on first and second finger of all male paratypes. The single female (CAS
+243871) larger than males (31.8 mm), with narrower and shorter head in relation to snout-vent length; single row of
+asperities on mandible less developed and lacking brown caps of keratin.
+Tadpole. Description based on CAS 244137 at Gosner (1960) stage 42. Total length 24.0 mm, head-body
+length 10.0 mm, head-body depth 3.9 mm, maximum head-body width 4.5 mm, diameter of eyeball 1.1 mm, interorbital distance 1.4 mm, eye to tip of snout 2.6 mm, internarial distance 1.5 mm, width of oral disc 4.3 mm, tail
+
+NEW SPECIES OF ANSONIA FROM MYANMAR
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+63
+
+length 14.0 mm, maximum tail depth 2.4 mm, tail muscular depth 2.4 mm, forelimb length 4.1 mm; hand length 2.4
+mm, thigh length 3.8 mm, tibia length 3.3 mm, foot length 2.6 mm. Body broadly oval in dorsal view, maximum
+width posterior to eyes (Figure 5A); dorso-ventrally depressed (Figure 5B); snout broadly rounded in dorsal view;
+eyes dorsal, oriented laterally; nares closer to eyes than to tip of snout, directed antero-laterally. Oral disc ventral,
+96% of head-body width, not emarginate, both labia expanded; anterior labium separated from tip of snout by
+groove; marginal papillae in a single row across posterior labium but only on lateral corners of anterior labium,
+submarginal papillae not observed; black, serrated jaw sheaths, upper divided with gap 145% length of single
+sheath; lower divided with gap 50% length of single sheath; labial tooth row formula 2/3, anterior rows longer than
+posterior rows, well separated from jaw sheaths (Figure 5C); tail musculature tapering posteriorly to pointed tail
+tip; tail deepest midway; dorsal and ventral fins approximately equal in depth.
+Tadpole color in preservative: Dorsum of body brown due to densely scattered brown chromatophores; venter transparent with very few chromatophores medially, and more chromatophores laterally; muscular tail same
+color as body, few chromatophores on more transparent dorsal and ventral fins, becoming more concentrated along
+edges; dorsal aspect of fore and hind limbs with white transverse barring.
+Etymology. The specific epithet is given in honor of the late Daw [Ms.] Thin Thin, who was a dedicated member of the Myanmar Herpetological Survey Team and contributed greatly to the understanding of the diversity and
+natural history of amphibians and reptiles in Myanmar.
+Comparisons. Ansonia thinthinae can be distinguished from other species of Ansonia from Thailand and the
+Malay Peninsula that are not geographically or phylogenetically close as follows: from A. malayana by larger body
+size in both male (mean SVL 25.0 mm in A. thinthinae, mean SVL 22.1 mm in A. malayana) and female (SVL 31.8
+mm in single specimen of A. thinthinae, SVL less than 30.0 mm in A. malayana), several small yellow tubercles at
+corner of jaw (single yellow tubercle at corner of jaw in A. malayana), two fingers with nuptial pads in males (only
+first finger with nuptial pad in males of A. malayana), venter with large yellow spots and patterning on brown
+background (small yellow spots on dusky background in A. malayana), and no interrupted arc anterior to sacrum
+(interrupted light dorso-lateral arc in A. malayana); from A. penangensis Stoliczka by smaller female body size
+(female SVL 37.2 mm in A. penangensis), tarsal ridge absent (present in some individuals of A. penangensis), first
+finger much smaller than second (first finger up to but not reaching base of disk of second finger when adpressed in
+A. penangensis), 0.5 phalange free of webbing on fifth toe (1.5 phalanges free in A. penangensis), yellow iris (red
+iris in A. penangensis), and venter with large yellow spotting some fusing to elongate patterning on brown background (venter with small white spotting on grey background in A. penangensis); from A. jeetsukumarani by larger
+body size in both male (SVL up to 20 mm in A. jeetsukumarani) and female (SVL less than 25.4 mm in A. jeetsukumarani), two fingers with nuptial pads in males (only first finger with nuptial pad in A. jeetsukumarani), 0.5 phalange free of webbing on fifth toe (1.5–2.0 phalanges free in A. jeetsukumarani), several yellow tubercles at corner
+of jaw (one or two white tubercles at corner of jaw in A. jeetsukumarani), and yellow iris (reddish/orange in A. jeetsukumarani); from A. latiffi by smaller body size in both male (SVL range 34.1–38.2 mm in A. latiffi) and female
+(SVL range 50.5–50.7 in A. latiffi), first finger much shorter than second (first finger reaching tip of second in A.
+latiffi), two fingers with nuptial pads in males (occasionally on two fingers in A. latiffi), no tarsal ridge (present in
+A. latiffi), yellow iris (reddish-gold in A. latiffi), and light patch below eye (absent in A. latiffi); from A. latirostra
+Grismer by several yellow tubercles at corner of jaw (one to three large yellow tubercles present at corner of jaw in
+A. latirostra), no interorbital tubercular ridges (present in A. latirostra), no rictal gland (large rictal gland in A. latirostra), two fingers with nuptial pads in males (nuptial pad only on first finger in A. latirostra), 0.5 phalange free
+of webbing on fifth toe (1.0–2.0 phalanges free in A. latirostra), light spot between scapulae always present (absent
+in some individuals of A. latirostra), and venter with large yellow spotting on brown background (venter with
+widely spaced, small light spotting on raised bumps on darker grey background in A. latirostra); from A. endauensis Grismer by larger body size in both male (SVL to 17.4 mm in A. endauensis) and female (SVL to 28.5 mm in A.
+endauensis), two fingers with nuptial pads in males (nuptial pads absent in A. endauensis), 0.5 phalange free of
+webbing on fifth toe (2.0 phalanges free in A. endauensis), yellow iris (red iris in A. endauensis), one vocal slit on
+left or right side of mouth (two vocal slits on both sides of mouth in A. endauensis), spotting on gular region (spotting on gular region absent in A. endauensis), interscapular spot present (absent or present in A. endauensis), and
+venter with large yellow spotting on brown background (venter grey with no patterning in A. endauensis); from A.
+tiomanica Hendrickson by smaller body size in both male (SVL 31.2 mm in A. tiomanica) and female (SVL 38.4
+mm in A. tiomanica), two fingers with nuptial pads in males (only first finger with nuptial pad in A. tiomanica), 0.5
+phalange free of webbing on fifth toe (2.0 phalanges free in A. tiomanica), yellow spotting on lower jaw (absent in
+A. tiomanica), light patch below eye (absent in A. tiomanica), and light spot between scapulae (absent in A. tioman-
+
+64 · Zootaxa 3163 © 2012 Magnolia Press
+
+WILKINSON ET AL.
+
+ica); and from A. leptopus by smaller body size in both male (SVL 30–40 mm in A. leptopus) and female (SVL 45–
+65 mm in A. leptopus), first finger much smaller than second (first finger reaching disk of second in A. leptopus),
+two fingers with nuptial pads in males (only first finger with nuptial pad in A. leptopus), interscapular spot present
+(absent in A. leptopus), and 0.5 phalange free of webbing on fifth toe (2.0–2.5 phalanges free in A. leptopus).
+
+FIGURE 6. Type locality of Ansonia thinthinae sp. nov. (indicated by star) in Tanintharyi Division, Myanmar.
+
+NEW SPECIES OF ANSONIA FROM MYANMAR
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+65
+
+Ansonia thinthinae is phylogenetically and geographically close to A. kraensis, A. inthanon, and A. siamensis
+Kiew. These three species are known from neighboring Thailand both north (A. inthanon) and south (A. kraensis,
+A. siamensis) of the type locality of A. thinthinae. Ansonia thinthinae also shares two molecular synapomorphies
+with these three species (bases C and T at loci 72 and 312, respectively; database available at http://dx.doi.org/
+10.5061/dryad.mj0rs0dt). Ansonia thinthinae can be distinguished from A. inthanon by a larger female body size
+(female SVL 23.3–25.2 in A. inthanon), two fingers with nuptial pads in males (only first finger with nuptial pad in
+A. inthanon), light patch below eye (absent in A. inthanon), and venter with large yellow spotting some fusing to
+elongate patterning on brown background (venter with small yellow spots on brown background in A. inthanon);
+and from A. siamensis by smaller female body size (female SVL 35 mm in A. siamensis), tips of fingers not
+expanded into disks (tips of fingers expanded into disks in A. siamensis), two fingers with nuptial pads in males
+(first finger with nuptial pad in A. siamensis), presence of dorsal tubercles (dorsal tubercles much reduced or absent
+in A. siamensis), and absence of greenish-yellow irregular markings on dorsum (present in A. siamensis).
+Ansonia thinthinae is morphologically very similar to its phylogenetic sister species, A. kraensis. In addition, it
+shares two unique molecular synapomorphies with A. kraensis (bases T and A at loci 1220 and 2132, respectively).
+However, it can be distinguished from A. kraensis by a larger body size in both male (mean SVL 21.3 mm in A.
+kraensis) and female (mean SVL 25.3 mm in A. kraensis), head wider than long in males (longer than wide in
+males of A. kraensis), two fingers with nuptial pads in males (one or two fingers with nuptial pads in A. kraensis),
+dorsum brown with no pattern except for interscapular spot (dorsum brown with darker Y shaped pattern beginning
+at rear of eyes, merging before interscapular spot, surrounding spot, then, as inverse Y, diverging onto sides of
+sacrum in A. kraensis), and venter with yellow spotting on brown background (silvery white mottling with brown
+in A. kraensis). Additionally, six molecular characters are not only absent from specimens of A. kraensis but are
+unique to all specimens of A. thinthinae among all species of Ansonia in the molecular phylogenetic analysis (bases
+T, T, C, G, T, and T at loci 99, 130, 305, 1155, 1379, and 1380, respectively). Reciprocally, specimens of A. kraensis contain six molecular characters that are not only absent in A. thinthinae but are unique to A. kraensis among all
+species of Ansonia in the molecular phylogenetic analysis (bases T, C, C, A, G, and C at loci 392, 1617, 1744, 1755,
+2089, and 2366, respectively).
+Distribution and natural history. Ansonia thinthinae is only known from the stream of the type locality and
+approximately 4.7 km to the west along Me Kyauklonegyi Stream (Figure 6), but is expected in other streams that
+flow westward from the Bilauktaung Mountain Range. Adult specimens were collected between 10:00 and 14:00 h
+under stones along the edge of a second-order stream approximately 3 m wide at an altitude of 400–450 m and at
+24:00 h among stones at the edge of the approximately 10 m wide and 0.6 m deep Me Kyauklonegyi Stream at an
+altitude of 158 m. The tadpoles were collected from the upper surface of a boulder midstream of the Me Kyauklonegyi Stream where they were attached by their oral discs. The boulder was submerged under a sheet of approximately 3 mm of flowing water.
+
+Discussion
+Ansonia thinthinae, with a male body size of 22–29 mm and a female body size of 31 mm, seems to follow a trend
+of phylogenetically related, small-sized species of Ansonia from the Malay Peninsula and Thailand (most species
+of clade A1 of Matsui et al. [2010]). What is surprising is the phylogenetically closer relationship of A. thinthinae
+with A. kraensis than with Ansonia sp. 1 of Matsui et al. (2010), even though Ansonia sp. 1 was found just on the
+eastern side of the Bilauktaung Mountain Range that separates Thailand from Myanmar. This result indicates that
+the mountain range may be a barrier to dispersal even though it is only approximately 770 to 1000 m high nearest
+the type locality, and that A. thinthinae may be closely tied to the Dawei (Tavoy) River watershed west of this
+mountain range. This also conforms to the observations of limited ranges in other species of this genus on the
+Malay Peninsula (Wood et al. 2008; Matsui et al. 2010). Additional surveys to both the north and south of the
+localities on both the western and eastern sides of the Bilauktaung mountains will help to better delimit the range of
+A. thinthinae and determine if the range extends into other watersheds, such as the Tenasserim River watershed to
+the south, and if it intersects with neighboring species, such as A. kraensis, A. inthanon, and Ansonia sp. 1, or if
+there are intervening populations that may be species yet unknown to science.
+
+66 · Zootaxa 3163 © 2012 Magnolia Press
+
+WILKINSON ET AL.
+
+Material examined
+Ansonia endauensis, ZRC 1.11557–58 [Paratypes], Malaysia; A. jeetsukumarani, ZRC 1.12415–16, Malaysia; A.
+kraensis, CAS 73718, ZRC 1.8454–55, 1.8457–58, Thailand; A. latiffi, FMNH 173326 [Paratype], ZRC 1.12419
+[Paratype], Malaysia; A. latirostra, ZRC 1.11560–63 [Paratypes], Malaysia; A. malayana, CAS-SU 3238, Malaysia; A. mcgregori, CAS 61839 [Holotype], 61845–51 [Paratypes], 89808–09, Philippine Islands; A. muelleri, CAS
+89810–11; Philippine Islands; A. siamensis, FMNH 216106–08, Thailand; A. thinthinae, see holotype and paratypes.
+
+Acknowledgement
+We thank M. Hlaing, Z. H. Aung, S. L. Oo, K. S. Lwin and Y. M. Win for their tireless work in the field as members of the Myanmar Herpetological Survey Team. We thank U Tin Tun (former Director of the Nature and Conservation Division of the Forest Department, Ministry of Forestry), U Thiri Tin (former Director of TNR Project), and
+U Nay Myo Shwe for allowing us to survey the Tanintharyi Nature Reserve and issuing export permits for the specimens. We also thank A. Resetar of the Field Museum of Natural History and L. K. Peng of the Raffles Museum of
+Biodiversity Research for loans of specimens from their collections, and P. L. Wood for examining specimens from
+our collection and providing taxonomic expertise. We thank L. A. Scheinberg for producing the digital photographs
+of Figures 2 and 3 and S. Moturi for the map in Figure 6. Finally, we thank two anonymous reviewers for their
+valuable comments on previous versions of the manuscript. This work was supported by a National Science Foundation Grant (DEB-0103795) and the Harry Hagey Venture Research Fund (CAS).
+
+References
+Allard, M.W. & Carpenter, J.M. (1996) On weighting and congruence. Cladistics, 12, 183–198.
+Altig, R., McDiarmid, R.W., Nichols, K.A., & Ustach, P.C. (1998) A key to the anuran tadpoles of the United States and Canada. Contemporary Herpetology Information Series, 2. Available from http://contemporaryherpetology.org/chis/1998/
+CHIS_1998.htm (accessed 17 August 2011).
+Altig, R. & McDiarmid, R.W. (1999) Body plan: development and morphology. In: McDiarmid, R.W. & Altig, R. (Eds.), Tadpoles: the Biology of Anuran Larvae. University of Chicago Press, Chicago and London, pp. 24–51.
+Cibois, A., Pasquet, E. & Schulenberg, T.S. (1999) Molecular systematics of the Malagasy babblers (Passeriformes: Timaliidae) and warblers (Passeriformes: Sylviidae), based on cytochrome b and 16S rRNA sequences. Molecular Phylogenetics
+and Evolution, 13, 581–595.
+Felsenstein, J. (1985) Confidence limits on phylogenies: an approach using the bootstrap. Evolution, 39, 783–791.
+Frost, D.R. (2011) Amphibian Species of the World: an online reference. Version 5.5. American Museum of Natural History,
+New York, USA. Available from http://research.amnh.org/vz/herpetology/amphibia/ (accessed 17 August 2011).
+Fu, J. (2000) Toward the phylogeny of family Lacertidae: why 4708 base pairs of mtDNA sequences cannot draw the picture.
+Biological Journal of the Linnean Society, 71, 203–217.
+Gosner, K.L. (1960) A simplified table for staging anuran embryos and larvae with notes on identification. Herpetologica, 16,
+183–190.
+Grismer, L.L. (2006a) A new species of Ansonia Stoliczka 1870 (Anura: Bufonidae) from a lowland rainforest in southern Peninsular Malaysia. Herpetologica, 62, 466–475.
+Grismer, L.L. (2006b) A new species of Ansonia Stoliczka 1872 (Anura: Bufonidae) from central Peninsular Malaysia and a
+revised taxonomy for Ansonia from Malay Peninsula. Zootaxa, 1327, 1–21.
+Hedges, S.B. & Maxson, L.R. (1993) A molecular perspective on lissamphibian phylogeny. Herpetological Monograph, 7, 27–42.
+Huelsenbeck, J.P. & Ronquist, F. (2001) MRBAYES: Bayesian inference of phylogeny. Bioinformatics, 17, 754–755.
+Inger, R.F. (1960) A review of the Oriental toads of the genus Ansonia Stoliczka. Fieldiana Zoology, 39, 473–503.
+Inger, R.F. (1985) Tadpoles of the forested regions of Borneo. Fieldiana: Zoology New Series, 26, 1–89.
+Inger, R.F. (1992) Variation of apomorphic characters in stream-dwelling tadpoles of the bufonid genus Ansonia (Amphibia:
+Anura). Zoological Journal of the Linnean Society, 105, 225–237.
+Kiew, B.H. (1985) A new species of toad, Ansonia siamensis (Bufonidae), from the Isthmus of Kra, Thailand. Natural History
+Bulletin of the Siam Society, 32, 111–115.
+Kjer, K.M. (1995) Use of rRNA secondary structure in phylogenetic studies to identify homologous positions: an example of
+alignment and data presentation from the frogs. Molecular Phylogenetics and Evolution, 4, 314–330.
+Lynam, A.J., Khaing, S.T. & Zaw, K.M. (2006) Developing a national tiger action plan for the Union of Myanmar. Environ-
+
+NEW SPECIES OF ANSONIA FROM MYANMAR
+
+Zootaxa 3163 © 2012 Magnolia Press ·
+
+67
+
+mental Management, 37, 30–39.
+Matsui, M., Khonsue, W. & Nabhitabhata, J. (2005) A new Ansonia from the Isthmus of Kra, Thailand (Amphibia, Anura,
+Bufonidae). Zoological Science, 22, 809–814.
+Matsui, M., Nabhitabhata, J. & Panha, S. (1998) A new Ansonia from northern Thailand (Anura: Bufonidae). Herpetologica,
+54, 448–454.
+Matsui, M., Tominaga, A., Liu, W., Khonsue, W., Grismer, L.L., Diesmos, A.C., Das, I., Sudin, A., Yambun, P., Yong, H.,
+Sukumaran, J., & Brown, R.M. (2010) Phylogenetic relationships of Ansonia from Southeast Asia inferred from mitochondrial DNA sequences: systematic and biogeographic implications (Anura: Bufonidae). Molecular Phylogenetics and Evolution, 54, 561–570.
+Myers, C.W. & Duellman, W.E. (1982) A new species of Hyla from Cerro Colorado, and other tree frog records and geographical notes from western Panama. American Museum Novitates, 2752, 1–32.
+Nei, M. & Kumar, S. (2000) Molecular Evolution and Phylogenetics. Oxford University Press, New York, New York, 333 pp.
+Quah, E., Grismer, L.L., Muin, M.A., & Anuar, S. (2011) Re-discovery and re-description of Ansonia penangensis Stoliczka,
+1870 (Anura: Bufonidae) from Penang Island, Malaysia. Zootaxa, 2807, 57–64.
+Rao, D.-Q., Wilkinson, J.A., & Liu, H.-N. (2006) A new species of Rhacophorus (Anura: Rhacophoridae) from Guangxi Province, China. Zootaxa, 1258, 17–31.
+Ronquist, F. & Huelsenbeck, J.P. (2003) MRBAYES 3: Bayesian phylogenetic inference under mixed models. Bioinformatics,
+19, 1572–1574.
+Sabaj Pérez, M.H. (2010) Standard symbolic codes for institutional resource collections in herpetology and ichthyology: an
+Online Reference. Verson 1.5. American Society of Ichthyologists and Herpetologists, Washington, D.C. Available from
+http://www.asih.org/ (accessed 24 November 2010).
+Savage, J.M. & Heyer, W.R. (1997) Digital webbing formulae for anurans: a refinement. Herpetological Review, 28, 131.
+Swofford, D.L. (2002) PAUP*. Phylogenetic Analysis Using Parsimony (*and Other Methods), Version 4. Sinauer Associates,
+Sunderland.
+Thein, H.M. (2009) Floristic diversity and structure of the rain forest in Tanintharyi Nature Reserve (TNR) of Myanmar. Proceedings of the International Workshop on New paradigm for Human Beings and Nature: Frontier of Asian Area Studies;
+JENESYS Programme, JSPS, ASAFAS, Global COE Programme, CSEAS, Kyoto University, Kyoto, Japan, 2009. Available from http://www.humanosphere.cseas.kyoto-u.ac.jp/filemgmt/viewcat.php?cid=43 (accessed 16 August 2011)
+Tominaga, A., Matsui, M., Nishikawa, K. & Tanabe, S. (2006) Phylogenetic relationships of Hynobius naevius (Amphibia:
+Caudata) as revealed by mitochondrial 12S and 16S rRNA genes. Molecular Phylogenetics and Evolution, 38, 677–684.
+Wood, P.L., Jr., Grismer, L.L., Ahmad, N. & Senawi, J. (2008) Two new species of torrent-dwelling toads Ansonia Stoliczka,
+1870 (Anura: Bufonidae) from Peninsular Malaysia. Herpetologica, 64, 321–340.
+
+68 · Zootaxa 3163 © 2012 Magnolia Press
+
+WILKINSON ET AL.
+
+
